@@ -1,0 +1,34 @@
+name: LightGBM 학습 (미장)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  train:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install pandas numpy lightgbm scikit-learn
+
+      - name: 학습
+        run: python lgbm_train.py
+
+      - name: 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add model_lgbm_us.txt feat_cols_lgbm_us.pkl lgbm_oos_us.csv
+          git diff --staged --quiet || git commit -m "LightGBM 모델 업데이트 $(date +'%Y-%m-%d')"
+          git push
