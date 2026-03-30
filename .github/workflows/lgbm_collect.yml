@@ -30,6 +30,8 @@ jobs:
           restore-keys: ohlcv-
 
       - name: 피처 수집
+        env:
+          EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
         run: python lgbm_collect.py
 
       - name: 커밋 & 푸시
