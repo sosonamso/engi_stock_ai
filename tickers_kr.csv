@@ -1,0 +1,2597 @@
+﻿ticker,name,market,exchange,sector,industry,market_cap,cap
+000020,Dongwha Pharm.Co.Ltd,KOSPI,KO,기타,,0,SmallCap
+000040,KR Motors Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+000050,Kyungbangco.Ltd,KOSPI,KO,기타,,0,SmallCap
+000070,Samyang Holdings,KOSPI,KO,기타,,0,SmallCap
+000080,Hite Jinro,KOSPI,KO,기타,,0,SmallCap
+000087,HiteJinro Co Ltd,KOSPI,KO,기타,,0,SmallCap
+000100,Yuhan Corp.,KOSPI,KO,기타,,0,SmallCap
+000105,Yuhan Corp Preferred,KOSPI,KO,기타,,0,SmallCap
+000120,CJ Korea Express,KOSPI,KO,기타,,0,SmallCap
+000140,Hitejinro Holdings,KOSPI,KO,기타,,0,SmallCap
+000145,HiteJinro Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+000150,Doosan,KOSPI,KO,기타,,0,SmallCap
+000155,Doosan Pref Shs,KOSPI,KO,기타,,0,SmallCap
+000157,Doosan Co Ltd,KOSPI,KO,기타,,0,SmallCap
+000180,Sungchang Hold,KOSPI,KO,기타,,0,SmallCap
+000210,DL Holdings CO. LTD.,KOSPI,KO,기타,,0,SmallCap
+000215,DL Holdings Co Ltd Preferred,KOSPI,KO,기타,,0,SmallCap
+000220,Yuyu Pharma Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+000225,Yuyu Pharma Inc. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+000227,Yuyu Pharma Inc. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+000230,Il Dong Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000240,Hankook Tire Worldwide,KOSPI,KO,기타,,0,SmallCap
+000270,Kia Corp,KOSPI,KO,기타,,0,SmallCap
+000320,NOROO Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000325,NOROO Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+000370,Hanwha General,KOSPI,KO,기타,,0,SmallCap
+000390,Samhwa Paint Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000400,Lotte Non-Life Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000430,Daewonkangup,KOSPI,KO,기타,,0,SmallCap
+000480,Chosun Refractories Co Ltd,KOSPI,KO,기타,,0,SmallCap
+000490,Daedong Ind,KOSPI,KO,기타,,0,SmallCap
+000500,Gaon Cable Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000520,Samil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000540,Heungkuk Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000545,Heungkuk Fire & Marine Insurance Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+000590,Cs Holdings,KOSPI,KO,기타,,0,SmallCap
+000640,Dong-A Socio Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000650,Chunil Express,KOSPI,KO,기타,,0,SmallCap
+000660,SK Hynix Inc,KOSPI,KO,기타,,0,SmallCap
+000670,YoungPoong,KOSPI,KO,기타,,0,SmallCap
+000680,LS Networks Corp. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000700,EUSU Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000720,Hyundai Engineering & Construction Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000725,Hyundai Engineering & Construction Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+000760,Rifa Ind,KOSPI,KO,기타,,0,SmallCap
+000810,Samsung Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000815,Samsung Fire & Marine Insurance Co. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+000850,Hwacheon Machine Tool Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000860,Kangnam Jevisco Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000880,Hanwha Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+00088K,Hanwha Corp Preferred,KOSPI,KO,기타,,0,SmallCap
+000890,Bohae Brewery,KOSPI,KO,기타,,0,SmallCap
+000910,Union Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+000950,Chonbang,KOSPI,KO,기타,,0,SmallCap
+000970,Korea Cast Iron Pipe Industry Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+000990,Dongbu HiTek Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001020,PaperCorea Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+001040,CJ Corp,KOSPI,KO,기타,,0,SmallCap
+001045,Cj Corp Pref ,KOSPI,KO,기타,,0,SmallCap
+00104K,CJ Corp 4P Pref ,KOSPI,KO,기타,,0,SmallCap
+001060,JW Pharmaceutical Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001065,JW Pharmaceutical Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+001067,JW Pharmaceutical Corp. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+001070,Taihan Textile Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001080,Manho Rope&Wir,KOSPI,KO,기타,,0,SmallCap
+001120,LG International Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001130,Daehan Flour Mills Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001200,Eugene Investment & Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001210,Kumho Electric Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+001230,Dongkuk Steel Mill Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001250,GS Global Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001260,Namkwang Engineering & Construction Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001270,Bookook Sec,KOSPI,KO,기타,,0,SmallCap
+001275,Bookook Securities Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001290,Golden Bridge Investment & Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001340,Paik Kwang Ind,KOSPI,KO,기타,,0,SmallCap
+001360,Samsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001380,SG Choongbang Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001390,Kg Chemical,KOSPI,KO,기타,,0,SmallCap
+001420,Tae Won Mulsan Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001430,SeAH Besteel Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001440,Taihan Electric Wire Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001450,Hyundai Marine & Fire Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001460,BYC Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+001465,BYC Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001500,Hyundai Motor Securities Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+001510,Sk Securities,KOSPI,KO,기타,,0,SmallCap
+001515,SK Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+001520,Tongyang Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+001525,Tongyang Inc. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+001527,Tongyang Inc. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+001530,Dong-Il Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001550,Cho Bi,KOSPI,KO,기타,,0,SmallCap
+001560,Cheil Grinding,KOSPI,KO,기타,,0,SmallCap
+001620,Dongkook Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001630,Chongkundang,KOSPI,KO,기타,,0,SmallCap
+001680,Daesang Corp,KOSPI,KO,기타,,0,SmallCap
+001685,Daesang Corp Preference Shares,KOSPI,KO,기타,,0,SmallCap
+001720,Shinyoung Securities Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+001740,SK Networks Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001750,Hanyang Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001755,Hanyang Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+001770,Shin Hwa Silup Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001780,Aluko Co Ltd,KOSPI,KO,기타,,0,SmallCap
+001790,TS Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001795,TS Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+001800,Orion Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+001820,Samwha Capacitor Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+001940,Kisco Holdings,KOSPI,KO,기타,,0,SmallCap
+002020,Kolon Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002025,Kolon Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+002030,Asia Cement,KOSPI,KO,기타,,0,SmallCap
+002070,Namyeung Vivien Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002100,Kyung Nong Corporation,KOSPI,KO,기타,,0,SmallCap
+002140,Korea Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002150,Dohwa Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002170,Samyang Tongsang Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002200,Korea Export Packaging Industry Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002220,Hanil Iron & Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002240,Kis Wire,KOSPI,KO,기타,,0,SmallCap
+002310,Asia Paper,KOSPI,KO,기타,,0,SmallCap
+002320,Hanjin Transportation Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+002350,Nexen Tire Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002355,Nexen Tire Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+002360,SH Energy & Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002380,KCC Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002390,Handok Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+002450,Samick Musical Instruments Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002460,Hwasung Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002600,Choheung,KOSPI,KO,기타,,0,SmallCap
+002620,Jeil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002630,ORIENTBIO Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+002690,Dong Il Steel Mfg. Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002700,Shinil Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002710,TCC Steel Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002720,Kukje Pharma Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002760,Bo Lak,KOSPI,KO,기타,,0,SmallCap
+002780,Chin Hung Int',KOSPI,KO,기타,,0,SmallCap
+002785,Chinhung International Inc,KOSPI,KO,기타,,0,SmallCap
+002787,Chinhung International Inc. Pfd. Series 2,KOSPI,KO,기타,,0,SmallCap
+002790,Amore Group,KOSPI,KO,기타,,0,SmallCap
+002795,Amorepacific Group,KOSPI,KO,기타,,0,SmallCap
+00279K,AMOREPACIFIC Group,KOSPI,KO,기타,,0,SmallCap
+002810,Samyung Trading Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002820,Sunchang Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+002840,Miwon Commercial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002870,Shin Poong Paper Manufacturing Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002880,Dayou Automotive Seat Technology Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002900,Tong Yang Moolsan Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002920,Yoosung Enterprise Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002960,Hankook Shell Oil Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002990,Kumho Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+002995,Kumho Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003000,Bukwang Pharm,KOSPI,KO,기타,,0,SmallCap
+003010,Hae In Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+003030,SeAH Steel Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+003060,Schnell Biopharmaceuticals Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+003070,Kolon Global Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+003075,Kolon Global Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003080,Sung Bo Chemicals Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003090,Daewoong Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003120,Ilsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003160,DI Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+003200,Ilshin Spinning Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003220,Daewon Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003230,Sam Yang Foods,KOSPI,KO,기타,,0,SmallCap
+003240,Taekwang Ind,KOSPI,KO,기타,,0,SmallCap
+003280,Heung-A Shipping Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+003300,Hanil Cement Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003350,Hankook Cosmetics Manufacturing Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003460,Yuhwa Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003465,Yuhwa Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003470,Yuanta Securities Korea Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003475,Yuanta Securities Korea Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003480,Hanjin Heavy Industries & Construction Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003490,Korean Air Lines Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003495,Korean Air Lines Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003520,Yungjin Pharm. Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003530,Hanwha Investments & Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003535,Hanwha Investments & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003540,Daishin Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003545,Daishin Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003547,Daishin Securities Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+003550,LG Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+003555,LG Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003570,SNT Dynamics Co Ltd,KOSPI,KO,기타,,0,SmallCap
+003580,HLB Global Co Ltd,KOSPI,KO,기타,,0,SmallCap
+003610,Pangrim Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003620,SsangYong Motor Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003650,Mi Chang Oil,KOSPI,KO,기타,,0,SmallCap
+003670,Posco Chemical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+003680,Hansung Enterprise Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003690,Korean Reinsurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003720,Sam Young Chem,KOSPI,KO,기타,,0,SmallCap
+003780,Chin Yang Ind,KOSPI,KO,기타,,0,SmallCap
+003830,Daehan Synthet,KOSPI,KO,기타,,0,SmallCap
+003850,Boryung Pharm,KOSPI,KO,기타,,0,SmallCap
+003920,Namyang Dairy Products Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+003925,Namyang Dairy Products Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+003960,Sajodaerim Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+004000,Lotte Fine Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004020,Hyundai Steel Co.,KOSDAQ,KQ,기타,,0,SmallCap
+004060,SG Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+004080,Shinhung Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004090,Korea Petroleum Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004100,Taeyang Metal Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004105,Taeyang Metal Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004140,Dongbang Transport Logistics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004150,Hansol Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004170,Shinsegae Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004250,NPC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004255,NPC Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004270,Namsung Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+004310,Hyundai Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004360,Sebang,KOSPI,KO,기타,,0,SmallCap
+004365,Sebang Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004370,Nongshim Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004410,Seoul Food Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004415,Seoul Food Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004430,Songwon Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004440,Samil C&S Co Ltd,KOSPI,KO,기타,,0,SmallCap
+004450,Samhwa Crown & Closure Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004490,Sebang Global Battery Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004540,Kleannara,KOSPI,KO,기타,,0,SmallCap
+004545,Kleannara Co Ltd,KOSPI,KO,기타,,0,SmallCap
+004560,Hyundai BNG Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004690,Samchully Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004700,Cho Kwang Leat,KOSPI,KO,기타,,0,SmallCap
+004710,Hansol Technics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004720,PharmGen Science Inc,KOSPI,KO,기타,,0,SmallCap
+004770,Sunny Electronics Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+004800,Hyosung Corp,KOSPI,KO,기타,,0,SmallCap
+004830,Duksung Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004835,Ducksung Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004840,DRB Holding Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004870,TWay Holdings,KOSPI,KO,기타,,0,SmallCap
+004890,Dongil Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004910,Cho Kwang Pain,KOSPI,KO,기타,,0,SmallCap
+004920,CItech Co Ltd,KOSPI,KO,기타,,0,SmallCap
+004960,Hanshin Construction Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004970,Silla Co.Ltd,KOSPI,KO,기타,,0,SmallCap
+004980,SungShin Cement Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+004985,SungShin Cement Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+004990,Lotte Confectionery Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+00499K,LOTTE Corporation,KOSPI,KO,기타,,0,SmallCap
+005010,Husteel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005070,Cosmoam&T,KOSPI,KO,기타,,0,SmallCap
+005090,Samkwang Glass Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005180,Binggrae,KOSPI,KO,기타,,0,SmallCap
+005250,Green Cross Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005257,Green Cross Holdings Corp. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+005300,Lotte Chilsung Beverage Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005305,Lotte Chilsung Beverage Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+005320,Kukdong Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005360,Monami Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005380,Hyundai Motor Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+005385,Hyundai Motor Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+005387,Hyundai Motor Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+005389,Hyundai Motor Co. Ltd. Pfd. Series 3,KOSDAQ,KQ,기타,,0,SmallCap
+005420,Cosmo Chem,KOSPI,KO,기타,,0,SmallCap
+005430,Korea Airport Service Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005440,Hyundai Greenfood Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005490,POSCO,KOSDAQ,KQ,기타,,0,SmallCap
+005500,Samjin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005610,Samlip General Foods Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005680,Samyoung Electronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005690,Pharmicell Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005720,Nexen Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005725,Nexen Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+005740,Crown Confec,KOSPI,KO,기타,,0,SmallCap
+005745,CrownHaitai Holdings Co Ltd Preference Shares,KOSPI,KO,기타,,0,SmallCap
+005750,Daelim B&Co,KOSPI,KO,기타,,0,SmallCap
+005800,Shinyoung Waco,KOSPI,KO,기타,,0,SmallCap
+005810,Poongsan Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005820,Wonlim Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005830,Dongbu Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005850,SL Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005870,Huneed Tech,KOSPI,KO,기타,,0,SmallCap
+005880,Korea Line Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+005930,Samsung Electronics Co Ltd,KOSPI,KO,기타,,0,SmallCap
+005935,Samsung Electronics Co Pref,KOSPI,KO,기타,,0,SmallCap
+005940,NH Investment & Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005945,NH Investment & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+005950,ISU Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+005960,Dongbu,KOSPI,KO,기타,,0,SmallCap
+005965,Dongbu Corp,KOSPI,KO,기타,,0,SmallCap
+006040,Dongwon Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006060,Hwaseung Industries Co Ltd,KOSPI,KO,기타,,0,SmallCap
+006090,Oyang Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+006110,Sam-A Aluminium Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006120,SK Discovery Co Ltd,KOSPI,KO,기타,,0,SmallCap
+006125,SK Discovery Co Ltd,KOSPI,KO,기타,,0,SmallCap
+006200,KEC Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006220,Jeju Bank,KOSDAQ,KQ,기타,,0,SmallCap
+006260,LS Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+006280,Green Cross Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+006340,Daewon Cable,KOSPI,KO,기타,,0,SmallCap
+006345,Daewon Cable Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+006360,GS Engineering & Construction Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+006370,Daegu Dept Sto,KOSPI,KO,기타,,0,SmallCap
+006400,Samsung SDI,KOSPI,KO,기타,,0,SmallCap
+006405,Samsung SDI Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+006490,Inscobee Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+006570,Daelim Trading,KOSPI,KO,기타,,0,SmallCap
+006620,DongKoo Bio&Pharma Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006650,Korea Petrochemical Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006660,Samsung Climate Control Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006740,Young Poong Paper Manufacturing Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006800,Mirae Asset Daewoo Securities Co Ltd,KOSPI,KO,기타,,0,SmallCap
+006805,Mirae Asset Daewoo Co Ltd,KOSPI,KO,기타,,0,SmallCap
+00680K,Mirae Asset Daewoo Co Ltd Pref,KOSPI,KO,기타,,0,SmallCap
+006840,Ak Holdings,KOSPI,KO,기타,,0,SmallCap
+006880,Singsongholdin,KOSPI,KO,기타,,0,SmallCap
+006890,Tae Kyung Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+006980,Woosung Feed,KOSPI,KO,기타,,0,SmallCap
+007070,GS Retail Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007110,Ilshinstone Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007120,Mirae ING Co Ltd,KOSPI,KO,기타,,0,SmallCap
+007160,Sajo Ind,KOSPI,KO,기타,,0,SmallCap
+007210,Byuksan Corp,KOSPI,KO,기타,,0,SmallCap
+007280,Korea Steel Co Ltd,KOSPI,KO,기타,,0,SmallCap
+007310,Ottogi Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+007340,Dong Ah Tire & Rubber Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007460,NARA KIC Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+007540,Sempio Co.,KOSDAQ,KQ,기타,,0,SmallCap
+007590,Dongbang Agro Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+007660,Isupetasys Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007680,Daewon Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007690,Kukdo Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007700,F&F Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007810,Korea Circuit Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+007815,Korea Circuit Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+00781K,Korea Circuit Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,기타,,0,SmallCap
+007860,Seoyon Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+007980,Pan-Pacific Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008040,Sajodongaone Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008060,Daeduck Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+00806K,Daeduck Co.Ltd,KOSPI,KO,기타,,0,SmallCap
+008250,Eagon Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008260,NI Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008350,Namsun Aluminium Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008355,Namsun Aluminium Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+008420,Moonbae Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008490,Suheung Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008500,Iljeong Ind,KOSPI,KO,기타,,0,SmallCap
+008600,Willbes & Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008700,Anam Electroni,KOSPI,KO,기타,,0,SmallCap
+008730,Youl Chon Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008770,Hotel Shilla,KOSPI,KO,기타,,0,SmallCap
+008775,Hotel Shilla Co Ltd,KOSPI,KO,기타,,0,SmallCap
+008870,Kumbi Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+008930,Hanmi Science Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+008970,Dongyang Steel Pipe Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009070,KCTC,KOSDAQ,KQ,기타,,0,SmallCap
+009140,KyungIn Electronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009150,Samsung Electro-Mechanics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009155,Samsung Electro-Mechanics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+009160,Simpac,KOSPI,KO,기타,,0,SmallCap
+009180,Hansol Logistics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009190,Daiyang Metal Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009200,Moorim Paper Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009240,Hanssem Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009270,Shinwon Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+009290,Kwang Dong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009310,Charm Engine,KOSPI,KO,기타,,0,SmallCap
+009320,Daewoo Electronic Components Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009420,Hanall Biopharma,KOSPI,KO,기타,,0,SmallCap
+009450,Kyung Dong Navien Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009460,Han Chang Paper Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009470,Sam Hwa Electric Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009540,Hyundai Heavy Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009580,Moorim P&P Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009680,Motonic Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+009730,Kossen Co Ltd,KOSPI,KO,기타,,0,SmallCap
+009770,Samjung Pulp Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009810,KP Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+009830,Hanwha Chemical Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+009835,Hanwha Chemical Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+009900,Myoung Shin Industrial Co Ltd,KOSPI,KO,기타,,0,SmallCap
+009970,Youngone Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010040,Korea Refractories Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010060,OCI Co Ltd,KOSPI,KO,기타,,0,SmallCap
+010100,Korea Flange Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010120,LSIS Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010130,Korea Zinc Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010140,Samsung Heavy Industries,KOSPI,KO,기타,,0,SmallCap
+010400,Woojin I&S Co Ltd,KOSPI,KO,기타,,0,SmallCap
+010640,Chinyang Poly,KOSPI,KO,기타,,0,SmallCap
+010660,Hwacheon Machinery Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010690,Hwashin Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010770,Pyung Hwa Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010780,IS Dongseo Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010820,Firstec Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+010950,S-Oil Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+010955,S-Oil Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+010960,Samho Development Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011000,GeneOneLifeScience Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+011070,LG Innotek Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011090,Enex Co.Ltd,KOSPI,KO,기타,,0,SmallCap
+011150,Cj Seafood,KOSPI,KO,기타,,0,SmallCap
+011155,CJ Seafood Corp. Pfd. Series 1,KOSPI,KO,기타,,0,SmallCap
+011170,Lotte Chemical Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+011200,HMM Co Ltd,KOSPI,KO,기타,,0,SmallCap
+011210,Hyundai Wia Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+011230,Samwha Electronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011280,Tailim Packaging Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011300,SEONGAN CO. Ltd,KOSPI,KO,기타,,0,SmallCap
+011330,Uni Chem Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011390,Busan Ind,KOSPI,KO,기타,,0,SmallCap
+011420,Galaxia SM Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+011500,Hannong Chemicals Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+011700,Hanshin Machinery Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011760,Hyundai Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+011780,Kumho Petro Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011785,Kumho Petro Chemical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+011790,SKC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+011930,Shinsung Solar Energy Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+012030,Dongbu Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+012160,Young Heung Iron & Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+012170,Ascendio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+012200,Keyang Elec Ma,KOSPI,KO,기타,,0,SmallCap
+012205,Keyang Electric Machinery Co Ltd,KOSPI,KO,기타,,0,SmallCap
+012210,012210,KOSPI,KO,기타,,0,SmallCap
+012280,Yeong Hwa Meta,KOSPI,KO,기타,,0,SmallCap
+012320,Kyung Dong City Gas Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+012330,"Hyundai Mobis Co.,Ltd",KOSPI,KO,기타,,0,SmallCap
+012450,Hanwha Techwin Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+012510,Douzone Bizon Co Ltd,KOSPI,KO,기타,,0,SmallCap
+012610,Kyung-In Synthetic Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+012630,Hyundai Development Co. Engineering & Construction,KOSDAQ,KQ,기타,,0,SmallCap
+012690,Monalisa,KOSPI,KO,기타,,0,SmallCap
+0126Z0,SAMSUNG EPISHOLDINGS CO LTD,KOSPI,KO,기타,,0,SmallCap
+012750,S-1 Corp,KOSPI,KO,기타,,0,SmallCap
+012800,Dae Chang,KOSPI,KO,기타,,0,SmallCap
+013360,Il Sung Const,KOSPI,KO,기타,,0,SmallCap
+013520,Hwaseung Corporation Co Ltd,KOSPI,KO,기타,,0,SmallCap
+013570,DY Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+013580,Kyeryong Construction Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+013700,Camus Engineering & Construction Inc,KOSPI,KO,기타,,0,SmallCap
+013870,GMB Korea Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+013890,Zinus Inc,KOSPI,KO,기타,,0,SmallCap
+014130,Han Express,KOSPI,KO,기타,,0,SmallCap
+014160,Dae Young Pkg,KOSPI,KO,기타,,0,SmallCap
+014280,Kum Kang Kind Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014285,Kum Kang Kind Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+014440,Youngbo Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014530,Kukdong Oil & Chemicals Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014580,Taekyung BK Co Ltd,KOSPI,KO,기타,,0,SmallCap
+014680,Hansol Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014710,Sajo Seafood,KOSPI,KO,기타,,0,SmallCap
+014790,Halla Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+014820,Dongwon Systems Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+014825,Dongwon Systems Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+014830,Unid Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014910,SungMoon Electronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+014915,SungMoon Electronics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+014990,In the F Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+015020,E-Starco,KOSPI,KO,기타,,0,SmallCap
+015230,Daechang Forgi,KOSPI,KO,기타,,0,SmallCap
+015260,Automobile &Pc,KOSPI,KO,기타,,0,SmallCap
+015360,Yesco Holdings Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+015760,Korea Electric Power Corp,KOSPI,KO,기타,,0,SmallCap
+015860,Iljin Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+015890,Tae Kyung Ind,KOSPI,KO,기타,,0,SmallCap
+016090,Dae Hyun,KOSPI,KO,기타,,0,SmallCap
+016360,Samsung Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016380,Dongbu Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016450,Hansae Yes24 Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016580,Whanin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016590,Shindaeyang Paper Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016610,Dongbu Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016710,Daesung Holdin,KOSPI,KO,기타,,0,SmallCap
+016740,Dual Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+016800,Fursys Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+016880,Woongjin Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017040,Kwang Myung Electric Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017180,Myungmoon Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017370,Wooshin System,KOSPI,KO,기타,,0,SmallCap
+017390,Seoul City Gas Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017550,Soosan Heavy Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017670,SK Telecom Co Ltd,KOSPI,KO,기타,,0,SmallCap
+017800,Hyundai Elevator Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017810,Pulmuone Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+017860,"DS DANSUK CO., LTD.",KOSPI,KO,기타,,0,SmallCap
+017900,Auk Corp,KOSPI,KO,기타,,0,SmallCap
+017940,E1 Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+017960,Hankuk Carbon Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+018250,Aekyung Industrial Co Ltd,KOSPI,KO,기타,,0,SmallCap
+018260,Samsung SDS Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+018470,Choil Aluminum,KOSPI,KO,기타,,0,SmallCap
+018500,Dongwon Metal Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+018670,Sk Gas,KOSPI,KO,기타,,0,SmallCap
+018880,Hanon Systems,KOSDAQ,KQ,기타,,0,SmallCap
+019170,Shin Poong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+019175,Shin Poong Pharmaceutical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+019180,THN Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+019490,Hitron Systems,KOSPI,KO,기타,,0,SmallCap
+019680,Daekyo,KOSPI,KO,기타,,0,SmallCap
+019685,Daekyo Co Ltd,KOSPI,KO,기타,,0,SmallCap
+020000,Handsome Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+020120,Daouincube Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+020150,Iljin Materials Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+020560,Asiana Airline,KOSPI,KO,기타,,0,SmallCap
+021050,Seowon Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+021240,COWAY Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+022100,POSCO ICT Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+023000,Samwon Steel,KOSPI,KO,기타,,0,SmallCap
+023150,Mhethanol Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+023350,Korea Engineering Consultants Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+023440,Jeil Steel Mfg Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023450,Dongnam Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+023530,Lotte Shopping Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+023590,Daou Technology Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+023800,INZI Controls Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+023810,INFAC Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+023960,SC Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+024070,Wiscom Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+024090,DCM Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+024110,Industrial Bank Of Korea,KOSPI,KO,기타,,0,SmallCap
+024720,Korea Kolmar Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+024890,Daewon Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+024900,Duck Yang Industry Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025000,KPX Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025530,Sjm Holdings,KOSPI,KO,기타,,0,SmallCap
+025540,Korea Electric Terminal Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025560,Mirae Corporation,KOSPI,KO,기타,,0,SmallCap
+025620,Jayjun Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025750,Hansol Homedeco Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025820,Lee Ku Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+025860,Namhae Chemical Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+025890,Hankook Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+026890,Digital Power Communications Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+026940,Bookook Steel,KOSPI,KO,기타,,0,SmallCap
+026960,Dongsuh Cos. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+027360,Aju IB Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+027410,BGF Retail Co Ltd,KOSPI,KO,기타,,0,SmallCap
+027740,Maniker,KOSPI,KO,기타,,0,SmallCap
+027970,Seha Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+028050,Samsung Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+028100,Dong-Ah Geological Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+028260,Samsung C&T Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+02826K,Samsung C&T Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+028670,Pan Ocean Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+029460,KC Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+029530,Sindoh,KOSPI,KO,기타,,0,SmallCap
+029780,Samsung Card Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+030000,Cheil Worldwide,KOSPI,KO,기타,,0,SmallCap
+030190,NICE Information Service Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+030200,KT Corporation,KOSPI,KO,기타,,0,SmallCap
+030210,KTB Investment & Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+030610,Kyobo Securities Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+030720,Dong Won Fisheries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+031210,SEOUL GUARANTEE INSURANCE,KOSPI,KO,기타,,0,SmallCap
+031430,Shinsegae International Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+031440,Shinsegae Food Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+031820,Comtec Sys,KOSPI,KO,기타,,0,SmallCap
+032300,Korea Pharmacy Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+032350,Lotte Tour Development Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+032560,Hwangkum Steel & Technology Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+032640,LG Uplus,KOSPI,KO,기타,,0,SmallCap
+032830,Samsung Life Insurance Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+033240,Jahwa Electronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+033250,Chasys,KOSPI,KO,기타,,0,SmallCap
+033270,Korea United Pharm. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+033530,Sejong Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+033780,KT&G Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+033920,Muhak Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+034020,Doosan Heavy Ind. & Const.,KOSPI,KO,기타,,0,SmallCap
+034120,Seoul Broadcasting System,KOSDAQ,KQ,기타,,0,SmallCap
+034220,LG Display Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+034230,PARADISE LTD,KOSPI,KO,기타,,0,SmallCap
+034310,NICE Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+034590,Incheon City Gas Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+034730,SK Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+03473K,SK Holdings 1p Pref,KOSPI,KO,기타,,0,SmallCap
+034830,Korea Real Estate Investment & Trust Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+035000,GIIR Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+035150,Baiksan,KOSPI,KO,기타,,0,SmallCap
+035250,Kangwon Land Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+035420,Naver Corporation,KOSPI,KO,기타,,0,SmallCap
+035510,Shinsegae Information & Communication Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+035720,Kakao Corp,KOSPI,KO,기타,,0,SmallCap
+036170,Cloud Air Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036420,Jcontentree Corp,KOSPI,KO,기타,,0,SmallCap
+036460,Korea Gas Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+036530,SNT Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+036570,NCsoft Corp,KOSPI,KO,기타,,0,SmallCap
+036580,Farmsco,KOSDAQ,KQ,기타,,0,SmallCap
+037270,Yg Plus Inc,KOSPI,KO,기타,,0,SmallCap
+037560,LG HelloVision Corp,KOSPI,KO,기타,,0,SmallCap
+037710,GwangjuShinsegae Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+039130,Hana Tour,KOSPI,KO,기타,,0,SmallCap
+039490,Kiwoom,KOSPI,KO,기타,,0,SmallCap
+039570,I-Controls Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+041650,Sangsin Brake Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+042000,Cafe24 Corp,KOSDAQ,KQ,기타,,0,SmallCap
+042660,"Hanwha Ocean Co., Ltd",KOSPI,KO,기타,,0,SmallCap
+042700,Hanmi Semiconductor Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+043650,Kook Soon Dang Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+043710,Seouleaguer Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+044380,Jooyontech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+044450,KSS Line Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+044820,Cosmax,KOSPI,KO,기타,,0,SmallCap
+047040,Daewoo Engineering & Construction Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+047050,Posco International Corp,KOSPI,KO,기타,,0,SmallCap
+047400,Ssangyong Materials Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+047810,Korea Aerospace Industries Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+049800,Woojin Plaimm Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+051600,KEPCO Plant Service & Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+051630,Chin Yang Chem,KOSPI,KO,기타,,0,SmallCap
+051900,LG Household & Healthcare,KOSPI,KO,기타,,0,SmallCap
+051905,LG Household & Health Care Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+051910,LG Chemicals,KOSPI,KO,기타,,0,SmallCap
+051915,LG Chem Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+052690,KEPCO Engineering & Construction Co. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+053080,Wonbang Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+053210,KT Skylife Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+053580,WebCash Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+053690,HanmiGlobal Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+055490,TAPEX INC,KOSPI,KO,기타,,0,SmallCap
+055550,Shinhan Financial Group Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+056730,Fourth-Link Inc.,KOSPI,KO,기타,,0,SmallCap
+057050,Hyundai Home Shopping Network Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+058430,POSCO Coated & Color Steel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+058650,Seah Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+058730,Dong-A Steel Technology Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+058850,KTCS Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+058860,KTIS Corporation,KOSPI,KO,기타,,0,SmallCap
+058970,Emro Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+059270,Haisung TPC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+060850,Younglimwon Soft Lab Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+060900,Daehan Green Power Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+060980,Halla Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+062040,062040,KOSPI,KO,기타,,0,SmallCap
+062970,PPI Inc,KOSDAQ,KQ,기타,,0,SmallCap
+063160,Ckd Bio,KOSPI,KO,기타,,0,SmallCap
+063760,ELP Corp.,KOSPI,KO,기타,,0,SmallCap
+064350,Hyundai Rotem Co.,KOSDAQ,KQ,기타,,0,SmallCap
+064400,LG CNS,KOSPI,KO,기타,,0,SmallCap
+064850,FnGuide Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+064960,SNT Motiv Co Ltd,KOSPI,KO,기타,,0,SmallCap
+065370,WISE iTech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066360,Cherrybro co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066430,Y-Optics Manufacture Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066570,LG Electronics Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+066575,LG Electronics Inc. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+066830,066830,KOSPI,KO,기타,,0,SmallCap
+066970,L&F Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+067370,SunBio Inc.,KOSPI,KO,기타,,0,SmallCap
+067830,Savezone I&C Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+068270,Celltrion Inc,KOSPI,KO,기타,,0,SmallCap
+068290,Samsung Publishing Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+068330,ilShinbiobase Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+069260,Huchems,KOSPI,KO,기타,,0,SmallCap
+069460,Daeho Al Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+069620,Daewoong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+069640,MK Trend Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+069730,DSR Wire Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+069960,Hyundai Department Store Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+070960,Yong Pyong Resort Corp,KOSPI,KO,기타,,0,SmallCap
+071050,Korea Investment Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+071055,Korea Investment Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+071090,Histeel,KOSPI,KO,기타,,0,SmallCap
+071200,Infinitt Healthcare Co Ltd,KOSPI,KO,기타,,0,SmallCap
+071320,Korea District Heating Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+071840,Lotte Himart Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+071950,KOAS Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+071970,STX Heavy Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+072130,UANGEL Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+072710,Nongshim Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+073240,Kumho Tire Co. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+074610,ENPlus Co Ltd,KOSPI,KO,기타,,0,SmallCap
+075180,Saeron Auto,KOSPI,KO,기타,,0,SmallCap
+075580,Sejin Heavy Industries Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+076340,076340,KOSPI,KO,기타,,0,SmallCap
+077500,Uniquest Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+077970,STX Engine Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+078000,Telcoware Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+078520,Able C&C,KOSPI,KO,기타,,0,SmallCap
+078930,GS Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+078935,GS Holdings Corp. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+079160,CJ CGV,KOSPI,KO,기타,,0,SmallCap
+079430,Hyundai Livart Furniture Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+079550,LIG Nex1 Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+079900,079900,KOSPI,KO,기타,,0,SmallCap
+079980,Huvis Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+081000,Iljin Diamond Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+081660,Fila Korea Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+082640,Tongyang Life,KOSPI,KO,기타,,0,SmallCap
+082740,Doosan Engine Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+083420,KPX Green Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+083500,FNSTech Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+084010,Daehan Steel,KOSPI,KO,기타,,0,SmallCap
+084440,Ubion Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+084670,Dongyang Express Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+084680,E-World Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+084690,Daesang Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+084695,Daesang Holdings Co Ltd Pref,KOSPI,KO,기타,,0,SmallCap
+084850,ITM Semiconductor Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+084870,TBH Global Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+085310,NK Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+085620,Mirae Asset Life Insurance Co Ltd,KOSPI,KO,기타,,0,SmallCap
+086220,086220,KOSPI,KO,기타,,0,SmallCap
+086280,Hyundai Glovis Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+086710,Sunjin Beauty Science Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+086790,Hana Financial Group Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+086820,Biosolution Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+088260,E KOCREF CR REIT,KOSPI,KO,기타,,0,SmallCap
+088350,Hanwha Life,KOSPI,KO,기타,,0,SmallCap
+088790,Jindo.Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+089470,Hyundai Engineering Plastics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+089590,Jeju Air Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+089860,Lotte Rental Co Ltd,KOSPI,KO,기타,,0,SmallCap
+089970,Adaptive Plasma Technology Corp,KOSDAQ,KQ,기타,,0,SmallCap
+090080,Pyung Hwa Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+090350,Noroo Paint & Coatings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+090355,Noroo Paint & Coatings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+090370,MetaLabs Co Ltd,KOSPI,KO,기타,,0,SmallCap
+090430,Amorepacific Corp. (New),KOSPI,KO,기타,,0,SmallCap
+090435,Amorepacific Corp Pref,KOSPI,KO,기타,,0,SmallCap
+090460,BH Co Ltd,KOSPI,KO,기타,,0,SmallCap
+091810,Tway Air Co Ltd,KOSPI,KO,기타,,0,SmallCap
+092190,Seoul Viosys Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092200,DAE-IL Corporation,KOSPI,KO,기타,,0,SmallCap
+092220,Kec Corporation,KOSPI,KO,기타,,0,SmallCap
+092230,KPX Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+092440,Kishin Corporation,KOSPI,KO,기타,,0,SmallCap
+092590,092590,KOSPI,KO,기타,,0,SmallCap
+092780,Dongyang Piston Co Ltd,KOSPI,KO,기타,,0,SmallCap
+092790,"NEXTEEL Co., Ltd.",KOSPI,KO,기타,,0,SmallCap
+093050,LF Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+093240,HyungjiElite Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+093370,Foosung Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+093510,093510,KOSPI,KO,기타,,0,SmallCap
+094280,Hyosung ITX Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+094800,Mirae Asset MAPS Asia Pacific Real Estate 1 Investment Co.,KOSPI,KO,기타,,0,SmallCap
+095570,AJ Networks Co Ltd,KOSPI,KO,기타,,0,SmallCap
+095720,Woongjin ThinkBig Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+096760,JW Holdings Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+096770,SK Innovation,KOSPI,KO,기타,,0,SmallCap
+096775,SK Innovation Co Ltd Pref,KOSPI,KO,기타,,0,SmallCap
+097230,Hanjin Heavy Industries & Construction Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+097520,MCNEX Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+097950,CJ Cheiljedang,KOSPI,KO,기타,,0,SmallCap
+097955,CJ CheilJedang Corp,KOSPI,KO,기타,,0,SmallCap
+099390,Brainzcompany Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+099430,BioPlus Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+099750,ezCaretech Co. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+100090,Samkang M&T Co Ltd,KOSPI,KO,기타,,0,SmallCap
+100220,Visang Education Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+100250,Chinyang Hold,KOSPI,KO,기타,,0,SmallCap
+100590,Mercury Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+100790,Mirae Asset Venture Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+100840,SNTEnergy Co Ltd,KOSPI,KO,기타,,0,SmallCap
+101140,InBioGen Co Ltd,KOSPI,KO,기타,,0,SmallCap
+101360,E&D Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101530,Haitai Confectionery & Foods Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+102260,Dongsung Corporation,KOSPI,KO,기타,,0,SmallCap
+102370,K Auction Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+102460,Reyon Pharmaceutical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+102950,102950,KOSPI,KO,기타,,0,SmallCap
+103140,Poongsan,KOSPI,KO,기타,,0,SmallCap
+103590,Iljin Electric Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+103660,103660,KOSPI,KO,기타,,0,SmallCap
+103840,Wooyang Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+104620,Yellow Balloon Tour Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+104700,KISCO Corp,KOSPI,KO,기타,,0,SmallCap
+105560,KB Financial Group,KOSPI,KO,기타,,0,SmallCap
+105630,Hansae Co,KOSPI,KO,기타,,0,SmallCap
+105840,Woojin Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+107590,Miwon Specialty Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+107600,SebitChem Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+108320,LX Semicon Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+108490,Robotis Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+108670,LX Hausys Ltd,KOSPI,KO,기타,,0,SmallCap
+108675,LG Hausys Ltd. Pfd.,KOSDAQ,KQ,기타,,0,SmallCap
+110020,Jeonjinbio Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+110990,Digital Imaging Technology INC,KOSDAQ,KQ,기타,,0,SmallCap
+111110,Hojeon Ltd,KOSPI,KO,기타,,0,SmallCap
+111380,111380,KOSPI,KO,기타,,0,SmallCap
+111710,Namhwa Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+111770,Youngone,KOSPI,KO,기타,,0,SmallCap
+112190,112190,KOSPI,KO,기타,,0,SmallCap
+112290,Youngchang Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+112610,CS Wind Corp,KOSPI,KO,기타,,0,SmallCap
+114090,Grand Korea Leisure Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+114840,iFamily Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+114920,114920,KOSPI,KO,기타,,0,SmallCap
+117580,Daesung Energy,KOSPI,KO,기타,,0,SmallCap
+117730,T-Robotics.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+118000,Chorokbaem Healthcare Co Ltd,KOSPI,KO,기타,,0,SmallCap
+120030,Chosun Welding,KOSPI,KO,기타,,0,SmallCap
+120110,Kolon Industries Inc,KOSPI,KO,기타,,0,SmallCap
+120115,Kolon Industries Inc. Pfd. Series 1,KOSDAQ,KQ,기타,,0,SmallCap
+121060,121060,KOSPI,KO,기타,,0,SmallCap
+122310,Genoray Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122830,122830,KOSPI,KO,기타,,0,SmallCap
+122900,Imarketkorea,KOSPI,KO,기타,,0,SmallCap
+123690,Hankook Cosmetics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+123700,SJM Co Ltd,KOSPI,KO,기타,,0,SmallCap
+123890,Korea Asset In Trust Co Ltd,KOSPI,KO,기타,,0,SmallCap
+124560,Taewoong Logistics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+125210,Amogreentech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+126340,Vina Technology Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+126560,Hyundai Hcn,KOSPI,KO,기타,,0,SmallCap
+126720,Soosan Industries Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+127980,Finecircuit Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+128540,Ecocab Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+128820,Daesung Ind,KOSPI,KO,기타,,0,SmallCap
+128940,Hanmi Pharm Co Ltd,KOSPI,KO,기타,,0,SmallCap
+129260,Intergis Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+129890,Abko Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+129920,Daesung Hi-Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+130660,Korea Electronic Power Industrial Development Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+133820,Fine Besteel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+134380,Miwon Chemicals Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+134790,Teems Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+136410,Assems Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+136490,Sunjin,KOSPI,KO,기타,,0,SmallCap
+136660,136660,KOSPI,KO,기타,,0,SmallCap
+137080,Narae Nanotech Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+137310,SD Biosensor Inc,KOSPI,KO,기타,,0,SmallCap
+138040,Meritz Financi,KOSPI,KO,기타,,0,SmallCap
+138490,Kolon Plastics Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+138930,BNK Financial Group Inc,KOSPI,KO,기타,,0,SmallCap
+139130,Dgb Financial,KOSPI,KO,기타,,0,SmallCap
+139480,E-Mart,KOSPI,KO,기타,,0,SmallCap
+139990,Ajusteel Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+140070,Surplus Global Inc.,KOSPI,KO,기타,,0,SmallCap
+140610,140610,KOSPI,KO,기타,,0,SmallCap
+140660,140660,KOSPI,KO,기타,,0,SmallCap
+140670,RS Automation Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+143210,Hands Corporation Ltd,KOSPI,KO,기타,,0,SmallCap
+144960,New Power Plasma Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+145210,Saehwa IMC Co Ltd,KOSPI,KO,기타,,0,SmallCap
+145270,K-Top REITs Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+145720,Dentium,KOSPI,KO,기타,,0,SmallCap
+145990,Samyang Cor,KOSPI,KO,기타,,0,SmallCap
+145995,Samyang Corp Preference Shares,KOSPI,KO,기타,,0,SmallCap
+146320,BCnC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+147760,Microfriend Inc,KOSDAQ,KQ,기타,,0,SmallCap
+148150,Se Gyung Hi Tech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+148780,Bflysoft Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+148930,HYTC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+149010,149010,KOSPI,KO,기타,,0,SmallCap
+149300,149300,KOSPI,KO,기타,,0,SmallCap
+152550,Kim Ankor Oilfield Overseas Resources Development,KOSPI,KO,기타,,0,SmallCap
+153710,Optipharm.CO.LTD,KOSDAQ,KQ,기타,,0,SmallCap
+154030,Asia Seed Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+155660,DSR Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+156100,L&K Biomed Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+158430,ATON Inc,KOSDAQ,KQ,기타,,0,SmallCap
+159010,Asflow Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+161000,Aekyung Petrochemical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+161390,Hankook Tire Co.,KOSPI,KO,기타,,0,SmallCap
+161580,Philoptics Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+161890,Korea Kolmar,KOSPI,KO,기타,,0,SmallCap
+162120,162120,KOSPI,KO,기타,,0,SmallCap
+162300,Shin Steel Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+163560,DRB Industrial Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+163730,Finger Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+168360,Pemtron Corp.,KOSPI,KO,기타,,0,SmallCap
+169330,Macromill Embrain Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+169670,169670,KOSPI,KO,기타,,0,SmallCap
+170900,Dong-A St,KOSPI,KO,기타,,0,SmallCap
+173130,OPASNET Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+175330,Jb Financial,KOSPI,KO,기타,,0,SmallCap
+176590,176590,KOSPI,KO,기타,,0,SmallCap
+176750,176750,KOSPI,KO,기타,,0,SmallCap
+178600,178600,KOSPI,KO,기타,,0,SmallCap
+178920,PI Advanced Materials Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+179290,M.I.TECH Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+179530,Adbiotech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+179720,179720,KOSPI,KO,기타,,0,SmallCap
+180060,180060,KOSPI,KO,기타,,0,SmallCap
+180640,Hanjinkal,KOSPI,KO,기타,,0,SmallCap
+18064K,Hanjin Kal,KOSPI,KO,기타,,0,SmallCap
+181710,Nhn Entertain,KOSPI,KO,기타,,0,SmallCap
+183190,Asiacement,KOSPI,KO,기타,,0,SmallCap
+183490,Enzychem Lifesciences Corporation,KOSPI,KO,기타,,0,SmallCap
+185190,185190,KOSPI,KO,기타,,0,SmallCap
+185750,Chong Kun Dang Pharmaceutical,KOSPI,KO,기타,,0,SmallCap
+186230,Green Plus Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+187660,ADM Korea Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+187870,DeviceENG.CO.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+189330,XIIlab Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+189350,189350,KOSPI,KO,기타,,0,SmallCap
+190650,Korea Asset Investment Securities Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+191600,191600,KOSPI,KO,기타,,0,SmallCap
+192080,DoubleU Games Co Ltd,KOSPI,KO,기타,,0,SmallCap
+192400,Cuckoo Electronics Co Ltd,KOSPI,KO,기타,,0,SmallCap
+192650,DreamTech Co Ltd,KOSPI,KO,기타,,0,SmallCap
+192820,Cosmax Inc,KOSPI,KO,기타,,0,SmallCap
+194370,JS Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+194700,NOVAREX Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+195500,Maniker F & G Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+195870,Haesung DS Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+195940,HK Inno.N Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+196300,Anygen Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+197140,DigiCAP Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+198080,NPD Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+198440,Woori SPAC 3,KOSDAQ,KQ,기타,,0,SmallCap
+199150,199150,KOSPI,KO,기타,,0,SmallCap
+199290,199290,KOSPI,KO,기타,,0,SmallCap
+199730,BioInfra Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+199800,ToolGen Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+199820,Cheil Electric Wiring Devices Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+200350,RaemongRaein Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+200580,200580,KOSPI,KO,기타,,0,SmallCap
+200880,Seoyonehwa,KOSDAQ,KQ,기타,,0,SmallCap
+202960,202960,KOSPI,KO,기타,,0,SmallCap
+203400,Abion Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+203450,Union Community Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+204020,GRITEE Inc,KOSDAQ,KQ,기타,,0,SmallCap
+204270,JNTC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+204320,Mando Corp,KOSPI,KO,기타,,0,SmallCap
+204610,T3 Entertainment Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+206950,206950,KOSPI,KO,기타,,0,SmallCap
+207490,207490,KOSPI,KO,기타,,0,SmallCap
+207940,Samsung Biologics Co Ltd,KOSPI,KO,기타,,0,SmallCap
+208850,208850,KOSPI,KO,기타,,0,SmallCap
+208890,208890,KOSPI,KO,기타,,0,SmallCap
+210540,DY Power Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+210980,SK D&D Co Ltd,KOSPI,KO,기타,,0,SmallCap
+211050,Incar Financial Service Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+212710,212710,KOSPI,KO,기타,,0,SmallCap
+213500,Hansol Paper Co Ltd,KOSPI,KO,기타,,0,SmallCap
+214260,Raphas Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+214320,Innocean Worldwide Inc,KOSPI,KO,기타,,0,SmallCap
+214330,Kumho HT Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+214390,Kyongbo Pharmaceutical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+214420,Tonymoly Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+214610,Mico BioMed Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+215570,215570,KOSPI,KO,기타,,0,SmallCap
+216050,Incross Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+216080,JETEMA Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+216400,216400,KOSPI,KO,기타,,0,SmallCap
+217320,217320,KOSPI,KO,기타,,0,SmallCap
+217880,217880,KOSPI,KO,기타,,0,SmallCap
+217910,217910,KOSPI,KO,기타,,0,SmallCap
+217950,217950,KOSPI,KO,기타,,0,SmallCap
+219420,Linkgenesis Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+220100,FutureChem Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+220180,Handysoft Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+222670,222670,KOSPI,KO,기타,,0,SmallCap
+223250,DreamCIS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+224810,224810,KOSPI,KO,기타,,0,SmallCap
+225190,Samyang Optics Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+225220,Genolution Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+225430,IBKS No3 SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+226320,It's Skin Co Ltd,KOSPI,KO,기타,,0,SmallCap
+226330,SyntekaBio Inc,KOSDAQ,KQ,기타,,0,SmallCap
+226400,Osteonic Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+227420,227420,KOSPI,KO,기타,,0,SmallCap
+227840,Hyundai C&F Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+228670,Ray Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+229000,Gencurix Inc,KOSDAQ,KQ,기타,,0,SmallCap
+229500,229500,KOSPI,KO,기타,,0,SmallCap
+229640,LS Cable & System Asia Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+232530,232530,KOSPI,KO,기타,,0,SmallCap
+232680,Raontec Inc.,KOSPI,KO,기타,,0,SmallCap
+233250,233250,KOSPI,KO,기타,,0,SmallCap
+234070,234070,KOSPI,KO,기타,,0,SmallCap
+234080,Jw Life Science Corp,KOSPI,KO,기타,,0,SmallCap
+234100,Sewon Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+234300,STraffic Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+234690,GREEN CROSS WellBeing Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+235980,MedPacto Inc,KOSDAQ,KQ,기타,,0,SmallCap
+236030,236030,KOSPI,KO,기타,,0,SmallCap
+236340,236340,KOSPI,KO,기타,,0,SmallCap
+236810,NBT Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+237820,PlayD Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+238120,Aligned Genetics Inc,KOSDAQ,KQ,기타,,0,SmallCap
+238170,238170,KOSPI,KO,기타,,0,SmallCap
+238200,Bifido Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+238490,Hims Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+238500,238500,KOSPI,KO,기타,,0,SmallCap
+239890,P&H Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+241520,DSC Investment Inc,KOSDAQ,KQ,기타,,0,SmallCap
+241560,Doosan Bobcat Inc,KOSPI,KO,기타,,0,SmallCap
+241590,Hwaseung Enterprise Co Ltd,KOSPI,KO,기타,,0,SmallCap
+241770,Mecaro Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+241790,Ocean Bridge Corp.,KOSPI,KO,기타,,0,SmallCap
+241840,ASTORY Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+243870,243870,KOSPI,KO,기타,,0,SmallCap
+244880,244880,KOSPI,KO,기타,,0,SmallCap
+244920,A Plus Asset Advisor Co Ltd,KOSPI,KO,기타,,0,SmallCap
+245450,245450,KOSPI,KO,기타,,0,SmallCap
+246710,T&R Biofab Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+246720,Asta Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+246960,InnoTherapy Inc,KOSDAQ,KQ,기타,,0,SmallCap
+247660,NanoCMS Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+248070,SoluM Co Ltd,KOSPI,KO,기타,,0,SmallCap
+248170,Sempio Foods Co.,KOSDAQ,KQ,기타,,0,SmallCap
+249420,Il Dong Pharmaceutical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+250000,Boratr Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+250030,250030,KOSPI,KO,기타,,0,SmallCap
+251120,Bio-FD&C Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+251270,Netmarble Games Corp,KOSPI,KO,기타,,0,SmallCap
+251280,251280,KOSPI,KO,기타,,0,SmallCap
+251630,V-One Tech Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+251970,Pum-Tech Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+252500,Sewha P&C INC,KOSDAQ,KQ,기타,,0,SmallCap
+252990,SEMCNS Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+253590,Neosem Inc,KOSDAQ,KQ,기타,,0,SmallCap
+253610,253610,KOSPI,KO,기타,,0,SmallCap
+253840,Sugentech Inc,KOSDAQ,KQ,기타,,0,SmallCap
+254120,Xavis Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+254160,254160,KOSPI,KO,기타,,0,SmallCap
+254490,Mirai Semiconductors Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+255220,SG Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+256150,Handok Clean Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+256630,Point Engineering Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+256840,BNC Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+256940,KPS Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+257720,Silicon2 Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+257990,257990,KOSPI,KO,기타,,0,SmallCap
+258050,258050,KOSPI,KO,기타,,0,SmallCap
+258610,Caelum Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+258790,SoftCamp Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+259630,mPLUS Corp,KOSDAQ,KQ,기타,,0,SmallCap
+259960,Krafton Inc,KOSPI,KO,기타,,0,SmallCap
+260660,Korea Arlico Pharm Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+260870,Signet EV Inc,KOSPI,KO,기타,,0,SmallCap
+260930,CTK Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+260970,S&D Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+261200,Dentis Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+261780,CHA Vaccine Institute Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+262260,APro Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+262840,IQuest Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+263020,DK&D Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+263600,Derkwoo Electronics Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+263690,DRGEM Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+263700,Carelabs Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+263720,D&C Media Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+263770,UST Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+263800,DataSolution Inc.,KOSPI,KO,기타,,0,SmallCap
+263810,Sangshin Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+263860,Genians Inc.,KOSPI,KO,기타,,0,SmallCap
+263920,HuM&C Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+264450,Ubiquoss Inc,KOSDAQ,KQ,기타,,0,SmallCap
+264660,C&G Hi Tech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+264850,Elensys Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+264900,Crown Confectionery Co Ltd,KOSPI,KO,기타,,0,SmallCap
+26490K,Crown Confectionery Co Ltd Pref,KOSPI,KO,기타,,0,SmallCap
+265560,YOUNGHWA TECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+265740,NFC Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+266170,266170,KOSPI,KO,기타,,0,SmallCap
+266350,266350,KOSPI,KO,기타,,0,SmallCap
+266470,266470,KOSPI,KO,기타,,0,SmallCap
+267080,267080,KOSPI,KO,기타,,0,SmallCap
+267250,Hyundai Heavy Industries Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+267260,Hyundai Electric & Energy Systems Co Ltd,KOSPI,KO,기타,,0,SmallCap
+267270,Hyundai Construction Equipment Co Ltd,KOSPI,KO,기타,,0,SmallCap
+267290,Kyungdong City Gas Co Ltd,KOSPI,KO,기타,,0,SmallCap
+267790,Barrel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+267850,Asiana IDT Inc,KOSPI,KO,기타,,0,SmallCap
+268280,Miwon Specialty Chemical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+270210,270210,KOSPI,KO,기타,,0,SmallCap
+270520,GEOLIT ENERGY COLTD LTD,KOSDAQ,KQ,기타,,0,SmallCap
+270660,Everybot Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+270870,Newtree Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+271560,Orion Corp,KOSPI,KO,기타,,0,SmallCap
+271830,Pamtek Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+271940,Iljin HySolus Co Ltd,KOSPI,KO,기타,,0,SmallCap
+271980,Jeil Pharmaceutical Co Ltd,KOSPI,KO,기타,,0,SmallCap
+272110,KNJ Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+272210,Hanwha Systems Co Ltd,KOSPI,KO,기타,,0,SmallCap
+272450,Jin Air Co Ltd,KOSPI,KO,기타,,0,SmallCap
+272550,Samyang Packaging,KOSPI,KO,기타,,0,SmallCap
+273060,Wise Birds Inc.,KOSPI,KO,기타,,0,SmallCap
+273640,YM Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+274090,Kencoa Aerospace Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+275630,SSR Inc,KOSDAQ,KQ,기타,,0,SmallCap
+276040,SKONEC Entertainment Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+276240,276240,KOSPI,KO,기타,,0,SmallCap
+276730,Jeju Beer Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+277070,Lindeman Asia Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+277410,Insan Inc.,KOSPI,KO,기타,,0,SmallCap
+277810,Rainbow Robotics Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+277880,TSI Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+278470,APR LTD,KOSPI,KO,기타,,0,SmallCap
+278650,KNOTUS Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+278990,278990,KOSPI,KO,기타,,0,SmallCap
+279060,279060,KOSPI,KO,기타,,0,SmallCap
+279600,MediaZen Inc.,KOSPI,KO,기타,,0,SmallCap
+280360,Lotte Confectionery Co Ltd,KOSPI,KO,기타,,0,SmallCap
+281740,Lake Materials Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+281820,KCTech Co Ltd,KOSPI,KO,기타,,0,SmallCap
+282330,BGF Retail Co Ltd,KOSPI,KO,기타,,0,SmallCap
+282720,Kumyang Green Power Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+284740,Cuckoo Homesys Co Ltd,KOSPI,KO,기타,,0,SmallCap
+285130,SK Chemicals Co Ltd,KOSPI,KO,기타,,0,SmallCap
+28513K,SK Chemicals Co Ltd Pref,KOSPI,KO,기타,,0,SmallCap
+285490,NOVATECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+285800,Jinyoung Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+286750,NANOBRICK Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+286940,Lotte Data Communication Company,KOSPI,KO,기타,,0,SmallCap
+288330,Bridge Biotherapeutics Inc,KOSDAQ,KQ,기타,,0,SmallCap
+288620,S-Fuelcell co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+288980,Moadata Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+289010,I-Scream Edu Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+289080,SV Investment Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+289220,GiantStep Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+290090,TWIM Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+290120,Dayou AP Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290270,Hunesion Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290520,Shindo Eng. Lab. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290550,Dk Tech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290650,L&C Bio Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290660,Neofect Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290670,Daebo Magnetic Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290690,Solux Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+290720,Foodnamoo. Inc,KOSDAQ,KQ,기타,,0,SmallCap
+290740,ActRO Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+291230,Samsung Special Purpose Acquisition 2 Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+291650,Aptamer Sciences Inc,KOSDAQ,KQ,기타,,0,SmallCap
+291810,Pintel Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+293480,Hana Pharm Co Ltd,KOSPI,KO,기타,,0,SmallCap
+293490,Kakao Games Corp,KOSDAQ,KQ,기타,,0,SmallCap
+293580,NAU IB Capital,KOSDAQ,KQ,기타,,0,SmallCap
+293780,AptaBio Therapeutics Inc,KOSDAQ,KQ,기타,,0,SmallCap
+293940,Shinhan Alpha REIT Co Ltd,KOSPI,KO,기타,,0,SmallCap
+294140,LEMON Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+294570,coocon Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+294630,SuNam Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+294870,Hyundai Development Co,KOSPI,KO,기타,,0,SmallCap
+296520,296520,KOSPI,KO,기타,,0,SmallCap
+296640,Innorules Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+297090,CS BEARING Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+297570,Aloys Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+297890,LET co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+298000,Hyosung Chemical Corp,KOSPI,KO,기타,,0,SmallCap
+298020,Hyosung TNC Corp,KOSPI,KO,기타,,0,SmallCap
+298040,Hyosung Heavy Industries Corp,KOSPI,KO,기타,,0,SmallCap
+298050,Hyosung Advanced Materials Corp,KOSPI,KO,기타,,0,SmallCap
+298060,SCM Lifescience Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+298540,Nature Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+298690,Air Busan Co Ltd,KOSPI,KO,기타,,0,SmallCap
+298830,Suresofttech Inc.,KOSPI,KO,기타,,0,SmallCap
+299030,Hana Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+299170,WSI Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+299480,299480,KOSPI,KO,기타,,0,SmallCap
+299660,Cellid Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+299900,Wysiwyg Studios Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+300080,FLITTO Inc,KOSDAQ,KQ,기타,,0,SmallCap
+300720,Hanilcmt Co Ltd,KOSPI,KO,기타,,0,SmallCap
+301300,VAIV Co. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+302430,Innometry Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+302440,SK Bioscience Co Ltd,KOSPI,KO,기타,,0,SmallCap
+302550,Remed Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+302920,302920,KOSPI,KO,기타,,0,SmallCap
+303030,Zinitix Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+303360,ProteomeTech Inc.,KOSPI,KO,기타,,0,SmallCap
+303530,Innodep Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+304100,SALTLUX.inc,KOSDAQ,KQ,기타,,0,SmallCap
+304840,PeopleBio Inc,KOSDAQ,KQ,기타,,0,SmallCap
+305090,Micro Digital Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+306040,SJ Group Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+306200,Seah Steel Corp,KOSPI,KO,기타,,0,SmallCap
+306620,Neontech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+307180,IL Science Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+307280,Wonbiogen Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+307750,Daishin Balance No.6 Special Purpose Acquisition Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+307870,B2En Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+307930,Company K Partners Limited,KOSDAQ,KQ,기타,,0,SmallCap
+307950,Hyundai Autoever Corp,KOSPI,KO,기타,,0,SmallCap
+308080,ViGenCell Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+308100,Castelbajac Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+308170,Central Motek Co Ltd,KOSPI,KO,기타,,0,SmallCap
+309930,OHEIM INT Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+309960,LB Investment Inc.,KOSPI,KO,기타,,0,SmallCap
+310200,Aniplus Inc,KOSDAQ,KQ,기타,,0,SmallCap
+310210,Voronoi Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+310870,DYC Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+311060,311060,KOSPI,KO,기타,,0,SmallCap
+311320,GO Element Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+311390,Neo Cremar Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+311960,311960,KOSPI,KO,기타,,0,SmallCap
+312610,A.F.W Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+313760,Willings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+314140,RPBio Inc.,KOSPI,KO,기타,,0,SmallCap
+314930,Biodyne Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+315640,Deep Noid Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+316140,Woori Financial Group Inc,KOSPI,KO,기타,,0,SmallCap
+317120,Ranix INC,KOSDAQ,KQ,기타,,0,SmallCap
+317240,TS Trillion Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+317400,Xi S And D Inc,KOSPI,KO,기타,,0,SmallCap
+317530,Carriesoft Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+317690,QuantaMatrix Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+317770,Suprema ID Inc,KOSDAQ,KQ,기타,,0,SmallCap
+317830,SP Systems Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+317850,DAEMO Engineering Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+317860,317860,KOSPI,KO,기타,,0,SmallCap
+317870,ENVIONEER Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+318000,Korea Bio-Gen Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+318010,Pharmsville Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+318160,Cell Bio Human Tech Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+318410,BBC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+319400,Nh Special Purpose Acquisition 14 Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+320000,Wintec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+321260,Eugene Special Purpose Acquisitions 4 Company,KOSDAQ,KQ,기타,,0,SmallCap
+321550,TiumBio Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+321820,Wider Planet Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+322000,Hyundai Energy Solutions Co Ltd,KOSPI,KO,기타,,0,SmallCap
+322180,THiRA-UTECH CO. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+322310,AurosTechnology Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+322510,JLK Inc,KOSDAQ,KQ,기타,,0,SmallCap
+322780,COPUS KOREA Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+322970,322970,KOSPI,KO,기타,,0,SmallCap
+323280,Taesung Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+323410,KakaoBank Corp,KOSPI,KO,기타,,0,SmallCap
+323990,Vaxcell-Bio Therapeutics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+326030,Sk Biopharmaceuticals Co Ltd,KOSPI,KO,기타,,0,SmallCap
+327260,RF Materials Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+328130,Lunit Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+328380,Saltware Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+329180,Hyundai Heavy Industries Co Ltd,KOSPI,KO,기타,,0,SmallCap
+330350,Withuspharmaceutical Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+330590,Lotte Reit Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+330730,StoneBridge Ventures Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+330860,Nepes Ark Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+331380,Eugene Special Purpose Acquisition 5 Company,KOSDAQ,KQ,기타,,0,SmallCap
+331520,Kyobo 9 Special Purpose Acquisition Co.,KOSPI,KO,기타,,0,SmallCap
+331660,331660,KOSPI,KO,기타,,0,SmallCap
+331920,Celemics Inc,KOSDAQ,KQ,기타,,0,SmallCap
+332290,Daishin Balance No. 7 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+332370,IDP Corp Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+332570,Wireless Power Amplifier Module Inc,KOSDAQ,KQ,기타,,0,SmallCap
+333050,Shinhan 6th Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+333430,Il Seung Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+333620,Nsys Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+334890,Igis Value Plus Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+334970,Prestige Biologics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+335810,Precision Biosensor Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+335870,IBKS No. 12 Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+336040,336040,KOSPI,KO,기타,,0,SmallCap
+336060,Wavus Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+336260,Doosan Fuel Cell Co Ltd,KOSPI,KO,기타,,0,SmallCap
+33626K,Doosan Fuel Cell Co. Ltd. Pfd. Series 1,KOSPI,KO,기타,,0,SmallCap
+33626L,Doosan Fuel Cell America Inc,KOSPI,KO,기타,,0,SmallCap
+336370,Solus Advanced Materials Co Ltd,KOSPI,KO,기타,,0,SmallCap
+33637K,Doosan Solus Co Ltd Pref 1P,KOSPI,KO,기타,,0,SmallCap
+33637L,Doosan Solus Co Ltd Pref 2P,KOSPI,KO,기타,,0,SmallCap
+336570,Daishin Balance No.8 Special Purpose Acquisition Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+337840,337840,KOSPI,KO,기타,,0,SmallCap
+337930,Brand X Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+338100,Nh Prime Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+338220,Vuno Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+339770,Kyochon F And B Co Ltd,KOSPI,KO,기타,,0,SmallCap
+339950,Ibkimyoung Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+340360,Davolink Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+340440,SERIM B&G Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+340450,340450,KOSPI,KO,기타,,0,SmallCap
+340570,T&L Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+340810,Cubox Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+340930,Youil Energy Technology Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+341170,341170,KOSPI,KO,기타,,0,SmallCap
+344820,Kcc Glass Corp,KOSPI,KO,기타,,0,SmallCap
+346010,346010,KOSPI,KO,기타,,0,SmallCap
+347000,Senko Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+347700,LifeSemantics Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+347740,P&K Skin Research Center Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+347770,PIMS Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+347860,Alchera Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+347890,M2I Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+348030,Mobirix Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+348080,Quratis Inc.,KOSPI,KO,기타,,0,SmallCap
+348150,KoBioLabs Inc,KOSDAQ,KQ,기타,,0,SmallCap
+348210,NEXTIN Inc,KOSDAQ,KQ,기타,,0,SmallCap
+348350,WithTech Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+348370,Enchem Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+348950,Jr Global Reit,KOSPI,KO,기타,,0,SmallCap
+350520,Igis Residence Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+351320,Solution Advanced Technology Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+351330,Isaac Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+352480,C&C International Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+352700,CNTus Sungjin Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+352820,HYBE Co. Ltd,KOSPI,KO,기타,,0,SmallCap
+352910,Obigo Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+352940,EnBio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+353190,Hurum Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+353200,Daeduck Electronics Co Ltd,KOSPI,KO,기타,,0,SmallCap
+35320K,DAEDUCK ELECTRONICS Co.Ltd,KOSPI,KO,기타,,0,SmallCap
+353590,Auto& Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+353810,EASY BIOInc,KOSDAQ,KQ,기타,,0,SmallCap
+354200,NGeneBio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+354390,354390,KOSPI,KO,기타,,0,SmallCap
+355150,Kyobo 10 Special Purpose Acquisition Co.,KOSPI,KO,기타,,0,SmallCap
+356680,AXGate Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+356860,TLB Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+356890,CyberOne Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+357120,Koramco Energy Plus Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+357230,H.Pio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+357250,Mirae Asset Maps Reit 1 Co Ltd,KOSPI,KO,기타,,0,SmallCap
+357430,Mastern Premier REIT 1 Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+357550,Sukgyung AT Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+357580,Amosense Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+357880,BitNine Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+359090,NH Special Purpose Acquisition 17 Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+360070,TOPMATERIAL LTD,KOSDAQ,KQ,기타,,0,SmallCap
+361390,Genohco Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+361570,RBW Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+361610,SK IE Technology Co Ltd,KOSPI,KO,기타,,0,SmallCap
+361670,Samyoung S&C Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+362320,Chungdamglobal Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+363250,Genesystem Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+363260,Mobidays Inc.,KOSPI,KO,기타,,0,SmallCap
+363280,TY Holdings Co Ltd,KOSPI,KO,기타,,0,SmallCap
+36328K,TY Holdings Co. Ltd. Pfd. Series 1,KOSPI,KO,기타,,0,SmallCap
+365270,Curacle Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+365340,SungEel HiTech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+365550,Esr Kendall Square Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+365590,NH Special Purpose Acquisition 18 Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+365900,VC Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+366030,09women Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+367000,Plateer Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+368600,ICH Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+368770,Fiberpro Inc.,KOSPI,KO,기타,,0,SmallCap
+368970,Organic Special Pet Food Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+369370,Daishin Balance No. 9 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+370090,Furonteer Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+371950,Poongwon Precision Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+372170,Yunsung F&C Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+372800,ITeyes Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+372910,Hancom Lifecare Inc.,KOSPI,KO,기타,,0,SmallCap
+373200,IBKS No. 15 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+373220,LG Energy Solution Ltd,KOSPI,KO,기타,,0,SmallCap
+375500,DL E&C Co Ltd,KOSPI,KO,기타,,0,SmallCap
+37550K,DL E&C Co. Ltd. Pfd. Series 1,KOSPI,KO,기타,,0,SmallCap
+37550L,DL E&C Co. Ltd. Pfd.,KOSPI,KO,기타,,0,SmallCap
+376180,Picogram Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+376290,CU Tech Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+376300,Dear U Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+376930,Noul Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+376980,Wanted Lab Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+377030,MAXST Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+377190,D&D Platform Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+377220,Form Bio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+377300,kakaopay Corp.,KOSPI,KO,기타,,0,SmallCap
+377330,Egtronics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+377450,REFINE Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+377480,MINDs Lab Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+377740,BioNote Inc.,KOSPI,KO,기타,,0,SmallCap
+378800,Shaperon Inc.,KOSPI,KO,기타,,0,SmallCap
+378850,Hwaseung R&A Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+379390,379390,KOSPI,KO,기타,,0,SmallCap
+380540,Opticore Inc.,KOSPI,KO,기타,,0,SmallCap
+381970,K Car Co Ltd,KOSPI,KO,기타,,0,SmallCap
+382150,382150,KOSPI,KO,기타,,0,SmallCap
+382480,G.I. Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+382800,GnBS Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+382840,ONEJOON Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+382900,Bumhan Fuel Cell Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+383220,F&F Co Ltd,KOSPI,KO,기타,,0,SmallCap
+383310,Ecopro HN Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+383800,LX Holdings Corp,KOSPI,KO,기타,,0,SmallCap
+38380K,LX Holdings Corp. Pfd.,KOSPI,KO,기타,,0,SmallCap
+388050,G2Power Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+388610,388610,KOSPI,KO,기타,,0,SmallCap
+388720,Yuilrobotics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+388790,IBKS No. 16 Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+389020,Zaram Technology Inc.,KOSPI,KO,기타,,0,SmallCap
+389030,Geninus Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+389140,4by4 Inc,KOSDAQ,KQ,기타,,0,SmallCap
+389260,Daemyoung Energy Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+389470,Inventage Lab Inc.,KOSPI,KO,기타,,0,SmallCap
+389500,SBB Tech Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+390110,390110,KOSPI,KO,기타,,0,SmallCap
+391710,Kornic Automation Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+393210,Tomato System Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+393890,W-SCOPE CHUNGJU PLANT LTD (PROPOSE,KOSDAQ,KQ,기타,,0,SmallCap
+394280,Openedges Tech Inc,KOSDAQ,KQ,기타,,0,SmallCap
+395400,SK Reit Co Ltd,KOSPI,KO,기타,,0,SmallCap
+396270,Nextchip Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+396300,SeA Mechanics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+396690,Mirae Asset Global REIT Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+397030,Aprilbio Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+399720,Gaonchips Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+400760,NH All One REIT Co Ltd,KOSPI,KO,기타,,0,SmallCap
+402030,Konan Technology Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+402340,SK Square Co Ltd,KOSPI,KO,기타,,0,SmallCap
+402420,402420,KOSPI,KO,기타,,0,SmallCap
+403550,Socar Inc.,KOSPI,KO,기타,,0,SmallCap
+403870,Hpsp Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+404990,Shinhan Seobu T&D REIT Co Ltd,KOSPI,KO,기타,,0,SmallCap
+405000,Plasmapp Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+405100,QRT Inc.,KOSPI,KO,기타,,0,SmallCap
+408920,SK Securities ACPC No.7 Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+411080,Sands Lab Inc.,KOSPI,KO,기타,,0,SmallCap
+412350,Laserssel Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+413300,413300,KOSPI,KO,기타,,0,SmallCap
+417010,NanoTIM Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+417180,Finger Story Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+417310,KORAMCO The One REIT,KOSPI,KO,기타,,0,SmallCap
+417500,Ji Tech Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+417790,Truen Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+417840,Justem Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+417970,Model Solution Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+418420,Raontech Inc.,KOSPI,KO,기타,,0,SmallCap
+419080,Enjet Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+419120,Sandoll Inc.,KOSPI,KO,기타,,0,SmallCap
+419540,Bistos Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+420770,GIGAVIS LTD (PROPOSED),KOSDAQ,KQ,기타,,0,SmallCap
+424760,IBKS No. 18 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+424980,Micro2Nano Inc.,KOSPI,KO,기타,,0,SmallCap
+432320,KB Star REIT Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+434190,434190,KOSPI,KO,기타,,0,SmallCap
+434480,Monitorapp Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+437730,Samhyun,KOSDAQ,KQ,기타,,0,SmallCap
+439090,Manyo Factory Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+439260,DAEHAN SHIPBUILDING LTD,KOSPI,KO,기타,,0,SmallCap
+443060,HD Hyundai Marine Solution,KOSPI,KO,기타,,0,SmallCap
+446070,UNID BTPLUS LTD,KOSPI,KO,기타,,0,SmallCap
+446440,446440,KOSPI,KO,기타,,0,SmallCap
+446840,Kiwoom No.8 Special Purpose Acquisition Co.,KOSPI,KO,기타,,0,SmallCap
+447690,447690,KOSPI,KO,기타,,0,SmallCap
+448730,SamsungFN REIT Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+448780,448780,KOSPI,KO,기타,,0,SmallCap
+448900,448900,KOSPI,KO,기타,,0,SmallCap
+450080,ECOPRO MAT,KOSPI,KO,기타,,0,SmallCap
+451800,Hanwha REIT Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+452260,Hanwha Galleria Corp.,KOSPI,KO,기타,,0,SmallCap
+45226K,Hanwha Galleria Corp. Pfd.,KOSPI,KO,기타,,0,SmallCap
+453340,Hyundai Green Food Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+454910,Doosan Robotics Inc.,KOSPI,KO,기타,,0,SmallCap
+456040,OCI Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+456190,456190,KOSPI,KO,기타,,0,SmallCap
+457190,ISU Specialty Chemical Co. Ltd.,KOSPI,KO,기타,,0,SmallCap
+457600,457600,KOSPI,KO,기타,,0,SmallCap
+460850,DONGKUK COATED METAL CLS LTD,KOSPI,KO,기타,,0,SmallCap
+460860,DONGKUK STEEL MILL CLS LTD,KOSPI,KO,기타,,0,SmallCap
+462520,"Chosun Refractories Co.,Ltd.",KOSPI,KO,기타,,0,SmallCap
+462870,Shift Up Corporation,KOSPI,KO,기타,,0,SmallCap
+465770,STX Green Logis Ltd,KOSPI,KO,기타,,0,SmallCap
+475150,SK ETERNIX CO LT,KOSPI,KO,기타,,0,SmallCap
+475560,The BORN Korea,KOSPI,KO,기타,,0,SmallCap
+476060,476060,KOSPI,KO,기타,,0,SmallCap
+480370,CK Solution,KOSPI,KO,기타,,0,SmallCap
+481070,481070,KOSPI,KO,기타,,0,SmallCap
+481850,Shinhan Global Active REIT,KOSPI,KO,기타,,0,SmallCap
+483650,d'Alba Global,KOSPI,KO,기타,,0,SmallCap
+487570,HYOSUNG CORP,KOSPI,KO,기타,,0,SmallCap
+489790,HANWHA IND SOL LTD,KOSPI,KO,기타,,0,SmallCap
+499790,GS P&L CO LTD,KOSPI,KO,기타,,0,SmallCap
+570019,TRUE KOSPI Short Strangle 5% OT,KOSPI,KO,기타,,0,SmallCap
+900140,LVMC Holdings,KOSPI,KO,기타,,0,SmallCap
+900290,Great Rich Technologies Ltd.,KOSPI,KO,기타,,0,SmallCap
+900300,Organic Tea Cosmetics Holdings Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900310,Coloray International Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+950210,Prestige BioPharma Limited,KOSPI,KO,기타,,0,SmallCap
+000250,Sam Chun Dang Pharm. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+000440,Joong Ang Enervis Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+0004Y0,0004Y0,KOSDAQ,KQ,기타,,0,SmallCap
+001000,Silla Textile Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+001540,Ahn-Gook Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+001810,Moorim SP Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+002230,PS Tec. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+002290,Samil Enterprise Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+002680,Hantop Inc,KOSDAQ,KQ,기타,,0,SmallCap
+002800,Sinsin Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+003100,SUN KWANG CO.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+003310,Daejoo Inc,KOSDAQ,KQ,기타,,0,SmallCap
+003380,Harim Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+0037T0,KB No. 32 Special Purpose Acquisition Company,KOSDAQ,KQ,기타,,0,SmallCap
+003800,Ace Bed Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+0041B0,0041B0,KOSDAQ,KQ,기타,,0,SmallCap
+0041J0,0041J0,KOSDAQ,KQ,기타,,0,SmallCap
+0041L0,Hana 35 Special Purpose Acquisition Company,KOSDAQ,KQ,기타,,0,SmallCap
+0044K0,0044K0,KOSDAQ,KQ,기타,,0,SmallCap
+004590,Hankook Furniture Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+004650,Changhae Ethanol Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+004780,Daeryuk Can Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005160,Dongkuk Industries Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005290,Dongjin Semichem Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005670,FOODWELL Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005710,Daewon Sanup Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005860,Hanil Feed Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+005990,Maeil Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006050,Kuk Young G&M Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006140,PJ Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006730,Seobu T&D Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006910,Bosung Power Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+006920,Mohenz.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007370,Jin Yang Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007390,NatureCell Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007530,Youngsin Metal Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007720,Daemyung Sonoseason Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007770,Hanil Chemical Ind. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+007820,SMCore.Inc,KOSDAQ,KQ,기타,,0,SmallCap
+008290,Wonpung Mulsan Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+008370,Wonpoong Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+008470,Booster Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+008830,Daedong Gear Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+009300,Sam-A Pharm. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+009520,POSCO M-TECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+009780,MSC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+010170,Taihan Fiber Optics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+010240,Heungkuk Metaltech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+010280,Ssangyong Information & Communications Corp,KOSDAQ,KQ,기타,,0,SmallCap
+010470,Oricom Inc,KOSDAQ,KQ,기타,,0,SmallCap
+011040,Kyung Dong Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+011080,HYUNGJI INNOVATION & CREATIVE Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+011320,Unick Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+011370,SEOHAN Const. & Eng.co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+011560,Sebo Manufacturing Engineering & Construction Corp,KOSDAQ,KQ,기타,,0,SmallCap
+012340,Nuintek Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+012620,Wonil Special Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+012700,The LEADCORP Inc,KOSDAQ,KQ,기타,,0,SmallCap
+012790,Sinil Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+012860,Mobase Electronics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+013030,Hy-Lok Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+013120,DongWon Development Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+013310,A-Jin Industry Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+013720,CBI Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+013810,SPECO Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+013990,Agabang&Company,KOSDAQ,KQ,기타,,0,SmallCap
+014190,Wonik Cube Corp,KOSDAQ,KQ,기타,,0,SmallCap
+014470,Bubang Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+014570,Korean Drug Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+014620,Sung Kwang Bend Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+014940,Oriental Precision & Engineering Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+014970,SAMRYOONG Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+015710,Kocom Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+015750,Sungwoo Hitech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+016100,Leaders Cosmetics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+016250,SGC eTEC E&C Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+016600,Q Capital Partners Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+016920,CAS Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+017000,SHINWON CONSTRUCTION COMPANY Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+017250,Inter-M Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+017480,Samhyun Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+017510,Semyung Electric Machinery Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+017650,Daelim Paper Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+017890,Korea Alcohol Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018000,Unison Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018120,Jinro Distillers Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018290,VT GMP Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018310,Sammok S-Form Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018620,WooGene B&G Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018680,Seoul Pharma Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+018700,Barunson Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019010,VenueG Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019210,YG-1 Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019540,Ilji Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019550,SBI Investment KOREA Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019570,Leaders Technology Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019660,Globon Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019770,Seoyon Topmetal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+019990,Enertork Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+020180,Daishin Information & Communications Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+020400,Daedong Metals Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+020710,Sigong Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+021080,Atinum Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+021320,KCC Engineering & Construction Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+021650,Cubic Korea Inc,KOSDAQ,KQ,기타,,0,SmallCap
+021880,Mason Capital Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+022220,Jeongsan Aikang Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023160,Tae Kwang Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+023410,Eugene Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+023600,Sambo Corrugated Board Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023760,Han Kook Capital Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023770,PLAYWITH Inc,KOSDAQ,KQ,기타,,0,SmallCap
+023790,Dongil Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023900,Pungguk Ethanol Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+023910,Daihan Pharmaceutical Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024060,Hung -Gu Oil Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024120,KB Autosys Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024740,Hanil Forging Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024800,Yoosung T&S Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024840,Kbi Metal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024850,PSMC CO. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024880,Korea Parts & Fasteners Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024910,Kyung Chang Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+024940,PN Poong Nyun Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025320,Synopex Inc,KOSDAQ,KQ,기타,,0,SmallCap
+025440,Daesung Eltec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025550,Hankuk Steel Wire Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025770,Korea Information & Communications Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025870,Silla Sg Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025880,KC Feed Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025900,Dongwha Enterprise Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+025950,Dongsin Engineering & Construction,KOSDAQ,KQ,기타,,0,SmallCap
+025980,Ananti Inc,KOSDAQ,KQ,기타,,0,SmallCap
+026040,J.ESTINA Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+026150,Tuksu Engineering & ConstructionLtd,KOSDAQ,KQ,기타,,0,SmallCap
+026910,Kwang Jin Ind. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+027040,Seoul Electronics & Telecom Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+027050,Coreana Cosmetics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+027580,SANGBO Corp,KOSDAQ,KQ,기타,,0,SmallCap
+027710,FarmStory Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+027830,Daesung Private Equity Inc,KOSDAQ,KQ,기타,,0,SmallCap
+028080,Humax Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+028300,HLB Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+029480,Lix Solution Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+030520,Hancom Inc,KOSDAQ,KQ,기타,,0,SmallCap
+030530,Wonik Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+030960,Yangjisa Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+031310,Eyesvision Corp,KOSDAQ,KQ,기타,,0,SmallCap
+031330,SAMT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+031510,Austem Company Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+031860,NSN Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+031980,PSK HOLDINGS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+032080,AztechWB Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032190,Daou Data Corp,KOSDAQ,KQ,기타,,0,SmallCap
+032280,Samil Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032500,KMW Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+032540,TJ media Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032580,Fidelix Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032620,UBcare. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032680,Softcen Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032685,Softcen Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032750,SAMJIN Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032800,Fantagio Corp,KOSDAQ,KQ,기타,,0,SmallCap
+032820,Woori Technology Inc,KOSDAQ,KQ,기타,,0,SmallCap
+032850,BIT Computer Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+032940,Wonik Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+032960,Dongil Technology Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033050,Jeong Moon Information. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033100,Cheryong Electric Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033130,DIGITAL CHOSUN Inc,KOSDAQ,KQ,기타,,0,SmallCap
+033160,MK Electron Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033170,Signetics Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+033200,Moatech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033230,Insung Information Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033290,COWELL FASHION Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033310,M2N Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033320,JCH Systems Inc,KOSDAQ,KQ,기타,,0,SmallCap
+033500,Dongsung FineTec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033540,Paratech Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+033560,Bluecom Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+033640,Nepes Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+033830,Taegu Broadcasting Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+034810,Haesung Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+034940,ChoA Pharmaceutical Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+034950,Korea Ratings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035080,Interpark Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035200,PlumbFast Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035460,Kisan Telecom Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035600,Kginicis Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035610,Solborn Inc,KOSDAQ,KQ,기타,,0,SmallCap
+035620,Barunson Entertainment & Arts Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+035760,CJ ENM CO. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035810,EASY HOLDINGS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+035900,JYP Entertainment Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+036000,YeaRimDang Publishing Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036010,ABCO Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036030,KT Hitel Corporation. Limited,KOSDAQ,KQ,기타,,0,SmallCap
+036090,WIZIT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036120,SCI Information Service Inc,KOSDAQ,KQ,기타,,0,SmallCap
+036190,Geumhwa Plant Service & Construction Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036200,UNISEM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036220,"Osang Healthcare Co.,Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+036480,Daesung Microbiological Labs. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036540,SFA Semicon Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036560,Young Poong Precision Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+036620,GAMSUNG Corporation Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036630,Sejong Telecom Inc,KOSDAQ,KQ,기타,,0,SmallCap
+036640,HRS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036670,KCI Limited,KOSDAQ,KQ,기타,,0,SmallCap
+036710,Simmtech Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036800,Nice Information & Telecommunication Inc,KOSDAQ,KQ,기타,,0,SmallCap
+036810,Fine Semitech Corp,KOSDAQ,KQ,기타,,0,SmallCap
+036830,Soulbrain Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+036890,JINSUNG T.E.C. Inc,KOSDAQ,KQ,기타,,0,SmallCap
+036930,JUSUNG ENGINEERING Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037030,Powernet Technologies Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+037070,Paseco Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037230,Hankukpackage Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037330,Inzi Display Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037350,Sungdo Engineering & Construction Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037370,EG Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+037400,Wooree Lighting Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037440,Heerim Architects & Planners Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037460,Samji Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037760,Cenit Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+037950,Elcomtec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038010,Jeil Technos Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038060,Lumens Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038070,Seoulin Bioscience Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038110,Ecoplastic Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+038290,Macrogen Inc,KOSDAQ,KQ,기타,,0,SmallCap
+038390,RedcapTour Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038460,BioSmart Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038500,SAMPYO Cement Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038530,Gold Pacific Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038540,Sangsangin Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038620,WIZ CORP Inc,KOSDAQ,KQ,기타,,0,SmallCap
+038680,Snet systems Inc,KOSDAQ,KQ,기타,,0,SmallCap
+038870,EcoBio Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+038880,iA Inc,KOSDAQ,KQ,기타,,0,SmallCap
+038950,FINEDIGITAL Inc,KOSDAQ,KQ,기타,,0,SmallCap
+039010,Hyundai HT CoLtd,KOSDAQ,KQ,기타,,0,SmallCap
+039020,Eagon Holdings Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039030,EO Technics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039200,Oscotec Inc,KOSDAQ,KQ,기타,,0,SmallCap
+039240,Gyeongnam Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039290,InfoBank Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+039310,Sejoong Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039340,Korea Business News Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039420,KL-Net Corp,KOSDAQ,KQ,기타,,0,SmallCap
+039440,STI Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039560,DASAN Networks Inc,KOSDAQ,KQ,기타,,0,SmallCap
+039610,HS Valve Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039740,Korea Information Engineering Services Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+039830,Aurora World Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+039840,DIO Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+039860,NanoenTekInc,KOSDAQ,KQ,기타,,0,SmallCap
+039980,Leenos Corp,KOSDAQ,KQ,기타,,0,SmallCap
+040160,NuriFlex Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+040300,YTN Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+040350,CUROCOM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+040420,JLS Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+040610,SG&G Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+040910,ICD Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041020,Polaris Office Corp,KOSDAQ,KQ,기타,,0,SmallCap
+041190,Woori Technology Investment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041440,Hyundai Everdigm Corp,KOSDAQ,KQ,기타,,0,SmallCap
+041460,Korea Electronic Certification Authority Inc,KOSDAQ,KQ,기타,,0,SmallCap
+041510,SM Entertainment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041520,e-LITECOM CO. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041830,InBody Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041910,EstechPharma Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041920,MEDIANA Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041930,Dong-A Hwa Sung Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+041960,Komipharm International Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042040,KPM TECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042110,SCD Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042370,Vitzro Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042420,NEOWIZ HOLDINGS Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+042500,RingNet Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042510,Raonsecure Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042520,HansBiomed Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+042600,Seronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+042940,Sangji Caelum Inc,KOSDAQ,KQ,기타,,0,SmallCap
+043150,Value Added Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+043200,Paru Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+043260,Sungho Electronics Corp,KOSDAQ,KQ,기타,,0,SmallCap
+043340,Essen Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+043360,Digital Graphics Incorporation,KOSDAQ,KQ,기타,,0,SmallCap
+043370,PHA Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+043610,Genie Music Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+043910,Nature and Environment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+044180,KD Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+044340,Winix Inc,KOSDAQ,KQ,기타,,0,SmallCap
+044480,Blueberry NFT CO.LTD,KOSDAQ,KQ,기타,,0,SmallCap
+044490,Taewoong Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+044780,HK Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+044960,Eagle Veterinary Technology Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+044990,044990,KOSDAQ,KQ,기타,,0,SmallCap
+045060,Okong Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+045100,Hanyang ENG Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045300,Sungwoo Techron. Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045340,Total Soft Bank Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045390,DAEA TI Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045510,Zungwon En-Sys Inc,KOSDAQ,KQ,기타,,0,SmallCap
+045520,Clean & Science co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045660,Atec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+045970,CoAsia Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+046120,Orbitech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+046210,Panagene Inc,KOSDAQ,KQ,기타,,0,SmallCap
+046310,BG T&A Co,KOSDAQ,KQ,기타,,0,SmallCap
+046390,Samhwa Networks Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+046440,KG Mobilians Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+046890,Seoul Semiconductor Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+046940,Woowon Development Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+047080,HANBIT SOFT Inc,KOSDAQ,KQ,기타,,0,SmallCap
+047310,Powerlogics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+047560,ESTsoft Corp,KOSDAQ,KQ,기타,,0,SmallCap
+047770,Codes Combine Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+047920,HLB Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048410,Hyundai Bioscience Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048430,Yura Tech. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048470,Daedong Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048530,iNtRON Biotechnology Inc,KOSDAQ,KQ,기타,,0,SmallCap
+048550,SM Culture & Contents Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048770,TPC Mechatronics Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+048830,NPK Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048870,Synergy Innovation Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+048910,Daewon Media Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049070,Intops Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049080,Gigalane Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049120,Fine DNC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049180,Cellumed Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049430,Komelon Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+049470,SGA Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049480,Openbase Inc,KOSDAQ,KQ,기타,,0,SmallCap
+049520,UIL Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049550,InkTec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049630,Jaeyoung Solutec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049720,Koryo Credit Information Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+049830,Seung Il Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+049950,meerecompany Incorporated,KOSDAQ,KQ,기타,,0,SmallCap
+049960,Cell Biotech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+050090,Phoenix Materials Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+050110,CammSys Corp,KOSDAQ,KQ,기타,,0,SmallCap
+050120,ES Cube Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+050760,Spolytech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+050860,Asia Technology Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+050890,SOLiD Inc,KOSDAQ,KQ,기타,,0,SmallCap
+050960,SOOSAN INT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+051160,GaeaSoft Corp,KOSDAQ,KQ,기타,,0,SmallCap
+051360,TOVIS Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+051370,Interflex Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+051380,PC Direct Inc,KOSDAQ,KQ,기타,,0,SmallCap
+051390,Yw Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+051490,Nara Mold & Die Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+051500,CJ Freshway Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+051780,Curo Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+051980,JOONGANG DNM Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052020,STCube Inc,KOSDAQ,KQ,기타,,0,SmallCap
+052220,iMBC Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052260,HYUNDAI BIOLAND Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052300,"Ocean In W Co.,Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+052330,Kortek Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+052400,Kona I Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052460,iCRAFT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052600,Hannet Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052710,Amotech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052790,Actoz Soft Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052860,I&C Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+052900,KMH Hitech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053030,BINEX Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053050,GSE Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053060,Saedong Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053160,FreeMs Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+053260,Keum Kang Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053270,Guyoung Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053280,YES24 Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053290,Neungyule Education Inc,KOSDAQ,KQ,기타,,0,SmallCap
+053300,Korea Information Certificate Authority Inc,KOSDAQ,KQ,기타,,0,SmallCap
+053350,INITECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053610,Protec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053620,TAEYANG Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+053700,Sambo Motors Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+053800,AhnLab Inc,KOSDAQ,KQ,기타,,0,SmallCap
+053980,Osangjaiel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054040,Korea Computer Inc,KOSDAQ,KQ,기타,,0,SmallCap
+054050,Nongwoobio Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054090,Samjin LND Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054210,Elentec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054300,Panstar Enterprise Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054410,Korea Plasma Technology U Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054450,Telechips Inc,KOSDAQ,KQ,기타,,0,SmallCap
+054540,SAMYOUNG M-Tek Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054620,APS Holdings Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+054670,Daehan New Pharm Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054780,KEYEAST.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054800,IDIS Holdings Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+054920,Hancom WITH Inc,KOSDAQ,KQ,기타,,0,SmallCap
+054930,Yooshin Engineering Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+054940,EXA E&C Inc,KOSDAQ,KQ,기타,,0,SmallCap
+054950,JVM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+056080,Yujin Robot Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+056190,SFA Engineering Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+056360,Comunication Weaver Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+056700,Shinwha Intertek Corp,KOSDAQ,KQ,기타,,0,SmallCap
+057030,YBM Net Inc,KOSDAQ,KQ,기타,,0,SmallCap
+057540,Omnisystem Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+057680,T Scientific Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+058110,MEKICS Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+058400,Korea New Network Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+058470,LEENO Industrial Inc,KOSDAQ,KQ,기타,,0,SmallCap
+058610,SPG Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+058630,Mgame Corp,KOSDAQ,KQ,기타,,0,SmallCap
+058820,CMG Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+059090,MiCo Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+059100,i-Components Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+059120,Ajinextek Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+059210,Meta Biomed Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060150,INSUN Environmental New Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060230,exax Inc,KOSDAQ,KQ,기타,,0,SmallCap
+060250,NHN KCP Corp,KOSDAQ,KQ,기타,,0,SmallCap
+060260,Nuvotec,KOSDAQ,KQ,기타,,0,SmallCap
+060280,Curexo Inc,KOSDAQ,KQ,기타,,0,SmallCap
+060310,3S KOREA Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060370,KT Submarine Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060380,Dongyang S.Tec Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060480,Kukil Metal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060540,System and Application Technologies Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060560,Home Center Holdings Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+060570,Dreamus Company,KOSDAQ,KQ,기타,,0,SmallCap
+060590,CTCBIO Inc,KOSDAQ,KQ,기타,,0,SmallCap
+060720,KHVATEC Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+061040,RFTech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+061250,Hwail Pharmaceutical Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+061970,LB Semicon Inc,KOSDAQ,KQ,기타,,0,SmallCap
+063080,GAMEVIL Inc,KOSDAQ,KQ,기타,,0,SmallCap
+063170,Seoul Auction Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+063440,FNC ADD CULTURE. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+063570,NICE Total Cash Management Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064240,Homecast Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064260,Danal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064290,INTEKPLUS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064480,BRIDGETEC Corp,KOSDAQ,KQ,기타,,0,SmallCap
+064550,Bioneer Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+064760,Tokai Carbon Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064800,Gemvaxlink Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+064820,Cape Industries Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065060,GNCO Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065130,TOP Engineering Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065170,Next Bt Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065350,Shinsung Delta Tech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065440,ELUON Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+065450,Victek Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065500,Orient Precision Industries Inc,KOSDAQ,KQ,기타,,0,SmallCap
+065510,Huvitz Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065530,Wiable Corp,KOSDAQ,KQ,기타,,0,SmallCap
+065650,Medifron DBT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065660,Anterogen.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065680,UJU Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065690,PAKERS.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065710,Seoho Electric Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+065770,CS Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+065950,Welcron Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+066130,Haatz Inc,KOSDAQ,KQ,기타,,0,SmallCap
+066310,Q.S.I Co. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+066590,Woosu AMS Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066620,Kukbo Design Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066670,Display Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066700,Theragen Etex Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066900,DAP Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+066910,SONOKONG Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+066980,E& Corporation CO. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+067000,JOYCITY Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+067010,ECSTELECOM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+067080,DAE HWA Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+067160,AfreecaTV Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+067170,Autech Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+067280,Multicampus Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+067290,JW Shinyak Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+067310,HANA Micron Inc,KOSDAQ,KQ,기타,,0,SmallCap
+067390,AeroSpace Technology of Korea,KOSDAQ,KQ,기타,,0,SmallCap
+067570,NVH Korea Inc,KOSDAQ,KQ,기타,,0,SmallCap
+067730,Logisys Inc,KOSDAQ,KQ,기타,,0,SmallCap
+067770,Sejin T.S Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+067900,Y-Entec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+067920,IGLOO SECURITY Inc,KOSDAQ,KQ,기타,,0,SmallCap
+067990,Deutsch Motors Inc,KOSDAQ,KQ,기타,,0,SmallCap
+068050,Pan Entertainment Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+068100,068100,KOSDAQ,KQ,기타,,0,SmallCap
+068240,Dawonsys Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+068760,Celltrion Pharm Inc,KOSDAQ,KQ,기타,,0,SmallCap
+068930,Digital Daesung Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+069080,Webzen Inc,KOSDAQ,KQ,기타,,0,SmallCap
+069140,Nuriplan Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+069410,nTels Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+069510,ESTec Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+069920,ISE Commerce Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+070590,Hansol Inticube Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+071280,Rorze Systems Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+071670,A-Tech Solution Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+071850,Castec Korea Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072020,Choong Ang Vaccine Laboratory Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072470,Woory Industrial Holdings Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072770,Yulho Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072870,MegaStudy Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072950,Vissem Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+072990,HCT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073010,KSP Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+073110,LMS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073190,Duoback Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073490,Innowireless Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073540,Frtek Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073560,Woorison F&G Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+073570,WI Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+074430,Aminologics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+074600,Wonik QnC Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+075130,Plantynet Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+075970,Dongkuk Refractories & Steel Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+076080,Welcron Hantec Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+076610,Haesung Optics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+077360,Duksan Hi Metal Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078020,EBEST Investment & Securities Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078070,Ubiquoss Holdings Inc,KOSDAQ,KQ,기타,,0,SmallCap
+078140,Daebongls.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078150,HB Technology CO.LTD,KOSDAQ,KQ,기타,,0,SmallCap
+078160,MEDIPOST Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078340,Com2uS Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+078350,Hanyang Digitech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078600,Daejoo Electronic Materials Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078860,IokCompany Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+078890,Kaonmedia Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079000,Watos Corea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079170,Hanchang Ind.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079370,Zeus Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079650,Seosan Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+079810,DE&T Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079940,GABIA Inc,KOSDAQ,KQ,기타,,0,SmallCap
+079950,INVENIA Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+079960,Dongyang E&P Inc,KOSDAQ,KQ,기타,,0,SmallCap
+080010,eSang Networks Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+080160,Modetour Network Inc,KOSDAQ,KQ,기타,,0,SmallCap
+080220,Jeju Semiconductor Corp,KOSDAQ,KQ,기타,,0,SmallCap
+080420,Moda-InnoChips Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+080470,Sungchang Autotech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+080520,ODTech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+080530,Kodi-S Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+080580,Okins Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+081150,Tplex Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+081180,SEC,KOSDAQ,KQ,기타,,0,SmallCap
+081580,Sungwoo Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+082210,Optrontec Inc,KOSDAQ,KQ,기타,,0,SmallCap
+082270,GemVax&KAEL Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+082800,Vivozon Healthcare Inc,KOSDAQ,KQ,기타,,0,SmallCap
+082850,Wooree Bio Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+082920,VITZROCELL Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+083310,LOT VACUUM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+083450,Global Standard Technology Limited,KOSDAQ,KQ,기타,,0,SmallCap
+083550,KM Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+083650,BHI Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+083660,Gentrogroup Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+083790,CrystalGenomics Inc,KOSDAQ,KQ,기타,,0,SmallCap
+083930,Avaco Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+084110,Huons Global Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+084180,Soosung Innovation Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+084370,Eugene Technology Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+084650,LabGenomics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+084730,THINKWARE Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+084990,Helixmith Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+085660,CHA Biotech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+085670,NewFlex Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+085810,Alticast Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+085910,Neo Technical System Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086040,Biotoxtech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086060,GeneBioTech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086390,UniTest Incorporation,KOSDAQ,KQ,기타,,0,SmallCap
+086450,DongKook Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086520,Ecopro Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086670,BMT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086890,ISU Abxis Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+086900,Medy-Tox Inc,KOSDAQ,KQ,기타,,0,SmallCap
+086960,Hancom MDS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+086980,Showbox Corp,KOSDAQ,KQ,기타,,0,SmallCap
+087010,Peptron Inc,KOSDAQ,KQ,기타,,0,SmallCap
+087260,Mobile Appliance Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+087600,Pixelplus. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+088130,Dong A Eltek Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+088280,088280,KOSDAQ,KQ,기타,,0,SmallCap
+088290,Ewon Comfortech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+088340,088340,KOSDAQ,KQ,기타,,0,SmallCap
+088390,Innox Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+088800,Ace Technologies Corp,KOSDAQ,KQ,기타,,0,SmallCap
+088910,Dongwoo Farm To Table Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089010,CHEMTRONICS.CO.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089030,Techwing Inc,KOSDAQ,KQ,기타,,0,SmallCap
+089140,NexturnBioscience Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089150,Korea Computer Terminal Inc,KOSDAQ,KQ,기타,,0,SmallCap
+089230,The E&M Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089600,Nasmedia Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089790,JT Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+089850,UBIVELOX Inc,KOSDAQ,KQ,기타,,0,SmallCap
+089890,KOSES Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+089980,Sang-A Frontec Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090150,KWANGJIN WINTEC CO. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090360,Robostar Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090410,Duckshin Housing Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090470,JASTECH Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090710,Hyulim ROBOT Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+090850,Ezwelfare Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+091120,EM-Tech.CO. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+091340,S&K Polytec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+091440,Telefield Inc,KOSDAQ,KQ,기타,,0,SmallCap
+091580,Sangsin Energy Display Precision Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+091590,Nam Hwa Construction Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+091700,Partron Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092040,Amicogen Inc,KOSDAQ,KQ,기타,,0,SmallCap
+092070,DNF Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092130,e-Credible Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092300,Hyunwoo Industrial Co. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+092460,Hanla IMS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092600,NEXTCHIP Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+092730,NeoPharm CO. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+092870,Exicon Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+093190,Bixolon Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+093320,KINX Inc,KOSDAQ,KQ,기타,,0,SmallCap
+093380,Pungkang Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+093520,MAKUS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+093640,Tamul Multimedia Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+093920,SEOWONINTECH.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+094170,Dongwoon Anatech Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+094360,Chips&Media Inc,KOSDAQ,KQ,기타,,0,SmallCap
+094480,GalaxiaMoneytree Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+094840,Suprema HQ Inc,KOSDAQ,KQ,기타,,0,SmallCap
+094850,Very Good Tour Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+094860,NEORIGIN Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+094940,Puloon Technology Inc,KOSDAQ,KQ,기타,,0,SmallCap
+094970,JMT Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095190,ENERGY&MACHINERY KOREA Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095270,Wave Electronics Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095340,ISC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095500,MNtech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095610,TES Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+095660,NEOWIZ,KOSDAQ,KQ,기타,,0,SmallCap
+095700,Genexine Inc,KOSDAQ,KQ,기타,,0,SmallCap
+095910,S-Energy Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+096240,CHUNGDAHM Learning Inc,KOSDAQ,KQ,기타,,0,SmallCap
+096350,DaeChang Solution Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+096530,Seegene Inc,KOSDAQ,KQ,기타,,0,SmallCap
+096630,S Connect Co. LTD,KOSDAQ,KQ,기타,,0,SmallCap
+096690,Aroot Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+096870,LDT Inc,KOSDAQ,KQ,기타,,0,SmallCap
+097800,Winpac Inc,KOSDAQ,KQ,기타,,0,SmallCap
+097870,HyosungONBCo.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+098120,Micro Contact Solution Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+098460,Koh Young Technology Inc,KOSDAQ,KQ,기타,,0,SmallCap
+098660,STO Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+099190,i-SENS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+099220,SDN Company. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+099320,Satrec Initiative Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+099410,Dongbang Ship Machinery Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+099440,Smec Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+100030,Mobileleader Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+100120,Vieworks Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+100130,Dongkuk Structures & Construction Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+100660,Seoam Machinery Industry Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+100700,Sewoon Medical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101000,Sangsangin Industry Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+101160,Worldex Industry & Trading Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101170,Woorim Machinery Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101240,CQV Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101330,Mobase Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101400,N Citron Inc,KOSDAQ,KQ,기타,,0,SmallCap
+101490,S&S TECH Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+101670,Korea SE Corp,KOSDAQ,KQ,기타,,0,SmallCap
+101730,Wemade Max Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+101930,Inhwa Precision Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+102120,ABOV Semiconductor Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+102710,ENF Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+102940,Kolon Life Science Inc,KOSDAQ,KQ,기타,,0,SmallCap
+104040,Daesung Finetec Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+104200,NHN Bugs Corp,KOSDAQ,KQ,기타,,0,SmallCap
+104460,DYPNF Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+104480,TK Chemical Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+104540,Corentec Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+104830,WONIK Materials Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+105330,KNW Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+105550,Truwin Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+105740,DK-Lok Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+105760,105760,KOSDAQ,KQ,기타,,0,SmallCap
+106190,High Tech Pharm Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+106240,Finetechnix. Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+107640,"HanJung Natural Connectivity System.co.,Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+108230,TOPTEC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+108380,DAEYANG ELECTRIC.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+108860,Selvas Ai Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+109080,Opticis Company Limited,KOSDAQ,KQ,기타,,0,SmallCap
+109610,S.Y.PANEL Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+109670,"C-SITE Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+109740,DSK Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+109820,GeneMatrix Inc,KOSDAQ,KQ,기타,,0,SmallCap
+109860,Dongil Metal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+109960,Aprogen Healthcare & Games Inc,KOSDAQ,KQ,기타,,0,SmallCap
+110790,Creas F&C Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+112040,Wemade Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+113810,Dgenx Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+114190,KANGWON Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+114450,KPX Lifescience.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+114630,Uno&Company.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+114810,Iones Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115160,Humax Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115180,Qurient Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115310,INFOvine co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115440,WooriNet Inc,KOSDAQ,KQ,기타,,0,SmallCap
+115450,Digital Aria Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115480,CU Medical Systems Inc,KOSDAQ,KQ,기타,,0,SmallCap
+115500,Korea Computer & Systems Inc,KOSDAQ,KQ,기타,,0,SmallCap
+115570,StarFlex Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+115610,IMAGIS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+118990,Motrex Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+119500,Formetal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+119830,ITEK Inc,KOSDAQ,KQ,기타,,0,SmallCap
+119850,GnCenergy Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+120240,Daejung Chemicals & Metals Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+121440,GOLFZON NEWDIN HOLDINGS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+121600,Advanced Nano Products Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+121850,KOYJ Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122350,Samkee Automotive Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122450,KMH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122640,Yest Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122690,Seojin Automotive Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+122870,YG Entertainment Inc,KOSDAQ,KQ,기타,,0,SmallCap
+122990,WiSoL CO.LTD,KOSDAQ,KQ,기타,,0,SmallCap
+123010,POLARIS WORKS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+123040,MS Autotech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+123330,Genic Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+123410,Korea Fuel-Tech Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+123420,SundayToz Corp,KOSDAQ,KQ,기타,,0,SmallCap
+123570,eMnet Inc,KOSDAQ,KQ,기타,,0,SmallCap
+123750,Alton Sports Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+123840,Hanil Vacuum Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+123860,AnaPass Inc,KOSDAQ,KQ,기타,,0,SmallCap
+124500,Itcen Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+126600,Kopla Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+126640,Hwashin Precision Engineering Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+126700,HyVision System. Inc,KOSDAQ,KQ,기타,,0,SmallCap
+126730,Korchip,KOSDAQ,KQ,기타,,0,SmallCap
+126880,JNK Heaters Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+127120,DNA Link Inc,KOSDAQ,KQ,기타,,0,SmallCap
+127710,Asia Economy Daily Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+128660,PJ Metal Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+130500,Gumho NT Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+130580,Nice D&B Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+130740,TPC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131030,DHP Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131090,Secuve Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131100,SKY E&M Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131180,Dilli Illustrate Inc,KOSDAQ,KQ,기타,,0,SmallCap
+131220,DAIHAN Scientific Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131290,TSE Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131370,RSUPPORT Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131400,EV Advanced Material Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131760,Finetek Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+131970,Tesna Inc,KOSDAQ,KQ,기타,,0,SmallCap
+133750,MegaMD Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+134060,e-future.Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+134580,Digital Multimedia Technology Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+136150,WONILTNI,KOSDAQ,KQ,기타,,0,SmallCap
+136480,HARIM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+136540,WINS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+137400,People & Technology Inc,KOSDAQ,KQ,기타,,0,SmallCap
+137940,NextEye Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+137950,JC Chemical Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+138070,Shinjin Sm Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+138080,OE Solutions Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+138610,NIBEC Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+139670,KineMaster Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+140410,Mezzion Pharma Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+140430,Catis. Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+140520,Daechang Steel Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+140860,Parksystems Corp,KOSDAQ,KQ,기타,,0,SmallCap
+141000,Viatron Technologies Inc,KOSDAQ,KQ,기타,,0,SmallCap
+141080,LegoChem Biosciences Inc,KOSDAQ,KQ,기타,,0,SmallCap
+142210,Unitron Tech Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+142280,Green Cross Medical Science Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+142760,Bioleaders Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+143160,Intelligent Digital Integrated Security Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+143240,SaraminHR Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+143540,YoungWoo DSP Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+144510,Green Cross Lab Cell Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+145020,Hugel Inc,KOSDAQ,KQ,기타,,0,SmallCap
+145170,Nobland International,KOSDAQ,KQ,기타,,0,SmallCap
+146060,"Yulchon Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+147830,Cheryong Industrial Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+148250,RN2 Technologies Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+149950,Avatec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+150900,FASOO.COM Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+151860,KG Eco Technology Services Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+153460,Nable Communications Inc,KOSDAQ,KQ,기타,,0,SmallCap
+153490,Wooree E&L Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+154040,Solueta Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+155650,Ymc Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+159580,Zero to Seven Inc,KOSDAQ,KQ,기타,,0,SmallCap
+159910,Skin n Skin Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+160190,Higen RNM,KOSDAQ,KQ,기타,,0,SmallCap
+160550,Next Entertainment World Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+160980,Cymechs Inc,KOSDAQ,KQ,기타,,0,SmallCap
+166090,Hana Materials Inc,KOSDAQ,KQ,기타,,0,SmallCap
+166480,CORESTEM Inc,KOSDAQ,KQ,기타,,0,SmallCap
+170030,Hyundai Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+170790,Piolink Inc,KOSDAQ,KQ,기타,,0,SmallCap
+170920,LTC Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+171010,Ram Technology Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+171090,SUNIC SYSTEM Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+171120,Lion Chemtech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+172670,ALT Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+173940,FNC Entertainment Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+174900,AbClon Inc,KOSDAQ,KQ,기타,,0,SmallCap
+175140,INFOMARK Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+177830,Pavonine Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+178320,Seojin System Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+179900,UTI Inc,KOSDAQ,KQ,기타,,0,SmallCap
+182360,Cube Entertainment Inc,KOSDAQ,KQ,기타,,0,SmallCap
+183300,KoMiCo Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+184230,SGA Solutions Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+185490,EyeGene Inc,KOSDAQ,KQ,기타,,0,SmallCap
+187220,DT&C Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+187270,Shinhwa Contech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+187420,GenoFocus Inc,KOSDAQ,KQ,기타,,0,SmallCap
+188260,188260,KOSDAQ,KQ,기타,,0,SmallCap
+189300,Intellian Technologies Inc,KOSDAQ,KQ,기타,,0,SmallCap
+189690,FORCS Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+189860,SEOJEON ELECTRIC MACHINERY Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+189980,Hyungkuk F&B Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+190510,Namuga Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+191410,Ryukil C&S Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+191420,TegoScience Inc,KOSDAQ,KQ,기타,,0,SmallCap
+192250,KB No.2 Special Purpose Acq,KOSDAQ,KQ,기타,,0,SmallCap
+192390,Winhitech Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+192440,Spigen Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+193250,Young Bag Micro Motors Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+194480,Devsisters corporation,KOSDAQ,KQ,기타,,0,SmallCap
+195990,Ugint Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+196170,ALTEOGEN Inc,KOSDAQ,KQ,기타,,0,SmallCap
+196700,WAPS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+198940,"Hanjoo Light Metal Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+199430,199430,KOSDAQ,KQ,기타,,0,SmallCap
+199480,199480,KOSDAQ,KQ,기타,,0,SmallCap
+199550,"Laseroptek Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+200130,Kolmar BNH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+200230,Telcon Inc,KOSDAQ,KQ,기타,,0,SmallCap
+200470,Hisem Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+200670,Humedix Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+200710,ADTechnology Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+200780,BCWORLD PHARM. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+201490,Me2on Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+203650,Dream Security co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+204620,Global Tax Free Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+204840,IBKS No2 SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+205100,Kyobo With Special Purpose Acq,KOSDAQ,KQ,기타,,0,SmallCap
+205470,Humasis Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+205500,KB No4 SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+206400,Korea SPAC 2,KOSDAQ,KQ,기타,,0,SmallCap
+206560,Dexter Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+206640,NH SPAC 2,KOSDAQ,KQ,기타,,0,SmallCap
+206650,EuBiologics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+207760,Mr. Blue Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+208140,JUNGDAWN Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+208350,KB SPAC 5,KOSDAQ,KQ,기타,,0,SmallCap
+208370,Hana Must SPAC 2,KOSDAQ,KQ,기타,,0,SmallCap
+208640,KB SPAC 6,KOSDAQ,KQ,기타,,0,SmallCap
+208710,Kyobo 3 SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+209640,209640,KOSDAQ,KQ,기타,,0,SmallCap
+210120,"Victory Contents Co.,Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+211270,Asia Pacific Satellite Inc,KOSDAQ,KQ,기타,,0,SmallCap
+212560,NEOOTO Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+213420,DukSan Neolux Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+214150,CLASSYS Inc,KOSDAQ,KQ,기타,,0,SmallCap
+214180,Hecto Innovation Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+214270,KB SPAC 7,KOSDAQ,KQ,기타,,0,SmallCap
+214370,Caregen Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+214430,i3system Inc,KOSDAQ,KQ,기타,,0,SmallCap
+214450,Pharma Reaserch Prod Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+214680,DRTECH Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+215000,GOLFZON Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+215100,RoboRobo Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+215200,MegaStudyEdu Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+215360,Woory Industrial Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+215380,WOOJUNG BIO Inc,KOSDAQ,KQ,기타,,0,SmallCap
+215480,Daewoo SBI SPAC 1,KOSDAQ,KQ,기타,,0,SmallCap
+215600,SillaJen Inc,KOSDAQ,KQ,기타,,0,SmallCap
+215790,NH SPAC 5,KOSDAQ,KQ,기타,,0,SmallCap
+217190,Genesem Inc,KOSDAQ,KQ,기타,,0,SmallCap
+217270,Daishin Balance 1,KOSDAQ,KQ,기타,,0,SmallCap
+217330,Cytogen Inc,KOSDAQ,KQ,기타,,0,SmallCap
+217500,HI SPAC 3,KOSDAQ,KQ,기타,,0,SmallCap
+217730,Kangstem Biotech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+217820,NS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+218150,Milae Bioresources Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+218410,NH SPAC 8,KOSDAQ,KQ,기타,,0,SmallCap
+219130,TigerElec Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+219550,Jaanh CosmeticsInc.,KOSDAQ,KQ,기타,,0,SmallCap
+220260,LIG-ES SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+221800,"U2Bio Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+221840,Hizeaero Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+221980,KD Chem Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+222040,Cosmax Nbt Inc,KOSDAQ,KQ,기타,,0,SmallCap
+222080,Korea SPAC 3,KOSDAQ,KQ,기타,,0,SmallCap
+222110,PanGen Biotech Inc,KOSDAQ,KQ,기타,,0,SmallCap
+222420,Mirae Asset SPAC 4,KOSDAQ,KQ,기타,,0,SmallCap
+222800,SIMMTECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+222980,Korea Mcnulty Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+224060,Kodi-M Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+224110,Atec T& Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+225530,Bokwang Industry Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+225570,NH SPAC 8,KOSDAQ,KQ,기타,,0,SmallCap
+225590,Shinyoung HappyTomorrow SPAC 2,KOSDAQ,KQ,기타,,0,SmallCap
+226590,Mdevice,KOSDAQ,KQ,기타,,0,SmallCap
+226950,OliX PharmaceuticalsInc,KOSDAQ,KQ,기타,,0,SmallCap
+227610,Outin Futures Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+227950,N2Tech Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+228340,Tongyang Pile Inc,KOSDAQ,KQ,기타,,0,SmallCap
+228760,Genomictree Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+228850,Rayence Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+230240,Hana Financial 7 SPAC,KOSDAQ,KQ,기타,,0,SmallCap
+230360,Echomarketing Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+232140,YCC CORP,KOSDAQ,KQ,기타,,0,SmallCap
+232830,"Itcenpns Co.,Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+234340,Settlebank Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+236200,Suprema Inc,KOSDAQ,KQ,기타,,0,SmallCap
+237690,ST Pharm Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+237750,PNC Technologies co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+237880,CLIO Cosmetics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+238090,NDFOS Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+239340,ZUM Internet Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+239610,HLscience Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+240550,DongBang Medical,KOSDAQ,KQ,기타,,0,SmallCap
+240600,240600,KOSDAQ,KQ,기타,,0,SmallCap
+240810,Wonik Ips Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+241690,UNITEKNO Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+241710,Cosmecca Korea Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+242040,Namu Tech Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+243070,Huons Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+243840,Shin Heung Energy & Electronics Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+246690,T.S. Investment Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+247540,Ecopro BM. Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+250060,Mobiis Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+250930,YeSUN Tech Co.Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+251370,"YMT Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+253450,Studio Dragon Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+255440,"YAS Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+263750,Pearl Abyss Corp,KOSDAQ,KQ,기타,,0,SmallCap
+265520,Advanced Process Systems Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+267320,Naintech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+267980,Maeil Dairies Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+272290,INNOX Advanced Materials Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+274400,"Innosimulation Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+278280,Chunbo Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+282880,COWINTECH Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+289930,289930,KOSDAQ,KQ,기타,,0,SmallCap
+290560,"Parataxis Ethereum, Inc.",KOSDAQ,KQ,기타,,0,SmallCap
+294090,EOFLOW Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+295310,295310,KOSDAQ,KQ,기타,,0,SmallCap
+298380,ABL Bio Inc,KOSDAQ,KQ,기타,,0,SmallCap
+300120,Laon People Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+304360,S.Biomedics Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+308430,308430,KOSDAQ,KQ,기타,,0,SmallCap
+311690,ChunLab Inc,KOSDAQ,KQ,기타,,0,SmallCap
+314130,Genome & Company,KOSDAQ,KQ,기타,,0,SmallCap
+317330,DUKSAN TECHOPIA Co.Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+319660,PSK Inc,KOSDAQ,KQ,기타,,0,SmallCap
+321370,SensorView Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+323350,"Dawon Nexview Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+338840,338840,KOSDAQ,KQ,기타,,0,SmallCap
+344860,Innogene Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+347850,D&D PharmaTech Co.,KOSDAQ,KQ,기타,,0,SmallCap
+348340,Neuromeka Co.Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+351870,"Chai Communication Co.,LTD.",KOSDAQ,KQ,기타,,0,SmallCap
+352090,352090,KOSDAQ,KQ,기타,,0,SmallCap
+354320,ALMAC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+355390,"CrowdWorks, Inc.",KOSDAQ,KQ,기타,,0,SmallCap
+355690,355690,KOSDAQ,KQ,기타,,0,SmallCap
+357780,Soulbrain Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+358570,GI Innovation Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+360350,360350,KOSDAQ,KQ,기타,,0,SmallCap
+362990,"DREAMINSIGHT Co,.Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+365330,365330,KOSDAQ,KQ,기타,,0,SmallCap
+372320,Curocell,KOSDAQ,KQ,기타,,0,SmallCap
+373110,373110,KOSDAQ,KQ,기타,,0,SmallCap
+373170,MICube Solution Inc,KOSDAQ,KQ,기타,,0,SmallCap
+378340,Philenergy Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+381620,"Zenix Robotics Co.,Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+383930,DT&CRO Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+384470,"Coreline Soft, Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+388870,Pharos IBio Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+389650,389650,KOSDAQ,KQ,기타,,0,SmallCap
+393970,DAEJIN ADVANCED MATERIALS,KOSDAQ,KQ,기타,,0,SmallCap
+394800,3billion,KOSDAQ,KQ,기타,,0,SmallCap
+396470,396470,KOSDAQ,KQ,기타,,0,SmallCap
+402490,402490,KOSDAQ,KQ,기타,,0,SmallCap
+403490,"WooDeumGee Farm Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+403850,The Pinkfong Company,KOSDAQ,KQ,기타,,0,SmallCap
+405920,Nara Cellar Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+406820,Beauty Skin Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+407400,Ggumbi Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+408900,Studio Mir Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+412540,"Jeil M&S Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+413640,413640,KOSDAQ,KQ,기타,,0,SmallCap
+415380,415380,KOSDAQ,KQ,기타,,0,SmallCap
+416180,Shinsung ST Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+417200,LS Materials,KOSDAQ,KQ,기타,,0,SmallCap
+417860,Obzen Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+418470,Millie Seojae.,KOSDAQ,KQ,기타,,0,SmallCap
+418550,JEIO CO LTD (PROPOSED),KOSDAQ,KQ,기타,,0,SmallCap
+418620,418620,KOSDAQ,KQ,기타,,0,SmallCap
+419050,Samkee EV Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+419530,SAMG Entertainment Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+420570,"J2KBIO Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+424870,ImmuneOncia,KOSDAQ,KQ,기타,,0,SmallCap
+424960,Smart Radar System Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+425040,TEMC Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+425420,TFE Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+429270,"Sigetronics, Inc",KOSDAQ,KQ,기타,,0,SmallCap
+430690,"Hanssak Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+431190,431190,KOSDAQ,KQ,기타,,0,SmallCap
+432430,YLAB Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+432470,"Kns Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+432720,QUALITAS SEMICONDUCTOR CO. LTD.,KOSDAQ,KQ,기타,,0,SmallCap
+438700,438700,KOSDAQ,KQ,기타,,0,SmallCap
+439580,439580,KOSDAQ,KQ,기타,,0,SmallCap
+440110,FADU Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+440290,440290,KOSDAQ,KQ,기타,,0,SmallCap
+440320,"Openknowl Co.,Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+441270,Fine M-Tech Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+443250,RevuCorporation Inc,KOSDAQ,KQ,기타,,0,SmallCap
+443670,SPSoft Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+444920,444920,KOSDAQ,KQ,기타,,0,SmallCap
+445090,ASICLAND,KOSDAQ,KQ,기타,,0,SmallCap
+445180,Purit Co. Ltd.,KOSDAQ,KQ,기타,,0,SmallCap
+445680,Curiox Biosystems Co. Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+446540,446540,KOSDAQ,KQ,기타,,0,SmallCap
+448280,448280,KOSDAQ,KQ,기타,,0,SmallCap
+448710,Cots Technology Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+450330,HASS Corp,KOSDAQ,KQ,기타,,0,SmallCap
+450520,"Inswave Systems Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+450940,450940,KOSDAQ,KQ,기타,,0,SmallCap
+451220,"IMT Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+451250,"BBIA Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+451760,451760,KOSDAQ,KQ,기타,,0,SmallCap
+452160,"JNB Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+452190,HBL Corporation,KOSDAQ,KQ,기타,,0,SmallCap
+452200,452200,KOSDAQ,KQ,기타,,0,SmallCap
+452280,452280,KOSDAQ,KQ,기타,,0,SmallCap
+452300,452300,KOSDAQ,KQ,기타,,0,SmallCap
+452400,INICS Corp.,KOSDAQ,KQ,기타,,0,SmallCap
+452430,Sapien Semiconductors Inc.,KOSDAQ,KQ,기타,,0,SmallCap
+452670,452670,KOSDAQ,KQ,기타,,0,SmallCap
+452980,"Shinhan 11th Special Purpose Acquisition Company Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+453450,GRIDWIZ,KOSDAQ,KQ,기타,,0,SmallCap
+453860,"ASTech Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+455900,455900,KOSDAQ,KQ,기타,,0,SmallCap
+455910,455910,KOSDAQ,KQ,기타,,0,SmallCap
+456010,"ICTK Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+456070,456070,KOSDAQ,KQ,기타,,0,SmallCap
+457370,"Hanchem Co,. Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+457550,457550,KOSDAQ,KQ,기타,,0,SmallCap
+457940,457940,KOSDAQ,KQ,기타,,0,SmallCap
+458610,"Korea No.12 Special Purpose Acquisition Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+458870,Seers Technology,KOSDAQ,KQ,기타,,0,SmallCap
+459510,NAUROBOTICS,KOSDAQ,KQ,기타,,0,SmallCap
+460470,460470,KOSDAQ,KQ,기타,,0,SmallCap
+460870,"SMCG Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+460930,460930,KOSDAQ,KQ,기타,,0,SmallCap
+460940,"P&S Robotics Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+461030,461030,KOSDAQ,KQ,기타,,0,SmallCap
+461300,"i-Scream Media CO., LTD.",KOSDAQ,KQ,기타,,0,SmallCap
+462020,HMCIB No.6 SPECIAL PURPOSE ACQUISITION COMPANY,KOSDAQ,KQ,기타,,0,SmallCap
+462350,462350,KOSDAQ,KQ,기타,,0,SmallCap
+462510,"LAMEDITECH Co., Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+462980,Aiji net,KOSDAQ,KQ,기타,,0,SmallCap
+464080,SOS Lab,KOSDAQ,KQ,기타,,0,SmallCap
+464280,464280,KOSDAQ,KQ,기타,,0,SmallCap
+464440,Korea No.13 Special Purpose Acquisition Company,KOSDAQ,KQ,기타,,0,SmallCap
+464500,464500,KOSDAQ,KQ,기타,,0,SmallCap
+464680,464680,KOSDAQ,KQ,기타,,0,SmallCap
+465480,465480,KOSDAQ,KQ,기타,,0,SmallCap
+467930,467930,KOSDAQ,KQ,기타,,0,SmallCap
+468760,Eugene Special Purpose Acquisition 10 Company,KOSDAQ,KQ,기타,,0,SmallCap
+469480,469480,KOSDAQ,KQ,기타,,0,SmallCap
+469750,"Ivisionworks Co.,Ltd.",KOSDAQ,KQ,기타,,0,SmallCap
+469880,Hana 30 Special Purpose Acquisition Company,KOSDAQ,KQ,기타,,0,SmallCap
+469900,469900,KOSDAQ,KQ,기타,,0,SmallCap
+471050,471050,KOSDAQ,KQ,기타,,0,SmallCap
+472220,472220,KOSDAQ,KQ,기타,,0,SmallCap
+472230,472230,KOSDAQ,KQ,기타,,0,SmallCap
+472850,472850,KOSDAQ,KQ,기타,,0,SmallCap
+473000,473000,KOSDAQ,KQ,기타,,0,SmallCap
+473050,473050,KOSDAQ,KQ,기타,,0,SmallCap
+473950,473950,KOSDAQ,KQ,기타,,0,SmallCap
+473980,Knowmerce,KOSDAQ,KQ,기타,,0,SmallCap
+474170,474170,KOSDAQ,KQ,기타,,0,SmallCap
+474490,474490,KOSDAQ,KQ,기타,,0,SmallCap
+474930,474930,KOSDAQ,KQ,기타,,0,SmallCap
+475240,475240,KOSDAQ,KQ,기타,,0,SmallCap
+475250,475250,KOSDAQ,KQ,기타,,0,SmallCap
+475400,475400,KOSDAQ,KQ,기타,,0,SmallCap
+475830,ORUM,KOSDAQ,KQ,기타,,0,SmallCap
+475960,Tomocube Inc,KOSDAQ,KQ,기타,,0,SmallCap
+476040,ORGANOIDSCIENCES,KOSDAQ,KQ,기타,,0,SmallCap
+476080,M83,KOSDAQ,KQ,기타,,0,SmallCap
+477340,HMCIB No.7 SPECIAL PURPOSE ACQUISITION COMPANY,KOSDAQ,KQ,기타,,0,SmallCap
+477380,477380,KOSDAQ,KQ,기타,,0,SmallCap
+477470,477470,KOSDAQ,KQ,기타,,0,SmallCap
+478110,478110,KOSDAQ,KQ,기타,,0,SmallCap
+478390,478390,KOSDAQ,KQ,기타,,0,SmallCap
+478440,478440,KOSDAQ,KQ,기타,,0,SmallCap
+479880,479880,KOSDAQ,KQ,기타,,0,SmallCap
+479960,Winners,KOSDAQ,KQ,기타,,0,SmallCap
+481890,Nh Special Purpose Acquisition 31 Company,KOSDAQ,KQ,기타,,0,SmallCap
+482630,SAMYANG NC Chem,KOSDAQ,KQ,기타,,0,SmallCap
+482680,482680,KOSDAQ,KQ,기타,,0,SmallCap
+482690,Daishin Balance No.19 Special Purpose Acquisition Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+484130,Hana 34 Special Purpose Acquisition Co,KOSDAQ,KQ,기타,,0,SmallCap
+486630,486630,KOSDAQ,KQ,기타,,0,SmallCap
+487360,487360,KOSDAQ,KQ,기타,,0,SmallCap
+487720,487720,KOSDAQ,KQ,기타,,0,SmallCap
+487830,Shinhan 15th Special Purpose Acquisition Company Co Ltd,KOSDAQ,KQ,기타,,0,SmallCap
+488060,"Eugene Special Purpose Acquisition 11 Co., Ltd",KOSDAQ,KQ,기타,,0,SmallCap
+489210,489210,KOSDAQ,KQ,기타,,0,SmallCap
+489480,489480,KOSDAQ,KQ,기타,,0,SmallCap
+489500,LK CHEM,KOSDAQ,KQ,기타,,0,SmallCap
+489730,489730,KOSDAQ,KQ,기타,,0,SmallCap
+492220,492220,KOSDAQ,KQ,기타,,0,SmallCap
+493790,493790,KOSDAQ,KQ,기타,,0,SmallCap
+496070,496070,KOSDAQ,KQ,기타,,0,SmallCap
+498390,498390,KOSDAQ,KQ,기타,,0,SmallCap
+900070,Global SM Tech Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900110,East Asia Holdings Investment Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900120,CKH Food & Health Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900250,China Crystal New Material,KOSDAQ,KQ,기타,,0,SmallCap
+900260,Rothwell International Co. Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900270,Heng Sheng Holding Group Limited,KOSDAQ,KQ,기타,,0,SmallCap
+900340,Wing Yip Food (China) Holdings Group Limited,KOSDAQ,KQ,기타,,0,SmallCap
+950140,Englewood Lab Inc,KOSDAQ,KQ,기타,,0,SmallCap
+950160,"Kolon TissueGene, Inc",KOSDAQ,KQ,기타,,0,SmallCap
+950170,JTC Inc,KOSDAQ,KQ,기타,,0,SmallCap
