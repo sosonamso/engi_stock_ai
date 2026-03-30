@@ -12,7 +12,25 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install requests pandas
-      - name: 테스트
+      - name: OHLCV 테스트
         env:
           EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
         run: python eodhd_utils.py
+      - name: 티커 테스트
+        env:
+          EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
+        run: |
+          python -c "
+from eodhd_utils import get_tickers_kr, get_tickers_us
+print('=== 국장 티커 테스트 ===')
+kr = get_tickers_kr()
+print(f'총 {len(kr)}개')
+for k, v in list(kr.items())[:5]:
+    print(f'  {k}: {v}')
+
+print()
+print('=== 미장 티커 테스트 ===')
+us = get_tickers_us()
+print(f'총 {len(us)}개')
+for k, v in list(us.items())[:5]:
+    print(f'  {k}: {v}')
