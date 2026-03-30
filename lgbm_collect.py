@@ -245,6 +245,16 @@ if __name__ == "__main__":
             feat = calc_features(df, spy_df, d_idx, info)
             if feat is None: continue
 
+            # 컵핸들 패턴 피처 (backtest 결과에서 직접 활용)
+            feat["cup_depth"]    = float(row.get("cup_depth", 0) or 0)
+            feat["handle_depth"] = float(row.get("handle_depth", 0) or 0)
+            feat["vol_ratio"]    = float(row.get("vol_ratio", 0) or 0)
+            feat["cup_days"]     = float(row.get("cup_days", 0) or 0)
+            feat["handle_days"]  = float(row.get("handle_days", 0) or 0)
+            feat["vs"]           = 1 if str(row.get("vs", "")).lower() == "true" else 0
+            feat["rs_signal"]    = float(row.get("rs", 0) or 0)
+            feat["score"]        = float(row.get("score", 0) or 0)
+
             feat["ticker"] = str(ticker)
             feat["date"]   = sig_date.strftime("%Y-%m-%d")
             feat["label"]  = int(row["label"])
