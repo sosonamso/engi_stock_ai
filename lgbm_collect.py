@@ -141,6 +141,17 @@ def calc_features(df, spy_df, d_idx, ticker_info):
     return feat
 
 
+def is_bull_market(spy_df, sig_date):
+    """SPY 200MA 위 = 상승장"""
+    if spy_df is None: return True
+    spy_sl = spy_df.loc[:sig_date]
+    if len(spy_sl) < 200: return True
+    cur   = float(spy_sl["Close"].iloc[-1])
+    ma200 = spy_sl["Close"].rolling(200).mean().iloc[-1]
+    if pd.isna(ma200): return True
+    return cur > float(ma200)
+
+
 if __name__ == "__main__":
     # 백테스트 로드 + 라벨
     bt = pd.read_csv("backtest_us_raw.csv", encoding="utf-8-sig")
@@ -193,6 +204,10 @@ if __name__ == "__main__":
             if not matches: continue
             d_idx = idx_list.index(matches[0])
             if d_idx < WINDOW + SKIP: continue
+
+            # 상승장 필터 (하락장 제거)
+            if not is_bull_market(spy_df, sig_date):
+                continue
 
             feat = calc_features(df, spy_df, d_idx, info)
             if feat is None: continue
