@@ -187,9 +187,18 @@ if __name__ == "__main__":
     # SPY 로드
     spy_df = None
     spy_path = os.path.join(US_DIR, "SPY.csv")
+    print(f"SPY 파일 존재: {os.path.exists(spy_path)}")
     if os.path.exists(spy_path):
         spy_df = pd.read_csv(spy_path, index_col="date", parse_dates=True)
-        print(f"SPY: {len(spy_df)}일치")
+        print(f"SPY: {len(spy_df)}일치 ({spy_df.index.min().date()} ~ {spy_df.index.max().date()})")
+    else:
+        print("⚠️ SPY.csv 없음 → 급락장 필터 비활성화")
+
+    # 필터 테스트 (2008, 2020 체크)
+    if spy_df is not None:
+        for test_date in ["2008-10-15", "2020-03-20", "2022-06-15", "2023-06-15"]:
+            result = is_bull_market(spy_df, pd.Timestamp(test_date))
+            print(f"  is_bull_market({test_date}): {result}")
 
     # 종목별 피처 계산
     samples  = []
