@@ -142,14 +142,28 @@ def calc_features(df, spy_df, d_idx, ticker_info):
 
 
 def is_bull_market(spy_df, sig_date):
-    """SPY 200MA 위 = 상승장"""
+    """
+    급락장 필터 (후행 지표 200MA 대신 단기 낙폭 기반)
+    SPY 20일 수익률 < -15% OR 60일 수익률 < -20% → 제외
+    → 금융위기/코로나 같은 급락 즉시 감지
+    """
     if spy_df is None: return True
-    spy_sl = spy_df.loc[:sig_date]
-    if len(spy_sl) < 200: return True
-    cur   = float(spy_sl["Close"].iloc[-1])
-    ma200 = spy_sl["Close"].rolling(200).mean().iloc[-1]
-    if pd.isna(ma200): return True
-    return cur > float(ma200)
+    spy_sl = spy_df.loc[:sig_date]["Close"]
+    if len(spy_sl) < 20: return True
+
+    cur = float(spy_sl.iloc[-1])
+
+    # 20일 낙폭
+    if len(spy_sl) >= 20:
+        ret_20 = (cur / float(spy_sl.iloc[-20]) - 1) * 100
+        if ret_20 < -15: return False
+
+    # 60일 낙폭
+    if len(spy_sl) >= 60:
+        ret_60 = (cur / float(spy_sl.iloc[-60]) - 1) * 100
+        if ret_60 < -20: return False
+
+    return True
 
 
 if __name__ == "__main__":
