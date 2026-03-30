@@ -86,13 +86,17 @@ def get_tickers_us():
             ticker = str(row.get("Code", "")).strip()
             if not ticker: continue
             # 주식만 (ETF, Fund 제외)
-            ttype = str(row.get("Type", "")).lower()
+            ttype    = str(row.get("Type", "")).lower()
+            exchange = str(row.get("Exchange", ""))
             if ttype not in ("common stock", "stock", ""): continue
+            # PINK/OTC 제외 → NYSE/NASDAQ/AMEX/BATS만
+            if exchange not in ("NYSE", "NASDAQ", "AMEX", "BATS", "NYSE ARCA", "NYSE MKT"):
+                continue
             result[ticker] = {
                 "name":     str(row.get("Name", "")),
-                "exchange": str(row.get("Exchange", "US")),
+                "exchange": exchange,
                 "sector":   str(row.get("Sector", "") or ""),
-                "cap":      "",  # 별도 조회 필요 or tickers_us.csv 활용
+                "cap":      "",
             }
         print(f"미장 티커: {len(result)}개")
         return result
@@ -107,7 +111,7 @@ def get_tickers_kr():
     반환: {ticker: {name, sector, market}} dict
     """
     result = {}
-    for exchange in ["KO", "KOSDAQ"]:
+    for exchange in ["KO", "KQ"]:
         url    = f"{BASE}/exchange-symbol-list/{exchange}"
         params = {"api_token": EODHD, "fmt": "json"}
         try:
