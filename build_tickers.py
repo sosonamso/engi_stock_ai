@@ -20,11 +20,16 @@ def get_fundamental(symbol, exchange):
         if resp.status_code != 200: return {}
         data = resp.json()
         if not isinstance(data, dict): return {}
+        # General 필터시 바로 필드가 오거나 General 키 안에 있을 수 있음
+        if "General" in data:
+            data = data["General"]
+        mc = data.get("MarketCapitalization") or data.get("market_capitalization") or 0
+        try: mc = float(mc)
+        except: mc = 0.0
         return {
-            "sector":      str(data.get("Sector", "")     or ""),
-            "industry":    str(data.get("Industry", "")   or ""),
-            "market_cap":  data.get("MarketCapitalization") or 0,
-            "description": "",
+            "sector":     str(data.get("Sector", "")    or ""),
+            "industry":   str(data.get("Industry", "")  or ""),
+            "market_cap": mc,
         }
     except: return {}
 
@@ -63,8 +68,8 @@ if __name__ == "__main__":
         fund = get_fundamental(ticker, "US")
         mc   = fund.get("market_cap", 0) or 0
 
-        # 시총 필터 (3억달러 미만 제외)
-        if float(mc) < MIN_MARKETCAP_US:
+        # 시총 필터 (3억달러 미만 제외, mc=0이면 통과)
+        if float(mc) > 0 and float(mc) < MIN_MARKETCAP_US:
             time.sleep(0.05)
             continue
 
@@ -82,7 +87,7 @@ if __name__ == "__main__":
     us_df = pd.DataFrame(us_rows)
     us_df.to_csv("tickers_us.csv", index=False, encoding="utf-8-sig")
     print(f"미장 저장: {len(us_df)}개 → tickers_us.csv")
-    print(f"섹터 분포:\n{us_df['cap'].value_counts()}")
+    if 'cap' in us_df.columns: print(f"시총 분포:\n{us_df['cap'].value_counts()}")
 
     # ── 국장 ──────────────────────────────────────
     print("\n=== 국장 티커 수집 ===")
@@ -98,8 +103,8 @@ if __name__ == "__main__":
         fund = get_fundamental(ticker, exchange)
         mc   = fund.get("market_cap", 0) or 0
 
-        # 시총 필터 (500억 미만 제외)
-        if float(mc) < MIN_MARKETCAP_KR:
+        # 시총 필터 (500억 미만 제외, mc=0이면 통과)
+        if float(mc) > 0 and float(mc) < MIN_MARKETCAP_KR:
             time.sleep(0.05)
             continue
 
@@ -118,4 +123,4 @@ if __name__ == "__main__":
     kr_df = pd.DataFrame(kr_rows)
     kr_df.to_csv("tickers_kr.csv", index=False, encoding="utf-8-sig")
     print(f"국장 저장: {len(kr_df)}개 → tickers_kr.csv")
-    print(f"시총 분포:\n{kr_df['cap'].value_counts()}")
+    if 'cap' in kr_df.columns: print(f"시총 분포:\n{kr_df['cap'].value_counts()}")
