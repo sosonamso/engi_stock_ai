@@ -184,17 +184,27 @@ if __name__ == "__main__":
         mdf = pd.read_csv("tickers_us.csv", encoding="utf-8-sig")
         meta_map = {str(r["ticker"]): r.to_dict() for _, r in mdf.iterrows()}
 
-    # SPY 로드
+    # SPY 로드 (없으면 EODHD에서 직접 수집)
+    from eodhd_utils import get_ohlcv, EODHD
     spy_df = None
     spy_path = os.path.join(US_DIR, "SPY.csv")
-    print(f"SPY 파일 존재: {os.path.exists(spy_path)}")
+
     if os.path.exists(spy_path):
         spy_df = pd.read_csv(spy_path, index_col="date", parse_dates=True)
-        print(f"SPY: {len(spy_df)}일치 ({spy_df.index.min().date()} ~ {spy_df.index.max().date()})")
+        print(f"SPY 캐시 로드: {len(spy_df)}일치")
+    elif EODHD:
+        print("SPY.csv 없음 → EODHD에서 수집 중...")
+        spy_df = get_ohlcv("SPY", "US", start="2000-01-01")
+        if spy_df is not None:
+            os.makedirs(US_DIR, exist_ok=True)
+            spy_df.to_csv(spy_path)
+            print(f"SPY 수집 완료: {len(spy_df)}일치")
+        else:
+            print("⚠️ SPY 수집 실패 → 필터 비활성화")
     else:
-        print("⚠️ SPY.csv 없음 → 급락장 필터 비활성화")
+        print("⚠️ EODHD 토큰 없음 → 필터 비활성화")
 
-    # 필터 테스트 (2008, 2020 체크)
+    # 필터 테스트
     if spy_df is not None:
         for test_date in ["2008-10-15", "2020-03-20", "2022-06-15", "2023-06-15"]:
             result = is_bull_market(spy_df, pd.Timestamp(test_date))
