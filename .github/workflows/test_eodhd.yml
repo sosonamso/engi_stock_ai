@@ -34,3 +34,4 @@ us = get_tickers_us()
 print(f'총 {len(us)}개')
 for k, v in list(us.items())[:5]:
     print(f'  {k}: {v}')
+"
