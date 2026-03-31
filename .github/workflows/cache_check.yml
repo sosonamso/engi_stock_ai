@@ -1,0 +1,29 @@
+name: 캐시 확인
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 캐시 로드
+        uses: actions/cache@v4
+        with:
+          path: raw_data/
+          key: ohlcv-${{ hashFiles('tickers_us.csv', 'tickers_kr.csv') }}
+          restore-keys: ohlcv-
+
+      - name: 확인
+        run: |
+          echo "=== raw_data 폴더 확인 ==="
+          ls raw_data/ 2>/dev/null || echo "raw_data 없음"
+          echo ""
+          echo "=== us 종목 수 ==="
+          ls raw_data/us/ 2>/dev/null | wc -l || echo "us 없음"
+          echo ""
+          echo "=== kr 종목 수 ==="
+          ls raw_data/kr/ 2>/dev/null | wc -l || echo "kr 없음"
