@@ -112,7 +112,7 @@ if __name__ == "__main__":
     INDEX_LIST = [
         ("SPY",    "US", US_DIR),   # 미장 벤치마크
         ("069500", "KO", KR_DIR),   # KODEX200 (코스피)
-        ("229200", "KQ", KR_DIR),   # KODEX코스닥150
+        ("229200", "KO", KR_DIR),   # KODEX코스닥150
     ]
     for symbol, exchange, save_dir in INDEX_LIST:
         fpath = os.path.join(save_dir, f"{symbol}.csv")
