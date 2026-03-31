@@ -31,7 +31,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add model_lgbm_kr.txt model_xgb_kr.json model_rf_kr.pkl feat_cols_kr.pkl best_model_name_kr.txt rf_oos_kr.csv
+          git add feat_cols_kr.pkl best_model_name_kr.txt rf_oos_kr.csv
+          git add model_lgbm_kr.txt model_xgb_kr.json model_rf_kr.pkl 2>/dev/null || true
           git diff --staged --quiet || git commit -m "국장 멀티 모델 검증 $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
