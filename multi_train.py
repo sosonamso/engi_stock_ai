@@ -361,6 +361,19 @@ if __name__ == "__main__":
         with open("feat_cols_lgbm_us.pkl", "wb") as f:
             pickle.dump(FEAT_COLS, f)
 
+    elif best_model_name == "RandomForest":
+        final = RandomForestClassifier(
+            n_estimators=500, max_depth=8,
+            min_samples_leaf=20, n_jobs=-1, random_state=42
+        )
+        final.fit(tr_f[FEAT_COLS].values.astype(np.float32), tr_f["label"].values)
+        pred_val = final.predict_proba(te_f[FEAT_COLS].values.astype(np.float32))[:, 1]
+        val_auc  = roc_auc_score(te_f["label"].values, pred_val)
+        with open("model_rf_us.pkl", "wb") as f:
+            pickle.dump(final, f)
+        with open("feat_cols_lgbm_us.pkl", "wb") as f:
+            pickle.dump(FEAT_COLS, f)
+
     print(f"최종 Val AUC: {val_auc:.4f}")
     print(f"저장 완료: {best_model_name}")
 
