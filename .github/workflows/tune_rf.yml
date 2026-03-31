@@ -1,0 +1,34 @@
+name: RF 하이퍼파라미터 튜닝
+
+on:
+  workflow_dispatch:
+
+jobs:
+  tune_rf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install pandas numpy scikit-learn
+
+      - name: RF 튜닝
+        run: python tune_rf.py
+
+      - name: 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add model_rf_us.pkl feat_cols_lgbm_us.pkl best_params_rf.txt rf_oos_us.csv
+          git diff --staged --quiet || git commit -m "RF 튜닝 완료 $(date +'%Y-%m-%d')"
+          git push
