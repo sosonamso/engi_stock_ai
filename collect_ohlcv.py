@@ -107,6 +107,23 @@ if __name__ == "__main__":
     else:
         print("tickers_kr.csv 없음 → 국장 스킵")
 
+    # ── 지수 파일 별도 수집 ──────────────────────
+    print("\n지수 파일 수집 중...")
+    INDEX_LIST = [
+        ("SPY",    "US", US_DIR),   # 미장 벤치마크
+        ("069500", "KO", KR_DIR),   # KODEX200 (코스피)
+        ("229200", "KQ", KR_DIR),   # KODEX코스닥150
+    ]
+    for symbol, exchange, save_dir in INDEX_LIST:
+        fpath = os.path.join(save_dir, f"{symbol}.csv")
+        df    = load_or_fetch(symbol, exchange, fpath)
+        if df is not None and len(df) > 0:
+            save_csv(df, fpath)
+            print(f"  {symbol}.{exchange}: {len(df)}일치 ✅")
+        else:
+            print(f"  {symbol}.{exchange}: 수집 실패 ❌")
+        time.sleep(0.1)
+
     print("\n전체 수집 완료!")
     print(f"미장: {len(os.listdir(US_DIR))}개 파일")
     print(f"국장: {len(os.listdir(KR_DIR))}개 파일")
