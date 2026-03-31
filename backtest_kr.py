@@ -146,23 +146,27 @@ if __name__ == "__main__":
     kospi_idx  = None
     kosdaq_idx = None
 
+    from eodhd_utils import get_ohlcv
     kospi_path  = os.path.join(KR_DIR, "069500.csv")
     kosdaq_path = os.path.join(KR_DIR, "229200.csv")
 
-    print(f"KODEX200 파일 존재: {os.path.exists(kospi_path)} ({kospi_path})")
-    print(f"KODEX150 파일 존재: {os.path.exists(kosdaq_path)} ({kosdaq_path})")
+    def load_or_fetch_idx(path, symbol, exchange):
+        if os.path.exists(path):
+            df = pd.read_csv(path, index_col="date", parse_dates=True)
+            print(f"{symbol}: 캐시 로드 {len(df)}일치")
+            return df
+        print(f"{symbol}: EODHD에서 수집 중...")
+        df = get_ohlcv(symbol, exchange, start="2000-01-01")
+        if df is not None:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            df.to_csv(path)
+            print(f"{symbol}: 수집 완료 {len(df)}일치")
+        else:
+            print(f"{symbol}: 수집 실패 → rs=0 처리")
+        return df
 
-    if os.path.exists(kospi_path):
-        kospi_idx = pd.read_csv(kospi_path, index_col="date", parse_dates=True)
-        print(f"KOSPI 지수(KODEX200): {len(kospi_idx)}일치")
-    else:
-        print("⚠️ KODEX200 없음 → rs=0으로 처리")
-
-    if os.path.exists(kosdaq_path):
-        kosdaq_idx = pd.read_csv(kosdaq_path, index_col="date", parse_dates=True)
-        print(f"KOSDAQ 지수(KODEX150): {len(kosdaq_idx)}일치")
-    else:
-        print("⚠️ KODEX150 없음 → rs=0으로 처리")
+    kospi_idx  = load_or_fetch_idx(kospi_path,  "069500", "KO")
+    kosdaq_idx = load_or_fetch_idx(kosdaq_path, "229200", "KO")
 
     # 백테스트 기간
     cutoff       = datetime.today() - timedelta(days=LOOKBACK_DAYS)
