@@ -142,21 +142,27 @@ if __name__ == "__main__":
         meta_map = {str(r["ticker"]).zfill(6): r.to_dict() for _, r in mdf.iterrows()}
         print(f"티커 메타: {len(meta_map)}개")
 
-    # 지수 로드 (KOSPI → 069500.KS KODEX200, KQ → 229200 KODEX코스닥150)
+    # 지수 로드
     kospi_idx  = None
     kosdaq_idx = None
 
-    # KODEX200 (069500)
-    kospi_path = os.path.join(KR_DIR, "069500.csv")
+    kospi_path  = os.path.join(KR_DIR, "069500.csv")
+    kosdaq_path = os.path.join(KR_DIR, "229200.csv")
+
+    print(f"KODEX200 파일 존재: {os.path.exists(kospi_path)} ({kospi_path})")
+    print(f"KODEX150 파일 존재: {os.path.exists(kosdaq_path)} ({kosdaq_path})")
+
     if os.path.exists(kospi_path):
         kospi_idx = pd.read_csv(kospi_path, index_col="date", parse_dates=True)
         print(f"KOSPI 지수(KODEX200): {len(kospi_idx)}일치")
+    else:
+        print("⚠️ KODEX200 없음 → rs=0으로 처리")
 
-    # KODEX코스닥150 (229200)
-    kosdaq_path = os.path.join(KR_DIR, "229200.csv")
     if os.path.exists(kosdaq_path):
         kosdaq_idx = pd.read_csv(kosdaq_path, index_col="date", parse_dates=True)
         print(f"KOSDAQ 지수(KODEX150): {len(kosdaq_idx)}일치")
+    else:
+        print("⚠️ KODEX150 없음 → rs=0으로 처리")
 
     # 백테스트 기간
     cutoff       = datetime.today() - timedelta(days=LOOKBACK_DAYS)
