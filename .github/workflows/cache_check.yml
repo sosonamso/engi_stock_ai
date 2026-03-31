@@ -27,3 +27,8 @@ jobs:
           echo ""
           echo "=== kr 종목 수 ==="
           ls raw_data/kr/ 2>/dev/null | wc -l || echo "kr 없음"
+          echo ""
+          echo "=== 지수 파일 확인 ==="
+          ls raw_data/kr/069500.csv 2>/dev/null && echo "KODEX200 있음" || echo "KODEX200 없음"
+          ls raw_data/kr/229200.csv 2>/dev/null && echo "KODEX150 있음" || echo "KODEX150 없음"
+          ls raw_data/us/SPY.csv 2>/dev/null && echo "SPY 있음" || echo "SPY 없음"
