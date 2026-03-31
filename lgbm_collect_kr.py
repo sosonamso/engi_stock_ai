@@ -180,14 +180,24 @@ if __name__ == "__main__":
     pos = (bt.label==1).sum(); neg = (bt.label==0).sum()
     print(f"시그널: {len(bt)}건 (양성:{pos} 음성:{neg} 비율:{pos/(pos+neg)*100:.1f}%)")
 
-    # KOSPI 지수 로드
+    # KOSPI 지수 로드 (없으면 EODHD에서 수집)
+    from eodhd_utils import get_ohlcv, EODHD
     kospi_idx  = None
     kospi_path = os.path.join(KR_DIR, "069500.csv")
     if os.path.exists(kospi_path):
         kospi_idx = pd.read_csv(kospi_path, index_col="date", parse_dates=True)
-        print(f"KOSPI 지수: {len(kospi_idx)}일치")
+        print(f"KOSPI 지수 캐시 로드: {len(kospi_idx)}일치")
+    elif EODHD:
+        print("KOSPI 지수 없음 → EODHD에서 수집 중...")
+        kospi_idx = get_ohlcv("069500", "KO", start="2000-01-01")
+        if kospi_idx is not None:
+            os.makedirs(KR_DIR, exist_ok=True)
+            kospi_idx.to_csv(kospi_path)
+            print(f"KOSPI 지수 수집 완료: {len(kospi_idx)}일치")
+        else:
+            print("⚠️ KOSPI 지수 수집 실패 → rs=0 처리")
     else:
-        print("⚠️ KOSPI 지수 없음 → rs=0 처리")
+        print("⚠️ EODHD 토큰 없음 → rs=0 처리")
 
     # 필터 테스트
     if kospi_idx is not None:
