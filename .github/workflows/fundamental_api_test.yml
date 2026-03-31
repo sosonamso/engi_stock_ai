@@ -1,0 +1,32 @@
+name: Fundamental API 테스트
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pandas
+      - name: 테스트
+        env:
+          EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
+        run: |
+          python << 'PYEOF'
+          import requests, os, json
+          token = os.environ.get("EODHD_TOKEN")
+
+          # AAPL Fundamental 테스트
+          url = f"https://eodhd.com/api/fundamentals/AAPL.US"
+          params = {"api_token": token, "fmt": "json", "filter": "General"}
+          resp = requests.get(url, params=params, timeout=30)
+          print(f"상태코드: {resp.status_code}")
+          data = resp.json()
+          print(f"키 목록: {list(data.keys())[:10]}")
+          print(f"Sector: {data.get('Sector')}")
+          print(f"MarketCap: {data.get('MarketCapitalization')}")
+          PYEOF
