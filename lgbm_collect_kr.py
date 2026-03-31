@@ -57,6 +57,31 @@ def is_bull_market(idx_df, sig_date):
     return True
 
 
+def get_market_features(idx_df, sig_date):
+    """시장 환경 피처 (조건 아닌 피처로 모델에 입력)"""
+    result = {
+        "mkt_ret_20":  0.0,
+        "mkt_ret_60":  0.0,
+        "mkt_ret_120": 0.0,
+        "mkt_above_ma120": 0,
+    }
+    if idx_df is None: return result
+    try:
+        sl = idx_df.loc[:sig_date]["Close"]
+        if len(sl) < 5: return result
+        cur = float(sl.iloc[-1])
+        if len(sl) >= 20:
+            result["mkt_ret_20"]  = round((cur / float(sl.iloc[-20]) - 1) * 100, 2)
+        if len(sl) >= 60:
+            result["mkt_ret_60"]  = round((cur / float(sl.iloc[-60]) - 1) * 100, 2)
+        if len(sl) >= 120:
+            result["mkt_ret_120"] = round((cur / float(sl.iloc[-120]) - 1) * 100, 2)
+            ma120 = float(sl.iloc[-120:].mean())
+            result["mkt_above_ma120"] = 1 if cur > ma120 else 0
+    except: pass
+    return result
+
+
 def calc_features(df, kospi_idx, d_idx, ticker_info):
     start_idx = d_idx - SKIP - WINDOW
     end_idx   = d_idx - SKIP
@@ -165,6 +190,12 @@ def calc_features(df, kospi_idx, d_idx, ticker_info):
     feat["rs_signal"]    = float(ticker_info.get("rs", 0) or 0)
     feat["score"]        = float(ticker_info.get("score", 0) or 0)
 
+    # 거래대금 피처 (volume * close 근사)
+    trdval_approx = close * volume  # 원화 거래대금 근사
+    trdval_20_avg = np.mean(trdval_approx[-20:])
+    feat["trdval_ratio"] = round(float(trdval_approx[-1] / trdval_20_avg) if trdval_20_avg > 0 else 1.0, 4)
+    feat["trdval_20_log"] = round(float(np.log1p(trdval_20_avg / 1e8)), 4)  # log 스케일
+
     return feat
 
 
@@ -231,9 +262,18 @@ if __name__ == "__main__":
         for _, row in group.iterrows():
             sig_date = pd.Timestamp(row["date"])
 
-            # 상승장 필터
+            # 상승장 필터 (급락장 + 하락장 제거)
             if not is_bull_market(kospi_idx, sig_date):
                 continue
+            # 추가: KOSPI 60일 수익률 > -10% 조건
+            if kospi_idx is not None:
+                try:
+                    sl = kospi_idx.loc[:sig_date]["Close"]
+                    if len(sl) >= 60:
+                        ret_60 = (float(sl.iloc[-1]) / float(sl.iloc[-60]) - 1) * 100
+                        if ret_60 < -10:
+                            continue
+                except: pass
 
             matches = [x for x in idx_list if x.date() == sig_date.date()]
             if not matches: continue
@@ -255,6 +295,10 @@ if __name__ == "__main__":
 
             feat = calc_features(df, kospi_idx, d_idx, info)
             if feat is None: continue
+
+            # 시장 환경 피처 추가
+            mkt_feat = get_market_features(kospi_idx, sig_date)
+            feat.update(mkt_feat)
 
             feat["ticker"] = ticker
             feat["name"]   = str(row.get("name", ticker))
