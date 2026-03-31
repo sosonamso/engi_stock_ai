@@ -31,6 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add model_lgbm_us.txt model_xgb_us.json model_rf_us.pkl feat_cols_lgbm_us.pkl best_model_name.txt
+          git add model_lgbm_us.txt feat_cols_lgbm_us.pkl best_model_name.txt
+          git add model_xgb_us.json model_rf_us.pkl 2>/dev/null || true
           git diff --staged --quiet || git commit -m "멀티 모델 검증 $(date +'%Y-%m-%d')"
           git push
