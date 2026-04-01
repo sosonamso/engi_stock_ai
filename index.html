@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EngiStock AI · 미너비니 스캐너</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0f;
+  --surface: #111118;
+  --surface2: #16161f;
+  --border: #1e1e2e;
+  --accent: #6ee7b7;
+  --accent2: #38bdf8;
+  --warn: #fbbf24;
+  --danger: #f87171;
+  --text: #e2e8f0;
+  --text2: #94a3b8;
+  --text3: #475569;
+  --us: #38bdf8;
+  --kr: #6ee7b7;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans KR', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* 헤더 */
+.header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,10,15,0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 16px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.logo {
+  font-family: 'Syne', sans-serif;
+  font-weight: 800; font-size: 18px;
+  letter-spacing: -0.5px;
+}
+.logo span { color: var(--accent); }
+.market-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; padding: 4px 8px;
+  border-radius: 4px; border: 1px solid var(--border);
+  color: var(--text2);
+}
+.market-badge.bull { border-color: var(--accent); color: var(--accent); }
+.market-badge.bear { border-color: var(--danger); color: var(--danger); }
+
+/* 탭 */
+.tabs {
+  display: flex; gap: 4px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex-shrink: 0;
+  padding: 7px 14px; border-radius: 6px;
+  font-size: 13px; font-weight: 500;
+  cursor: pointer; border: none;
+  background: transparent; color: var(--text3);
+  transition: all 0.15s;
+}
+.tab.active { background: var(--surface2); color: var(--text); }
+.tab.us.active { color: var(--us); }
+.tab.kr.active { color: var(--kr); }
+
+/* 컨텐츠 */
+.content { padding: 12px 16px; max-width: 640px; margin: 0 auto; }
+.panel { display: none; }
+.panel.active { display: block; }
+
+/* 상태바 */
+.status-bar {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 12px; border-radius: 8px;
+  background: var(--surface); border: 1px solid var(--border);
+  margin-bottom: 12px; font-size: 12px; color: var(--text2);
+}
+.status-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--text3); }
+.status-dot.ok { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+
+/* 카드 */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  transition: border-color 0.15s;
+}
+.card:hover { border-color: #2a2a3e; }
+.card-header {
+  padding: 14px 14px 10px;
+  display: flex; align-items: flex-start; justify-content: space-between;
+  gap: 8px;
+}
+.card-title { flex: 1; }
+.stock-name {
+  font-size: 15px; font-weight: 700; line-height: 1.3;
+  margin-bottom: 2px;
+}
+.stock-meta {
+  font-size: 11px; color: var(--text3);
+  font-family: 'JetBrains Mono', monospace;
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+}
+.tag {
+  padding: 2px 6px; border-radius: 3px;
+  font-size: 10px; font-weight: 500;
+  background: var(--surface2); color: var(--text2);
+}
+.tag.kospi { background: rgba(56,189,248,0.1); color: var(--us); }
+.tag.kosdaq { background: rgba(110,231,183,0.1); color: var(--kr); }
+.tag.safe { background: rgba(110,231,183,0.1); color: var(--kr); }
+.tag.caution { background: rgba(251,191,36,0.1); color: var(--warn); }
+.tag.danger { background: rgba(248,113,113,0.1); color: var(--danger); }
+
+/* 점수 */
+.score-block {
+  display: flex; flex-direction: column; align-items: flex-end; gap: 4px;
+}
+.score-circle {
+  width: 40px; height: 40px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Syne', sans-serif;
+  font-weight: 800; font-size: 13px;
+  border: 2px solid var(--border);
+  color: var(--text2);
+}
+.score-circle.S { border-color: var(--accent); color: var(--accent); background: rgba(110,231,183,0.08); }
+.score-circle.A { border-color: var(--accent2); color: var(--accent2); background: rgba(56,189,248,0.08); }
+.score-circle.B { border-color: var(--warn); color: var(--warn); background: rgba(251,191,36,0.08); }
+.score-circle.C { border-color: #a78bfa; color: #a78bfa; background: rgba(167,139,250,0.08); }
+.score-circle.D { border-color: var(--text3); color: var(--text3); }
+.rf-score {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px; color: var(--accent); text-align: right;
+}
+
+/* 가격 정보 */
+.price-row {
+  padding: 0 14px 12px;
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+.price-item { flex: 1; min-width: 80px; }
+.price-label {
+  font-size: 10px; color: var(--text3); margin-bottom: 2px;
+  text-transform: uppercase; letter-spacing: 0.5px;
+}
+.price-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px; font-weight: 500;
+}
+.price-value.up { color: var(--accent); }
+.price-value.down { color: var(--danger); }
+
+/* 패턴 정보 */
+.pattern-row {
+  padding: 10px 14px;
+  border-top: 1px solid var(--border);
+  display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+}
+.pattern-chip {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; color: var(--text2);
+  padding: 3px 8px; border-radius: 4px;
+  background: var(--surface2);
+}
+.vol-chip {
+  font-size: 11px; font-weight: 600;
+  padding: 3px 8px; border-radius: 4px;
+  background: rgba(251,191,36,0.1); color: var(--warn);
+}
+
+/* RS 바 */
+.rs-row {
+  padding: 8px 14px 12px;
+  display: flex; align-items: center; gap: 8px;
+}
+.rs-label { font-size: 10px; color: var(--text3); width: 20px; }
+.rs-bar { flex: 1; height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; }
+.rs-fill { height: 100%; border-radius: 2px; background: var(--accent); transition: width 0.4s; }
+.rs-fill.neg { background: var(--danger); }
+.rs-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; width: 50px; text-align: right;
+}
+.rs-value.pos { color: var(--accent); }
+.rs-value.neg { color: var(--danger); }
+
+/* 날짜 */
+.cup-date {
+  font-size: 10px; color: var(--text3);
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0 14px 10px;
+}
+
+/* 빈 상태 */
+.empty-state {
+  text-align: center; padding: 60px 20px;
+  color: var(--text3);
+}
+.empty-icon { font-size: 40px; margin-bottom: 12px; }
+.empty-title { font-size: 16px; font-weight: 600; margin-bottom: 6px; color: var(--text2); }
+.empty-desc { font-size: 13px; line-height: 1.6; }
+
+/* 로딩 */
+.loading {
+  text-align: center; padding: 40px 20px; color: var(--text3); font-size: 13px;
+}
+.spinner {
+  width: 24px; height: 24px; border: 2px solid var(--border);
+  border-top-color: var(--accent); border-radius: 50%;
+  animation: spin 0.8s linear infinite; margin: 0 auto 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* 섹션 헤더 */
+.section-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 10px;
+}
+.section-title {
+  font-family: 'Syne', sans-serif;
+  font-size: 12px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 1px;
+  color: var(--text3);
+}
+.count-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; padding: 2px 8px; border-radius: 10px;
+  background: var(--surface2); color: var(--text2);
+}
+
+/* 검색 */
+.search-box {
+  width: 100%; padding: 10px 14px;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; color: var(--text); font-size: 14px;
+  outline: none; margin-bottom: 12px;
+  font-family: 'Noto Sans KR', sans-serif;
+  transition: border-color 0.15s;
+}
+.search-box:focus { border-color: #2a2a3e; }
+.search-box::placeholder { color: var(--text3); }
+
+/* 수익률 표 */
+.ret-grid {
+  display: grid; grid-template-columns: repeat(4,1fr);
+  gap: 6px; padding: 10px 14px;
+  border-top: 1px solid var(--border);
+}
+.ret-item { text-align: center; }
+.ret-label { font-size: 9px; color: var(--text3); margin-bottom: 2px; text-transform: uppercase; }
+.ret-val {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px; font-weight: 500;
+}
+.ret-val.pos { color: var(--accent); }
+.ret-val.neg { color: var(--danger); }
+.ret-val.na  { color: var(--text3); }
+
+/* 반응형 */
+@media (max-width: 380px) {
+  .price-row { gap: 8px; }
+  .price-value { font-size: 13px; }
+}
+
+/* 애니메이션 */
+.card { animation: fadeUp 0.2s ease both; }
+@keyframes fadeUp {
+  from { opacity:0; transform: translateY(8px); }
+  to   { opacity:1; transform: translateY(0); }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">Engi<span>Stock</span></div>
+  <div id="marketBadge" class="market-badge">로딩중...</div>
+</div>
+
+<div class="tabs">
+  <button class="tab us active" onclick="showTab('us')">🇺🇸 미장</button>
+  <button class="tab kr" onclick="showTab('kr')">🇰🇷 국장</button>
+  <button class="tab" onclick="showTab('search')">🔍 검색</button>
+</div>
+
+<div class="content">
+
+  <!-- 미장 패널 -->
+  <div id="panel-us" class="panel active">
+    <div id="us-content"><div class="loading"><div class="spinner"></div>데이터 로딩 중...</div></div>
+  </div>
+
+  <!-- 국장 패널 -->
+  <div id="panel-kr" class="panel">
+    <div id="kr-content"><div class="loading"><div class="spinner"></div>데이터 로딩 중...</div></div>
+  </div>
+
+  <!-- 검색 패널 -->
+  <div id="panel-search" class="panel">
+    <input class="search-box" type="text" id="searchInput"
+           placeholder="종목명 또는 티커 검색..."
+           oninput="doSearch(this.value)">
+    <div class="section-header">
+      <span class="section-title">검색 결과</span>
+      <span id="searchCount" class="count-badge">0건</span>
+    </div>
+    <div id="search-content"></div>
+  </div>
+
+</div>
+
+<script>
+const REPO = 'sosonamso/engi_stock_ai';
+const BASE = `https://raw.githubusercontent.com/${REPO}/main`;
+
+let usData = [], krData = [], usAll = [], krAll = [];
+
+// CSV 파싱
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  if (lines.length < 2) return [];
+  const headers = lines[0].split(',').map(h => h.trim().replace(/"/g,''));
+  return lines.slice(1).map(line => {
+    const vals = []; let cur = ''; let inQ = false;
+    for (const ch of line) {
+      if (ch === '"') { inQ = !inQ; }
+      else if (ch === ',' && !inQ) { vals.push(cur.trim()); cur = ''; }
+      else cur += ch;
+    }
+    vals.push(cur.trim());
+    const obj = {};
+    headers.forEach((h, i) => obj[h] = vals[i] || '');
+    return obj;
+  });
+}
+
+async function fetchCSV(path) {
+  try {
+    const res = await fetch(`${BASE}/${path}?t=${Date.now()}`);
+    if (!res.ok) return [];
+    return parseCSV(await res.text());
+  } catch { return []; }
+}
+
+// 그레이드
+function grade(s) {
+  s = parseFloat(s)||0;
+  return s>=90?'S':s>=80?'A':s>=70?'B':s>=60?'C':'D';
+}
+
+// RS 바
+function rsBar(rs) {
+  rs = parseFloat(rs)||0;
+  const pct = Math.min(Math.abs(rs)/50*100, 100);
+  const cls = rs>=0?'pos':'neg';
+  return `
+  <div class="rs-row">
+    <span class="rs-label">RS</span>
+    <div class="rs-bar"><div class="rs-fill ${rs<0?'neg':''}" style="width:${pct}%"></div></div>
+    <span class="rs-value ${cls}">${rs>=0?'+':''}${rs}%</span>
+  </div>`;
+}
+
+// 카드 생성
+function makeCard(r, market) {
+  const g = grade(r.score);
+  const isKR = market === 'kr';
+  const cur = parseFloat(r.entry||r.cur||0);
+  const pivot = parseFloat(r.pivot||0);
+  const pct = pivot>0 ? ((pivot/cur-1)*100).toFixed(1) : null;
+  const safety = r.safety||'';
+  const mktTag = r.market==='KOSPI'
+    ? '<span class="tag kospi">코스피</span>'
+    : r.market==='KOSDAQ'
+    ? '<span class="tag kosdaq">코스닥</span>'
+    : '';
+  const safetyTag = safety==='safe'
+    ? '<span class="tag safe">안전</span>'
+    : safety==='caution'
+    ? '<span class="tag caution">주의</span>'
+    : safety==='danger'
+    ? '<span class="tag danger">위험</span>' : '';
+
+  const rfScore = r.rf_score || r.lgbm_score;
+  const rfStr = rfScore && rfScore!==''
+    ? `<div class="rf-score">🌲 ${parseFloat(rfScore).toFixed(3)}</div>`
+    : '';
+
+  const cupDate = r.cup_start && r.cup_start!==''
+    ? `<div class="cup-date">📅 컵 ${r.cup_start} ~ ${r.cup_end}</div>` : '';
+
+  const price = isKR
+    ? `${cur.toLocaleString()}원`
+    : `$${cur.toLocaleString()}`;
+  const pivotPrice = isKR
+    ? `${pivot.toLocaleString()}원`
+    : `$${pivot.toLocaleString()}`;
+
+  // 수익률 (backtest all 데이터에 있을 경우)
+  const retRow = (r.r5||r.r10||r.r20) ? `
+  <div class="ret-grid">
+    ${['r5','r10','r20','r60'].map(k => {
+      const v = parseFloat(r[k]);
+      const cls = isNaN(v)?'na':v>=0?'pos':'neg';
+      const label = k.replace('r','')+'일';
+      return `<div class="ret-item">
+        <div class="ret-label">${label}</div>
+        <div class="ret-val ${cls}">${isNaN(v)?'-':((v>=0?'+':'')+v.toFixed(1)+'%')}</div>
+      </div>`;
+    }).join('')}
+  </div>` : '';
+
+  return `
+  <div class="card" style="animation-delay:${Math.random()*0.1}s">
+    <div class="card-header">
+      <div class="card-title">
+        <div class="stock-name">${r.name||r.ticker}</div>
+        <div class="stock-meta">
+          <span style="font-family:'JetBrains Mono',monospace">${r.ticker}</span>
+          ${mktTag} ${safetyTag}
+          ${r.sector&&r.sector!=='기타'?`<span class="tag">${r.sector}</span>`:''}
+        </div>
+      </div>
+      <div class="score-block">
+        <div class="score-circle ${g}">${g}</div>
+        ${rfStr}
+      </div>
+    </div>
+    <div class="price-row">
+      <div class="price-item">
+        <div class="price-label">현재가</div>
+        <div class="price-value">${price}</div>
+      </div>
+      <div class="price-item">
+        <div class="price-label">피벗</div>
+        <div class="price-value up">${pivotPrice}</div>
+      </div>
+      ${pct!==null?`<div class="price-item">
+        <div class="price-label">피벗까지</div>
+        <div class="price-value up">+${pct}%</div>
+      </div>`:''}
+      <div class="price-item">
+        <div class="price-label">손절</div>
+        <div class="price-value down">${isKR?(pivot*0.93).toLocaleString('ko',{maximumFractionDigits:0})+'원':'$'+(pivot*0.93).toFixed(2)}</div>
+      </div>
+    </div>
+    <div class="pattern-row">
+      <span class="pattern-chip">컵 ${r.cup_depth}%/${r.cup_days}일</span>
+      <span class="pattern-chip">핸들 ${r.handle_depth}%/${r.handle_days}일</span>
+      <span class="vol-chip">🔥 ${parseFloat(r.vol_ratio||0).toFixed(1)}x</span>
+    </div>
+    ${rsBar(r.rs)}
+    ${cupDate}
+    ${retRow}
+    <div style="padding:0 14px 10px;font-size:10px;color:var(--text3);font-family:'JetBrains Mono',monospace">
+      📅 ${r.date||r.sig_date||''}
+    </div>
+  </div>`;
+}
+
+// 패널 렌더
+function renderPanel(data, containerId, market, noDataMsg) {
+  const el = document.getElementById(containerId);
+  if (!data || data.length === 0) {
+    el.innerHTML = `<div class="empty-state">
+      <div class="empty-icon">📭</div>
+      <div class="empty-title">${noDataMsg}</div>
+      <div class="empty-desc">시장 조건이 충족되지 않았거나<br>데이터가 아직 없어요.</div>
+    </div>`;
+    return;
+  }
+  const sorted = [...data].sort((a,b) => {
+    const ra = parseFloat(a.rf_score||a.lgbm_score||0);
+    const rb = parseFloat(b.rf_score||b.lgbm_score||0);
+    if (ra !== rb) return rb - ra;
+    return parseFloat(b.score||0) - parseFloat(a.score||0);
+  });
+  el.innerHTML = `
+    <div class="section-header">
+      <span class="section-title">${market==='us'?'미장':'국장'} 시그널</span>
+      <span class="count-badge">${sorted.length}건</span>
+    </div>
+    ${sorted.map(r => makeCard(r, market)).join('')}`;
+}
+
+// 검색
+function doSearch(q) {
+  q = q.trim().toLowerCase();
+  const el = document.getElementById('search-content');
+  const countEl = document.getElementById('searchCount');
+  if (!q) { el.innerHTML = ''; countEl.textContent = '0건'; return; }
+  const all = [...usAll, ...krAll];
+  const res = all.filter(r =>
+    (r.name||'').toLowerCase().includes(q) ||
+    (r.ticker||'').toLowerCase().includes(q)
+  ).slice(0, 30);
+  countEl.textContent = `${res.length}건`;
+  el.innerHTML = res.map(r => makeCard(r, r.market==='KOSPI'||r.market==='KOSDAQ'?'kr':'us')).join('');
+}
+
+// 탭
+function showTab(tab) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById(`panel-${tab}`).classList.add('active');
+  document.querySelector(`.tab.${tab}`) 
+    ? document.querySelector(`.tab.${tab}`).classList.add('active')
+    : document.querySelectorAll('.tab')[tab==='search'?2:0].classList.add('active');
+}
+
+// 시장 상태
+function updateMarketBadge(spyData) {
+  const badge = document.getElementById('marketBadge');
+  if (!spyData || spyData.length === 0) return;
+  // scanner_us_all.csv에서 시장 상태 파악
+  badge.textContent = '실시간';
+  badge.className = 'market-badge ok';
+}
+
+// 초기화
+async function init() {
+  const [us, kr, usA, krA] = await Promise.all([
+    fetchCSV('scanner_us_raw.csv'),
+    fetchCSV('scanner_kr_raw.csv'),
+    fetchCSV('scanner_us_all.csv'),
+    fetchCSV('scanner_kr_all.csv'),
+  ]);
+
+  usData = us; krData = kr;
+  usAll  = usA.filter(r => r.ticker); 
+  krAll  = krA.filter(r => r.ticker);
+
+  renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
+  renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
+
+  document.getElementById('marketBadge').textContent =
+    new Date().toLocaleDateString('ko', {month:'short', day:'numeric'});
+  document.getElementById('marketBadge').className = 'market-badge ok';
+}
+
+init();
+</script>
+</body>
+</html>
