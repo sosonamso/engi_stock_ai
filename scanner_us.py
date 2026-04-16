@@ -112,7 +112,8 @@ def detect(df):
         if not (0.05 <= hd <= 0.15): continue
         if (hlow - bot) / (lh - bot) < 0.60: continue
         cur = cl[-1]
-        if not (rh * 0.97 <= cur <= rh * 1.05): continue
+        # 패턴 감지는 넓게 (피벗 70~110%)
+        if not (rh * 0.70 <= cur <= rh * 1.10): continue
         candidates.append((ri - li, li, bi, ri, lh, bot, rh, cd, hd, hl))
 
     if not candidates: return False, {}
@@ -419,7 +420,12 @@ if __name__ == "__main__":
             safety = ("safe"    if cur >= pivot * 0.93
                       else "caution" if cur >= pivot * 0.90
                       else "danger")
-            signal = pat["vs"] and rs > 30 and pat["cd"] < 30
+            # 피벗 돌파 구간 (97~105%) 체크
+            pivot_ok  = pat["pivot"] > 0 and (pat["pivot"] * 0.97 <= pat["cur"] <= pat["pivot"] * 1.05)
+            signal    = pat["vs"] and rs > 30 and pivot_ok
+            # 대기중 (패턴 완성, 피벗/거래량/RS 미충족)
+            watching  = (not signal) and pivot_ok is False or (not pat["vs"]) or rs <= 30
+            watching  = (not signal) and True
 
             # RF 점수 (시그널 종목만)
             rf_score = None
@@ -441,9 +447,37 @@ if __name__ == "__main__":
                 "handle_depth": pat["hd"], "vol_ratio": pat["vr"],
                 "cup_days": pat["cdays"], "handle_days": pat["hdays"],
                 "pct_from_pivot": pct, "safety": safety,
+                "watching": watching,
                 "reason": "시그널" if signal else (
+                    "대기중(피벗미돌파)" if not pivot_ok else
                     "거래량 미충족" if not pat["vs"] else "RS 미충족"),
             })
+
+            if watching and not signal:
+                signals.append({
+                    "sig_date":   sig_str,
+                    "ticker":     ticker,
+                    "name":       str(info.get("name","")),
+                    "exchange":   str(info.get("exchange","")),
+                    "sector":     str(info.get("sector","")),
+                    "cap":        str(info.get("cap","")),
+                    "cur":        pat["cur"],
+                    "pivot":      pivot,
+                    "cd":         pat["cd"],
+                    "hd":         pat["hd"],
+                    "cdays":      pat["cdays"],
+                    "hdays":      pat["hdays"],
+                    "cup_start":  pat.get("cup_start",""),
+                    "cup_end":    pat.get("cup_end",""),
+                    "vr":         pat["vr"],
+                    "rs":         rs,
+                    "score":      score,
+                    "rf_score":   None,
+                    "pct_from_pivot": pct,
+                    "safety":     safety,
+                    "watching":   True,
+                })
+                break
 
             if not signal: break
 
@@ -468,6 +502,7 @@ if __name__ == "__main__":
                 "rf_score":   rf_score,
                 "pct_from_pivot": pct,
                 "safety":     safety,
+                "watching":   False,
             })
             break
 
@@ -514,12 +549,16 @@ if __name__ == "__main__":
                   f"🇺🇸 미장 스캐너 ({len(rows)}건) {datetime.today().strftime('%Y-%m-%d')}")
 
     # 텔레그램 메시지
+    signal_list  = [r for r in signals if not r.get("watching")]
+    watching_list = [r for r in signals if r.get("watching")]
+
     if not signals:
         send(f"🇺🇸 미국 스캐너\n최근 {SCAN_DAYS}거래일 | {market_str}\n조건 충족 종목 없음")
     else:
         hdr = (f"🇺🇸 미너비니 컵&핸들(미국)\n"
                f"최근 {SCAN_DAYS}거래일 | {market_str}\n"
-               f"{len(signals)}개 발견\n" + "─"*24 + "\n")
+               f"🎯 매수구간: {len(signal_list)}개 | ⏳ 대기중: {len(watching_list)}개\n"
+               + "─"*24 + "\n")
         msg = hdr
         cap_map = {"MegaCap":"초대형","LargeCap":"대형","MidCap":"중형","SmallCap":"소형"}
         grade_emoji = {"S":"🏆","A":"🥇","B":"🥈","C":"🥉","D":"📊"}
@@ -532,8 +571,9 @@ if __name__ == "__main__":
             g = grade(r["score"])
             rf_str = (f"  🌲RF점수: {r['rf_score']:.3f}\n"
                       if r.get("rf_score") is not None else "")
+            status = "⏳ 대기중" if r.get("watching") else "🎯 매수구간"
             blk = (
-                f"[{r['sig_date']}] [{cap_map.get(r['cap'],r['cap'])}] {r['sector']}\n"
+                f"[{r['sig_date']}] {status} [{cap_map.get(r['cap'],r['cap'])}] {r['sector']}\n"
                 f"◆ {r['ticker']} {r['name']}\n"
                 f"  AI점수: {grade_emoji.get(g,'📊')}{r['score']}점({g}등급)\n"
                 f"{rf_str}"
