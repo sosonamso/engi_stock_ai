@@ -364,9 +364,12 @@ if __name__ == "__main__":
         send("⚠️ KOSPI 200MA 하방 — 시그널 신뢰도 낮음!")
 
     # 패턴 분석
-    signals    = []
-    all_scores = []
-    trend_pass = 0
+    signals       = []
+    all_scores    = []
+    trend_pass    = 0
+    pattern_pass  = 0
+    vol_pass      = 0
+    rs_pass       = 0
 
     for ticker in ticker_list:
         df = valid_data.get(ticker)
@@ -398,6 +401,12 @@ if __name__ == "__main__":
 
             trend_pass += 1
             ok, pat = detect(sl)
+
+            if ok:
+                pattern_pass += 1
+                if pat["vs"]: vol_pass += 1
+                rs_ok_check = rs > 0 if "상승" in market_str else rs > -20
+                if rs_ok_check: rs_pass += 1
 
             if not ok:
                 score = calc_score(rs, 1.0, 0, 0)
@@ -479,7 +488,12 @@ if __name__ == "__main__":
     signals = deduped
 
     print(f"완료: {len(signals)}개 / 트렌드:{trend_pass}개")
-    send(f"스캔 완료\n트렌드: {trend_pass}개\n시그널: {len(signals)}개")
+    send(f"스캔 완료\n"
+         f"트렌드: {trend_pass}개\n"
+         f"패턴 감지: {pattern_pass}개\n"
+         f"거래량 충족: {vol_pass}개\n"
+         f"RS 충족: {rs_pass}개\n"
+         f"최종 시그널: {len(signals)}개")
 
     # CSV 저장
     rows = []
