@@ -104,7 +104,8 @@ def detect(df):
         if not (0.05 <= hd <= 0.15): continue
         if (hlow - bot) / (lh - bot) < 0.60: continue
         cur = cl[-1]
-        if not (rh * 0.97 <= cur <= rh * 1.05): continue
+        # 패턴 감지는 넓게 (피벗 70~110%)
+        if not (rh * 0.70 <= cur <= rh * 1.10): continue
         candidates.append((ri - li, li, bi, ri, lh, bot, rh, cd, hd, hl))
 
     if not candidates: return False, {}
@@ -427,7 +428,11 @@ if __name__ == "__main__":
                       else "caution" if cur >= pivot * 0.90
                       else "danger")
             rs_ok  = rs > 0 if "상승" in market_str else rs > -20
-            signal = pat["vs"] and rs_ok
+            # 피벗 돌파 구간 (97~105%) 체크
+            pivot_ok = pat["pivot"] > 0 and (pat["pivot"] * 0.97 <= pat["cur"] <= pat["pivot"] * 1.05)
+            signal = pat["vs"] and rs_ok and pivot_ok
+            # 대기 중 (패턴 완성, 피벗 미돌파)
+            watching = (not pivot_ok) and pat["vs"] and rs_ok
 
             # LightGBM 점수
             lgbm_score = None
@@ -449,13 +454,42 @@ if __name__ == "__main__":
                 "handle_depth": pat["hd"], "vol_ratio": pat["vr"],
                 "cup_days": pat["cdays"], "handle_days": pat["hdays"],
                 "pct_from_pivot": pct, "safety": safety,
+                "watching": watching,
                 "reason": "시그널" if signal else (
+                    "대기중(피벗미돌파)" if watching else
                     "거래량 미충족" if not pat["vs"] else "RS 미충족"),
             })
 
             if not signal: break
 
-            signals.append({
+            # watching 종목도 따로 수집
+            if watching and not signal:
+                signals.append({
+                    "sig_date":   sig_str,
+                    "ticker":     ticker,
+                    "name":       name,
+                    "market":     market,
+                    "sector":     str(info.get("sector","기타")),
+                    "cur":        pat["cur"],
+                    "pivot":      pivot,
+                    "cd":         pat["cd"],
+                    "hd":         pat["hd"],
+                    "cdays":      pat["cdays"],
+                    "hdays":      pat["hdays"],
+                    "cup_start":  pat.get("cup_start",""),
+                    "cup_end":    pat.get("cup_end",""),
+                    "vr":         pat["vr"],
+                    "rs":         rs,
+                    "score":      score,
+                    "lgbm_score": None,
+                    "pct_from_pivot": pct,
+                    "safety":     safety,
+                    "watching":   True,
+                })
+                break
+
+            if signal:
+              signals.append({
                 "sig_date":   sig_str,
                 "ticker":     ticker,
                 "name":       name,
@@ -475,7 +509,8 @@ if __name__ == "__main__":
                 "lgbm_score": lgbm_score,
                 "pct_from_pivot": pct,
                 "safety":     safety,
-            })
+                "watching":   False,
+              })
             break
 
     # 중복 제거
@@ -520,6 +555,10 @@ if __name__ == "__main__":
         send_file("scanner_kr_raw.csv",
                   f"🇰🇷 국장 스캐너 ({len(rows)}건) {datetime.today().strftime('%Y-%m-%d')}")
 
+    # watching/signal 분리
+    signal_list  = [r for r in signals if not r.get("watching")]
+    watching_list = [r for r in signals if r.get("watching")]
+
     # 텔레그램
     if not signals:
         send(f"🇰🇷 국장 스캐너\n최근 {SCAN_DAYS}거래일 | {market_str}\n조건 충족 종목 없음")
@@ -539,8 +578,9 @@ if __name__ == "__main__":
             g = grade(r["score"])
             lgbm_str = (f"  🌲LGBM: {r['lgbm_score']:.3f}\n"
                         if r.get("lgbm_score") is not None else "")
+            status = "⏳ 대기중" if r.get("watching") else "🎯 매수구간"
             blk = (
-                f"[{r['sig_date']}] {mkt_lbl.get(r['market'],r['market'])} {r['sector']}\n"
+                f"[{r['sig_date']}] {status} {mkt_lbl.get(r['market'],r['market'])} {r['sector']}\n"
                 f"◆ {r['name']}({r['ticker']})\n"
                 f"  AI점수: {grade_emoji.get(g,'📊')}{r['score']}점({g}등급)\n"
                 f"{lgbm_str}"
