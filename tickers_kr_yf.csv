@@ -1,760 +1,773 @@
 ﻿ticker,name,market,exchange,sector,industry,market_cap,cap
-000020,Dongwha Pharm.Co.Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,161595539456.0,SmallCap
-000050,Kyungbangco.Ltd,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,224735739904.0,MidCap
-000070,Samyang Holdings,KOSPI,KO,Industrials,Conglomerates,461731364864.0,MidCap
-000080,Hite Jinro,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,1166765719552.0,LargeCap
-000087,HiteJinro Co Ltd,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,1156552065024.0,LargeCap
-000100,Yuhan Corp.,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,7087638708224.0,LargeCap
-000105,Yuhan Corp Preferred,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,7124749910016.0,LargeCap
-000120,CJ Korea Express,KOSPI,KO,Industrials,Integrated Freight & Logistics,2062326300672.0,LargeCap
-000140,Hitejinro Holdings,KOSPI,KO,Consumer Defensive,Beverages - Brewers,194120024064.0,SmallCap
-000145,HiteJinro Holdings Co Ltd,KOSPI,KO,Consumer Defensive,Beverages - Brewers,254617665536.0,MidCap
-000150,Doosan,KOSPI,KO,Industrials,Conglomerates,17480097464320.0,MegaCap
-000155,Doosan Pref Shs,KOSPI,KO,Industrials,Conglomerates,14154174824448.0,MegaCap
-000157,Doosan Co Ltd,KOSPI,KO,Industrials,Conglomerates,1051990163456.0,LargeCap
-000180,Sungchang Hold,KOSPI,KO,Basic Materials,Lumber & Wood Production,100233052160.0,SmallCap
-000210,DL Holdings CO. LTD.,KOSPI,KO,Basic Materials,Specialty Chemicals,1365934211072.0,LargeCap
-000215,DL Holdings Co Ltd Preferred,KOSPI,KO,Basic Materials,Specialty Chemicals,891247329280.0,MidCap
-000220,Yuyu Pharma Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,67077181440.0,SmallCap
-000230,Il Dong Holdings Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,112017530880.0,SmallCap
-000240,Hankook Tire Worldwide,KOSPI,KO,Consumer Cyclical,Auto Parts,2273235435520.0,LargeCap
-000270,Kia Corp,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,56137734946816.0,MegaCap
-000320,NOROO Holdings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,214807166976.0,MidCap
-000325,NOROO Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,322631499776.0,MidCap
-000370,Hanwha General,KOSPI,KO,Financial Services,Insurance - Property & Casualty,736502087680.0,MidCap
-000390,Samhwa Paint Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,218370490368.0,MidCap
-000400,Lotte Non-Life Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,618220027904.0,MidCap
-000430,Daewonkangup,KOSPI,KO,Consumer Cyclical,Auto Parts,243039993856.0,MidCap
-000480,Chosun Refractories Co Ltd,KOSPI,KO,Basic Materials,Building Materials,196587470848.0,SmallCap
-000490,Daedong Ind,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,248632999936.0,MidCap
-000500,Gaon Cable Co. Ltd.,KOSDAQ,KQ,Technology,Communication Equipment,1612953681920.0,LargeCap
-000520,Samil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,195312795648.0,SmallCap
-000540,Heungkuk Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,267891818496.0,MidCap
-000545,Heungkuk Fire & Marine Insurance Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,343310630912.0,MidCap
-000590,Cs Holdings,KOSPI,KO,Industrials,Tools & Accessories,76604547072.0,SmallCap
-000640,Dong-A Socio Holdings Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,624014000128.0,MidCap
-000650,Chunil Express,KOSPI,KO,Industrials,Railroads,297540747264.0,MidCap
-000660,SK Hynix Inc,KOSPI,KO,Technology,Semiconductors,557197415153664.0,MegaCap
-000670,YoungPoong,KOSPI,KO,Technology,Electronic Components,1023634046976.0,LargeCap
-000680,LS Networks Corp. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Specialty Retail,239955181568.0,MidCap
-000700,EUSU Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,168750940160.0,SmallCap
-000720,Hyundai Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,15973525487616.0,MegaCap
-000725,Hyundai Engineering & Construction Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,7490900066304.0,LargeCap
-000810,Samsung Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,18725440847872.0,MegaCap
-000815,Samsung Fire & Marine Insurance Co. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,19737914376192.0,MegaCap
-000850,Hwacheon Machine Tool Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,78760001536.0,SmallCap
-000860,Kangnam Jevisco Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,179659997184.0,SmallCap
-000880,Hanwha Corp.,KOSDAQ,KQ,Industrials,Conglomerates,9529646383104.0,LargeCap
-00088K,Hanwha Corp Preferred,KOSPI,KO,Industrials,Conglomerates,7190853713920.0,LargeCap
-000890,Bohae Brewery,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,57162960896.0,SmallCap
-000910,Union Corp.,KOSDAQ,KQ,Basic Materials,Building Materials,67910541312.0,SmallCap
-000970,Korea Cast Iron Pipe Industry Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,144338616320.0,SmallCap
-000990,Dongbu HiTek Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductors,3159436296192.0,LargeCap
-001020,PaperCorea Inc.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,109065871360.0,SmallCap
-001040,CJ Corp,KOSPI,KO,Industrials,Conglomerates,6337346928640.0,LargeCap
-001045,Cj Corp Pref ,KOSPI,KO,Industrials,Conglomerates,4191749144576.0,LargeCap
-00104K,CJ Corp 4P Pref ,KOSPI,KO,Industrials,Conglomerates,5633197211648.0,LargeCap
-001060,JW Pharmaceutical Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,697429393408.0,MidCap
-001065,JW Pharmaceutical Corp. Pfd. Series 1,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,651751849984.0,MidCap
-001067,JW Pharmaceutical Corp. Pfd. Series 2,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1297865244672.0,LargeCap
+000020,Dongwha Pharm.Co.Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,167970652160.0,SmallCap
+000050,Kyungbangco.Ltd,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,243173031936.0,MidCap
+000070,Samyang Holdings,KOSPI,KO,Industrials,Conglomerates,486217121792.0,MidCap
+000080,Hite Jinro,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,1221894078464.0,LargeCap
+000087,HiteJinro Co Ltd,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,1168979132416.0,LargeCap
+000100,Yuhan Corp.,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,7304454340608.0,LargeCap
+000105,Yuhan Corp Preferred,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,7166759534592.0,LargeCap
+000120,CJ Korea Express,KOSPI,KO,Industrials,Integrated Freight & Logistics,2106205536256.0,LargeCap
+000140,Hitejinro Holdings,KOSPI,KO,Consumer Defensive,Beverages - Brewers,203573215232.0,MidCap
+000145,HiteJinro Holdings Co Ltd,KOSPI,KO,Consumer Defensive,Beverages - Brewers,255709511680.0,MidCap
+000150,Doosan Corp.,KOSPI,KO,Industrials,Conglomerates,22608273735680.0,MegaCap
+000155,Doosan Pref Shs,KOSPI,KO,Industrials,Conglomerates,17564043313152.0,MegaCap
+000157,Doosan Co Ltd,KOSPI,KO,Industrials,Conglomerates,1275641593856.0,LargeCap
+000180,Sungchang Hold,KOSPI,KO,Basic Materials,Lumber & Wood Production,100442300416.0,SmallCap
+000210,DL Holdings CO. LTD.,KOSPI,KO,Basic Materials,Specialty Chemicals,1447347486720.0,LargeCap
+000215,DL Holdings Co Ltd Preferred,KOSPI,KO,Basic Materials,Specialty Chemicals,998197035008.0,MidCap
+000220,Yuyu Pharma Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,69423669248.0,SmallCap
+000230,Il Dong Holdings Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,117324816384.0,SmallCap
+000240,Hankook Tire Worldwide,KOSPI,KO,Consumer Cyclical,Auto Parts,2401104822272.0,LargeCap
+000270,Kia Corp,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,61213325131776.0,MegaCap
+000320,NOROO Holdings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,236446220288.0,MidCap
+000325,NOROO Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,328402141184.0,MidCap
+000370,Hanwha General,KOSPI,KO,Financial Services,Insurance - Property & Casualty,791999873024.0,MidCap
+000390,Samhwa Paint Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,235244568576.0,MidCap
+000400,"Lotte Non-Life Insurance Co., Ltd.",KOSPI,KO,Financial Services,Insurance - Property & Casualty,670768758784.0,MidCap
+000430,Daewonkangup,KOSPI,KO,Consumer Cyclical,Auto Parts,269080002560.0,MidCap
+000480,Chosun Refractories Co Ltd,KOSPI,KO,Basic Materials,Building Materials,209995841536.0,MidCap
+000490,Daedong Ind,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,273308565504.0,MidCap
+000500,Gaon Cable Co. Ltd.,KOSDAQ,KQ,Technology,Communication Equipment,2284604096512.0,LargeCap
+000520,Samil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,215268671488.0,MidCap
+000540,Heungkuk Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,284916121600.0,MidCap
+000545,Heungkuk Fire & Marine Insurance Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,356284563456.0,MidCap
+000590,Cs Holdings,KOSPI,KO,Industrials,Tools & Accessories,80311214080.0,SmallCap
+000640,Dong-A Socio Holdings Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,650828447744.0,MidCap
+000650,Chunil Express,KOSPI,KO,Industrials,Railroads,313238355968.0,MidCap
+000660,SK Hynix Inc,KOSPI,KO,Technology,Semiconductors,813833287368704.0,MegaCap
+000670,YoungPoong,KOSPI,KO,Technology,Electronic Components,1145144606720.0,LargeCap
+000680,LS Networks Corp. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Specialty Retail,276598587392.0,MidCap
+000700,EUSU Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,165886345216.0,SmallCap
+000720,Hyundai Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,19930374209536.0,MegaCap
+000725,Hyundai Engineering & Construction Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,18804243431424.0,MegaCap
+000810,Samsung Fire & Marine Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,20829662347264.0,MegaCap
+000815,Samsung Fire & Marine Insurance Co. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,21011328139264.0,MegaCap
+000850,Hwacheon Machine Tool Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,81509998592.0,SmallCap
+000860,Kangnam Jevisco Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,187525005312.0,SmallCap
+000880,Hanwha Corp.,KOSDAQ,KQ,Industrials,Conglomerates,11923180486656.0,MegaCap
+00088K,Hanwha Corp Preferred,KOSPI,KO,Industrials,Conglomerates,8550826377216.0,LargeCap
+000890,Bohae Brewery,KOSPI,KO,Consumer Defensive,Beverages - Wineries & Distilleries,60130828288.0,SmallCap
+000910,Union Corp.,KOSDAQ,KQ,Basic Materials,Building Materials,70252281856.0,SmallCap
+000970,Korea Cast Iron Pipe Industry Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,154448756736.0,SmallCap
+000990,Dongbu HiTek Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductors,4169650929664.0,LargeCap
+001020,PaperCorea Inc.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,125968416768.0,SmallCap
+001040,CJ Corp,KOSPI,KO,Industrials,Conglomerates,7276213043200.0,LargeCap
+001045,Cj Corp Pref ,KOSPI,KO,Industrials,Conglomerates,4431277457408.0,LargeCap
+00104K,CJ Corp 4P Pref ,KOSPI,KO,Industrials,Conglomerates,6119395688448.0,LargeCap
+001060,JW Pharmaceutical Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,728605851648.0,MidCap
+001065,JW Pharmaceutical Corp. Pfd. Series 1,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,643240165376.0,MidCap
+001067,JW Pharmaceutical Corp. Pfd. Series 2,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1267843465216.0,LargeCap
 001080,Manho Rope&Wir,KOSPI,KO,Basic Materials,Steel,179929153536.0,SmallCap
-001120,LG International Corp.,KOSDAQ,KQ,Industrials,Conglomerates,1627547631616.0,LargeCap
-001130,Daehan Flour Mills Co Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,233289351168.0,MidCap
-001200,Eugene Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,405469822976.0,MidCap
-001230,Dongkuk Steel Mill Co Ltd,KOSPI,KO,Basic Materials,Steel,301684981760.0,MidCap
-001250,GS Global Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,206650474496.0,MidCap
-001260,Namkwang Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,83501572096.0,SmallCap
-001270,Bookook Sec,KOSPI,KO,Financial Services,Capital Markets,657915576320.0,MidCap
-001275,Bookook Securities Co Ltd,KOSPI,KO,Financial Services,Capital Markets,556105859072.0,MidCap
-001290,Golden Bridge Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,114127364096.0,SmallCap
-001340,Paik Kwang Ind,KOSPI,KO,Basic Materials,Specialty Chemicals,294474547200.0,MidCap
-001360,Samsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,166310559744.0,SmallCap
-001380,SG Choongbang Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,58992955392.0,SmallCap
-001390,Kg Chemical,KOSPI,KO,Industrials,Conglomerates,334820507648.0,MidCap
-001430,SeAH Besteel Corp.,KOSDAQ,KQ,Basic Materials,Steel,2309520621568.0,LargeCap
-001440,Taihan Electric Wire Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,4960128335872.0,LargeCap
-001450,Hyundai Marine & Fire Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,2364197044224.0,LargeCap
-001460,BYC Co. Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,381622845440.0,MidCap
-001465,BYC Co Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,359392509952.0,MidCap
-001500,Hyundai Motor Securities Co. Ltd.,KOSPI,KO,Financial Services,Capital Markets,613383798784.0,MidCap
-001510,Sk Securities,KOSPI,KO,Financial Services,Asset Management,761587433472.0,MidCap
-001515,SK Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Asset Management,620769837056.0,MidCap
-001520,Tongyang Inc.,KOSDAQ,KQ,Basic Materials,Building Materials,142990901248.0,SmallCap
-001525,Tongyang Inc. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Building Materials,196570890240.0,SmallCap
-001527,Tongyang Inc. Pfd. Series 2,KOSDAQ,KQ,Basic Materials,Building Materials,1525236236288.0,LargeCap
-001530,Dong-Il Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,427085725696.0,MidCap
-001550,Cho Bi,KOSPI,KO,Basic Materials,Agricultural Inputs,82238554112.0,SmallCap
-001560,Cheil Grinding,KOSPI,KO,Industrials,Tools & Accessories,72871108608.0,SmallCap
-001620,Dongkook Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,68333920256.0,SmallCap
-001630,Chongkundang,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,222318051328.0,MidCap
-001680,Daesang Corp,KOSPI,KO,Consumer Defensive,Packaged Foods,716763103232.0,MidCap
-001685,Daesang Corp Preference Shares,KOSPI,KO,Consumer Defensive,Packaged Foods,730721091584.0,MidCap
-001720,Shinyoung Securities Co. Ltd.,KOSPI,KO,Financial Services,Capital Markets,1478380224512.0,LargeCap
-001740,SK Networks Co Ltd,KOSPI,KO,Industrials,Conglomerates,954215366656.0,MidCap
-001750,Hanyang Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,311212670976.0,MidCap
-001755,Hanyang Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,273932042240.0,MidCap
-001780,Aluko Co Ltd,KOSPI,KO,Basic Materials,Aluminum,257083981824.0,MidCap
-001790,TS Corp.,KOSDAQ,KQ,Consumer Defensive,Confectioners,251826388992.0,MidCap
-001800,Orion Corp.,KOSDAQ,KQ,Consumer Defensive,Confectioners,1383602978816.0,LargeCap
-001820,Samwha Capacitor Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,532545896448.0,MidCap
-001940,Kisco Holdings,KOSPI,KO,Basic Materials,Steel,309636300800.0,MidCap
-002020,Kolon Corp.,KOSDAQ,KQ,Industrials,Conglomerates,886291365888.0,MidCap
-002025,Kolon Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Conglomerates,748093308928.0,MidCap
-002030,Asia Cement,KOSPI,KO,Basic Materials,Building Materials,455810842624.0,MidCap
-002100,Kyung Nong Corporation,KOSPI,KO,Basic Materials,Agricultural Inputs,167391772672.0,SmallCap
-002140,Korea Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,67106263040.0,SmallCap
-002150,Dohwa Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,206434107392.0,MidCap
-002170,Samyang Tongsang Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,159192006656.0,SmallCap
-002200,Korea Export Packaging Industry Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,100985020416.0,SmallCap
-002220,Hanil Iron & Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,93396590592.0,SmallCap
-002240,Kis Wire,KOSPI,KO,Basic Materials,Steel,555868553216.0,MidCap
-002310,Asia Paper,KOSPI,KO,Basic Materials,Paper & Paper Products,330062757888.0,MidCap
-002320,Hanjin Transportation Co. Ltd.,KOSPI,KO,Industrials,Integrated Freight & Logistics,281853624320.0,MidCap
-002350,Nexen Tire Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,734043504640.0,MidCap
-002355,Nexen Tire Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,732992634880.0,MidCap
-002380,KCC Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,3544710381568.0,LargeCap
-002390,Handok Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,134456393728.0,SmallCap
-002450,Samick Musical Instruments Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,90096631808.0,SmallCap
-002460,Hwasung Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,108276498432.0,SmallCap
-002600,Choheung,KOSPI,KO,Consumer Defensive,Packaged Foods,86759997440.0,SmallCap
-002620,Jeil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,129409982464.0,SmallCap
-002630,ORIENTBIO Inc.,KOSDAQ,KQ,Healthcare,Biotechnology,68540977152.0,SmallCap
-002700,Shinil Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",95535939584.0,SmallCap
-002710,TCC Steel Corp.,KOSDAQ,KQ,Basic Materials,Steel,345496518656.0,MidCap
-002720,Kukje Pharma Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,97434574848.0,SmallCap
-002760,Bo Lak,KOSPI,KO,Basic Materials,Specialty Chemicals,68765196288.0,SmallCap
-002780,Chin Hung Int',KOSPI,KO,Industrials,Engineering & Construction,137331933184.0,SmallCap
-002785,Chinhung International Inc,KOSPI,KO,Industrials,Engineering & Construction,487330512896.0,MidCap
-002787,Chinhung International Inc. Pfd. Series 2,KOSPI,KO,Industrials,Engineering & Construction,1169593204736.0,LargeCap
-002790,Amore Group,KOSPI,KO,Consumer Defensive,Household & Personal Products,2481482891264.0,LargeCap
-002795,Amorepacific Group,KOSPI,KO,Consumer Defensive,Household & Personal Products,2406917079040.0,LargeCap
+001120,LG International Corp.,KOSDAQ,KQ,Industrials,Conglomerates,1791201640448.0,LargeCap
+001130,Daehan Flour Mills Co Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,249457917952.0,MidCap
+001200,Eugene Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,461032488960.0,MidCap
+001210,Kumho Electric Inc.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,59549859840.0,SmallCap
+001230,Dongkuk Steel Mill Co Ltd,KOSPI,KO,Basic Materials,Steel,338695815168.0,MidCap
+001250,GS Global Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,270584250368.0,MidCap
+001260,Namkwang Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,98728329216.0,SmallCap
+001270,Bookook Sec,KOSPI,KO,Financial Services,Capital Markets,677501730816.0,MidCap
+001275,Bookook Securities Co Ltd,KOSPI,KO,Financial Services,Capital Markets,540658466816.0,MidCap
+001290,Golden Bridge Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,120078139392.0,SmallCap
+001340,Paik Kwang Ind,KOSPI,KO,Basic Materials,Specialty Chemicals,307277791232.0,MidCap
+001360,Samsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,169510649856.0,SmallCap
+001390,Kg Chemical,KOSPI,KO,Industrials,Conglomerates,401381195776.0,MidCap
+001430,SeAH Besteel Corp.,KOSDAQ,KQ,Basic Materials,Steel,2556969091072.0,LargeCap
+001440,Taihan Electric Wire Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,7440192503808.0,LargeCap
+001450,Hyundai Marine & Fire Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,2410978213888.0,LargeCap
+001460,BYC Co. Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,405266890752.0,MidCap
+001465,BYC Co Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,370079072256.0,MidCap
+001500,Hyundai Motor Securities Co. Ltd.,KOSPI,KO,Financial Services,Capital Markets,689438457856.0,MidCap
+001510,Sk Securities,KOSPI,KO,Financial Services,Capital Markets,771107258368.0,MidCap
+001515,SK Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,553503752192.0,MidCap
+001520,Tongyang Inc.,KOSDAQ,KQ,Basic Materials,Building Materials,156718022656.0,SmallCap
+001525,Tongyang Inc. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Building Materials,196793008128.0,SmallCap
+001527,Tongyang Inc. Pfd. Series 2,KOSDAQ,KQ,Basic Materials,Building Materials,1326955495424.0,LargeCap
+001530,Dong-Il Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,479509741568.0,MidCap
+001550,Cho Bi,KOSPI,KO,Basic Materials,Agricultural Inputs,81511702528.0,SmallCap
+001560,Cheil Grinding,KOSPI,KO,Industrials,Tools & Accessories,75993210880.0,SmallCap
+001620,Dongkook Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,76235726848.0,SmallCap
+001630,Chongkundang,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,234219454464.0,MidCap
+001680,Daesang Corp,KOSPI,KO,Consumer Defensive,Packaged Foods,770790522880.0,MidCap
+001685,Daesang Corp Preference Shares,KOSPI,KO,Consumer Defensive,Packaged Foods,750092877824.0,MidCap
+001720,Shinyoung Securities Co. Ltd.,KOSPI,KO,Financial Services,Capital Markets,1671595819008.0,LargeCap
+001740,SK Networks Co Ltd,KOSPI,KO,Industrials,Conglomerates,1060885757952.0,LargeCap
+001750,Hanyang Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,365308936192.0,MidCap
+001755,Hanyang Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,312506155008.0,MidCap
+001780,Aluko Co Ltd,KOSPI,KO,Basic Materials,Aluminum,256599834624.0,MidCap
+001790,TS Corp.,KOSDAQ,KQ,Consumer Defensive,Confectioners,274680496128.0,MidCap
+001800,Orion Corp.,KOSDAQ,KQ,Consumer Defensive,Confectioners,1497900646400.0,LargeCap
+001820,Samwha Capacitor Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,657730109440.0,MidCap
+001940,Kisco Holdings,KOSPI,KO,Basic Materials,Steel,329653190656.0,MidCap
+002020,Kolon Corp.,KOSDAQ,KQ,Industrials,Conglomerates,891918614528.0,MidCap
+002025,Kolon Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Conglomerates,773295046656.0,MidCap
+002030,Asia Cement,KOSPI,KO,Basic Materials,Building Materials,439091625984.0,MidCap
+002100,Kyung Nong Corporation,KOSPI,KO,Basic Materials,Agricultural Inputs,179718373376.0,SmallCap
+002140,Korea Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,71300407296.0,SmallCap
+002150,Dohwa Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,237732184064.0,MidCap
+002170,Samyang Tongsang Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,159719997440.0,SmallCap
+002200,Korea Export Packaging Industry Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,103491747840.0,SmallCap
+002220,Hanil Iron & Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,111540125696.0,SmallCap
+002240,Kis Wire,KOSPI,KO,Basic Materials,Steel,684042092544.0,MidCap
+002310,Asia Paper,KOSPI,KO,Basic Materials,Paper & Paper Products,361091006464.0,MidCap
+002320,Hanjin Transportation Co. Ltd.,KOSPI,KO,Industrials,Integrated Freight & Logistics,294637797376.0,MidCap
+002350,Nexen Tire Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,768949026816.0,MidCap
+002355,Nexen Tire Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,768232718336.0,MidCap
+002380,KCC Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,4074210852864.0,LargeCap
+002390,Handok Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,136664858624.0,SmallCap
+002450,Samick Musical Instruments Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,96559259648.0,SmallCap
+002460,Hwasung Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,128625664000.0,SmallCap
+002600,Choheung,KOSPI,KO,Consumer Defensive,Packaged Foods,86940000256.0,SmallCap
+002620,Jeil Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,132633722880.0,SmallCap
+002630,ORIENTBIO Inc.,KOSDAQ,KQ,Healthcare,Biotechnology,68303814656.0,SmallCap
+002700,Shinil Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",103081893888.0,SmallCap
+002710,TCC Steel Corp.,KOSDAQ,KQ,Basic Materials,Steel,442225065984.0,MidCap
+002720,Kukje Pharma Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,102423388160.0,SmallCap
+002760,Bo Lak,KOSPI,KO,Basic Materials,Specialty Chemicals,70682001408.0,SmallCap
+002780,Chin Hung Int',KOSPI,KO,Industrials,Engineering & Construction,158290821120.0,SmallCap
+002785,Chinhung International Inc,KOSPI,KO,Industrials,Engineering & Construction,494658781184.0,MidCap
+002787,Chinhung International Inc. Pfd. Series 2,KOSPI,KO,Industrials,Engineering & Construction,1184249806848.0,LargeCap
+002790,Amore Group,KOSPI,KO,Consumer Defensive,Household & Personal Products,2535330676736.0,LargeCap
+002795,Amorepacific Group,KOSPI,KO,Consumer Defensive,Household & Personal Products,2258306859008.0,LargeCap
 00279K,AMOREPACIFIC Group,KOSPI,KO,Consumer Defensive,Household & Personal Products,0.0,
-002810,Samyung Trading Co. Ltd.,KOSDAQ,KQ,Industrials,Industrial Distribution,332989562880.0,MidCap
-002840,Miwon Commercial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,617048047616.0,MidCap
-002900,Tong Yang Moolsan Co. Ltd.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,244856225792.0,MidCap
-002960,Hankook Shell Oil Co. Ltd.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,606450024448.0,MidCap
-002990,Kumho Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,170482679808.0,SmallCap
-002995,Kumho Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,492343427072.0,MidCap
-003000,Bukwang Pharm,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,720252108800.0,MidCap
-003010,Hae In Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,54546866176.0,SmallCap
-003030,SeAH Steel Corp.,KOSDAQ,KQ,Basic Materials,Steel,770111897600.0,MidCap
-003060,Schnell Biopharmaceuticals Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,58283974656.0,SmallCap
-003070,Kolon Global Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,279960092672.0,MidCap
-003075,Kolon Global Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,413434773504.0,MidCap
-003080,Sung Bo Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,51418554368.0,SmallCap
-003090,Daewoong Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,952753586176.0,MidCap
-003120,Ilsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,149944811520.0,SmallCap
-003160,DI Corp.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,733672833024.0,MidCap
-003200,Ilshin Spinning Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,239128231936.0,MidCap
-003220,Daewon Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,218621083648.0,MidCap
-003230,Sam Yang Foods,KOSPI,KO,Consumer Defensive,Packaged Foods,8949753446400.0,LargeCap
-003240,Taekwang Ind,KOSPI,KO,Basic Materials,Chemicals,913169645568.0,MidCap
-003280,Heung-A Shipping Co. Ltd.,KOSPI,KO,Industrials,Marine Shipping,956254126080.0,MidCap
-003300,Hanil Cement Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,516735008768.0,MidCap
-003350,Hankook Cosmetics Manufacturing Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,158956552192.0,SmallCap
-003460,Yuhwa Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,198271795200.0,SmallCap
-003465,Yuhwa Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,205855162368.0,MidCap
-003470,Yuanta Securities Korea Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,908272336896.0,MidCap
-003475,Yuanta Securities Korea Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,900237099008.0,MidCap
-003480,Hanjin Heavy Industries & Construction Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,118446350336.0,SmallCap
-003490,Korean Air Lines Co. Ltd.,KOSDAQ,KQ,Industrials,Airlines,8697754419200.0,LargeCap
-003495,Korean Air Lines Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Airlines,8776130756608.0,LargeCap
-003520,Yungjin Pharm. Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,313843449856.0,MidCap
-003530,Hanwha Investments & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,1410362376192.0,LargeCap
-003535,Hanwha Investments & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,1866682466304.0,LargeCap
-003540,Daishin Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,2396657549312.0,LargeCap
-003545,Daishin Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,1971641122816.0,LargeCap
-003547,Daishin Securities Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Financial Services,Capital Markets,1966973255680.0,LargeCap
-003550,LG Corp.,KOSDAQ,KQ,Technology,Consumer Electronics,12768024461312.0,MegaCap
-003555,LG Corp. Pfd. Series 1,KOSDAQ,KQ,Technology,Consumer Electronics,11322354827264.0,MegaCap
-003570,SNT Dynamics Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,1141340766208.0,LargeCap
-003580,HLB Global Co Ltd,KOSPI,KO,Industrials,Conglomerates,100017709056.0,SmallCap
-003610,Pangrim Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,162747170816.0,SmallCap
-003620,SsangYong Motor Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,673908457472.0,MidCap
-003650,Mi Chang Oil,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,168999747584.0,SmallCap
-003670,Posco Chemical Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,18100548272128.0,MegaCap
-003690,Korean Reinsurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Reinsurance,2163065356288.0,LargeCap
-003720,Sam Young Chem,KOSPI,KO,Consumer Cyclical,Packaging & Containers,229479890944.0,MidCap
-003780,Chin Yang Ind,KOSPI,KO,Consumer Cyclical,Auto Parts,70589997056.0,SmallCap
-003830,Daehan Synthet,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,127930212352.0,SmallCap
-003850,Boryung Pharm,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,760324423680.0,MidCap
-003920,Namyang Dairy Products Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,390015418368.0,MidCap
-003925,Namyang Dairy Products Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,439393681408.0,MidCap
-003960,Sajodaerim Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,279389405184.0,MidCap
-004000,Lotte Fine Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,1244209479680.0,LargeCap
-004020,Hyundai Steel Co.,KOSDAQ,KQ,Basic Materials,Steel,4426513776640.0,LargeCap
-004060,SG Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,101143830528.0,SmallCap
-004080,Shinhung Co. Ltd.,KOSDAQ,KQ,Healthcare,Medical Devices,130472001536.0,SmallCap
-004090,Korea Petroleum Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,200506015744.0,MidCap
-004100,Taeyang Metal Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,109817937920.0,SmallCap
-004105,Taeyang Metal Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,50706571264.0,SmallCap
-004140,Dongbang Transport Logistics Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,136693153792.0,SmallCap
-004150,Hansol Holdings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,129438982144.0,SmallCap
-004170,Shinsegae Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,2634688233472.0,LargeCap
-004250,NPC Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,147152699392.0,SmallCap
-004255,NPC Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,132270997504.0,SmallCap
-004310,Hyundai Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,226596503552.0,MidCap
-004360,Sebang,KOSPI,KO,Industrials,Integrated Freight & Logistics,323695771648.0,MidCap
-004365,Sebang Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,284665610240.0,MidCap
-004370,Nongshim Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,2232329699328.0,LargeCap
-004410,Seoul Food Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,70984425472.0,SmallCap
-004415,Seoul Food Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,463031402496.0,MidCap
-004430,Songwon Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,213360001024.0,MidCap
-004440,Samil C&S Co Ltd,KOSPI,KO,Basic Materials,Building Materials,124900401152.0,SmallCap
-004490,Sebang Global Battery Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,786022203392.0,MidCap
-004540,Kleannara,KOSPI,KO,Basic Materials,Paper & Paper Products,75409473536.0,SmallCap
-004545,Kleannara Co Ltd,KOSPI,KO,Basic Materials,Paper & Paper Products,58828861440.0,SmallCap
-004560,Hyundai BNG Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,223577112576.0,MidCap
-004690,Samchully Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,475939471360.0,MidCap
-004700,Cho Kwang Leat,KOSPI,KO,Consumer Cyclical,Auto Parts,232361164800.0,MidCap
-004710,Hansol Technics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,143892217856.0,SmallCap
-004720,PharmGen Science Inc,KOSPI,KO,Healthcare,Drug Manufacturers - General,80309649408.0,SmallCap
-004770,Sunny Electronics Corp.,KOSDAQ,KQ,Technology,Electronic Components,57131470848.0,SmallCap
-004800,Hyosung Corp,KOSPI,KO,Industrials,Conglomerates,2148212146176.0,LargeCap
-004830,Duksung Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,67269406720.0,SmallCap
-004835,Ducksung Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,91025457152.0,SmallCap
-004840,DRB Holding Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,98867224576.0,SmallCap
-004890,Dongil Industries Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,82448752640.0,SmallCap
-004920,CItech Co Ltd,KOSPI,KO,Technology,Information Technology Services,51367501824.0,SmallCap
-004960,Hanshin Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,174833303552.0,SmallCap
-004970,Silla Co.Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,146011242496.0,SmallCap
-004980,SungShin Cement Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,223182520320.0,MidCap
-004985,SungShin Cement Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Building Materials,261926813696.0,MidCap
-004990,Lotte Confectionery Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Confectioners,1952811974656.0,LargeCap
-00499K,LOTTE Corporation,KOSPI,KO,Consumer Defensive,Confectioners,2263693131776.0,LargeCap
-005010,Husteel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,294425526272.0,MidCap
-005070,Cosmoam&T,KOSPI,KO,Basic Materials,Specialty Chemicals,1713265049600.0,LargeCap
-005090,Samkwang Glass Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,829857136640.0,MidCap
-005180,Binggrae,KOSPI,KO,Consumer Defensive,Packaged Foods,623346974720.0,MidCap
-005250,Green Cross Holdings Corp.,KOSDAQ,KQ,Healthcare,Biotechnology,604480667648.0,MidCap
-005257,Green Cross Holdings Corp. Pfd. Series 2,KOSDAQ,KQ,Healthcare,Biotechnology,1023210291200.0,LargeCap
-005300,Lotte Chilsung Beverage Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Beverages - Non-Alcoholic,1146178109440.0,LargeCap
-005305,Lotte Chilsung Beverage Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Beverages - Non-Alcoholic,1110187180032.0,LargeCap
-005380,Hyundai Motor Co. Ltd.,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,115962145669120.0,MegaCap
-005385,Hyundai Motor Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,79776056344576.0,MegaCap
-005387,Hyundai Motor Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,79498888347648.0,MegaCap
-005389,Hyundai Motor Co. Ltd. Pfd. Series 3,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,79151658696704.0,MegaCap
-005420,Cosmo Chem,KOSPI,KO,Basic Materials,Specialty Chemicals,570478034944.0,MidCap
-005430,Korea Airport Service Co. Ltd.,KOSDAQ,KQ,Industrials,Airports & Air Services,173706379264.0,SmallCap
-005440,Hyundai Greenfood Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,2143684132864.0,LargeCap
-005490,POSCO,KOSDAQ,KQ,Basic Materials,Steel,25143908761600.0,MegaCap
-005500,Samjin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,220272214016.0,MidCap
-005610,Samlip General Foods Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,401208541184.0,MidCap
-005680,Samyoung Electronics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,288468598784.0,MidCap
-005690,Pharmicell Co. Ltd.,KOSDAQ,KQ,Healthcare,Biotechnology,875458592768.0,MidCap
-005720,Nexen Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,328566800384.0,MidCap
-005725,Nexen Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,250369982464.0,MidCap
-005740,Crown Confec,KOSPI,KO,Consumer Defensive,Confectioners,97196851200.0,SmallCap
-005745,CrownHaitai Holdings Co Ltd Preference Shares,KOSPI,KO,Consumer Defensive,Confectioners,105271664640.0,SmallCap
-005750,Daelim B&Co,KOSPI,KO,Industrials,Building Products & Equipment,90150961152.0,SmallCap
-005800,Shinyoung Waco,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,138690002944.0,SmallCap
-005810,Poongsan Holdings Corp.,KOSDAQ,KQ,Basic Materials,Copper,470900015104.0,MidCap
-005830,Dongbu Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,9835119640576.0,LargeCap
-005850,SL Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,2551472717824.0,LargeCap
-005870,Huneed Tech,KOSPI,KO,Technology,Communication Equipment,103414874112.0,SmallCap
-005880,Korea Line Corp.,KOSDAQ,KQ,Industrials,Marine Shipping,772979818496.0,MidCap
-005930,Samsung Electronics Co Ltd,KOSPI,KO,Technology,Consumer Electronics,1117913079611392.0,MegaCap
-005935,Samsung Electronics Co Pref,KOSPI,KO,Technology,Consumer Electronics,1039985058775040.0,MegaCap
-005940,NH Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,11106373337088.0,MegaCap
-005945,NH Investment & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,10022101712896.0,MegaCap
-005950,ISU Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,197507579904.0,SmallCap
-005960,Dongbu,KOSPI,KO,Industrials,Engineering & Construction,180958478336.0,SmallCap
-005965,Dongbu Corp,KOSPI,KO,Industrials,Engineering & Construction,428732383232.0,MidCap
-006040,Dongwon Industries Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,1673141288960.0,LargeCap
-006060,Hwaseung Industries Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,152538497024.0,SmallCap
-006090,Oyang Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,76701073408.0,SmallCap
-006110,Sam-A Aluminium Co. Ltd.,KOSDAQ,KQ,Basic Materials,Aluminum,591419015168.0,MidCap
-006120,SK Discovery Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,935618281472.0,MidCap
-006125,SK Discovery Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,1011735199744.0,LargeCap
-006220,Jeju Bank,KOSDAQ,KQ,Financial Services,Banks - Regional,446022975488.0,MidCap
-006260,LS Corp.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,7100135636992.0,LargeCap
-006280,Green Cross Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1630943182848.0,LargeCap
-006340,Daewon Cable,KOSPI,KO,Industrials,Electrical Equipment & Parts,385798930432.0,MidCap
-006345,Daewon Cable Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,102310199296.0,SmallCap
-006360,GS Engineering & Construction Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,2130711281664.0,LargeCap
-006400,Samsung SDI,KOSPI,KO,Industrials,Electrical Equipment & Parts,32107002855424.0,MegaCap
-006405,Samsung SDI Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,28963000811520.0,MegaCap
+002810,Samyung Trading Co. Ltd.,KOSDAQ,KQ,Industrials,Industrial Distribution,334757691392.0,MidCap
+002840,Miwon Commercial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,632611602432.0,MidCap
+002900,Tong Yang Moolsan Co. Ltd.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,273797234688.0,MidCap
+002960,Hankook Shell Oil Co. Ltd.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,655200026624.0,MidCap
+002990,Kumho Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,195732553728.0,SmallCap
+002995,Kumho Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,582552059904.0,MidCap
+003000,Bukwang Pharm,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,801157152768.0,MidCap
+003010,Hae In Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,60731551744.0,SmallCap
+003030,SeAH Steel Corp.,KOSDAQ,KQ,Basic Materials,Steel,888901402624.0,MidCap
+003070,Kolon Global Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,317176348672.0,MidCap
+003075,Kolon Global Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,416564871168.0,MidCap
+003080,Sung Bo Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,52104134656.0,SmallCap
+003090,Daewoong Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,979332562944.0,MidCap
+003120,Ilsung Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,159486754816.0,SmallCap
+003160,DI Corp.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,819528204288.0,MidCap
+003200,Ilshin Spinning Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,263507443712.0,MidCap
+003220,Daewon Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,237911179264.0,MidCap
+003230,Sam Yang Foods,KOSPI,KO,Consumer Defensive,Packaged Foods,10396629991424.0,MegaCap
+003240,Taekwang Ind,KOSPI,KO,Basic Materials,Chemicals,1065504866304.0,LargeCap
+003280,Heung-A Shipping Co. Ltd.,KOSPI,KO,Industrials,Marine Shipping,767646171136.0,MidCap
+003300,Hanil Cement Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,536467111936.0,MidCap
+003350,Hankook Cosmetics Manufacturing Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,174725332992.0,SmallCap
+003460,Yuhwa Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,210398511104.0,MidCap
+003465,Yuhwa Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,206691713024.0,MidCap
+003470,Yuanta Securities Korea Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,1023347523584.0,LargeCap
+003475,Yuanta Securities Korea Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,1022167613440.0,LargeCap
+003480,Hanjin Heavy Industries & Construction Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,139839733760.0,SmallCap
+003490,Korean Air Lines Co. Ltd.,KOSDAQ,KQ,Industrials,Airlines,9214817730560.0,LargeCap
+003495,Korean Air Lines Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Airlines,8966502350848.0,LargeCap
+003520,Yungjin Pharm. Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,333778714624.0,MidCap
+003530,Hanwha Investments & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,1626836566016.0,LargeCap
+003535,Hanwha Investments & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,2028054511616.0,LargeCap
+003540,Daishin Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,2675417808896.0,LargeCap
+003545,Daishin Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,2133810741248.0,LargeCap
+003547,Daishin Securities Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Financial Services,Capital Markets,2141715693568.0,LargeCap
+003550,LG Corp.,KOSDAQ,KQ,Technology,Consumer Electronics,14556781871104.0,MegaCap
+003555,LG Corp. Pfd. Series 1,KOSDAQ,KQ,Technology,Consumer Electronics,12123464794112.0,MegaCap
+003570,SNT Dynamics Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,1339834892288.0,LargeCap
+003580,HLB Global Co Ltd,KOSPI,KO,Industrials,Conglomerates,115966205952.0,SmallCap
+003610,Pangrim Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,174969290752.0,SmallCap
+003620,SsangYong Motor Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,858069598208.0,MidCap
+003650,Mi Chang Oil,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,181860073472.0,SmallCap
+003670,Posco Chemical Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,20235256070144.0,MegaCap
+003690,Korean Reinsurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Reinsurance,2178970288128.0,LargeCap
+003720,Sam Young Chem,KOSPI,KO,Consumer Cyclical,Packaging & Containers,274914934784.0,MidCap
+003780,Chin Yang Ind,KOSPI,KO,Consumer Cyclical,Auto Parts,76179996672.0,SmallCap
+003830,Daehan Synthet,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,133337235456.0,SmallCap
+003850,Boryung Pharm,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,875217879040.0,MidCap
+003920,Namyang Dairy Products Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,412032401408.0,MidCap
+003925,Namyang Dairy Products Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,415805734912.0,MidCap
+003960,Sajodaerim Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,299058429952.0,MidCap
+004000,Lotte Fine Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,1380474028032.0,LargeCap
+004020,Hyundai Steel Co.,KOSDAQ,KQ,Basic Materials,Steel,5202634080256.0,LargeCap
+004060,SG Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,96789307392.0,SmallCap
+004080,Shinhung Co. Ltd.,KOSDAQ,KQ,Healthcare,Medical Devices,132164001792.0,SmallCap
+004090,Korea Petroleum Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,204551536640.0,MidCap
+004100,Taeyang Metal Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,125480198144.0,SmallCap
+004105,Taeyang Metal Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,57969405952.0,SmallCap
+004140,Dongbang Transport Logistics Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,140994691072.0,SmallCap
+004150,Hansol Holdings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,141541834752.0,SmallCap
+004170,Shinsegae Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,3331718905856.0,LargeCap
+004250,NPC Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,153824133120.0,SmallCap
+004255,NPC Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,134208020480.0,SmallCap
+004310,Hyundai Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,223460212736.0,MidCap
+004360,Sebang,KOSPI,KO,Industrials,Integrated Freight & Logistics,329861398528.0,MidCap
+004365,Sebang Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,292834803712.0,MidCap
+004370,Nongshim Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,2335734497280.0,LargeCap
+004410,Seoul Food Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,70576463872.0,SmallCap
+004415,Seoul Food Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,470879371264.0,MidCap
+004430,Songwon Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,233279995904.0,MidCap
+004440,Samil C&S Co Ltd,KOSPI,KO,Basic Materials,Building Materials,94343725056.0,SmallCap
+004450,Samhwa Crown & Closure Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,50885750784.0,SmallCap
+004490,Sebang Global Battery Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,822388129792.0,MidCap
+004540,Kleannara,KOSPI,KO,Basic Materials,Paper & Paper Products,79691988992.0,SmallCap
+004545,Kleannara Co Ltd,KOSPI,KO,Basic Materials,Paper & Paper Products,64997326848.0,SmallCap
+004560,Hyundai BNG Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,237095026688.0,MidCap
+004690,Samchully Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,472173051904.0,MidCap
+004700,Cho Kwang Leat,KOSPI,KO,Consumer Cyclical,Auto Parts,243019939840.0,MidCap
+004710,Hansol Technics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,231861272576.0,MidCap
+004720,PharmGen Science Inc,KOSPI,KO,Healthcare,Drug Manufacturers - General,87869497344.0,SmallCap
+004770,Sunny Electronics Corp.,KOSDAQ,KQ,Technology,Electronic Components,63451795456.0,SmallCap
+004800,Hyosung Corp,KOSPI,KO,Industrials,Conglomerates,2628007231488.0,LargeCap
+004830,Duksung Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,79177588736.0,SmallCap
+004835,Ducksung Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,105741246464.0,SmallCap
+004840,DRB Holding Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,104070766592.0,SmallCap
+004890,Dongil Industries Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,80414302208.0,SmallCap
+004910,Cho Kwang Pain,KOSPI,KO,Basic Materials,Specialty Chemicals,51479826432.0,SmallCap
+004920,CItech Co Ltd,KOSPI,KO,Technology,Information Technology Services,62682370048.0,SmallCap
+004960,Hanshin Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,177031741440.0,SmallCap
+004970,Silla Co.Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,152640946176.0,SmallCap
+004980,SungShin Cement Co. Ltd.,KOSDAQ,KQ,Basic Materials,Building Materials,298909630464.0,MidCap
+004985,SungShin Cement Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Building Materials,287523078144.0,MidCap
+004990,Lotte Confectionery Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Confectioners,2081568849920.0,LargeCap
+00499K,LOTTE Corporation,KOSPI,KO,Consumer Defensive,Confectioners,2244312039424.0,LargeCap
+005010,Husteel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,292178001920.0,MidCap
+005070,Cosmoam&T,KOSPI,KO,Basic Materials,Specialty Chemicals,1829474926592.0,LargeCap
+005090,Samkwang Glass Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,746295132160.0,MidCap
+005180,Binggrae,KOSPI,KO,Consumer Defensive,Packaged Foods,669324345344.0,MidCap
+005250,Green Cross Holdings Corp.,KOSDAQ,KQ,Healthcare,Biotechnology,662978822144.0,MidCap
+005257,Green Cross Holdings Corp. Pfd. Series 2,KOSDAQ,KQ,Healthcare,Biotechnology,1066126409728.0,LargeCap
+005300,Lotte Chilsung Beverage Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Beverages - Non-Alcoholic,1213541253120.0,LargeCap
+005305,Lotte Chilsung Beverage Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Beverages - Non-Alcoholic,1158829309952.0,LargeCap
+005380,Hyundai Motor Co. Ltd.,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,139649141964800.0,MegaCap
+005385,Hyundai Motor Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,115975500333056.0,MegaCap
+005387,Hyundai Motor Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,116032173768704.0,MegaCap
+005389,Hyundai Motor Co. Ltd. Pfd. Series 3,KOSDAQ,KQ,Consumer Cyclical,Auto Manufacturers,117212341862400.0,MegaCap
+005420,Cosmo Chem,KOSPI,KO,Basic Materials,Specialty Chemicals,626106368000.0,MidCap
+005430,Korea Airport Service Co. Ltd.,KOSDAQ,KQ,Industrials,Airports & Air Services,177987878912.0,SmallCap
+005440,Hyundai Greenfood Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,2230990667776.0,LargeCap
+005490,POSCO,KOSDAQ,KQ,Basic Materials,Steel,29000567095296.0,MegaCap
+005500,Samjin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,230691323904.0,MidCap
+005610,Samlip General Foods Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,403640090624.0,MidCap
+005680,Samyoung Electronics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,283907850240.0,MidCap
+005690,Pharmicell Co. Ltd.,KOSDAQ,KQ,Healthcare,Biotechnology,1125675302912.0,LargeCap
+005720,Nexen Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,352443695104.0,MidCap
+005725,Nexen Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,262799687680.0,MidCap
+005740,Crown Confec,KOSPI,KO,Consumer Defensive,Confectioners,104972599296.0,SmallCap
+005745,CrownHaitai Holdings Co Ltd Preference Shares,KOSPI,KO,Consumer Defensive,Confectioners,111552077824.0,SmallCap
+005750,Daelim B&Co,KOSPI,KO,Industrials,Building Products & Equipment,92942524416.0,SmallCap
+005800,Shinyoung Waco,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,138060005376.0,SmallCap
+005810,Poongsan Holdings Corp.,KOSDAQ,KQ,Basic Materials,Copper,628095451136.0,MidCap
+005830,Dongbu Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Property & Casualty,10248746172416.0,MegaCap
+005850,SL Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,2809383354368.0,LargeCap
+005870,Huneed Tech,KOSPI,KO,Technology,Communication Equipment,118207127552.0,SmallCap
+005880,Korea Line Corp.,KOSDAQ,KQ,Industrials,Marine Shipping,932739809280.0,MidCap
+005930,Samsung Electronics Co Ltd,KOSPI,KO,Technology,Consumer Electronics,1425240202674176.0,MegaCap
+005935,Samsung Electronics Co Pref,KOSPI,KO,Technology,Consumer Electronics,1362727087898624.0,MegaCap
+005940,NH Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,13113775620096.0,MegaCap
+005945,NH Investment & Securities Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,11140270653440.0,MegaCap
+005950,ISU Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,215462821888.0,MidCap
+005960,Dongbu,KOSPI,KO,Industrials,Engineering & Construction,212510212096.0,MidCap
+005965,Dongbu Corp,KOSPI,KO,Industrials,Engineering & Construction,481395933184.0,MidCap
+006040,Dongwon Industries Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,1748189839360.0,LargeCap
+006060,Hwaseung Industries Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,165189206016.0,SmallCap
+006090,Oyang Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,78302937088.0,SmallCap
+006110,Sam-A Aluminium Co. Ltd.,KOSDAQ,KQ,Basic Materials,Aluminum,744422965248.0,MidCap
+006120,SK Discovery Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,1133749207040.0,LargeCap
+006125,SK Discovery Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,1136416522240.0,LargeCap
+006220,Jeju Bank,KOSDAQ,KQ,Financial Services,Banks - Regional,501586853888.0,MidCap
+006260,LS Corp.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,9249590607872.0,LargeCap
+006280,Green Cross Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1717683224576.0,LargeCap
+006340,Daewon Cable,KOSPI,KO,Industrials,Electrical Equipment & Parts,488521826304.0,MidCap
+006345,Daewon Cable Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,116519952384.0,SmallCap
+006360,GS Engineering & Construction Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,3251244630016.0,LargeCap
+006370,Daegu Dept Sto,KOSPI,KO,Consumer Cyclical,Department Stores,55992741888.0,SmallCap
+006400,Samsung SDI,KOSPI,KO,Industrials,Electrical Equipment & Parts,37340126904320.0,MegaCap
+006405,Samsung SDI Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,34829831766016.0,MegaCap
+006490,Inscobee Inc.,KOSDAQ,KQ,Communication Services,Telecom Services,55247945728.0,SmallCap
 006620,DongKoo Bio&Pharma Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-006650,Korea Petrochemical Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,802893004800.0,MidCap
-006660,Samsung Climate Control Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,86704250880.0,SmallCap
-006800,Mirae Asset Daewoo Securities Co Ltd,KOSPI,KO,Financial Services,Capital Markets,35757968326656.0,MegaCap
-006805,Mirae Asset Daewoo Co Ltd,KOSPI,KO,Financial Services,Capital Markets,29024019546112.0,MegaCap
-00680K,Mirae Asset Daewoo Co Ltd Pref,KOSPI,KO,Financial Services,Capital Markets,28925172383744.0,MegaCap
-006840,Ak Holdings,KOSPI,KO,Basic Materials,Chemicals,106190331904.0,SmallCap
-006880,Singsongholdin,KOSPI,KO,Industrials,Conglomerates,74556833792.0,SmallCap
-006890,Tae Kyung Chemical Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,112092258304.0,SmallCap
-006980,Woosung Feed,KOSPI,KO,Consumer Defensive,Packaged Foods,52361822208.0,SmallCap
-007070,GS Retail Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,1830086508544.0,LargeCap
-007110,Ilshinstone Co. Ltd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,112968925184.0,SmallCap
-007120,Mirae ING Co Ltd,KOSPI,KO,Industrials,Security & Protection Services,53389365248.0,SmallCap
-007160,Sajo Ind,KOSPI,KO,Consumer Defensive,Packaged Foods,251999993856.0,MidCap
-007210,Byuksan Corp,KOSPI,KO,Industrials,Building Products & Equipment,101943009280.0,SmallCap
-007280,Korea Steel Co Ltd,KOSPI,KO,Basic Materials,Steel,81645469696.0,SmallCap
-007310,Ottogi Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,1236438089728.0,LargeCap
-007340,Dong Ah Tire & Rubber Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,1974730620928.0,LargeCap
-007460,NARA KIC Inc.,KOSDAQ,KQ,Industrials,Conglomerates,95150096384.0,SmallCap
-007540,Sempio Co.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,107021352960.0,SmallCap
-007590,Dongbang Agro Corp.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,73193578496.0,SmallCap
-007660,Isupetasys Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,7194103250944.0,LargeCap
+006650,Korea Petrochemical Industrial Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,956677881856.0,MidCap
+006660,Samsung Climate Control Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,99753123840.0,SmallCap
+006800,Mirae Asset Daewoo Securities Co Ltd,KOSPI,KO,Financial Services,Capital Markets,41165881606144.0,MegaCap
+006805,Mirae Asset Daewoo Co Ltd,KOSPI,KO,Financial Services,Capital Markets,31933211869184.0,MegaCap
+00680K,Mirae Asset Daewoo Co Ltd Pref,KOSPI,KO,Financial Services,Capital Markets,32134190333952.0,MegaCap
+006840,Ak Holdings,KOSPI,KO,Basic Materials,Chemicals,111538978816.0,SmallCap
+006880,Singsongholdin,KOSPI,KO,Industrials,Conglomerates,78764818432.0,SmallCap
+006890,Tae Kyung Chemical Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,100645019648.0,SmallCap
+006980,Woosung Feed,KOSPI,KO,Consumer Defensive,Packaged Foods,60447105024.0,SmallCap
+007070,GS Retail Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,1976326291456.0,LargeCap
+007110,Ilshinstone Co. Ltd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,133255323648.0,SmallCap
+007120,Mirae ING Co Ltd,KOSPI,KO,Industrials,Security & Protection Services,54482288640.0,SmallCap
+007160,Sajo Ind,KOSPI,KO,Consumer Defensive,Packaged Foods,271500001280.0,MidCap
+007210,Byuksan Corp,KOSPI,KO,Industrials,Building Products & Equipment,119521320960.0,SmallCap
+007280,Korea Steel Co Ltd,KOSPI,KO,Basic Materials,Steel,87317684224.0,SmallCap
+007310,Ottogi Corp.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,1281149370368.0,LargeCap
+007340,Dong Ah Tire & Rubber Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,2010964295680.0,LargeCap
+007540,Sempio Co.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,110447648768.0,SmallCap
+007590,Dongbang Agro Corp.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,75426603008.0,SmallCap
+007660,Isupetasys Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,8845810204672.0,LargeCap
 007680,Daewon Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-007690,Kukdo Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,304385622016.0,MidCap
-007700,F&F Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,693490614272.0,MidCap
-007810,Korea Circuit Co. Ltd.,KOSPI,KO,Technology,Electronic Components,1941170814976.0,LargeCap
-007815,Korea Circuit Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,1394146410496.0,LargeCap
-00781K,Korea Circuit Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Technology,Electronic Components,1449215262720.0,LargeCap
-007860,Seoyon Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,195148496896.0,SmallCap
-007980,Pan-Pacific Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,82402058240.0,SmallCap
-008040,Sajodongaone Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,141087145984.0,SmallCap
-008060,Daeduck Co. Ltd.,KOSPI,KO,Technology,Electronic Components,414173560832.0,MidCap
-00806K,Daeduck Co.Ltd,KOSPI,KO,Technology,Electronic Components,395845992448.0,MidCap
-008260,NI Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,96823386112.0,SmallCap
-008350,Namsun Aluminium Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,232896561152.0,MidCap
-008355,Namsun Aluminium Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Metal Fabrication,2154293100544.0,LargeCap
-008490,Suheung Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,205147635712.0,MidCap
-008700,Anam Electroni,KOSPI,KO,Technology,Consumer Electronics,121851699200.0,SmallCap
-008730,Youl Chon Chemical Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,577840021504.0,MidCap
-008770,Hotel Shilla,KOSPI,KO,Consumer Cyclical,Specialty Retail,1665557987328.0,LargeCap
-008775,Hotel Shilla Co Ltd,KOSPI,KO,Consumer Cyclical,Specialty Retail,1597131325440.0,LargeCap
-008930,Hanmi Science Co. Ltd.,KOSDAQ,KQ,Healthcare,Medical Distribution,2512178380800.0,LargeCap
-008970,Dongyang Steel Pipe Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,173779632128.0,SmallCap
-009070,KCTC,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,171000004608.0,SmallCap
-009150,Samsung Electro-Mechanics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,30785503494144.0,MegaCap
-009155,Samsung Electro-Mechanics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,30159310684160.0,MegaCap
-009160,Simpac,KOSPI,KO,Industrials,Specialty Industrial Machinery,126176362496.0,SmallCap
-009180,Hansol Logistics Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,80788013056.0,SmallCap
-009190,Daiyang Metal Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,53164380160.0,SmallCap
-009200,Moorim Paper Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,83218620416.0,SmallCap
-009240,Hanssem Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",684763250688.0,MidCap
-009270,Shinwon Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,113145602048.0,SmallCap
-009290,Kwang Dong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,302074855424.0,MidCap
-009420,Hanall Biopharma,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,2806743564288.0,LargeCap
-009450,Kyung Dong Navien Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,910534705152.0,MidCap
-009470,Sam Hwa Electric Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,225531265024.0,MidCap
-009540,Hyundai Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,24325832835072.0,MegaCap
-009580,Moorim P&P Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,165575819264.0,SmallCap
-009680,Motonic Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,227738877952.0,MidCap
+007690,Kukdo Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,355474309120.0,MidCap
+007700,F&F Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,751314010112.0,MidCap
+007810,Korea Circuit Co. Ltd.,KOSPI,KO,Technology,Electronic Components,2495790972928.0,LargeCap
+007815,Korea Circuit Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,1606262980608.0,LargeCap
+00781K,Korea Circuit Co. Ltd. Pfd. Series 2,KOSDAQ,KQ,Technology,Electronic Components,1562298023936.0,LargeCap
+007860,Seoyon Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,207087501312.0,MidCap
+007980,Pan-Pacific Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,99209281536.0,SmallCap
+008040,Sajodongaone Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,147852558336.0,SmallCap
+008060,Daeduck Co. Ltd.,KOSPI,KO,Technology,Electronic Components,493562429440.0,MidCap
+00806K,Daeduck Co.Ltd,KOSPI,KO,Technology,Electronic Components,442689159168.0,MidCap
+008260,NI Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,107816435712.0,SmallCap
+008350,Namsun Aluminium Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,318938906624.0,MidCap
+008355,Namsun Aluminium Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Industrials,Metal Fabrication,1807536095232.0,LargeCap
+008490,Suheung Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,212708638720.0,MidCap
+008700,Anam Electroni,KOSPI,KO,Technology,Consumer Electronics,115759112192.0,SmallCap
+008730,Youl Chon Chemical Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,658439995392.0,MidCap
+008770,Hotel Shilla,KOSPI,KO,Consumer Cyclical,Specialty Retail,2006240329728.0,LargeCap
+008775,Hotel Shilla Co Ltd,KOSPI,KO,Consumer Cyclical,Specialty Retail,1717146877952.0,LargeCap
+008930,Hanmi Science Co. Ltd.,KOSDAQ,KQ,Healthcare,Medical Distribution,2728862154752.0,LargeCap
+008970,Dongyang Steel Pipe Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,203659345920.0,MidCap
+009070,KCTC,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,186599997440.0,SmallCap
+009150,Samsung Electro-Mechanics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,48954616053760.0,MegaCap
+009155,Samsung Electro-Mechanics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,50553484738560.0,MegaCap
+009160,Simpac,KOSPI,KO,Industrials,Specialty Industrial Machinery,135960428544.0,SmallCap
+009180,Hansol Logistics Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,91906924544.0,SmallCap
+009190,Daiyang Metal Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,61456465920.0,SmallCap
+009200,Moorim Paper Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,95077277696.0,SmallCap
+009240,Hanssem Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",663182835712.0,MidCap
+009270,Shinwon Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,124224618496.0,SmallCap
+009290,Kwang Dong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,313439322112.0,MidCap
+009320,Daewoo Electronic Components Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,51616858112.0,SmallCap
+009420,Hanall Biopharma,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,2471761543168.0,LargeCap
+009450,Kyung Dong Navien Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,1008814653440.0,LargeCap
+009470,Sam Hwa Electric Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,256285523968.0,MidCap
+009540,Hyundai Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,28922284605440.0,MegaCap
+009580,Moorim P&P Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,245401452544.0,MidCap
+009680,Motonic Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,237687586816.0,MidCap
 009730,Kossen Co Ltd,KOSPI,KO,기타,,0.0,
-009770,Samjung Pulp Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,79499075584.0,SmallCap
-009830,Hanwha Chemical Corp.,KOSDAQ,KQ,Technology,Solar,6385821024256.0,LargeCap
-009835,Hanwha Chemical Corp. Pfd. Series 1,KOSDAQ,KQ,Technology,Solar,6602323132416.0,LargeCap
-009900,Myoung Shin Industrial Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,500565049344.0,MidCap
-009970,Youngone Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,2541472710656.0,LargeCap
-010040,Korea Refractories Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,65983889408.0,SmallCap
-010060,OCI Co Ltd,KOSPI,KO,Financial Services,Asset Management,3506269585408.0,LargeCap
-010100,Korea Flange Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,131850321920.0,SmallCap
-010120,LSIS Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,21329405280256.0,MegaCap
-010130,Korea Zinc Co. Ltd.,KOSDAQ,KQ,Basic Materials,Other Industrial Metals & Mining,25856959315968.0,MegaCap
-010140,Samsung Heavy Industries,KOSPI,KO,Industrials,Aerospace & Defense,20883976486912.0,MegaCap
-010660,Hwacheon Machinery Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,133100003328.0,SmallCap
-010690,Hwashin Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,358256410624.0,MidCap
-010770,Pyung Hwa Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,53598879744.0,SmallCap
-010780,IS Dongseo Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,762437763072.0,MidCap
-010820,Firstec Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,320725909504.0,MidCap
-010950,S-Oil Corp.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,12259093905408.0,MegaCap
-010955,S-Oil Corp. Pfd. Series 1,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,9299436765184.0,LargeCap
-010960,Samho Development Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,80657399808.0,SmallCap
-011000,GeneOneLifeScience Inc.,KOSDAQ,KQ,Healthcare,Biotechnology,83056869376.0,SmallCap
-011070,LG Innotek Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,6945533067264.0,LargeCap
-011150,Cj Seafood,KOSPI,KO,Consumer Defensive,Packaged Foods,95385837568.0,SmallCap
-011155,CJ Seafood Corp. Pfd. Series 1,KOSPI,KO,Consumer Defensive,Packaged Foods,447663079424.0,MidCap
-011170,Lotte Chemical Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,3398672056320.0,LargeCap
-011200,HMM Co Ltd,KOSPI,KO,Industrials,Marine Shipping,18459167555584.0,MegaCap
-011210,Hyundai Wia Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,2050686058496.0,LargeCap
-011280,Tailim Packaging Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,143873753088.0,SmallCap
-011330,Uni Chem Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,65531887616.0,SmallCap
-011390,Busan Ind,KOSPI,KO,Basic Materials,Building Materials,73391996928.0,SmallCap
-011500,Hannong Chemicals Inc.,KOSDAQ,KQ,Basic Materials,Chemicals,305421582336.0,MidCap
-011700,Hanshin Machinery Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,137956343808.0,SmallCap
-011760,Hyundai Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,291866476544.0,MidCap
-011780,Kumho Petro Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,3063541923840.0,LargeCap
-011785,Kumho Petro Chemical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,2782615568384.0,LargeCap
-011790,SKC Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,3110340919296.0,LargeCap
-011930,Shinsung Solar Energy Co. Ltd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,526218100736.0,MidCap
-012030,Dongbu Inc.,KOSDAQ,KQ,Technology,Information Technology Services,304884711424.0,MidCap
-012200,Keyang Elec Ma,KOSPI,KO,Industrials,Tools & Accessories,157007249408.0,SmallCap
-012205,Keyang Electric Machinery Co Ltd,KOSPI,KO,Industrials,Tools & Accessories,156859842560.0,SmallCap
+009770,Samjung Pulp Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,81249058816.0,SmallCap
+009830,Hanwha Chemical Corp.,KOSDAQ,KQ,Technology,Solar,7563287461888.0,LargeCap
+009835,Hanwha Chemical Corp. Pfd. Series 1,KOSDAQ,KQ,Technology,Solar,7197625942016.0,LargeCap
+009900,Myoung Shin Industrial Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,553035169792.0,MidCap
+009970,Youngone Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,2524065300480.0,LargeCap
+010040,Korea Refractories Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,71405764608.0,SmallCap
+010060,OCI Co Ltd,KOSPI,KO,Financial Services,Asset Management,5227665162240.0,LargeCap
+010100,Korea Flange Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,138701668352.0,SmallCap
+010120,LSIS Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,27701402402816.0,MegaCap
+010130,Korea Zinc Co. Ltd.,KOSDAQ,KQ,Basic Materials,Other Industrial Metals & Mining,30530122809344.0,MegaCap
+010140,Samsung Heavy Industries,KOSPI,KO,Industrials,Aerospace & Defense,24257870430208.0,MegaCap
+010660,Hwacheon Machinery Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,115939999744.0,SmallCap
+010690,Hwashin Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,397174669312.0,MidCap
+010770,Pyung Hwa Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,57411952640.0,SmallCap
+010780,IS Dongseo Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,853097971712.0,MidCap
+010820,Firstec Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,571475296256.0,MidCap
+010950,S-Oil Corp.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,13714351718400.0,MegaCap
+010955,S-Oil Corp. Pfd. Series 1,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,10437037916160.0,MegaCap
+010960,Samho Development Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,87960600576.0,SmallCap
+011000,GeneOneLifeScience Inc.,KOSDAQ,KQ,Healthcare,Biotechnology,91489501184.0,SmallCap
+011070,LG Innotek Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,8980681195520.0,LargeCap
+011150,Cj Seafood,KOSPI,KO,Consumer Defensive,Packaged Foods,100444176384.0,SmallCap
+011155,CJ Seafood Corp. Pfd. Series 1,KOSPI,KO,Consumer Defensive,Packaged Foods,469703000064.0,MidCap
+011170,Lotte Chemical Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,3773959766016.0,LargeCap
+011200,HMM Co Ltd,KOSPI,KO,Industrials,Marine Shipping,19949483458560.0,MegaCap
+011210,Hyundai Wia Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,2239530008576.0,LargeCap
+011280,Tailim Packaging Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,156264808448.0,SmallCap
+011300,SEONGAN CO. Ltd,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,55084097536.0,SmallCap
+011330,Uni Chem Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,64972582912.0,SmallCap
+011390,Busan Ind,KOSPI,KO,Basic Materials,Building Materials,81945600000.0,SmallCap
+011420,Galaxia SM Inc.,KOSDAQ,KQ,Communication Services,Broadcasting,50691346432.0,SmallCap
+011500,Hannong Chemicals Inc.,KOSDAQ,KQ,Basic Materials,Chemicals,329586147328.0,MidCap
+011700,Hanshin Machinery Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,145072488448.0,SmallCap
+011760,Hyundai Corp.,KOSDAQ,KQ,Industrials,Industrial Distribution,315287863296.0,MidCap
+011780,Kumho Petro Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,3549447061504.0,LargeCap
+011785,Kumho Petro Chemical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,3171584311296.0,LargeCap
+011790,SKC Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,4577494040576.0,LargeCap
+011930,Shinsung Solar Energy Co. Ltd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,871262453760.0,MidCap
+012030,Dongbu Inc.,KOSDAQ,KQ,Technology,Information Technology Services,335831662592.0,MidCap
+012200,Keyang Elec Ma,KOSPI,KO,Industrials,Tools & Accessories,186534838272.0,SmallCap
+012205,Keyang Electric Machinery Co Ltd,KOSPI,KO,Industrials,Tools & Accessories,228986044416.0,MidCap
 012210,012210,KOSPI,KO,기타,,0.0,
-012320,Kyung Dong City Gas Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,122535780352.0,SmallCap
-012330,"Hyundai Mobis Co.,Ltd",KOSPI,KO,Consumer Cyclical,Auto Parts,33751862083584.0,MegaCap
-012450,Hanwha Techwin Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,64259534880768.0,MegaCap
-012510,Douzone Bizon Co Ltd,KOSPI,KO,Technology,Software - Application,3339648499712.0,LargeCap
-012610,Kyung-In Synthetic Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,160308314112.0,SmallCap
-012630,Hyundai Development Co. Engineering & Construction,KOSDAQ,KQ,Industrials,Engineering & Construction,1373672177664.0,LargeCap
-012690,Monalisa,KOSPI,KO,Consumer Defensive,Household & Personal Products,82078941184.0,SmallCap
-0126Z0,SAMSUNG EPISHOLDINGS CO LTD,KOSPI,KO,Healthcare,Biotechnology,12292225761280.0,MegaCap
-012750,S-1 Corp,KOSPI,KO,Industrials,Security & Protection Services,2897537662976.0,LargeCap
-012800,Dae Chang,KOSPI,KO,Industrials,Metal Fabrication,97997783040.0,SmallCap
-013360,Il Sung Const,KOSPI,KO,Industrials,Engineering & Construction,102755319808.0,SmallCap
-013520,Hwaseung Corporation Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,123126251520.0,SmallCap
-013570,DY Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,117302009856.0,SmallCap
-013580,Kyeryong Construction Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,222330699776.0,MidCap
-013700,Camus Engineering & Construction Inc,KOSPI,KO,Industrials,Engineering & Construction,77317578752.0,SmallCap
-013870,GMB Korea Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,91165499392.0,SmallCap
-013890,Zinus Inc,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",225835859968.0,MidCap
-014160,Dae Young Pkg,KOSPI,KO,Consumer Cyclical,Packaging & Containers,119709835264.0,SmallCap
-014280,Kum Kang Kind Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,126836383744.0,SmallCap
-014285,Kum Kang Kind Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Steel,59407626240.0,SmallCap
-014440,Youngbo Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,89407496192.0,SmallCap
-014530,Kukdong Oil & Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,127607103488.0,SmallCap
-014580,Taekyung BK Co Ltd,KOSPI,KO,Basic Materials,Building Materials,121089810432.0,SmallCap
-014680,Hansol Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,2752982024192.0,LargeCap
-014710,Sajo Seafood,KOSPI,KO,Consumer Defensive,Packaged Foods,114158944256.0,SmallCap
-014790,Halla Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,122851155968.0,SmallCap
-014820,Dongwon Systems Corp.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,729922011136.0,MidCap
-014825,Dongwon Systems Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,742421037056.0,MidCap
-014830,Unid Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,533769879552.0,MidCap
-014915,SungMoon Electronics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,89807257600.0,SmallCap
-014990,In the F Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,54680072192.0,SmallCap
-015230,Daechang Forgi,KOSPI,KO,Consumer Cyclical,Auto Parts,163890610176.0,SmallCap
-015360,Yesco Holdings Co. Ltd,KOSPI,KO,Utilities,Utilities - Regulated Gas,336920084480.0,MidCap
-015760,Korea Electric Power Corp,KOSPI,KO,Utilities,Utilities - Regulated Electric,26737805099008.0,MegaCap
-015860,Iljin Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,300285558784.0,MidCap
-015890,Tae Kyung Ind,KOSPI,KO,Basic Materials,Chemicals,140151848960.0,SmallCap
-016090,Dae Hyun,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,74969956352.0,SmallCap
-016360,Samsung Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,8251320041472.0,LargeCap
-016380,Dongbu Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,503268245504.0,MidCap
-016450,Hansae Yes24 Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,168708145152.0,SmallCap
-016580,Whanin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,156792815616.0,SmallCap
-016590,Shindaeyang Paper Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,390818430976.0,MidCap
-016610,Dongbu Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,479540215808.0,MidCap
-016710,Daesung Holdin,KOSPI,KO,Utilities,Utilities - Regulated Gas,135871029248.0,SmallCap
-016740,Dual Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,126348140544.0,SmallCap
-016800,Fursys Inc.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",332901023744.0,MidCap
-016880,Woongjin Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,206334509056.0,MidCap
+012280,Yeong Hwa Meta,KOSPI,KO,Consumer Cyclical,Auto Parts,54328381440.0,SmallCap
+012320,Kyung Dong City Gas Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,131257188352.0,SmallCap
+012330,"Hyundai Mobis Co.,Ltd",KOSPI,KO,Consumer Cyclical,Auto Parts,38171748335616.0,MegaCap
+012450,Hanwha Techwin Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,75835516125184.0,MegaCap
+012510,Douzone Bizon Co Ltd,KOSPI,KO,Technology,Software - Application,3348060700672.0,LargeCap
+012610,Kyung-In Synthetic Corp.,KOSDAQ,KQ,Basic Materials,Chemicals,176298147840.0,SmallCap
+012630,Hyundai Development Co. Engineering & Construction,KOSDAQ,KQ,Industrials,Engineering & Construction,1339020935168.0,LargeCap
+012690,Monalisa,KOSPI,KO,Consumer Defensive,Household & Personal Products,86466232320.0,SmallCap
+0126Z0,SAMSUNG EPISHOLDINGS CO LTD,KOSPI,KO,Healthcare,Biotechnology,14830296629248.0,MegaCap
+012750,S-1 Corp,KOSPI,KO,Industrials,Security & Protection Services,3178162552832.0,LargeCap
+012800,Dae Chang,KOSPI,KO,Industrials,Metal Fabrication,115170295808.0,SmallCap
+013360,Il Sung Const,KOSPI,KO,Industrials,Engineering & Construction,110210752512.0,SmallCap
+013520,Hwaseung Corporation Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,134148988928.0,SmallCap
+013570,DY Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,123222614016.0,SmallCap
+013580,Kyeryong Construction Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,247575429120.0,MidCap
+013700,Camus Engineering & Construction Inc,KOSPI,KO,Industrials,Engineering & Construction,82157395968.0,SmallCap
+013870,GMB Korea Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,95361400832.0,SmallCap
+013890,Zinus Inc,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",262451970048.0,MidCap
+014160,Dae Young Pkg,KOSPI,KO,Consumer Cyclical,Packaging & Containers,134042025984.0,SmallCap
+014280,Kum Kang Kind Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,143228370944.0,SmallCap
+014285,Kum Kang Kind Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Steel,62135975936.0,SmallCap
+014440,Youngbo Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,93697499136.0,SmallCap
+014530,Kukdong Oil & Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,130637348864.0,SmallCap
+014580,Taekyung BK Co Ltd,KOSPI,KO,Basic Materials,Building Materials,127985582080.0,SmallCap
+014680,Hansol Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,3129131925504.0,LargeCap
+014710,Sajo Seafood,KOSPI,KO,Consumer Defensive,Packaged Foods,130688745472.0,SmallCap
+014790,Halla Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,134398033920.0,SmallCap
+014820,Dongwon Systems Corp.,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,753326358528.0,MidCap
+014825,Dongwon Systems Corp. Pfd. Series 1,KOSDAQ,KQ,Consumer Cyclical,Packaging & Containers,747437359104.0,MidCap
+014830,Unid Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,579578494976.0,MidCap
+014915,SungMoon Electronics Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Technology,Electronic Components,96961945600.0,SmallCap
+014990,In the F Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,59787554816.0,SmallCap
+015230,Daechang Forgi,KOSPI,KO,Consumer Cyclical,Auto Parts,175236890624.0,SmallCap
+015260,Automobile &Pc,KOSPI,KO,Technology,Electronic Components,50740846592.0,SmallCap
+015360,Yesco Holdings Co. Ltd,KOSPI,KO,Utilities,Utilities - Regulated Gas,355119988736.0,MidCap
+015760,Korea Electric Power Corp,KOSPI,KO,Utilities,Utilities - Regulated Electric,29466151616512.0,MegaCap
+015860,Iljin Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,380300394496.0,MidCap
+015890,Tae Kyung Ind,KOSPI,KO,Basic Materials,Chemicals,148189757440.0,SmallCap
+016090,Dae Hyun,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,77538328576.0,SmallCap
+016360,Samsung Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,9840859545600.0,LargeCap
+016380,Dongbu Steel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,558434156544.0,MidCap
+016450,Hansae Yes24 Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,186580615168.0,SmallCap
+016580,Whanin Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,164579016704.0,SmallCap
+016590,Shindaeyang Paper Co. Ltd.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,408016814080.0,MidCap
+016610,Dongbu Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,550969606144.0,MidCap
+016710,Daesung Holdin,KOSPI,KO,Utilities,Utilities - Regulated Gas,137635594240.0,SmallCap
+016740,Dual Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,131027697664.0,SmallCap
+016800,Fursys Inc.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",337822941184.0,MidCap
+016880,Woongjin Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,212551745536.0,MidCap
 017180,Myungmoon Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,61307559936.0,SmallCap
-017370,Wooshin System,KOSPI,KO,Consumer Cyclical,Auto Parts,86498131968.0,SmallCap
-017390,Seoul City Gas Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,243833110528.0,MidCap
-017550,Soosan Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,114876792832.0,SmallCap
-017670,SK Telecom Co Ltd,KOSPI,KO,Communication Services,Telecom Services,16272609771520.0,MegaCap
-017800,Hyundai Elevator Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,3007551897600.0,LargeCap
-017810,Pulmuone Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,427961876480.0,MidCap
-017860,"DS DANSUK CO., LTD.",KOSPI,KO,Basic Materials,Specialty Chemicals,344722636800.0,MidCap
-017900,Auk Corp,KOSPI,KO,Technology,Semiconductors,137744891904.0,SmallCap
-017940,E1 Corp.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,580487806976.0,MidCap
-017960,Hankuk Carbon Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,1956786864128.0,LargeCap
-018250,Aekyung Industrial Co Ltd,KOSPI,KO,Consumer Defensive,Household & Personal Products,381163569152.0,MidCap
-018260,Samsung SDS Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,11610262339584.0,MegaCap
-018470,Choil Aluminum,KOSPI,KO,Basic Materials,Aluminum,203750440960.0,MidCap
-018500,Dongwon Metal Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,72267464704.0,SmallCap
-018670,Sk Gas,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,2418322440192.0,LargeCap
-018880,Hanon Systems,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,3837729964032.0,LargeCap
-019170,Shin Poong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,530564382720.0,MidCap
-019175,Shin Poong Pharmaceutical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,836600070144.0,MidCap
-019180,THN Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,137340002304.0,SmallCap
-019680,Daekyo,KOSPI,KO,Consumer Defensive,Education & Training Services,127840845824.0,SmallCap
-019685,Daekyo Co Ltd,KOSPI,KO,Consumer Defensive,Education & Training Services,127611543552.0,SmallCap
-020000,Handsome Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,499340115968.0,MidCap
-020120,Daouincube Inc.,KOSDAQ,KQ,Communication Services,Internet Content & Information,114339946496.0,SmallCap
-020150,Iljin Materials Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,2167930224640.0,LargeCap
-020560,Asiana Airline,KOSPI,KO,Industrials,Airlines,1433121587200.0,LargeCap
-021050,Seowon Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,56067493888.0,SmallCap
-021240,COWAY Co. Ltd,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5109407809536.0,LargeCap
-022100,POSCO ICT Co. Ltd.,KOSPI,KO,Technology,Information Technology Services,4471173152768.0,LargeCap
-023000,Samwon Steel,KOSPI,KO,Consumer Cyclical,Auto Parts,91401895936.0,SmallCap
+017370,Wooshin System,KOSPI,KO,Consumer Cyclical,Auto Parts,90298580992.0,SmallCap
+017390,Seoul City Gas Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,248159174656.0,MidCap
+017550,Soosan Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,189693345792.0,SmallCap
+017670,SK Telecom Co Ltd,KOSPI,KO,Communication Services,Telecom Services,21043636862976.0,MegaCap
+017800,Hyundai Elevator Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,3599674900480.0,LargeCap
+017810,Pulmuone Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,460796854272.0,MidCap
+017860,"DS DANSUK CO., LTD.",KOSPI,KO,Basic Materials,Specialty Chemicals,348629860352.0,MidCap
+017900,Auk Corp,KOSPI,KO,Technology,Semiconductors,610408792064.0,MidCap
+017940,E1 Corp.,KOSDAQ,KQ,Energy,Oil & Gas Refining & Marketing,566611607552.0,MidCap
+017960,Hankuk Carbon Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,2563718250496.0,LargeCap
+018250,Aekyung Industrial Co Ltd,KOSPI,KO,Consumer Defensive,Household & Personal Products,379904065536.0,MidCap
+018260,Samsung SDS Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,14216963555328.0,MegaCap
+018470,Choil Aluminum,KOSPI,KO,Basic Materials,Aluminum,218439712768.0,MidCap
+018500,Dongwon Metal Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,79793381376.0,SmallCap
+018670,Sk Gas,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,2198066298880.0,LargeCap
+018880,Hanon Systems,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,4412363243520.0,LargeCap
+019170,Shin Poong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,711520157696.0,MidCap
+019175,Shin Poong Pharmaceutical Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1278993367040.0,LargeCap
+019180,THN Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,131939999744.0,SmallCap
+019680,Daekyo,KOSPI,KO,Consumer Defensive,Education & Training Services,128730873856.0,SmallCap
+019685,Daekyo Co Ltd,KOSPI,KO,Consumer Defensive,Education & Training Services,134188154880.0,SmallCap
+020000,Handsome Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,546589507584.0,MidCap
+020120,Daouincube Inc.,KOSDAQ,KQ,Communication Services,Internet Content & Information,141025443840.0,SmallCap
+020150,Iljin Materials Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,2555434762240.0,LargeCap
+020560,Asiana Airline,KOSPI,KO,Industrials,Airlines,1486657683456.0,LargeCap
+021050,Seowon Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,68078563328.0,SmallCap
+021240,COWAY Co. Ltd,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5958617006080.0,LargeCap
+022100,POSCO ICT Co. Ltd.,KOSPI,KO,Technology,Information Technology Services,5040507453440.0,LargeCap
+023000,Samwon Steel,KOSPI,KO,Consumer Cyclical,Auto Parts,93190193152.0,SmallCap
+023350,Korea Engineering Consultants Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,54620553216.0,SmallCap
 023440,Jeil Steel Mfg Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-023450,Dongnam Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,103003709440.0,SmallCap
-023530,Lotte Shopping Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,3058883362816.0,LargeCap
-023590,Daou Technology Inc.,KOSDAQ,KQ,Technology,Information Technology Services,1861959155712.0,LargeCap
-023800,INZI Controls Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,99354968064.0,SmallCap
-023810,INFAC Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,80299999232.0,SmallCap
-023960,SC Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,52831965184.0,SmallCap
-024090,DCM Corp.,KOSDAQ,KQ,Basic Materials,Steel,104835497984.0,SmallCap
-024110,Industrial Bank Of Korea,KOSPI,KO,Financial Services,Banks - Regional,17025041694720.0,MegaCap
-024720,Korea Kolmar Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,297348562944.0,MidCap
-024900,Duck Yang Industry Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,63525629952.0,SmallCap
-025000,KPX Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,212367392768.0,MidCap
-025540,Korea Electric Terminal Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,766717001728.0,MidCap
-025560,Mirae Corporation,KOSPI,KO,Technology,Semiconductor Equipment & Materials,56008404992.0,SmallCap
-025620,Jayjun Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,72182341632.0,SmallCap
-025820,Lee Ku Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,156670099456.0,SmallCap
-025860,Namhae Chemical Corp.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,383110086656.0,MidCap
-026890,Digital Power Communications Co. Ltd.,KOSDAQ,KQ,Financial Services,Asset Management,307463421952.0,MidCap
-026960,Dongsuh Cos. Inc.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,2698693312512.0,LargeCap
+023450,Dongnam Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,102501244928.0,SmallCap
+023530,Lotte Shopping Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,3460326227968.0,LargeCap
+023590,Daou Technology Inc.,KOSDAQ,KQ,Technology,Information Technology Services,2144597180416.0,LargeCap
+023800,INZI Controls Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,120136081408.0,SmallCap
+023810,INFAC Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,80699998208.0,SmallCap
+023960,SC Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,53250359296.0,SmallCap
+024090,DCM Corp.,KOSDAQ,KQ,Basic Materials,Steel,107417657344.0,SmallCap
+024110,Industrial Bank Of Korea,KOSPI,KO,Financial Services,Banks - Regional,17981952229376.0,MegaCap
+024720,Korea Kolmar Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,321012989952.0,MidCap
+024900,Duck Yang Industry Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,74583433216.0,SmallCap
+025000,KPX Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,228130734080.0,MidCap
+025530,Sjm Holdings,KOSPI,KO,Consumer Cyclical,Auto Parts,50277888000.0,SmallCap
+025540,Korea Electric Terminal Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,844602474496.0,MidCap
+025560,Mirae Corporation,KOSPI,KO,Technology,Semiconductor Equipment & Materials,62931292160.0,SmallCap
+025620,Jayjun Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,77235101696.0,SmallCap
+025820,Lee Ku Industrial Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,186934001664.0,SmallCap
+025860,Namhae Chemical Corp.,KOSDAQ,KQ,Basic Materials,Agricultural Inputs,427222892544.0,MidCap
+026890,Digital Power Communications Co. Ltd.,KOSDAQ,KQ,Financial Services,Asset Management,360089026560.0,MidCap
+026940,Bookook Steel,KOSPI,KO,Basic Materials,Steel,53152350208.0,SmallCap
+026960,Dongsuh Cos. Inc.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,2743096049664.0,LargeCap
 027360,Aju IB Investment Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-027410,BGF Retail Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,433082171392.0,MidCap
-027740,Maniker,KOSPI,KO,Consumer Defensive,Packaged Foods,51753492480.0,SmallCap
-027970,Seha Corp.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,148127416320.0,SmallCap
-028050,Samsung Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,6997200076800.0,LargeCap
-028100,Dong-Ah Geological Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,220073246720.0,MidCap
-028260,Samsung C&T Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,41481515565056.0,MegaCap
-02826K,Samsung C&T Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,41972018446336.0,MegaCap
-028670,Pan Ocean Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,2616717737984.0,LargeCap
-029460,KC Tech Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,333517455360.0,MidCap
-029530,Sindoh,KOSPI,KO,Industrials,Business Equipment & Supplies,425534128128.0,MidCap
-029780,Samsung Card Co. Ltd.,KOSPI,KO,Financial Services,Credit Services,5666337980416.0,LargeCap
-030000,Cheil Worldwide,KOSPI,KO,Communication Services,Advertising Agencies,1921257439232.0,LargeCap
-030190,NICE Information Service Co. Ltd,KOSPI,KO,Financial Services,Credit Services,939804393472.0,MidCap
-030200,KT Corporation,KOSPI,KO,Communication Services,Telecom Services,14564399775744.0,MegaCap
-030210,KTB Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,229848367104.0,MidCap
-030610,Kyobo Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,1297997627392.0,LargeCap
-031210,SEOUL GUARANTEE INSURANCE,KOSPI,KO,Financial Services,Insurance - Diversified,3644687646720.0,LargeCap
-031430,Shinsegae International Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Retail,408275910656.0,MidCap
-031440,Shinsegae Food Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,188580577280.0,SmallCap
-031820,Comtec Sys,KOSPI,KO,Technology,Communication Equipment,83888660480.0,SmallCap
+027410,BGF Retail Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,463708979200.0,MidCap
+027740,Maniker,KOSPI,KO,Consumer Defensive,Packaged Foods,53150519296.0,SmallCap
+027970,Seha Corp.,KOSDAQ,KQ,Basic Materials,Paper & Paper Products,155353137152.0,SmallCap
+028050,Samsung Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,9741199736832.0,LargeCap
+028100,Dong-Ah Geological Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,225800994816.0,MidCap
+028260,Samsung C&T Corp.,KOSDAQ,KQ,Industrials,Engineering & Construction,49254185828352.0,MegaCap
+02826K,Samsung C&T Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Engineering & Construction,47982456078336.0,MegaCap
+028670,Pan Ocean Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,2929440849920.0,LargeCap
+029460,KC Tech Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,386324365312.0,MidCap
+029530,Sindoh,KOSPI,KO,Industrials,Business Equipment & Supplies,456145010688.0,MidCap
+029780,Samsung Card Co. Ltd.,KOSPI,KO,Financial Services,Credit Services,5815732797440.0,LargeCap
+030000,Cheil Worldwide,KOSPI,KO,Communication Services,Advertising Agencies,2004305969152.0,LargeCap
+030190,NICE Information Service Co. Ltd,KOSPI,KO,Financial Services,Credit Services,923398832128.0,MidCap
+030200,KT Corporation,KOSPI,KO,Communication Services,Telecom Services,15411996262400.0,MegaCap
+030210,KTB Investment & Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,251498594304.0,MidCap
+030610,Kyobo Securities Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,1489875501056.0,LargeCap
+031210,SEOUL GUARANTEE INSURANCE,KOSPI,KO,Financial Services,Insurance - Diversified,3456169148416.0,LargeCap
+031430,Shinsegae International Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Apparel Retail,477880188928.0,MidCap
+031440,Shinsegae Food Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,194389000192.0,SmallCap
+031820,Comtec Sys,KOSPI,KO,Technology,Communication Equipment,91151753216.0,SmallCap
 032300,Korea Pharmacy Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-032350,Lotte Tour Development Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Resorts & Casinos,1381085478912.0,LargeCap
-032560,Hwangkum Steel & Technology Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,99384377344.0,SmallCap
-032640,LG Uplus,KOSPI,KO,Communication Services,Telecom Services,6752554188800.0,LargeCap
-032830,Samsung Life Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Life,37800493711360.0,MegaCap
-033240,Jahwa Electronics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,666130579456.0,MidCap
-033270,Korea United Pharm. Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,286666457088.0,MidCap
-033530,Sejong Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,194776563712.0,SmallCap
-033780,KT&G Corp.,KOSDAQ,KQ,Consumer Defensive,Tobacco,16777093316608.0,MegaCap
-033920,Muhak Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Beverages - Wineries & Distilleries,220900474880.0,MidCap
-034020,Doosan Heavy Ind. & Const.,KOSPI,KO,Industrials,Specialty Industrial Machinery,58794700701696.0,MegaCap
-034120,Seoul Broadcasting System,KOSDAQ,KQ,Communication Services,Entertainment,284161409024.0,MidCap
-034220,LG Display Co. Ltd.,KOSDAQ,KQ,Technology,Consumer Electronics,5424999825408.0,LargeCap
-034230,PARADISE LTD,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,1400607604736.0,LargeCap
-034310,NICE Holdings Co. Ltd.,KOSDAQ,KQ,Financial Services,Financial Data & Stock Exchanges,453165154304.0,MidCap
+032350,Lotte Tour Development Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Resorts & Casinos,1503671746560.0,LargeCap
+032560,Hwangkum Steel & Technology Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,105670221824.0,SmallCap
+032640,LG Uplus,KOSPI,KO,Communication Services,Telecom Services,7543903485952.0,LargeCap
+032830,Samsung Life Insurance Co. Ltd.,KOSDAQ,KQ,Financial Services,Insurance - Life,45791569772544.0,MegaCap
+033240,Jahwa Electronics Co. Ltd.,KOSDAQ,KQ,Technology,Electronic Components,843006935040.0,MidCap
+033270,Korea United Pharm. Inc.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,312661409792.0,MidCap
+033530,Sejong Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,212901593088.0,MidCap
+033780,KT&G Corp.,KOSDAQ,KQ,Consumer Defensive,Tobacco,18062774370304.0,MegaCap
+033920,Muhak Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Beverages - Wineries & Distilleries,238911553536.0,MidCap
+034020,Doosan Heavy Ind. & Const.,KOSPI,KO,Industrials,Specialty Industrial Machinery,70002841485312.0,MegaCap
+034120,Seoul Broadcasting System,KOSDAQ,KQ,Communication Services,Entertainment,297701736448.0,MidCap
+034220,LG Display Co. Ltd.,KOSDAQ,KQ,Technology,Consumer Electronics,6940000256000.0,LargeCap
+034230,PARADISE LTD,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,1367549804544.0,LargeCap
+034310,NICE Holdings Co. Ltd.,KOSDAQ,KQ,Financial Services,Financial Data & Stock Exchanges,472973737984.0,MidCap
 034590,Incheon City Gas Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,110469570560.0,SmallCap
-034730,SK Holdings Co Ltd,KOSPI,KO,Industrials,Conglomerates,16411123515392.0,MegaCap
-03473K,SK Holdings 1p Pref,KOSPI,KO,Industrials,Conglomerates,20974273560576.0,MegaCap
-034830,Korea Real Estate Investment & Trust Co. Ltd.,KOSDAQ,KQ,Real Estate,REIT - Diversified,365613940736.0,MidCap
-035000,GIIR Inc.,KOSDAQ,KQ,Communication Services,Advertising Agencies,131606069248.0,SmallCap
-035150,Baiksan,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,257033273344.0,MidCap
-035250,Kangwon Land Inc.,KOSDAQ,KQ,Consumer Cyclical,Resorts & Casinos,3384851824640.0,LargeCap
-035420,Naver Corporation,KOSPI,KO,Communication Services,Internet Content & Information,30121190752256.0,MegaCap
-035510,Shinsegae Information & Communication Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,241225613312.0,MidCap
-035720,Kakao Corp,KOSPI,KO,Communication Services,Internet Content & Information,20146385059840.0,MegaCap
+034730,SK Holdings Co Ltd,KOSPI,KO,Industrials,Conglomerates,20064097009664.0,MegaCap
+03473K,SK Holdings 1p Pref,KOSPI,KO,Industrials,Conglomerates,24029222141952.0,MegaCap
+034830,Korea Real Estate Investment & Trust Co. Ltd.,KOSDAQ,KQ,Real Estate,REIT - Diversified,333727727616.0,MidCap
+035000,GIIR Inc.,KOSDAQ,KQ,Communication Services,Advertising Agencies,137116672000.0,SmallCap
+035150,Baiksan,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,262718046208.0,MidCap
+035250,Kangwon Land Inc.,KOSDAQ,KQ,Consumer Cyclical,Resorts & Casinos,3418920845312.0,LargeCap
+035420,Naver Corporation,KOSPI,KO,Communication Services,Internet Content & Information,32326092324864.0,MegaCap
+035510,Shinsegae Information & Communication Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,262784745472.0,MidCap
+035720,Kakao Corp,KOSPI,KO,Communication Services,Internet Content & Information,21971876184064.0,MegaCap
 036170,Cloud Air Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-036420,Jcontentree Corp,KOSPI,KO,Communication Services,Entertainment,108895969280.0,SmallCap
-036460,Korea Gas Corp.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,3050276388864.0,LargeCap
-036530,SNT Holdings Co Ltd,KOSPI,KO,Industrials,Conglomerates,862468243456.0,MidCap
-036570,NCsoft Corp,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,4344117985280.0,LargeCap
-036580,Farmsco,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,107858018304.0,SmallCap
-037270,Yg Plus Inc,KOSPI,KO,Communication Services,Advertising Agencies,326591774720.0,MidCap
-037560,LG HelloVision Corp,KOSPI,KO,Communication Services,Broadcasting,171544805376.0,SmallCap
-037710,GwangjuShinsegae Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,274578194432.0,MidCap
-039130,Hana Tour,KOSPI,KO,Consumer Cyclical,Travel Services,618822762496.0,MidCap
-039490,Kiwoom,KOSPI,KO,Financial Services,Capital Markets,10625568735232.0,MegaCap
-039570,I-Controls Inc.,KOSDAQ,KQ,Technology,Electronic Components,185632768000.0,SmallCap
+036420,Jcontentree Corp,KOSPI,KO,Communication Services,Entertainment,113098973184.0,SmallCap
+036460,Korea Gas Corp.,KOSDAQ,KQ,Utilities,Utilities - Regulated Gas,3172461969408.0,LargeCap
+036530,SNT Holdings Co Ltd,KOSPI,KO,Industrials,Conglomerates,951382507520.0,MidCap
+036570,NCsoft Corp,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,5216820264960.0,LargeCap
+036580,Farmsco,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,119064043520.0,SmallCap
+037270,Yg Plus Inc,KOSPI,KO,Communication Services,Advertising Agencies,334867955712.0,MidCap
+037560,LG HelloVision Corp,KOSPI,KO,Communication Services,Broadcasting,185485246464.0,SmallCap
+037710,GwangjuShinsegae Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,291357982720.0,MidCap
+039130,Hana Tour,KOSPI,KO,Consumer Cyclical,Travel Services,663743561728.0,MidCap
+039490,Kiwoom,KOSPI,KO,Financial Services,Capital Markets,11716643520512.0,MegaCap
+039570,I-Controls Inc.,KOSDAQ,KQ,Technology,Electronic Components,188619423744.0,SmallCap
+041650,Sangsin Brake Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,54499270656.0,SmallCap
 042000,Cafe24 Corp,KOSDAQ,KQ,기타,,0.0,
-042660,"Hanwha Ocean Co., Ltd",KOSPI,KO,Industrials,Aerospace & Defense,36828941910016.0,MegaCap
-042700,Hanmi Semiconductor Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,23808102629376.0,MegaCap
+042660,"Hanwha Ocean Co., Ltd",KOSPI,KO,Industrials,Aerospace & Defense,39188200161280.0,MegaCap
+042700,Hanmi Semiconductor Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,27222811344896.0,MegaCap
 043650,Kook Soon Dang Co. Ltd.,KOSPI,KO,기타,,0.0,
 043710,Seouleaguer Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-044450,KSS Line Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,246095003648.0,MidCap
-044820,Cosmax,KOSPI,KO,Consumer Defensive,Packaged Foods,150010970112.0,SmallCap
-047040,Daewoo Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,6389272936448.0,LargeCap
-047050,Posco International Corp,KOSPI,KO,Industrials,Conglomerates,12186779910144.0,MegaCap
-047400,Ssangyong Materials Corp.,KOSDAQ,KQ,Industrials,Tools & Accessories,68166000640.0,SmallCap
-047810,Korea Aerospace Industries Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,16054149447680.0,MegaCap
-051600,KEPCO Plant Service & Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,2497499889664.0,LargeCap
-051900,LG Household & Healthcare,KOSPI,KO,Consumer Defensive,Household & Personal Products,4138742841344.0,LargeCap
-051905,LG Household & Health Care Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,3886565294080.0,LargeCap
-051910,LG Chemicals,KOSPI,KO,Basic Materials,Chemicals,23404256165888.0,MegaCap
-051915,LG Chem Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Chemicals,21928727281664.0,MegaCap
-052690,KEPCO Engineering & Construction Co. Inc.,KOSDAQ,KQ,Industrials,Engineering & Construction,5755982315520.0,LargeCap
+044450,KSS Line Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,279058186240.0,MidCap
+044820,Cosmax,KOSPI,KO,Consumer Defensive,Packaged Foods,175809036288.0,SmallCap
+047040,Daewoo Engineering & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,11443167559680.0,MegaCap
+047050,Posco International Corp,KOSPI,KO,Industrials,Conglomerates,12544713424896.0,MegaCap
+047400,Ssangyong Materials Corp.,KOSDAQ,KQ,Industrials,Tools & Accessories,74508001280.0,SmallCap
+047810,Korea Aerospace Industries Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,18305823801344.0,MegaCap
+049800,Woojin Plaimm Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,60339998720.0,SmallCap
+051600,KEPCO Plant Service & Engineering Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,2673000054784.0,LargeCap
+051900,LG Household & Healthcare,KOSPI,KO,Consumer Defensive,Household & Personal Products,4222523015168.0,LargeCap
+051905,LG Household & Health Care Ltd. Pfd. Series 1,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,4039694352384.0,LargeCap
+051910,LG Chemicals,KOSPI,KO,Basic Materials,Chemicals,27591975108608.0,MegaCap
+051915,LG Chem Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Chemicals,25600261619712.0,MegaCap
+052690,KEPCO Engineering & Construction Co. Inc.,KOSDAQ,KQ,Industrials,Engineering & Construction,7068482797568.0,LargeCap
 053080,Wonbang Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-053210,KT Skylife Co. Ltd.,KOSDAQ,KQ,Communication Services,Broadcasting,222766120960.0,MidCap
+053210,KT Skylife Co. Ltd.,KOSDAQ,KQ,Communication Services,Broadcasting,235063181312.0,MidCap
 053580,WebCash Corporation,KOSDAQ,KQ,기타,,0.0,
-053690,HanmiGlobal Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,271529951232.0,MidCap
-055490,TAPEX INC,KOSPI,KO,Basic Materials,Specialty Chemicals,73786482688.0,SmallCap
-055550,Shinhan Financial Group Co. Ltd.,KOSDAQ,KQ,Financial Services,Banks - Regional,41627187937280.0,MegaCap
+053690,HanmiGlobal Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,325533106176.0,MidCap
+055490,TAPEX INC,KOSPI,KO,Basic Materials,Specialty Chemicals,82037981184.0,SmallCap
+055550,Shinhan Financial Group Co. Ltd.,KOSDAQ,KQ,Financial Services,Banks - Regional,47180643565568.0,MegaCap
 056730,Fourth-Link Inc.,KOSPI,KO,기타,,0.0,
-057050,Hyundai Home Shopping Network Corp.,KOSDAQ,KQ,Consumer Cyclical,Internet Retail,889895321600.0,MidCap
-058430,POSCO Coated & Color Steel Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,269576552448.0,MidCap
-058650,Seah Holdings Corp.,KOSDAQ,KQ,Basic Materials,Steel,628380532736.0,MidCap
-058730,Dong-A Steel Technology Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,62254546944.0,SmallCap
-058850,KTCS Corp.,KOSDAQ,KQ,Industrials,Specialty Business Services,97881915392.0,SmallCap
-058860,KTIS Corporation,KOSPI,KO,Communication Services,Telecom Services,84357496832.0,SmallCap
+057050,Hyundai Home Shopping Network Corp.,KOSDAQ,KQ,Consumer Cyclical,Internet Retail,916793917440.0,MidCap
+058430,POSCO Coated & Color Steel Co. Ltd.,KOSDAQ,KQ,Industrials,Metal Fabrication,287548309504.0,MidCap
+058650,Seah Holdings Corp.,KOSDAQ,KQ,Basic Materials,Steel,672152551424.0,MidCap
+058730,Dong-A Steel Technology Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,66720063488.0,SmallCap
+058850,KTCS Corp.,KOSDAQ,KQ,Industrials,Specialty Business Services,103383031808.0,SmallCap
+058860,KTIS Corporation,KOSPI,KO,Communication Services,Telecom Services,89869058048.0,SmallCap
 058970,Emro Inc.,KOSDAQ,KQ,기타,,0.0,
 059270,Haisung TPC Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 060850,Younglimwon Soft Lab Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 060900,Daehan Green Power Corporation,KOSDAQ,KQ,기타,,0.0,
-060980,Halla Holdings Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,379495809024.0,MidCap
-062040,062040,KOSPI,KO,Industrials,Electrical Equipment & Parts,4121882525696.0,LargeCap
+060980,Halla Holdings Corp.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,385850998784.0,MidCap
+062040,062040,KOSPI,KO,Industrials,Electrical Equipment & Parts,5826856615936.0,LargeCap
 062970,PPI Inc,KOSDAQ,KQ,기타,,0.0,
-063160,Ckd Bio,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,102861733888.0,SmallCap
+063160,Ckd Bio,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,109993476096.0,SmallCap
 063760,ELP Corp.,KOSPI,KO,기타,,0.0,
-064350,Hyundai Rotem Co.,KOSDAQ,KQ,Industrials,Railroads,18499619520512.0,MegaCap
-064400,LG CNS,KOSPI,KO,Technology,Information Technology Services,5406236082176.0,LargeCap
+064350,Hyundai Rotem Co.,KOSDAQ,KQ,Industrials,Railroads,24011304075264.0,MegaCap
+064400,LG CNS,KOSPI,KO,Technology,Information Technology Services,6442915987456.0,LargeCap
 064850,FnGuide Inc.,KOSDAQ,KQ,기타,,0.0,
-064960,SNT Motiv Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,762696695808.0,MidCap
+064960,SNT Motiv Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,806790103040.0,MidCap
 065370,WISE iTech Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 066360,Cherrybro co.Ltd,KOSDAQ,KQ,기타,,0.0,
 066430,Y-Optics Manufacture Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-066570,LG Electronics Inc.,KOSDAQ,KQ,Technology,Consumer Electronics,19014963167232.0,MegaCap
-066575,LG Electronics Inc. Pfd. Series 1,KOSDAQ,KQ,Technology,Consumer Electronics,17518350565376.0,MegaCap
+066570,LG Electronics Inc.,KOSDAQ,KQ,Technology,Consumer Electronics,22274155479040.0,MegaCap
+066575,LG Electronics Inc. Pfd. Series 1,KOSDAQ,KQ,Technology,Consumer Electronics,19925735309312.0,MegaCap
 066830,066830,KOSPI,KO,기타,,0.0,
-066970,L&F Co. Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,5395223937024.0,LargeCap
+066970,L&F Co. Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,6562597830656.0,LargeCap
 067370,SunBio Inc.,KOSPI,KO,기타,,0.0,
-067830,Savezone I&C Corp.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,110409138176.0,SmallCap
-068270,Celltrion Inc,KOSPI,KO,Healthcare,Biotechnology,43142493503488.0,MegaCap
-068290,Samsung Publishing Co. Ltd.,KOSDAQ,KQ,Communication Services,Publishing,88300003328.0,SmallCap
+067830,Savezone I&C Corp.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,119264477184.0,SmallCap
+068270,Celltrion Inc,KOSPI,KO,Healthcare,Biotechnology,45177104236544.0,MegaCap
+068290,Samsung Publishing Co. Ltd.,KOSDAQ,KQ,Communication Services,Publishing,91800002560.0,SmallCap
 068330,ilShinbiobase Co. Ltd,KOSPI,KO,기타,,0.0,
-069260,Huchems,KOSPI,KO,Basic Materials,Chemicals,689524637696.0,MidCap
-069620,Daewoong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1841003233280.0,LargeCap
-069730,DSR Wire Corp.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,70272000000.0,SmallCap
-069960,Hyundai Department Store Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,1713348280320.0,LargeCap
-070960,Yong Pyong Resort Corp,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,138129096704.0,SmallCap
-071050,Korea Investment Holdings Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,11825345200128.0,MegaCap
-071055,Korea Investment Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,11783558397952.0,MegaCap
-071090,Histeel,KOSPI,KO,Basic Materials,Steel,68422242304.0,SmallCap
+069260,Huchems,KOSPI,KO,Basic Materials,Chemicals,696431411200.0,MidCap
+069620,Daewoong Pharmaceutical Co. Ltd.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,1811086835712.0,LargeCap
+069730,DSR Wire Corp.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,80064004096.0,SmallCap
+069960,Hyundai Department Store Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Department Stores,1968619913216.0,LargeCap
+070960,Yong Pyong Resort Corp,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,149718695936.0,SmallCap
+071050,Korea Investment Holdings Co. Ltd.,KOSDAQ,KQ,Financial Services,Capital Markets,15066364641280.0,MegaCap
+071055,Korea Investment Holdings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Financial Services,Capital Markets,13794619162624.0,MegaCap
+071090,Histeel,KOSPI,KO,Basic Materials,Steel,89715892224.0,SmallCap
 071200,Infinitt Healthcare Co Ltd,KOSPI,KO,기타,,0.0,
-071320,Korea District Heating Corp.,KOSDAQ,KQ,Utilities,Utilities - Renewable,835985342464.0,MidCap
-071840,Lotte Himart Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Specialty Retail,179533119488.0,SmallCap
-071970,STX Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,2330405109760.0,LargeCap
-072130,UANGEL Corp.,KOSDAQ,KQ,Communication Services,Telecom Services,62426349568.0,SmallCap
-072710,Nongshim Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,422038896640.0,MidCap
-073240,Kumho Tire Co. Inc.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,1709198671872.0,LargeCap
-075180,Saeron Auto,KOSPI,KO,Consumer Cyclical,Auto Parts,58271997952.0,SmallCap
-075580,Sejin Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,882303565824.0,MidCap
+071320,Korea District Heating Corp.,KOSDAQ,KQ,Utilities,Utilities - Renewable,879984574464.0,MidCap
+071840,Lotte Himart Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Specialty Retail,187399274496.0,SmallCap
+071970,STX Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,2852795711488.0,LargeCap
+072130,UANGEL Corp.,KOSDAQ,KQ,Communication Services,Telecom Services,72192057344.0,SmallCap
+072710,Nongshim Holdings Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,444764061696.0,MidCap
+073240,Kumho Tire Co. Inc.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,1758032953344.0,LargeCap
+075180,Saeron Auto,KOSPI,KO,Consumer Cyclical,Auto Parts,58655997952.0,SmallCap
+075580,Sejin Heavy Industries Co. Ltd.,KOSDAQ,KQ,Industrials,Marine Shipping,994865512448.0,MidCap
 076340,076340,KOSPI,KO,기타,,0.0,
-077500,Uniquest Corp.,KOSDAQ,KQ,Technology,Electronics & Computer Distribution,121824575488.0,SmallCap
-077970,STX Engine Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,1230253195264.0,LargeCap
-078000,Telcoware Co. Ltd.,KOSDAQ,KQ,Communication Services,Telecom Services,85464252416.0,SmallCap
-078520,Able C&C,KOSPI,KO,Consumer Defensive,Household & Personal Products,308695465984.0,MidCap
-078930,GS Holdings Corp.,KOSDAQ,KQ,Industrials,Conglomerates,6040275910656.0,LargeCap
-078935,GS Holdings Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Conglomerates,5966169374720.0,LargeCap
-079160,CJ CGV,KOSPI,KO,Communication Services,Entertainment,795617787904.0,MidCap
-079430,Hyundai Livart Furniture Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",136977719296.0,SmallCap
-079550,LIG Nex1 Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,13347447635968.0,MegaCap
-079900,079900,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,765336813568.0,MidCap
-079980,Huvis Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,88199659520.0,SmallCap
-081000,Iljin Diamond Co. Ltd.,KOSDAQ,KQ,Industrials,Tools & Accessories,178754453504.0,SmallCap
-081660,Fila Korea Ltd.,KOSDAQ,KQ,Consumer Cyclical,Leisure,2176765394944.0,LargeCap
-082640,Tongyang Life,KOSPI,KO,Financial Services,Insurance - Life,1349941329920.0,LargeCap
-082740,Doosan Engine Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,3633182146560.0,LargeCap
-083420,KPX Green Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,133426569216.0,SmallCap
+077500,Uniquest Corp.,KOSDAQ,KQ,Technology,Electronics & Computer Distribution,137808658432.0,SmallCap
+077970,STX Engine Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,1356690358272.0,LargeCap
+078000,Telcoware Co. Ltd.,KOSDAQ,KQ,Communication Services,Telecom Services,92435652608.0,SmallCap
+078520,Able C&C,KOSPI,KO,Consumer Defensive,Household & Personal Products,323125313536.0,MidCap
+078930,GS Holdings Corp.,KOSDAQ,KQ,Industrials,Conglomerates,6920754692096.0,LargeCap
+078935,GS Holdings Corp. Pfd. Series 1,KOSDAQ,KQ,Industrials,Conglomerates,6888978120704.0,LargeCap
+079160,CJ CGV,KOSPI,KO,Communication Services,Entertainment,797273620480.0,MidCap
+079430,Hyundai Livart Furniture Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,"Furnishings, Fixtures & Appliances",146632540160.0,SmallCap
+079550,LIG Nex1 Co. Ltd.,KOSDAQ,KQ,Industrials,Aerospace & Defense,19201974599680.0,MegaCap
+079900,079900,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,964295327744.0,MidCap
+079980,Huvis Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,107123089408.0,SmallCap
+081000,Iljin Diamond Co. Ltd.,KOSDAQ,KQ,Industrials,Tools & Accessories,197212028928.0,SmallCap
+081660,Fila Korea Ltd.,KOSDAQ,KQ,Consumer Cyclical,Leisure,2290912854016.0,LargeCap
+082640,Tongyang Life,KOSPI,KO,Financial Services,Insurance - Life,1312486326272.0,LargeCap
+082740,Doosan Engine Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,3987740557312.0,LargeCap
+083420,KPX Green Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,141124255744.0,SmallCap
 083500,FNSTech Co. Ltd.,KOSPI,KO,기타,,0.0,
-084010,Daehan Steel,KOSPI,KO,Basic Materials,Steel,293529321472.0,MidCap
+084010,Daehan Steel,KOSPI,KO,Basic Materials,Steel,333031800832.0,MidCap
 084440,Ubion Co. Ltd.,KOSPI,KO,기타,,0.0,
-084670,Dongyang Express Corp.,KOSDAQ,KQ,Industrials,Railroads,102142353408.0,SmallCap
-084680,E-World Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Leisure,225321746432.0,MidCap
-084690,Daesang Holdings Co Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,333020397568.0,MidCap
-084695,Daesang Holdings Co Ltd Pref,KOSPI,KO,Consumer Defensive,Packaged Foods,526818213888.0,MidCap
+084670,Dongyang Express Corp.,KOSDAQ,KQ,Industrials,Railroads,105925402624.0,SmallCap
+084680,E-World Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Leisure,270839857152.0,MidCap
+084690,Daesang Holdings Co Ltd,KOSPI,KO,Consumer Defensive,Packaged Foods,369403887616.0,MidCap
+084695,Daesang Holdings Co Ltd Pref,KOSPI,KO,Consumer Defensive,Packaged Foods,556890324992.0,MidCap
 084850,ITM Semiconductor Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-085310,NK Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,74917888000.0,SmallCap
-085620,Mirae Asset Life Insurance Co Ltd,KOSPI,KO,Financial Services,Insurance - Life,1943342415872.0,LargeCap
+085310,NK Co. Ltd.,KOSDAQ,KQ,Industrials,Specialty Industrial Machinery,82840559616.0,SmallCap
+085620,Mirae Asset Life Insurance Co Ltd,KOSPI,KO,Financial Services,Insurance - Life,2229903294464.0,LargeCap
 086220,086220,KOSPI,KO,기타,,0.0,
-086280,Hyundai Glovis Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,15562500472832.0,MegaCap
+086280,Hyundai Glovis Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,16950000353280.0,MegaCap
 086710,Sunjin Beauty Science Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-086790,Hana Financial Group Inc.,KOSDAQ,KQ,Financial Services,Banks - Regional,29206889103360.0,MegaCap
+086790,Hana Financial Group Inc.,KOSDAQ,KQ,Financial Services,Banks - Regional,33508466622464.0,MegaCap
 086820,Biosolution Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-088260,E KOCREF CR REIT,KOSPI,KO,Real Estate,REIT - Diversified,300239159296.0,MidCap
-088350,Hanwha Life,KOSPI,KO,Financial Services,Insurance - Life,3328658898944.0,LargeCap
-089470,Hyundai Engineering Plastics Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,122507001856.0,SmallCap
-089590,Jeju Air Co. Ltd.,KOSDAQ,KQ,Industrials,Airlines,402049859584.0,MidCap
-089860,Lotte Rental Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,1101581254656.0,LargeCap
+088260,E KOCREF CR REIT,KOSPI,KO,Real Estate,REIT - Diversified,312274059264.0,MidCap
+088350,Hanwha Life,KOSPI,KO,Financial Services,Insurance - Life,3678055432192.0,LargeCap
+089470,Hyundai Engineering Plastics Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,136234000384.0,SmallCap
+089590,Jeju Air Co. Ltd.,KOSDAQ,KQ,Industrials,Airlines,428638306304.0,MidCap
+089860,Lotte Rental Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,1169980129280.0,LargeCap
 089970,Adaptive Plasma Technology Corp,KOSDAQ,KQ,기타,,0.0,
-090080,Pyung Hwa Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,50674786304.0,SmallCap
-090350,Noroo Paint & Coatings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,170675617792.0,SmallCap
-090355,Noroo Paint & Coatings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,259267805184.0,MidCap
-090430,Amorepacific Corp. (New),KOSPI,KO,Consumer Defensive,Household & Personal Products,9464864309248.0,LargeCap
-090435,Amorepacific Corp Pref,KOSPI,KO,Consumer Defensive,Household & Personal Products,8117164703744.0,LargeCap
-090460,BH Co Ltd,KOSPI,KO,Technology,Electronic Components,650853810176.0,MidCap
-091810,Tway Air Co Ltd,KOSPI,KO,Industrials,Airlines,348372893696.0,MidCap
+090080,Pyung Hwa Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,56549326848.0,SmallCap
+090350,Noroo Paint & Coatings Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,182081634304.0,SmallCap
+090355,Noroo Paint & Coatings Co. Ltd. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,270931787776.0,MidCap
+090430,Amorepacific Corp. (New),KOSPI,KO,Consumer Defensive,Household & Personal Products,9216514326528.0,LargeCap
+090435,Amorepacific Corp Pref,KOSPI,KO,Consumer Defensive,Household & Personal Products,8630268067840.0,LargeCap
+090460,BH Co Ltd,KOSPI,KO,Technology,Electronic Components,889446137856.0,MidCap
+091810,Tway Air Co Ltd,KOSPI,KO,Industrials,Airlines,407398154240.0,MidCap
 092190,Seoul Viosys Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-092200,DAE-IL Corporation,KOSPI,KO,Consumer Cyclical,Auto Parts,318878547968.0,MidCap
-092220,Kec Corporation,KOSPI,KO,Technology,Semiconductor Equipment & Materials,324232478720.0,MidCap
-092230,KPX Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,309191737344.0,MidCap
-092440,Kishin Corporation,KOSPI,KO,Industrials,Metal Fabrication,65408000000.0,SmallCap
+092200,DAE-IL Corporation,KOSPI,KO,Consumer Cyclical,Auto Parts,301442924544.0,MidCap
+092220,Kec Corporation,KOSPI,KO,Technology,Semiconductor Equipment & Materials,264405057536.0,MidCap
+092230,KPX Holdings Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,346705428480.0,MidCap
+092440,Kishin Corporation,KOSPI,KO,Industrials,Metal Fabrication,67889999872.0,SmallCap
 092590,092590,KOSPI,KO,기타,,0.0,
-092780,Dongyang Piston Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,54459322368.0,SmallCap
-092790,"NEXTEEL Co., Ltd.",KOSPI,KO,Industrials,Metal Fabrication,282121699328.0,MidCap
-093050,LF Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,645307826176.0,MidCap
-093370,Foosung Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,752931700736.0,MidCap
+092780,Dongyang Piston Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,60201844736.0,SmallCap
+092790,"NEXTEEL Co., Ltd.",KOSPI,KO,Industrials,Metal Fabrication,419932307456.0,MidCap
+093050,LF Corp.,KOSDAQ,KQ,Consumer Cyclical,Apparel Manufacturing,670640177152.0,MidCap
+093370,Foosung Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,1355706138624.0,LargeCap
 093510,093510,KOSPI,KO,기타,,0.0,
-094280,Hyosung ITX Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,133564219392.0,SmallCap
-094800,Mirae Asset MAPS Asia Pacific Real Estate 1 Investment Co.,KOSPI,KO,기타,,507243495424.0,MidCap
-095570,AJ Networks Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,226440298496.0,MidCap
-095720,Woongjin ThinkBig Co. Ltd.,KOSDAQ,KQ,Communication Services,Publishing,119881490432.0,SmallCap
-096760,JW Holdings Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,273649713152.0,MidCap
-096770,SK Innovation,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,18165006336000.0,MegaCap
-096775,SK Innovation Co Ltd Pref,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,17742256144384.0,MegaCap
-097230,Hanjin Heavy Industries & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,1963794497536.0,LargeCap
-097520,MCNEX Co. Ltd,KOSPI,KO,Technology,Electronic Components,334774927360.0,MidCap
-097950,CJ Cheiljedang,KOSPI,KO,Consumer Defensive,Packaged Foods,3469019185152.0,LargeCap
-097955,CJ CheilJedang Corp,KOSPI,KO,Consumer Defensive,Packaged Foods,3179725717504.0,LargeCap
+094280,Hyosung ITX Co. Ltd.,KOSDAQ,KQ,Technology,Information Technology Services,141622231040.0,SmallCap
+094800,Mirae Asset MAPS Asia Pacific Real Estate 1 Investment Co.,KOSPI,KO,기타,,524250185728.0,MidCap
+095570,AJ Networks Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,227335323648.0,MidCap
+095720,Woongjin ThinkBig Co. Ltd.,KOSDAQ,KQ,Communication Services,Publishing,122908254208.0,SmallCap
+096760,JW Holdings Corp.,KOSDAQ,KQ,Healthcare,Drug Manufacturers - Specialty & Generic,293023154176.0,MidCap
+096770,SK Innovation,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,21072745332736.0,MegaCap
+096775,SK Innovation Co Ltd Pref,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,19225112477696.0,MegaCap
+097230,Hanjin Heavy Industries & Construction Co. Ltd.,KOSDAQ,KQ,Industrials,Engineering & Construction,2433299251200.0,LargeCap
+097520,MCNEX Co. Ltd,KOSPI,KO,Technology,Electronic Components,380500312064.0,MidCap
+097950,CJ Cheiljedang,KOSPI,KO,Consumer Defensive,Packaged Foods,3797494267904.0,LargeCap
+097955,CJ CheilJedang Corp,KOSPI,KO,Consumer Defensive,Packaged Foods,3368063336448.0,LargeCap
 099390,Brainzcompany Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 099430,BioPlus Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 099750,ezCaretech Co. LTD,KOSDAQ,KQ,기타,,0.0,
-100090,Samkang M&T Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,1677537705984.0,LargeCap
-100220,Visang Education Inc.,KOSDAQ,KQ,Communication Services,Publishing,68240936960.0,SmallCap
-100250,Chinyang Hold,KOSPI,KO,Basic Materials,Specialty Chemicals,189782999040.0,SmallCap
+100090,Samkang M&T Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,1455740420096.0,LargeCap
+100220,Visang Education Inc.,KOSDAQ,KQ,Communication Services,Publishing,85760606208.0,SmallCap
+100250,Chinyang Hold,KOSPI,KO,Basic Materials,Specialty Chemicals,198729007104.0,SmallCap
 100590,Mercury Corporation,KOSDAQ,KQ,기타,,0.0,
 100790,Mirae Asset Venture Investment Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-100840,SNTEnergy Co Ltd,KOSPI,KO,Industrials,Specialty Industrial Machinery,993983725568.0,MidCap
-101140,InBioGen Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,96552747008.0,SmallCap
+100840,SNTEnergy Co Ltd,KOSPI,KO,Industrials,Specialty Industrial Machinery,1073028136960.0,LargeCap
+101140,InBioGen Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,81375895552.0,SmallCap
 101360,E&D Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-101530,Haitai Confectionery & Foods Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,163613982720.0,SmallCap
-102260,Dongsung Corporation,KOSPI,KO,Basic Materials,Chemicals,201692938240.0,MidCap
+101530,Haitai Confectionery & Foods Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,179259392000.0,SmallCap
+102260,Dongsung Corporation,KOSPI,KO,Basic Materials,Chemicals,222594170880.0,MidCap
 102370,K Auction Inc.,KOSDAQ,KQ,기타,,0.0,
-102460,Reyon Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,184143560704.0,SmallCap
+102460,Reyon Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,191113134080.0,SmallCap
 102950,102950,KOSPI,KO,기타,,0.0,
-103140,Poongsan,KOSPI,KO,Industrials,Metal Fabrication,2368147816448.0,LargeCap
-103590,Iljin Electric Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,3313570152448.0,LargeCap
+103140,Poongsan,KOSPI,KO,Industrials,Metal Fabrication,2761473392640.0,LargeCap
+103590,Iljin Electric Co. Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,4109780385792.0,LargeCap
 103660,103660,KOSPI,KO,기타,,0.0,
 103840,Wooyang Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 104620,Yellow Balloon Tour Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-104700,KISCO Corp,KOSPI,KO,Basic Materials,Steel,296332099584.0,MidCap
-105560,KB Financial Group,KOSPI,KO,Financial Services,Banks - Regional,50883597434880.0,MegaCap
-105630,Hansae Co,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,434392727552.0,MidCap
-105840,Woojin Inc.,KOSDAQ,KQ,Technology,Scientific & Technical Instruments,440109760512.0,MidCap
-107590,Miwon Specialty Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,148188807168.0,SmallCap
+104700,KISCO Corp,KOSPI,KO,Basic Materials,Steel,334077198336.0,MidCap
+105560,KB Financial Group,KOSPI,KO,Financial Services,Banks - Regional,57983631360000.0,MegaCap
+105630,Hansae Co,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,458416259072.0,MidCap
+105840,Woojin Inc.,KOSDAQ,KQ,Technology,Scientific & Technical Instruments,486385287168.0,MidCap
+107590,Miwon Specialty Chemical Co. Ltd.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,149346516992.0,SmallCap
 107600,SebitChem Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-108320,LX Semicon Co. Ltd.,KOSPI,KO,Technology,Semiconductors,787192152064.0,MidCap
+108320,LX Semicon Co. Ltd.,KOSPI,KO,Technology,Semiconductors,865260732416.0,MidCap
 108490,Robotis Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-108670,LX Hausys Ltd,KOSPI,KO,Industrials,Building Products & Equipment,277436563456.0,MidCap
-108675,LG Hausys Ltd. Pfd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,272199155712.0,MidCap
+108670,LX Hausys Ltd,KOSPI,KO,Industrials,Building Products & Equipment,316357509120.0,MidCap
+108675,LG Hausys Ltd. Pfd.,KOSDAQ,KQ,Industrials,Building Products & Equipment,285818060800.0,MidCap
 110020,Jeonjinbio Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 110990,Digital Imaging Technology INC,KOSDAQ,KQ,기타,,0.0,
-111110,Hojeon Ltd,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,63613358080.0,SmallCap
-111380,111380,KOSPI,KO,Consumer Cyclical,Leisure,79652978688.0,SmallCap
+111110,Hojeon Ltd,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,66956800000.0,SmallCap
+111380,111380,KOSPI,KO,Consumer Cyclical,Leisure,83945996288.0,SmallCap
 111710,Namhwa Industrial Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-111770,Youngone,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,3340968919040.0,LargeCap
+111770,Youngone,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,3626121560064.0,LargeCap
 112190,112190,KOSPI,KO,기타,,0.0,
 112290,Youngchang Chemical Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-112610,CS Wind Corp,KOSPI,KO,Industrials,Specialty Industrial Machinery,2469745393664.0,LargeCap
-114090,Grand Korea Leisure Co. Ltd,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,711340195840.0,MidCap
+112610,CS Wind Corp,KOSPI,KO,Industrials,Specialty Industrial Machinery,2718377443328.0,LargeCap
+114090,Grand Korea Leisure Co. Ltd,KOSPI,KO,Consumer Cyclical,Resorts & Casinos,734845403136.0,MidCap
 114840,iFamily Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 114920,114920,KOSPI,KO,기타,,0.0,
-117580,Daesung Energy,KOSPI,KO,Utilities,Utilities - Regulated Gas,254812897280.0,MidCap
+117580,Daesung Energy,KOSPI,KO,Utilities,Utilities - Regulated Gas,249645924352.0,MidCap
 117730,T-Robotics.Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-120030,Chosun Welding,KOSPI,KO,Industrials,Tools & Accessories,90398138368.0,SmallCap
-120110,Kolon Industries Inc,KOSPI,KO,Basic Materials,Chemicals,2210439364608.0,LargeCap
-120115,Kolon Industries Inc. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Chemicals,2076398714880.0,LargeCap
+120030,Chosun Welding,KOSPI,KO,Industrials,Tools & Accessories,94336647168.0,SmallCap
+120110,Kolon Industries Inc,KOSPI,KO,Basic Materials,Chemicals,2878210048000.0,LargeCap
+120115,Kolon Industries Inc. Pfd. Series 1,KOSDAQ,KQ,Basic Materials,Chemicals,2596181639168.0,LargeCap
 121060,121060,KOSPI,KO,기타,,0.0,
 122310,Genoray Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 122830,122830,KOSPI,KO,기타,,0.0,
-122900,Imarketkorea,KOSPI,KO,Industrials,Specialty Business Services,230004326400.0,MidCap
-123690,Hankook Cosmetics Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,126287175680.0,SmallCap
-123700,SJM Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,54461095936.0,SmallCap
-123890,Korea Asset In Trust Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,314483343360.0,MidCap
+122900,Imarketkorea,KOSPI,KO,Industrials,Specialty Business Services,236926484480.0,MidCap
+123690,Hankook Cosmetics Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,134160039936.0,SmallCap
+123700,SJM Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,57894170624.0,SmallCap
+123890,Korea Asset In Trust Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,334673903616.0,MidCap
 124560,Taewoong Logistics Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 125210,Amogreentech Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 126340,Vina Technology Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-126560,Hyundai Hcn,KOSPI,KO,Communication Services,Entertainment,358531858432.0,MidCap
-126720,Soosan Industries Co. Ltd.,KOSPI,KO,Industrials,Specialty Industrial Machinery,364521127936.0,MidCap
+126560,Hyundai Hcn,KOSPI,KO,Communication Services,Entertainment,383163826176.0,MidCap
+126720,Soosan Industries Co. Ltd.,KOSPI,KO,Industrials,Specialty Industrial Machinery,415891881984.0,MidCap
 127980,Finecircuit Co. Ltd.,KOSPI,KO,기타,,0.0,
 128540,Ecocab Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-128820,Daesung Ind,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,249704366080.0,MidCap
-128940,Hanmi Pharm Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,6530310078464.0,LargeCap
-129260,Intergis Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,67431776256.0,SmallCap
+128820,Daesung Ind,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,270418903040.0,MidCap
+128940,Hanmi Pharm Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,6872675909632.0,LargeCap
+129260,Intergis Co. Ltd.,KOSDAQ,KQ,Industrials,Integrated Freight & Logistics,70535331840.0,SmallCap
 129890,Abko Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 129920,Daesung Hi-Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-130660,Korea Electronic Power Industrial Development Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Electric,584191967232.0,MidCap
-134380,Miwon Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,233578430464.0,MidCap
+130660,Korea Electronic Power Industrial Development Co. Ltd.,KOSDAQ,KQ,Utilities,Utilities - Regulated Electric,637329997824.0,MidCap
+133820,Fine Besteel Co. Ltd.,KOSDAQ,KQ,Basic Materials,Steel,55411953664.0,SmallCap
+134380,Miwon Chemicals Co. Ltd.,KOSDAQ,KQ,Basic Materials,Chemicals,296629207040.0,MidCap
 136410,Assems Inc.,KOSDAQ,KQ,기타,,0.0,
-136490,Sunjin,KOSPI,KO,Consumer Defensive,Farm Products,235176361984.0,MidCap
+136490,Sunjin,KOSPI,KO,Consumer Defensive,Farm Products,256102072320.0,MidCap
 136660,136660,KOSPI,KO,기타,,0.0,
 137080,Narae Nanotech Corp.,KOSDAQ,KQ,기타,,0.0,
-137310,SD Biosensor Inc,KOSPI,KO,Healthcare,Medical Instruments & Supplies,915087032320.0,MidCap
-138040,Meritz Financi,KOSPI,KO,Financial Services,Capital Markets,18976262324224.0,MegaCap
+137310,SD Biosensor Inc,KOSPI,KO,Healthcare,Medical Instruments & Supplies,1129205334016.0,LargeCap
+138040,Meritz Financi,KOSPI,KO,Financial Services,Capital Markets,19428303437824.0,MegaCap
 138490,Kolon Plastics Inc.,KOSDAQ,KQ,Basic Materials,Specialty Chemicals,570000015360.0,MidCap
-138930,BNK Financial Group Inc,KOSPI,KO,Financial Services,Banks - Regional,5581235552256.0,LargeCap
-139130,Dgb Financial,KOSPI,KO,Financial Services,Banks - Regional,2684036579328.0,LargeCap
-139480,E-Mart,KOSPI,KO,Consumer Defensive,Discount Stores,2563645374464.0,LargeCap
-139990,Ajusteel Co. Ltd.,KOSPI,KO,Basic Materials,Steel,113632772096.0,SmallCap
+138930,BNK Financial Group Inc,KOSPI,KO,Financial Services,Banks - Regional,5921288749056.0,LargeCap
+139130,Dgb Financial,KOSPI,KO,Financial Services,Banks - Regional,3029379579904.0,LargeCap
+139480,E-Mart,KOSPI,KO,Consumer Defensive,Discount Stores,2756521492480.0,LargeCap
+139990,Ajusteel Co. Ltd.,KOSPI,KO,Basic Materials,Steel,125753606144.0,SmallCap
 140070,Surplus Global Inc.,KOSPI,KO,기타,,0.0,
 140610,140610,KOSPI,KO,기타,,0.0,
 140660,140660,KOSPI,KO,기타,,0.0,
 140670,RS Automation Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 144960,New Power Plasma Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-145720,Dentium,KOSPI,KO,Healthcare,Medical Instruments & Supplies,441543229440.0,MidCap
-145990,Samyang Cor,KOSPI,KO,Consumer Defensive,Packaged Foods,447624347648.0,MidCap
-145995,Samyang Corp Preference Shares,KOSPI,KO,Consumer Defensive,Packaged Foods,473247285248.0,MidCap
+145720,Dentium,KOSPI,KO,Healthcare,Medical Instruments & Supplies,490699390976.0,MidCap
+145990,Samyang Cor,KOSPI,KO,Consumer Defensive,Packaged Foods,479239045120.0,MidCap
+145995,Samyang Corp Preference Shares,KOSPI,KO,Consumer Defensive,Packaged Foods,460646023168.0,MidCap
 146320,BCnC Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 147760,Microfriend Inc,KOSDAQ,KQ,기타,,0.0,
 148150,Se Gyung Hi Tech Co.Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -765,39 +778,39 @@
 152550,Kim Ankor Oilfield Overseas Resources Development,KOSPI,KO,기타,,0.0,
 153710,Optipharm.CO.LTD,KOSDAQ,KQ,기타,,0.0,
 154030,Asia Seed Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-155660,DSR Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,65600000000.0,SmallCap
+155660,DSR Corp.,KOSDAQ,KQ,Consumer Cyclical,Textile Manufacturing,71920001024.0,SmallCap
 156100,L&K Biomed Co. Ltd.,KOSPI,KO,기타,,0.0,
 158430,ATON Inc,KOSDAQ,KQ,기타,,0.0,
 159010,Asflow Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-161000,Aekyung Petrochemical Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,663326294016.0,MidCap
-161390,Hankook Tire Co.,KOSPI,KO,Consumer Cyclical,Auto Parts,6599591591936.0,LargeCap
+161000,Aekyung Petrochemical Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,715948294144.0,MidCap
+161390,Hankook Tire Co.,KOSPI,KO,Consumer Cyclical,Auto Parts,7270529761280.0,LargeCap
 161580,Philoptics Co. Ltd.,KOSPI,KO,기타,,0.0,
-161890,Korea Kolmar,KOSPI,KO,Consumer Defensive,Household & Personal Products,1793985740800.0,LargeCap
+161890,Korea Kolmar,KOSPI,KO,Consumer Defensive,Household & Personal Products,2081967702016.0,LargeCap
 162120,162120,KOSPI,KO,기타,,0.0,
 162300,Shin Steel Co. Ltd.,KOSPI,KO,기타,,0.0,
-163560,DRB Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,92990996480.0,SmallCap
+163560,DRB Industrial Co. Ltd.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,104666996736.0,SmallCap
 163730,Finger Inc.,KOSDAQ,KQ,기타,,0.0,
 168360,Pemtron Corp.,KOSPI,KO,기타,,0.0,
 169330,Macromill Embrain Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 169670,169670,KOSPI,KO,기타,,0.0,
-170900,Dong-A St,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,422396690432.0,MidCap
+170900,Dong-A St,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,445541711872.0,MidCap
 173130,OPASNET Co. Ltd.,KOSPI,KO,기타,,0.0,
-175330,Jb Financial,KOSPI,KO,Financial Services,Banks - Regional,5639573078016.0,LargeCap
+175330,Jb Financial,KOSPI,KO,Financial Services,Banks - Regional,5867434409984.0,LargeCap
 176590,176590,KOSPI,KO,기타,,0.0,
 176750,176750,KOSPI,KO,기타,,0.0,
 178600,178600,KOSPI,KO,기타,,0.0,
-178920,PI Advanced Materials Co. Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,643122462720.0,MidCap
+178920,PI Advanced Materials Co. Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,760587747328.0,MidCap
 179290,M.I.TECH Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 179530,Adbiotech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 179720,179720,KOSPI,KO,기타,,0.0,
 180060,180060,KOSPI,KO,기타,,0.0,
-180640,Hanjinkal,KOSPI,KO,Consumer Cyclical,Lodging,7254139469824.0,LargeCap
-18064K,Hanjin Kal,KOSPI,KO,Consumer Cyclical,Lodging,6169989480448.0,LargeCap
-181710,Nhn Entertain,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,1174799908864.0,LargeCap
-183190,Asiacement,KOSPI,KO,Basic Materials,Building Materials,377697730560.0,MidCap
+180640,Hanjinkal,KOSPI,KO,Consumer Cyclical,Lodging,7785751248896.0,LargeCap
+18064K,Hanjin Kal,KOSPI,KO,Consumer Cyclical,Lodging,6943783518208.0,LargeCap
+181710,Nhn Entertain,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,1257598353408.0,LargeCap
+183190,Asiacement,KOSPI,KO,Basic Materials,Building Materials,438372859904.0,MidCap
 183490,Enzychem Lifesciences Corporation,KOSPI,KO,기타,,0.0,
 185190,185190,KOSPI,KO,기타,,0.0,
-185750,Chong Kun Dang Pharmaceutical,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,1173987655680.0,LargeCap
+185750,Chong Kun Dang Pharmaceutical,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,1204292550656.0,LargeCap
 186230,Green Plus Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 187660,ADM Korea Inc.,KOSDAQ,KQ,기타,,0.0,
 187870,DeviceENG.CO.Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -805,14 +818,14 @@
 189350,189350,KOSPI,KO,기타,,0.0,
 190650,Korea Asset Investment Securities Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 191600,191600,KOSPI,KO,기타,,0.0,
-192080,DoubleU Games Co Ltd,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,972806553600.0,MidCap
-192400,Cuckoo Electronics Co Ltd,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",851547717632.0,MidCap
-192650,DreamTech Co Ltd,KOSPI,KO,Technology,Electronic Components,422879035392.0,MidCap
-192820,Cosmax Inc,KOSPI,KO,Consumer Defensive,Household & Personal Products,2229422522368.0,LargeCap
-194370,JS Corp.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,317733502976.0,MidCap
+192080,DoubleU Games Co Ltd,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,1008038969344.0,LargeCap
+192400,Cuckoo Electronics Co Ltd,KOSPI,KO,Consumer Cyclical,"Furnishings, Fixtures & Appliances",898165309440.0,MidCap
+192650,DreamTech Co Ltd,KOSPI,KO,Technology,Electronic Components,453903679488.0,MidCap
+192820,Cosmax Inc,KOSPI,KO,Consumer Defensive,Household & Personal Products,2393934659584.0,LargeCap
+194370,JS Corp.,KOSDAQ,KQ,Consumer Cyclical,Footwear & Accessories,383021219840.0,MidCap
 194700,NOVAREX Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 195500,Maniker F & G Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-195870,Haesung DS Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,794750025728.0,MidCap
+195870,Haesung DS Co. Ltd.,KOSDAQ,KQ,Technology,Semiconductor Equipment & Materials,1001299968000.0,LargeCap
 195940,HK Inno.N Corp.,KOSDAQ,KQ,기타,,0.0,
 196300,Anygen Co. Ltd.,KOSPI,KO,기타,,0.0,
 197140,DigiCAP Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -825,29 +838,29 @@
 199820,Cheil Electric Wiring Devices Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 200350,RaemongRaein Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 200580,200580,KOSPI,KO,기타,,0.0,
-200880,Seoyonehwa,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,344269848576.0,MidCap
+200880,Seoyonehwa,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,372373520384.0,MidCap
 202960,202960,KOSPI,KO,기타,,0.0,
 203400,Abion Inc.,KOSDAQ,KQ,기타,,0.0,
 203450,Union Community Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 204020,GRITEE Inc,KOSDAQ,KQ,기타,,0.0,
 204270,JNTC Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-204320,Mando Corp,KOSPI,KO,Consumer Cyclical,Auto Parts,2303246729216.0,LargeCap
+204320,Mando Corp,KOSPI,KO,Consumer Cyclical,Auto Parts,2488727240704.0,LargeCap
 204610,T3 Entertainment Co. Ltd.,KOSPI,KO,기타,,0.0,
 206950,206950,KOSPI,KO,기타,,0.0,
 207490,207490,KOSPI,KO,기타,,0.0,
-207940,Samsung Biologics Co Ltd,KOSPI,KO,Healthcare,Biotechnology,69621591834624.0,MegaCap
+207940,Samsung Biologics Co Ltd,KOSPI,KO,Healthcare,Biotechnology,73695196348416.0,MegaCap
 208850,208850,KOSPI,KO,기타,,0.0,
 208890,208890,KOSPI,KO,기타,,0.0,
-210540,DY Power Corp.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,146556108800.0,SmallCap
-210980,SK D&D Co Ltd,KOSPI,KO,Real Estate,Real Estate - Diversified,240204644352.0,MidCap
+210540,DY Power Corp.,KOSDAQ,KQ,Industrials,Farm & Heavy Construction Machinery,166420627456.0,SmallCap
+210980,SK D&D Co Ltd,KOSPI,KO,Real Estate,Real Estate - Diversified,244297990144.0,MidCap
 211050,Incar Financial Service Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 212710,212710,KOSPI,KO,기타,,0.0,
-213500,Hansol Paper Co Ltd,KOSPI,KO,Basic Materials,Paper & Paper Products,192592625664.0,SmallCap
+213500,Hansol Paper Co Ltd,KOSPI,KO,Basic Materials,Paper & Paper Products,217808093184.0,MidCap
 214260,Raphas Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-214320,Innocean Worldwide Inc,KOSPI,KO,Communication Services,Advertising Agencies,720400023552.0,MidCap
-214330,Kumho HT Inc.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,85022744576.0,SmallCap
-214390,Kyongbo Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,171173117952.0,SmallCap
-214420,Tonymoly Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,157279453184.0,SmallCap
+214320,Innocean Worldwide Inc,KOSPI,KO,Communication Services,Advertising Agencies,746399989760.0,MidCap
+214330,Kumho HT Inc.,KOSDAQ,KQ,Consumer Cyclical,Auto Parts,82736070656.0,SmallCap
+214390,Kyongbo Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,169499639808.0,SmallCap
+214420,Tonymoly Co. Ltd.,KOSDAQ,KQ,Consumer Defensive,Household & Personal Products,170425909248.0,SmallCap
 214610,Mico BioMed Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 215570,215570,KOSPI,KO,기타,,0.0,
 216050,Incross Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -866,20 +879,20 @@
 225190,Samyang Optics Co. Ltd.,KOSPI,KO,기타,,0.0,
 225220,Genolution Inc.,KOSDAQ,KQ,기타,,0.0,
 225430,IBKS No3 SPAC,KOSDAQ,KQ,기타,,0.0,
-226320,It's Skin Co Ltd,KOSPI,KO,Consumer Defensive,Household & Personal Products,176166846464.0,SmallCap
+226320,It's Skin Co Ltd,KOSPI,KO,Consumer Defensive,Household & Personal Products,186560675840.0,SmallCap
 226330,SyntekaBio Inc,KOSDAQ,KQ,기타,,0.0,
 226400,Osteonic Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 227420,227420,KOSPI,KO,기타,,0.0,
-227840,Hyundai C&F Inc.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,105419325440.0,SmallCap
+227840,Hyundai C&F Inc.,KOSDAQ,KQ,Consumer Defensive,Food Distribution,111859171328.0,SmallCap
 228670,Ray Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 229000,Gencurix Inc,KOSDAQ,KQ,기타,,0.0,
 229500,229500,KOSPI,KO,기타,,0.0,
-229640,LS Cable & System Asia Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,1219168567296.0,LargeCap
+229640,LS Cable & System Asia Ltd.,KOSDAQ,KQ,Industrials,Electrical Equipment & Parts,1689245974528.0,LargeCap
 232530,232530,KOSPI,KO,기타,,0.0,
 232680,Raontec Inc.,KOSPI,KO,기타,,0.0,
 233250,233250,KOSPI,KO,기타,,0.0,
 234070,234070,KOSPI,KO,기타,,0.0,
-234080,Jw Life Science Corp,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,194485993472.0,SmallCap
+234080,Jw Life Science Corp,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,200989507584.0,MidCap
 234100,Sewon Co. Ltd.,KOSPI,KO,기타,,0.0,
 234300,STraffic Co. Ltd.,KOSPI,KO,기타,,0.0,
 234690,GREEN CROSS WellBeing Corporation,KOSDAQ,KQ,기타,,0.0,
@@ -895,26 +908,26 @@
 238500,238500,KOSPI,KO,기타,,0.0,
 239890,P&H Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 241520,DSC Investment Inc,KOSDAQ,KQ,기타,,0.0,
-241560,Doosan Bobcat Inc,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,5446115000320.0,LargeCap
-241590,Hwaseung Enterprise Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,272651747328.0,MidCap
+241560,Doosan Bobcat Inc,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,6795680022528.0,LargeCap
+241590,Hwaseung Enterprise Co Ltd,KOSPI,KO,Consumer Cyclical,Footwear & Accessories,280225415168.0,MidCap
 241770,Mecaro Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 241790,Ocean Bridge Corp.,KOSPI,KO,기타,,0.0,
 241840,ASTORY Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 243870,243870,KOSPI,KO,기타,,0.0,
 244880,244880,KOSPI,KO,기타,,0.0,
-244920,A Plus Asset Advisor Co Ltd,KOSPI,KO,Financial Services,Insurance - Diversified,237380763648.0,MidCap
+244920,A Plus Asset Advisor Co Ltd,KOSPI,KO,Financial Services,Insurance - Diversified,246649913344.0,MidCap
 245450,245450,KOSPI,KO,기타,,0.0,
 246710,T&R Biofab Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 246720,Asta Co. Ltd.,KOSPI,KO,기타,,0.0,
 246960,InnoTherapy Inc,KOSDAQ,KQ,기타,,0.0,
 247660,NanoCMS Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-248070,SoluM Co Ltd,KOSPI,KO,Technology,Electronic Components,784186277888.0,MidCap
-248170,Sempio Foods Co.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,126038048768.0,SmallCap
-249420,Il Dong Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,883802636288.0,MidCap
+248070,SoluM Co Ltd,KOSPI,KO,Technology,Electronic Components,921897009152.0,MidCap
+248170,Sempio Foods Co.,KOSDAQ,KQ,Consumer Defensive,Packaged Foods,126494711808.0,SmallCap
+249420,Il Dong Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,935791034368.0,MidCap
 250000,Boratr Co. Ltd.,KOSPI,KO,기타,,0.0,
 250030,250030,KOSPI,KO,기타,,0.0,
 251120,Bio-FD&C Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-251270,Netmarble Games Corp,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,3834718978048.0,LargeCap
+251270,Netmarble Games Corp,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,4252404023296.0,LargeCap
 251280,251280,KOSPI,KO,기타,,0.0,
 251630,V-One Tech Co. Ltd.,KOSPI,KO,기타,,0.0,
 251970,Pum-Tech Korea Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -937,7 +950,7 @@
 258610,Caelum Co. Ltd.,KOSPI,KO,기타,,0.0,
 258790,SoftCamp Co. Ltd.,KOSPI,KO,기타,,0.0,
 259630,mPLUS Corp,KOSDAQ,KQ,기타,,0.0,
-259960,Krafton Inc,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,11383140777984.0,MegaCap
+259960,Krafton Inc,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,11763164643328.0,MegaCap
 260660,Korea Arlico Pharm Co. Ltd.,KOSPI,KO,기타,,0.0,
 260870,Signet EV Inc,KOSPI,KO,기타,,0.0,
 260930,CTK Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -959,33 +972,33 @@
 264450,Ubiquoss Inc,KOSDAQ,KQ,기타,,0.0,
 264660,C&G Hi Tech Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 264850,Elensys Co. Ltd.,KOSPI,KO,기타,,0.0,
-264900,Crown Confectionery Co Ltd,KOSPI,KO,Consumer Defensive,Confectioners,104614903808.0,SmallCap
-26490K,Crown Confectionery Co Ltd Pref,KOSPI,KO,Consumer Defensive,Confectioners,114590408704.0,SmallCap
+264900,Crown Confectionery Co Ltd,KOSPI,KO,Consumer Defensive,Confectioners,109730545664.0,SmallCap
+26490K,Crown Confectionery Co Ltd Pref,KOSPI,KO,Consumer Defensive,Confectioners,120345509888.0,SmallCap
 265560,YOUNGHWA TECH Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 265740,NFC Corporation,KOSDAQ,KQ,기타,,0.0,
 266170,266170,KOSPI,KO,기타,,0.0,
 266350,266350,KOSPI,KO,기타,,0.0,
 266470,266470,KOSPI,KO,기타,,0.0,
 267080,267080,KOSPI,KO,기타,,0.0,
-267250,Hyundai Heavy Industries Holdings Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,16889755467776.0,MegaCap
-267260,Hyundai Electric & Energy Systems Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,29945929662464.0,MegaCap
-267270,Hyundai Construction Equipment Co Ltd,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,6001268359168.0,LargeCap
-267290,Kyungdong City Gas Co Ltd,KOSPI,KO,Utilities,Utilities - Regulated Gas,125760618496.0,SmallCap
+267250,Hyundai Heavy Industries Holdings Co Ltd,KOSPI,KO,Energy,Oil & Gas Refining & Marketing,18232454938624.0,MegaCap
+267260,Hyundai Electric & Energy Systems Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,38656165281792.0,MegaCap
+267270,Hyundai Construction Equipment Co Ltd,KOSPI,KO,Industrials,Farm & Heavy Construction Machinery,7646699585536.0,LargeCap
+267290,Kyungdong City Gas Co Ltd,KOSPI,KO,Utilities,Utilities - Regulated Gas,132829126656.0,SmallCap
 267790,Barrel Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-267850,Asiana IDT Inc,KOSPI,KO,Technology,Information Technology Services,113331003392.0,SmallCap
-268280,Miwon Specialty Chemical Co Ltd,KOSPI,KO,Basic Materials,Chemicals,593115414528.0,MidCap
+267850,Asiana IDT Inc,KOSPI,KO,Technology,Information Technology Services,119102996480.0,SmallCap
+268280,Miwon Specialty Chemical Co Ltd,KOSPI,KO,Basic Materials,Chemicals,602767425536.0,MidCap
 270210,270210,KOSPI,KO,기타,,0.0,
 270520,GEOLIT ENERGY COLTD LTD,KOSDAQ,KQ,기타,,0.0,
 270660,Everybot Inc.,KOSDAQ,KQ,기타,,0.0,
 270870,Newtree Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-271560,Orion Corp,KOSPI,KO,Consumer Defensive,Confectioners,5059684859904.0,LargeCap
+271560,Orion Corp,KOSPI,KO,Consumer Defensive,Confectioners,5443113975808.0,LargeCap
 271830,Pamtek Co. Ltd.,KOSPI,KO,기타,,0.0,
-271940,Iljin HySolus Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,557044334592.0,MidCap
-271980,Jeil Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,203272667136.0,MidCap
+271940,Iljin HySolus Co Ltd,KOSPI,KO,Consumer Cyclical,Auto Parts,603162148864.0,MidCap
+271980,Jeil Pharmaceutical Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,207498395648.0,MidCap
 272110,KNJ Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-272210,Hanwha Systems Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,21335931617280.0,MegaCap
-272450,Jin Air Co Ltd,KOSPI,KO,Industrials,Airlines,312293818368.0,MidCap
-272550,Samyang Packaging,KOSPI,KO,Consumer Cyclical,Packaging & Containers,190563975168.0,SmallCap
+272210,Hanwha Systems Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,24290424520704.0,MegaCap
+272450,Jin Air Co Ltd,KOSPI,KO,Industrials,Airlines,341667971072.0,MidCap
+272550,Samyang Packaging,KOSPI,KO,Consumer Cyclical,Packaging & Containers,184584896512.0,SmallCap
 273060,Wise Birds Inc.,KOSPI,KO,기타,,0.0,
 273640,YM Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 274090,Kencoa Aerospace Corporation,KOSDAQ,KQ,기타,,0.0,
@@ -997,23 +1010,23 @@
 277410,Insan Inc.,KOSPI,KO,기타,,0.0,
 277810,Rainbow Robotics Inc.,KOSDAQ,KQ,기타,,0.0,
 277880,TSI Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-278470,APR LTD,KOSPI,KO,Consumer Defensive,Household & Personal Products,12616658321408.0,MegaCap
+278470,APR LTD,KOSPI,KO,Consumer Defensive,Household & Personal Products,15424520454144.0,MegaCap
 278650,KNOTUS Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 278990,278990,KOSPI,KO,기타,,0.0,
 279060,279060,KOSPI,KO,기타,,0.0,
 279600,MediaZen Inc.,KOSPI,KO,기타,,0.0,
-280360,Lotte Confectionery Co Ltd,KOSPI,KO,Consumer Defensive,Confectioners,982264774656.0,MidCap
+280360,Lotte Confectionery Co Ltd,KOSPI,KO,Consumer Defensive,Confectioners,1011440943104.0,LargeCap
 281740,Lake Materials Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-281820,KCTech Co Ltd,KOSPI,KO,Technology,Semiconductor Equipment & Materials,866088189952.0,MidCap
-282330,BGF Retail Co Ltd,KOSPI,KO,Consumer Defensive,Grocery Stores,2406409830400.0,LargeCap
+281820,KCTech Co Ltd,KOSPI,KO,Technology,Semiconductor Equipment & Materials,1075211993088.0,LargeCap
+282330,BGF Retail Co Ltd,KOSPI,KO,Consumer Defensive,Grocery Stores,2318307164160.0,LargeCap
 282720,Kumyang Green Power Co. Ltd.,KOSPI,KO,기타,,0.0,
-284740,Cuckoo Homesys Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,519078084608.0,MidCap
-285130,SK Chemicals Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,1019383775232.0,LargeCap
-28513K,SK Chemicals Co Ltd Pref,KOSPI,KO,Basic Materials,Specialty Chemicals,942084390912.0,MidCap
+284740,Cuckoo Homesys Co Ltd,KOSPI,KO,Industrials,Rental & Leasing Services,560559489024.0,MidCap
+285130,SK Chemicals Co Ltd,KOSPI,KO,Basic Materials,Specialty Chemicals,1156981194752.0,LargeCap
+28513K,SK Chemicals Co Ltd Pref,KOSPI,KO,Basic Materials,Specialty Chemicals,1041746034688.0,LargeCap
 285490,NOVATECH Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 285800,Jinyoung Co. Ltd.,KOSPI,KO,기타,,0.0,
 286750,NANOBRICK Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-286940,Lotte Data Communication Company,KOSPI,KO,Technology,Information Technology Services,302436057088.0,MidCap
+286940,Lotte Data Communication Company,KOSPI,KO,Technology,Information Technology Services,335871934464.0,MidCap
 288330,Bridge Biotherapeutics Inc,KOSDAQ,KQ,기타,,0.0,
 288620,S-Fuelcell co. Ltd,KOSDAQ,KQ,기타,,0.0,
 288980,Moadata Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
@@ -1034,27 +1047,27 @@
 291230,Samsung Special Purpose Acquisition 2 Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 291650,Aptamer Sciences Inc,KOSDAQ,KQ,기타,,0.0,
 291810,Pintel Co. Ltd.,KOSPI,KO,기타,,0.0,
-293480,Hana Pharm Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,157252321280.0,SmallCap
+293480,Hana Pharm Co Ltd,KOSPI,KO,Healthcare,Drug Manufacturers - Specialty & Generic,169361965056.0,SmallCap
 293490,Kakao Games Corp,KOSDAQ,KQ,기타,,0.0,
 293580,NAU IB Capital,KOSDAQ,KQ,기타,,0.0,
 293780,AptaBio Therapeutics Inc,KOSDAQ,KQ,기타,,0.0,
-293940,Shinhan Alpha REIT Co Ltd,KOSPI,KO,기타,,682102292480.0,MidCap
+293940,Shinhan Alpha REIT Co Ltd,KOSPI,KO,Real Estate,REIT - Office,730478346240.0,MidCap
 294140,LEMON Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 294570,coocon Corp.,KOSDAQ,KQ,기타,,0.0,
 294630,SuNam Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-294870,Hyundai Development Co,KOSPI,KO,Industrials,Engineering & Construction,1303504093184.0,LargeCap
+294870,Hyundai Development Co,KOSPI,KO,Industrials,Engineering & Construction,1494727262208.0,LargeCap
 296520,296520,KOSPI,KO,기타,,0.0,
 296640,Innorules Co. Ltd.,KOSPI,KO,기타,,0.0,
 297090,CS BEARING Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 297570,Aloys Inc.,KOSDAQ,KQ,기타,,0.0,
 297890,LET co. Ltd,KOSDAQ,KQ,기타,,0.0,
 298000,Hyosung Chemical Corp,KOSPI,KO,Basic Materials,Chemicals,146577997824.0,SmallCap
-298020,Hyosung TNC Corp,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,1626617544704.0,LargeCap
-298040,Hyosung Heavy Industries Corp,KOSPI,KO,Industrials,Electrical Equipment & Parts,22869635497984.0,MegaCap
-298050,Hyosung Advanced Materials Corp,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,982964830208.0,MidCap
+298020,Hyosung TNC Corp,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,2133057863680.0,LargeCap
+298040,Hyosung Heavy Industries Corp,KOSPI,KO,Industrials,Electrical Equipment & Parts,27525505875968.0,MegaCap
+298050,Hyosung Advanced Materials Corp,KOSPI,KO,Consumer Cyclical,Textile Manufacturing,991900860416.0,MidCap
 298060,SCM Lifescience Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 298540,Nature Holdings Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-298690,Air Busan Co Ltd,KOSPI,KO,Industrials,Airlines,210430476288.0,MidCap
+298690,Air Busan Co Ltd,KOSPI,KO,Industrials,Airlines,236078514176.0,MidCap
 298830,Suresofttech Inc.,KOSPI,KO,기타,,0.0,
 299030,Hana Technology Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 299170,WSI Co. Ltd.,KOSPI,KO,기타,,0.0,
@@ -1062,10 +1075,10 @@
 299660,Cellid Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 299900,Wysiwyg Studios Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 300080,FLITTO Inc,KOSDAQ,KQ,기타,,0.0,
-300720,Hanilcmt Co Ltd,KOSPI,KO,Basic Materials,Building Materials,1112340299776.0,LargeCap
+300720,Hanilcmt Co Ltd,KOSPI,KO,Basic Materials,Building Materials,1191991050240.0,LargeCap
 301300,VAIV Co. Inc.,KOSDAQ,KQ,기타,,0.0,
 302430,Innometry Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-302440,SK Bioscience Co Ltd,KOSPI,KO,Healthcare,Biotechnology,3270727172096.0,LargeCap
+302440,SK Bioscience Co Ltd,KOSPI,KO,Healthcare,Biotechnology,3658978951168.0,LargeCap
 302550,Remed Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 302920,302920,KOSPI,KO,기타,,0.0,
 303030,Zinitix Co.Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -1075,14 +1088,14 @@
 304840,PeopleBio Inc,KOSDAQ,KQ,기타,,0.0,
 305090,Micro Digital Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 306040,SJ Group Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-306200,Seah Steel Corp,KOSPI,KO,Basic Materials,Steel,347212414976.0,MidCap
+306200,Seah Steel Corp,KOSPI,KO,Basic Materials,Steel,416094846976.0,MidCap
 306620,Neontech Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 307180,IL Science Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 307280,Wonbiogen Co. Ltd.,KOSPI,KO,기타,,0.0,
 307750,Daishin Balance No.6 Special Purpose Acquisition Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 307870,B2En Co. Ltd.,KOSPI,KO,기타,,0.0,
 307930,Company K Partners Limited,KOSDAQ,KQ,기타,,0.0,
-307950,Hyundai Autoever Corp,KOSPI,KO,Technology,Information Technology Services,9831187480576.0,LargeCap
+307950,Hyundai Autoever Corp,KOSPI,KO,Technology,Information Technology Services,12052459421696.0,MegaCap
 308080,ViGenCell Inc.,KOSDAQ,KQ,기타,,0.0,
 308100,Castelbajac Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 309930,OHEIM INT Co.Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -1099,10 +1112,10 @@
 314140,RPBio Inc.,KOSPI,KO,기타,,0.0,
 314930,Biodyne Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 315640,Deep Noid Inc.,KOSDAQ,KQ,기타,,0.0,
-316140,Woori Financial Group Inc,KOSPI,KO,Financial Services,Banks - Regional,23428358733824.0,MegaCap
+316140,Woori Financial Group Inc,KOSPI,KO,Financial Services,Banks - Regional,25913739706368.0,MegaCap
 317120,Ranix INC,KOSDAQ,KQ,기타,,0.0,
 317240,TS Trillion Co. Ltd.,KOSPI,KO,기타,,0.0,
-317400,Xi S And D Inc,KOSPI,KO,Real Estate,Real Estate - Diversified,154355712000.0,SmallCap
+317400,Xi S And D Inc,KOSPI,KO,Real Estate,Real Estate - Diversified,171887460352.0,SmallCap
 317530,Carriesoft Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 317690,QuantaMatrix Inc.,KOSDAQ,KQ,기타,,0.0,
 317770,Suprema ID Inc,KOSDAQ,KQ,기타,,0.0,
@@ -1119,22 +1132,22 @@
 321260,Eugene Special Purpose Acquisitions 4 Company,KOSDAQ,KQ,기타,,0.0,
 321550,TiumBio Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 321820,Wider Planet Inc.,KOSDAQ,KQ,기타,,0.0,
-322000,Hyundai Energy Solutions Co Ltd,KOSPI,KO,Technology,Solar,1557919956992.0,LargeCap
+322000,Hyundai Energy Solutions Co Ltd,KOSPI,KO,Technology,Solar,1784160059392.0,LargeCap
 322180,THiRA-UTECH CO. LTD,KOSDAQ,KQ,기타,,0.0,
 322310,AurosTechnology Inc.,KOSDAQ,KQ,기타,,0.0,
 322510,JLK Inc,KOSDAQ,KQ,기타,,0.0,
 322780,COPUS KOREA Co. Ltd.,KOSPI,KO,기타,,0.0,
 322970,322970,KOSPI,KO,기타,,0.0,
 323280,Taesung Co. Ltd.,KOSPI,KO,기타,,0.0,
-323410,KakaoBank Corp,KOSPI,KO,Financial Services,Banks - Regional,11411171311616.0,MegaCap
+323410,KakaoBank Corp,KOSPI,KO,Financial Services,Banks - Regional,12102036094976.0,MegaCap
 323990,Vaxcell-Bio Therapeutics Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-326030,Sk Biopharmaceuticals Co Ltd,KOSPI,KO,Healthcare,Biotechnology,7424095813632.0,LargeCap
+326030,Sk Biopharmaceuticals Co Ltd,KOSPI,KO,Healthcare,Biotechnology,8238553628672.0,LargeCap
 327260,RF Materials Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 328130,Lunit Inc.,KOSDAQ,KQ,기타,,0.0,
 328380,Saltware Co. Ltd.,KOSPI,KO,기타,,0.0,
-329180,Hyundai Heavy Industries Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,48806968164352.0,MegaCap
+329180,Hyundai Heavy Industries Co Ltd,KOSPI,KO,Industrials,Aerospace & Defense,52323170648064.0,MegaCap
 330350,Withuspharmaceutical Co.Ltd,KOSDAQ,KQ,기타,,0.0,
-330590,Lotte Reit Co Ltd,KOSDAQ,KQ,Real Estate,REIT - Retail,1336481153024.0,LargeCap
+330590,Lotte Reit Co Ltd,KOSDAQ,KQ,Real Estate,REIT - Retail,1369712623616.0,LargeCap
 330730,StoneBridge Ventures Inc.,KOSDAQ,KQ,기타,,0.0,
 330860,Nepes Ark Corp.,KOSDAQ,KQ,기타,,0.0,
 331380,Eugene Special Purpose Acquisition 5 Company,KOSDAQ,KQ,기타,,0.0,
@@ -1147,24 +1160,24 @@
 333050,Shinhan 6th Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0.0,
 333430,Il Seung Co. Ltd.,KOSPI,KO,기타,,0.0,
 333620,Nsys Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-334890,Igis Value Plus Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Office,211066388480.0,MidCap
+334890,Igis Value Plus Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Office,223328583680.0,MidCap
 334970,Prestige Biologics Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 335810,Precision Biosensor Inc.,KOSDAQ,KQ,기타,,0.0,
 335870,IBKS No. 12 Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0.0,
 336040,336040,KOSPI,KO,기타,,0.0,
 336060,Wavus Co. Ltd.,KOSPI,KO,기타,,0.0,
-336260,Doosan Fuel Cell Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,2633538207744.0,LargeCap
-33626K,Doosan Fuel Cell Co. Ltd. Pfd. Series 1,KOSPI,KO,Industrials,Electrical Equipment & Parts,2217167552512.0,LargeCap
+336260,Doosan Fuel Cell Co Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,3520583172096.0,LargeCap
+33626K,Doosan Fuel Cell Co. Ltd. Pfd. Series 1,KOSPI,KO,Industrials,Electrical Equipment & Parts,2679940841472.0,LargeCap
 33626L,Doosan Fuel Cell America Inc,KOSPI,KO,Industrials,Electrical Equipment & Parts,0.0,
-336370,Solus Advanced Materials Co Ltd,KOSPI,KO,Technology,Electronic Components,804440899584.0,MidCap
-33637K,Doosan Solus Co Ltd Pref 1P,KOSPI,KO,Technology,Electronic Components,623724658688.0,MidCap
+336370,Solus Advanced Materials Co Ltd,KOSPI,KO,Technology,Electronic Components,942604812288.0,MidCap
+33637K,Doosan Solus Co Ltd Pref 1P,KOSPI,KO,Technology,Electronic Components,674339422208.0,MidCap
 33637L,Doosan Solus Co Ltd Pref 2P,KOSPI,KO,Technology,Electronic Components,0.0,
 336570,Daishin Balance No.8 Special Purpose Acquisition Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 337840,337840,KOSPI,KO,기타,,0.0,
 337930,Brand X Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-338100,Nh Prime Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,85089599488.0,SmallCap
+338100,Nh Prime Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,89474703360.0,SmallCap
 338220,Vuno Inc.,KOSDAQ,KQ,기타,,0.0,
-339770,Kyochon F And B Co Ltd,KOSPI,KO,Consumer Cyclical,Restaurants,203108057088.0,MidCap
+339770,Kyochon F And B Co Ltd,KOSPI,KO,Consumer Cyclical,Restaurants,221345300480.0,MidCap
 339950,Ibkimyoung Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 340360,Davolink Inc.,KOSDAQ,KQ,기타,,0.0,
 340440,SERIM B&G Co. Ltd.,KOSPI,KO,기타,,0.0,
@@ -1173,7 +1186,7 @@
 340810,Cubox Co. Ltd.,KOSPI,KO,기타,,0.0,
 340930,Youil Energy Technology Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 341170,341170,KOSPI,KO,기타,,0.0,
-344820,Kcc Glass Corp,KOSPI,KO,Industrials,Building Products & Equipment,393800318976.0,MidCap
+344820,Kcc Glass Corp,KOSPI,KO,Industrials,Building Products & Equipment,454384975872.0,MidCap
 346010,346010,KOSPI,KO,기타,,0.0,
 347000,Senko Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 347700,LifeSemantics Corp.,KOSDAQ,KQ,기타,,0.0,
@@ -1187,18 +1200,18 @@
 348210,NEXTIN Inc,KOSDAQ,KQ,기타,,0.0,
 348350,WithTech Inc.,KOSDAQ,KQ,기타,,0.0,
 348370,Enchem Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-348950,Jr Global Reit,KOSPI,KO,Real Estate,REIT - Diversified,300011520000.0,MidCap
-350520,Igis Residence Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Residential,134008635392.0,SmallCap
+348950,Jr Global Reit,KOSPI,KO,Real Estate,REIT - Diversified,234877435904.0,MidCap
+350520,Igis Residence Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Residential,145068490752.0,SmallCap
 351320,Solution Advanced Technology Co. Ltd.,KOSPI,KO,기타,,0.0,
 351330,Isaac Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 352480,C&C International Corp.,KOSDAQ,KQ,기타,,0.0,
 352700,CNTus Sungjin Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-352820,HYBE Co. Ltd,KOSPI,KO,Communication Services,Entertainment,12419587899392.0,MegaCap
+352820,HYBE Co. Ltd,KOSPI,KO,Communication Services,Entertainment,10965789704192.0,MegaCap
 352910,Obigo Inc.,KOSDAQ,KQ,기타,,0.0,
 352940,EnBio Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 353190,Hurum Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-353200,Daeduck Electronics Co Ltd,KOSPI,KO,Technology,Electronic Components,3951004483584.0,LargeCap
-35320K,DAEDUCK ELECTRONICS Co.Ltd,KOSPI,KO,Technology,Electronic Components,2972954394624.0,LargeCap
+353200,Daeduck Electronics Co Ltd,KOSPI,KO,Technology,Electronic Components,4775203569664.0,LargeCap
+35320K,DAEDUCK ELECTRONICS Co.Ltd,KOSPI,KO,Technology,Electronic Components,4406357524480.0,LargeCap
 353590,Auto& Inc.,KOSDAQ,KQ,기타,,0.0,
 353810,EASY BIOInc,KOSDAQ,KQ,기타,,0.0,
 354200,NGeneBio Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
@@ -1207,9 +1220,9 @@
 356680,AXGate Co. Ltd.,KOSPI,KO,기타,,0.0,
 356860,TLB Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 356890,CyberOne Co. Ltd.,KOSPI,KO,기타,,0.0,
-357120,Koramco Energy Plus Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,435089014784.0,MidCap
+357120,Koramco Energy Plus Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,454556090368.0,MidCap
 357230,H.Pio Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-357250,Mirae Asset Maps Reit 1 Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,58988445696.0,SmallCap
+357250,Mirae Asset Maps Reit 1 Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,61362978816.0,SmallCap
 357550,Sukgyung AT Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 357580,Amosense Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 357880,BitNine Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
@@ -1217,16 +1230,16 @@
 360070,TOPMATERIAL LTD,KOSDAQ,KQ,기타,,0.0,
 361390,Genohco Inc.,KOSDAQ,KQ,기타,,0.0,
 361570,RBW Inc.,KOSDAQ,KQ,기타,,0.0,
-361610,SK IE Technology Co Ltd,KOSPI,KO,Technology,Electronic Components,1737975922688.0,LargeCap
+361610,SK IE Technology Co Ltd,KOSPI,KO,Technology,Electronic Components,1934265024512.0,LargeCap
 361670,Samyoung S&C Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 362320,Chungdamglobal Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 363250,Genesystem Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 363260,Mobidays Inc.,KOSPI,KO,기타,,0.0,
-363280,TY Holdings Co Ltd,KOSPI,KO,Communication Services,Broadcasting,107072552960.0,SmallCap
+363280,TY Holdings Co Ltd,KOSPI,KO,Communication Services,Broadcasting,113941356544.0,SmallCap
 36328K,TY Holdings Co. Ltd. Pfd. Series 1,KOSPI,KO,Communication Services,Broadcasting,0.0,
 365270,Curacle Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 365340,SungEel HiTech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-365550,Esr Kendall Square Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Industrial,1064334917632.0,LargeCap
+365550,Esr Kendall Square Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Industrial,1111091838976.0,LargeCap
 365590,NH Special Purpose Acquisition 18 Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 365900,VC Inc.,KOSDAQ,KQ,기타,,0.0,
 366030,09women Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
@@ -1239,11 +1252,11 @@
 371950,Poongwon Precision Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 372170,Yunsung F&C Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 372800,ITeyes Inc.,KOSDAQ,KQ,기타,,0.0,
-372910,Hancom Lifecare Inc.,KOSPI,KO,Technology,Software - Application,63651135488.0,SmallCap
+372910,Hancom Lifecare Inc.,KOSPI,KO,Technology,Software - Application,68909268992.0,SmallCap
 373200,IBKS No. 15 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-373220,LG Energy Solution Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,92312998772736.0,MegaCap
-375500,DL E&C Co Ltd,KOSPI,KO,Industrials,Engineering & Construction,2835965280256.0,LargeCap
-37550K,DL E&C Co. Ltd. Pfd. Series 1,KOSPI,KO,Industrials,Engineering & Construction,2450598133760.0,LargeCap
+373220,LG Energy Solution Ltd,KOSPI,KO,Industrials,Electrical Equipment & Parts,96875998871552.0,MegaCap
+375500,DL E&C Co Ltd,KOSPI,KO,Industrials,Engineering & Construction,4194511618048.0,LargeCap
+37550K,DL E&C Co. Ltd. Pfd. Series 1,KOSPI,KO,Industrials,Engineering & Construction,2752008683520.0,LargeCap
 37550L,DL E&C Co. Ltd. Pfd.,KOSPI,KO,Industrials,Engineering & Construction,0.0,
 376180,Picogram Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 376290,CU Tech Corp.,KOSDAQ,KQ,기타,,0.0,
@@ -1251,27 +1264,27 @@
 376930,Noul Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 376980,Wanted Lab Inc.,KOSDAQ,KQ,기타,,0.0,
 377030,MAXST Co Ltd,KOSDAQ,KQ,기타,,0.0,
-377190,D&D Platform Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,268736004096.0,MidCap
+377190,D&D Platform Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,280228003840.0,MidCap
 377220,Form Bio Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-377300,kakaopay Corp.,KOSPI,KO,Technology,Software - Infrastructure,6605704265728.0,LargeCap
+377300,kakaopay Corp.,KOSPI,KO,Technology,Software - Infrastructure,7626647142400.0,LargeCap
 377330,Egtronics Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 377450,REFINE Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 377480,MINDs Lab Inc.,KOSDAQ,KQ,기타,,0.0,
-377740,BioNote Inc.,KOSPI,KO,Healthcare,Medical Devices,512261652480.0,MidCap
+377740,BioNote Inc.,KOSPI,KO,Healthcare,Medical Devices,538583400448.0,MidCap
 378800,Shaperon Inc.,KOSPI,KO,기타,,0.0,
-378850,Hwaseung R&A Co. Ltd.,KOSPI,KO,Consumer Cyclical,Auto Parts,61909962752.0,SmallCap
+378850,Hwaseung R&A Co. Ltd.,KOSPI,KO,Consumer Cyclical,Auto Parts,64663625728.0,SmallCap
 379390,379390,KOSPI,KO,기타,,0.0,
 380540,Opticore Inc.,KOSPI,KO,기타,,0.0,
-381970,K Car Co Ltd,KOSPI,KO,Consumer Cyclical,Auto & Truck Dealerships,670798446592.0,MidCap
+381970,K Car Co Ltd,KOSPI,KO,Consumer Cyclical,Auto & Truck Dealerships,508225028096.0,MidCap
 382150,382150,KOSPI,KO,기타,,0.0,
 382480,G.I. Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 382800,GnBS Engineering Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 382840,ONEJOON Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 382900,Bumhan Fuel Cell Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-383220,F&F Co Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,2301011165184.0,LargeCap
+383220,F&F Co Ltd,KOSPI,KO,Consumer Cyclical,Apparel Manufacturing,2526232444928.0,LargeCap
 383310,Ecopro HN Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-383800,LX Holdings Corp,KOSPI,KO,Financial Services,Financial Conglomerates,602255917056.0,MidCap
-38380K,LX Holdings Corp. Pfd.,KOSPI,KO,Financial Services,Financial Conglomerates,609879392256.0,MidCap
+383800,LX Holdings Corp,KOSPI,KO,Financial Services,Financial Conglomerates,643422814208.0,MidCap
+38380K,LX Holdings Corp. Pfd.,KOSPI,KO,Financial Services,Financial Conglomerates,635036958720.0,MidCap
 388050,G2Power Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 388610,388610,KOSPI,KO,기타,,0.0,
 388720,Yuilrobotics Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
@@ -1287,19 +1300,19 @@
 393210,Tomato System Co. Ltd.,KOSPI,KO,기타,,0.0,
 393890,W-SCOPE CHUNGJU PLANT LTD (PROPOSE,KOSDAQ,KQ,기타,,0.0,
 394280,Openedges Tech Inc,KOSDAQ,KQ,기타,,0.0,
-395400,SK Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Office,1835638063104.0,LargeCap
+395400,SK Reit Co Ltd,KOSPI,KO,Real Estate,REIT - Office,1977295044608.0,LargeCap
 396270,Nextchip Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 396300,SeA Mechanics Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-396690,Mirae Asset Global REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Diversified,93668048896.0,SmallCap
+396690,Mirae Asset Global REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Diversified,91687747584.0,SmallCap
 397030,Aprilbio Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 399720,Gaonchips Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
-400760,NH All One REIT Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,176322969600.0,SmallCap
+400760,NH All One REIT Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,182914482176.0,SmallCap
 402030,Konan Technology Inc.,KOSDAQ,KQ,기타,,0.0,
-402340,SK Square Co Ltd,KOSPI,KO,Technology,Semiconductors,61520297852928.0,MegaCap
+402340,SK Square Co Ltd,KOSPI,KO,Technology,Semiconductors,90071520772096.0,MegaCap
 402420,402420,KOSPI,KO,기타,,0.0,
-403550,Socar Inc.,KOSPI,KO,Technology,Software - Application,379323973632.0,MidCap
+403550,Socar Inc.,KOSPI,KO,Technology,Software - Application,387206021120.0,MidCap
 403870,Hpsp Co Ltd,KOSDAQ,KQ,기타,,0.0,
-404990,Shinhan Seobu T&D REIT Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,252310142976.0,MidCap
+404990,Shinhan Seobu T&D REIT Co Ltd,KOSPI,KO,Real Estate,REIT - Diversified,253750263808.0,MidCap
 405000,Plasmapp Co. Ltd.,KOSPI,KO,기타,,0.0,
 405100,QRT Inc.,KOSPI,KO,기타,,0.0,
 408920,SK Securities ACPC No.7 Special Purpose Acquisition Co. Ltd.,KOSPI,KO,기타,,0.0,
@@ -1308,7 +1321,7 @@
 413300,413300,KOSPI,KO,기타,,0.0,
 417010,NanoTIM Co. Ltd.,KOSPI,KO,기타,,0.0,
 417180,Finger Story Co. Ltd.,KOSPI,KO,기타,,0.0,
-417310,KORAMCO The One REIT,KOSPI,KO,Real Estate,REIT - Diversified,383799984128.0,MidCap
+417310,KORAMCO The One REIT,KOSPI,KO,Real Estate,REIT - Diversified,411675983872.0,MidCap
 417500,Ji Tech Co. Ltd.,KOSPI,KO,기타,,0.0,
 417790,Truen Co. Ltd.,KOSPI,KO,기타,,0.0,
 417840,Justem Co. Ltd.,KOSPI,KO,기타,,0.0,
@@ -1320,53 +1333,54 @@
 420770,GIGAVIS LTD (PROPOSED),KOSDAQ,KQ,기타,,0.0,
 424760,IBKS No. 18 Special Purpose Acquisition Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 424980,Micro2Nano Inc.,KOSPI,KO,기타,,0.0,
-432320,KB Star REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,218547798016.0,MidCap
+432320,KB Star REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,243845988352.0,MidCap
 434190,434190,KOSPI,KO,기타,,0.0,
 434480,Monitorapp Co. Ltd.,KOSPI,KO,기타,,0.0,
 437730,Samhyun,KOSDAQ,KQ,기타,,0.0,
 439090,Manyo Factory Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-439260,DAEHAN SHIPBUILDING LTD,KOSPI,KO,Industrials,Aerospace & Defense,3301704990720.0,LargeCap
-443060,HD Hyundai Marine Solution,KOSPI,KO,Industrials,Aerospace & Defense,8051707871232.0,LargeCap
+439260,DAEHAN SHIPBUILDING LTD,KOSPI,KO,Industrials,Aerospace & Defense,3459662741504.0,LargeCap
+443060,HD Hyundai Marine Solution,KOSPI,KO,Industrials,Aerospace & Defense,8177235525632.0,LargeCap
 446070,UNID BTPLUS LTD,KOSPI,KO,기타,,0.0,
 446440,446440,KOSPI,KO,기타,,0.0,
 446840,Kiwoom No.8 Special Purpose Acquisition Co.,KOSPI,KO,기타,,0.0,
 447690,447690,KOSPI,KO,기타,,0.0,
-448730,SamsungFN REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,505327484928.0,MidCap
+448730,SamsungFN REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,596377468928.0,MidCap
 448780,448780,KOSPI,KO,기타,,0.0,
 448900,448900,KOSPI,KO,기타,,0.0,
-450080,ECOPRO MAT,KOSPI,KO,Industrials,Electrical Equipment & Parts,4727436214272.0,LargeCap
-451800,Hanwha REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,898000027648.0,MidCap
-452260,Hanwha Galleria Corp.,KOSPI,KO,Consumer Cyclical,Department Stores,462158692352.0,MidCap
+450080,ECOPRO MAT,KOSPI,KO,Industrials,Electrical Equipment & Parts,5044950794240.0,LargeCap
+451800,Hanwha REIT Co. Ltd.,KOSPI,KO,Real Estate,REIT - Office,1009351983104.0,LargeCap
+452260,Hanwha Galleria Corp.,KOSPI,KO,Consumer Cyclical,Department Stores,476691988480.0,MidCap
 45226K,Hanwha Galleria Corp. Pfd.,KOSPI,KO,Consumer Cyclical,Department Stores,0.0,
-453340,Hyundai Green Food Co. Ltd.,KOSPI,KO,Consumer Defensive,Food Distribution,516202627072.0,MidCap
-454910,Doosan Robotics Inc.,KOSPI,KO,Industrials,Specialty Industrial Machinery,5153188478976.0,LargeCap
-456040,OCI Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,841534537728.0,MidCap
+453340,Hyundai Green Food Co. Ltd.,KOSPI,KO,Consumer Defensive,Food Distribution,528928210944.0,MidCap
+454910,Doosan Robotics Inc.,KOSPI,KO,Industrials,Specialty Industrial Machinery,6099560300544.0,LargeCap
+456040,OCI Co. Ltd.,KOSDAQ,KQ,Industrials,Conglomerates,882715983872.0,MidCap
 456190,456190,KOSPI,KO,기타,,0.0,
-457190,ISU Specialty Chemical Co. Ltd.,KOSPI,KO,기타,,2698545201152.0,LargeCap
+457190,ISU Specialty Chemical Co. Ltd.,KOSPI,KO,기타,,3305944645632.0,LargeCap
 457600,457600,KOSPI,KO,기타,,0.0,
-460850,DONGKUK COATED METAL CLS LTD,KOSPI,KO,Basic Materials,Steel,158495096832.0,SmallCap
-460860,DONGKUK STEEL MILL CLS LTD,KOSPI,KO,Basic Materials,Steel,441490866176.0,MidCap
-462520,"Chosun Refractories Co.,Ltd.",KOSPI,KO,Basic Materials,Building Materials,161622179840.0,SmallCap
-462870,Shift Up Corporation,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,1859011608576.0,LargeCap
-465770,STX Green Logis Ltd,KOSPI,KO,Industrials,Marine Shipping,51083816960.0,SmallCap
+460850,DONGKUK COATED METAL CLS LTD,KOSPI,KO,Basic Materials,Steel,171031429120.0,SmallCap
+460860,DONGKUK STEEL MILL CLS LTD,KOSPI,KO,Basic Materials,Steel,520770912256.0,MidCap
+462520,"Chosun Refractories Co.,Ltd.",KOSPI,KO,Basic Materials,Building Materials,174182268928.0,SmallCap
+462870,Shift Up Corporation,KOSPI,KO,Communication Services,Electronic Gaming & Multimedia,1946785153024.0,LargeCap
 475150,SK ETERNIX CO LT,KOSPI,KO,Utilities,Utilities - Renewable,1848598986752.0,LargeCap
-475560,The BORN Korea,KOSPI,KO,Consumer Cyclical,Restaurants,312525946880.0,MidCap
+475560,The BORN Korea,KOSPI,KO,Consumer Cyclical,Restaurants,313264766976.0,MidCap
 476060,476060,KOSPI,KO,기타,,0.0,
 480370,CK Solution,KOSPI,KO,기타,,0.0,
 481070,481070,KOSPI,KO,기타,,0.0,
-483650,d'Alba Global,KOSPI,KO,Consumer Defensive,Household & Personal Products,1752835948544.0,LargeCap
-487570,HYOSUNG CORP,KOSPI,KO,Industrials,Conglomerates,198283149312.0,SmallCap
-489790,HANWHA IND SOL LTD,KOSPI,KO,Industrials,Security & Protection Services,3576805720064.0,LargeCap
-499790,GS P&L CO LTD,KOSPI,KO,Industrials,Conglomerates,834910945280.0,MidCap
+483650,d'Alba Global,KOSPI,KO,Consumer Defensive,Household & Personal Products,2392250646528.0,LargeCap
+487570,HYOSUNG CORP,KOSPI,KO,Industrials,Conglomerates,204213108736.0,MidCap
+489790,HANWHA IND SOL LTD,KOSPI,KO,Industrials,Security & Protection Services,3959674896384.0,LargeCap
+499790,GS P&L CO LTD,KOSPI,KO,Industrials,Conglomerates,974392524800.0,MidCap
 570019,TRUE KOSPI Short Strangle 5% OT,KOSPI,KO,기타,,0.0,
-900140,LVMC Holdings,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,308501741568.0,MidCap
+900140,LVMC Holdings,KOSPI,KO,Consumer Cyclical,Auto Manufacturers,326058770432.0,MidCap
 900290,Great Rich Technologies Ltd.,KOSPI,KO,기타,,0.0,
 900300,Organic Tea Cosmetics Holdings Company Limited,KOSDAQ,KQ,기타,,0.0,
 900310,Coloray International Investment Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-950210,Prestige BioPharma Limited,KOSPI,KO,Healthcare,Biotechnology,588341379072.0,MidCap
+950210,Prestige BioPharma Limited,KOSPI,KO,Healthcare,Biotechnology,596754825216.0,MidCap
+0001A0,Deokyang Energen Corporation,KOSDAQ,KQ,기타,,0.0,
 000250,Sam Chun Dang Pharm. Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 000440,Joong Ang Enervis Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 0004Y0,0004Y0,KOSDAQ,KQ,기타,,0.0,
+0009K0,Aimed Bio,KOSDAQ,KQ,기타,,0.0,
 001000,Silla Textile Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 001540,Ahn-Gook Pharmaceutical Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 001810,Moorim SP Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -1696,7 +1710,6 @@
 049070,Intops Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 049080,Gigalane Co Ltd,KOSDAQ,KQ,기타,,0.0,
 049120,Fine DNC Co. Ltd,KOSDAQ,KQ,기타,,0.0,
-049180,Cellumed Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 049430,Komelon Corporation,KOSDAQ,KQ,기타,,0.0,
 049470,SGA Co Ltd,KOSDAQ,KQ,기타,,0.0,
 049480,Openbase Inc,KOSDAQ,KQ,기타,,0.0,
@@ -1854,7 +1867,6 @@
 067990,Deutsch Motors Inc,KOSDAQ,KQ,기타,,0.0,
 068050,Pan Entertainment Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 068100,068100,KOSDAQ,KQ,기타,,0.0,
-068240,Dawonsys Co.Ltd,KOSDAQ,KQ,기타,,0.0,
 068760,Celltrion Pharm Inc,KOSDAQ,KQ,기타,,0.0,
 068930,Digital Daesung Co. Ltd,KOSDAQ,KQ,기타,,0.0,
 069080,Webzen Inc,KOSDAQ,KQ,기타,,0.0,
@@ -2336,6 +2348,7 @@
 319660,PSK Inc,KOSDAQ,KQ,기타,,0.0,
 321370,SensorView Co Ltd,KOSDAQ,KQ,기타,,0.0,
 323350,"Dawon Nexview Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
+3281301G,LUNIT R RIGHTS INC,KOSDAQ,KQ,기타,,0.0,
 338840,338840,KOSDAQ,KQ,기타,,0.0,
 344860,Innogene Co Ltd,KOSDAQ,KQ,기타,,0.0,
 347850,D&D PharmaTech Co.,KOSDAQ,KQ,기타,,0.0,
@@ -2359,7 +2372,6 @@
 384470,"Coreline Soft, Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 388870,Pharos IBio Co Ltd,KOSDAQ,KQ,기타,,0.0,
 389650,389650,KOSDAQ,KQ,기타,,0.0,
-393970,DAEJIN ADVANCED MATERIALS,KOSDAQ,KQ,기타,,0.0,
 394800,3billion,KOSDAQ,KQ,기타,,0.0,
 396470,396470,KOSDAQ,KQ,기타,,0.0,
 402490,402490,KOSDAQ,KQ,기타,,0.0,
@@ -2399,7 +2411,7 @@
 441270,Fine M-Tech Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 443250,RevuCorporation Inc,KOSDAQ,KQ,기타,,0.0,
 443670,SPSoft Inc.,KOSDAQ,KQ,기타,,0.0,
-444920,444920,KOSDAQ,KQ,기타,,0.0,
+444920,Yuanta 11 Special Purpose Acquisition Co Ltd,KOSDAQ,KQ,기타,,0.0,
 445090,ASICLAND,KOSDAQ,KQ,기타,,0.0,
 445180,Purit Co. Ltd.,KOSDAQ,KQ,기타,,0.0,
 445680,Curiox Biosystems Co. Ltd,KOSDAQ,KQ,기타,,0.0,
@@ -2408,7 +2420,6 @@
 448710,Cots Technology Co Ltd,KOSDAQ,KQ,기타,,0.0,
 450330,HASS Corp,KOSDAQ,KQ,기타,,0.0,
 450520,"Inswave Systems Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
-450940,450940,KOSDAQ,KQ,기타,,0.0,
 451220,"IMT Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 451250,"BBIA Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 451760,451760,KOSDAQ,KQ,기타,,0.0,
@@ -2424,12 +2435,10 @@
 453450,GRIDWIZ,KOSDAQ,KQ,기타,,0.0,
 453860,"ASTech Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 455900,455900,KOSDAQ,KQ,기타,,0.0,
-455910,455910,KOSDAQ,KQ,기타,,0.0,
 456010,"ICTK Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 456070,456070,KOSDAQ,KQ,기타,,0.0,
 457370,"Hanchem Co,. Ltd.",KOSDAQ,KQ,기타,,0.0,
 457550,457550,KOSDAQ,KQ,기타,,0.0,
-457940,457940,KOSDAQ,KQ,기타,,0.0,
 458610,"Korea No.12 Special Purpose Acquisition Co., Ltd.",KOSDAQ,KQ,기타,,0.0,
 458870,Seers Technology,KOSDAQ,KQ,기타,,0.0,
 459510,NAUROBOTICS,KOSDAQ,KQ,기타,,0.0,
@@ -2473,6 +2482,7 @@
 475960,Tomocube Inc,KOSDAQ,KQ,기타,,0.0,
 476040,ORGANOIDSCIENCES,KOSDAQ,KQ,기타,,0.0,
 476080,M83,KOSDAQ,KQ,기타,,0.0,
+476830,Rznomics,KOSDAQ,KQ,기타,,0.0,
 477340,HMCIB No.7 SPECIAL PURPOSE ACQUISITION COMPANY,KOSDAQ,KQ,기타,,0.0,
 477380,477380,KOSDAQ,KQ,기타,,0.0,
 477470,477470,KOSDAQ,KQ,기타,,0.0,
