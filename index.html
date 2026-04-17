@@ -381,10 +381,13 @@ function rsBar(rs) {
 function makeCard(r, market) {
   const g = grade(r.score);
   const isKR = market === 'kr';
+  const isWatching = r.watching === 'True' || r.watching === true;
   const cur = parseFloat(r.entry||r.cur||0);
   const pivot = parseFloat(r.pivot||0);
   const pct = pivot>0 ? ((pivot/cur-1)*100).toFixed(1) : null;
   const safety = r.safety||'';
+  const sector = (!r.sector || r.sector==='nan' || r.sector==='기타') ? '' : r.sector;
+
   const mktTag = r.market==='KOSPI'
     ? '<span class="tag kospi">코스피</span>'
     : r.market==='KOSDAQ'
@@ -396,9 +399,12 @@ function makeCard(r, market) {
     ? '<span class="tag caution">주의</span>'
     : safety==='danger'
     ? '<span class="tag danger">위험</span>' : '';
+  const watchTag = isWatching
+    ? '<span class="tag" style="background:rgba(251,191,36,0.1);color:#fbbf24">⏳ 대기중</span>'
+    : '<span class="tag" style="background:rgba(110,231,183,0.1);color:#6ee7b7">🎯 매수구간</span>';
 
   const rfScore = r.rf_score || r.lgbm_score;
-  const rfStr = rfScore && rfScore!==''
+  const rfStr = rfScore && rfScore!=='' && rfScore!=='None'
     ? `<div class="rf-score">🌲 ${parseFloat(rfScore).toFixed(3)}</div>`
     : '';
 
@@ -407,12 +413,22 @@ function makeCard(r, market) {
 
   const price = isKR
     ? `${cur.toLocaleString()}원`
-    : `$${cur.toLocaleString()}`;
+    : `$${cur.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}`;
   const pivotPrice = isKR
     ? `${pivot.toLocaleString()}원`
-    : `$${pivot.toLocaleString()}`;
+    : `$${pivot.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}`;
 
-  // 수익률 (backtest all 데이터에 있을 경우)
+  // TradingView 링크
+  const tvSymbol = isKR
+    ? `KRX:${r.ticker}`
+    : `${r.exchange||'NASDAQ'}:${r.ticker}`;
+  const tvLink = `https://www.tradingview.com/chart/?symbol=${tvSymbol}`;
+
+  // 거래량 이모지
+  const vr = parseFloat(r.vol_ratio||0);
+  const vrStr = vr >= 1.40 ? `${vr.toFixed(1)}x 🔥` : `${vr.toFixed(1)}x`;
+
+  // 수익률
   const retRow = (r.r5||r.r10||r.r20) ? `
   <div class="ret-grid">
     ${['r5','r10','r20','r60'].map(k => {
@@ -430,11 +446,15 @@ function makeCard(r, market) {
   <div class="card" style="animation-delay:${Math.random()*0.1}s">
     <div class="card-header">
       <div class="card-title">
-        <div class="stock-name">${r.name||r.ticker}</div>
+        <div class="stock-name">
+          <a href="${tvLink}" target="_blank" style="color:inherit;text-decoration:none">
+            ${r.name||r.ticker} ↗
+          </a>
+        </div>
         <div class="stock-meta">
           <span style="font-family:'JetBrains Mono',monospace">${r.ticker}</span>
-          ${mktTag} ${safetyTag}
-          ${r.sector&&r.sector!=='기타'?`<span class="tag">${r.sector}</span>`:''}
+          ${mktTag} ${watchTag} ${safetyTag}
+          ${sector?`<span class="tag">${sector}</span>`:''}
         </div>
       </div>
       <div class="score-block">
@@ -463,7 +483,7 @@ function makeCard(r, market) {
     <div class="pattern-row">
       <span class="pattern-chip">컵 ${r.cup_depth}%/${r.cup_days}일</span>
       <span class="pattern-chip">핸들 ${r.handle_depth}%/${r.handle_days}일</span>
-      <span class="vol-chip">🔥 ${parseFloat(r.vol_ratio||0).toFixed(1)}x</span>
+      <span class="vol-chip">${vrStr}</span>
     </div>
     ${rsBar(r.rs)}
     ${cupDate}
@@ -485,18 +505,46 @@ function renderPanel(data, containerId, market, noDataMsg) {
     </div>`;
     return;
   }
-  const sorted = [...data].sort((a,b) => {
+  const signals  = data.filter(r => r.watching !== 'True' && r.watching !== true);
+  const watching = data.filter(r => r.watching === 'True' || r.watching === true);
+
+  const sortFn = (a,b) => {
     const ra = parseFloat(a.rf_score||a.lgbm_score||0);
     const rb = parseFloat(b.rf_score||b.lgbm_score||0);
     if (ra !== rb) return rb - ra;
     return parseFloat(b.score||0) - parseFloat(a.score||0);
-  });
-  el.innerHTML = `
-    <div class="section-header">
-      <span class="section-title">${market==='us'?'미장':'국장'} 시그널</span>
-      <span class="count-badge">${sorted.length}건</span>
+  };
+  signals.sort(sortFn);
+  watching.sort(sortFn);
+
+  const mktLabel = market==='us'?'미장':'국장';
+  let html = '';
+
+  if (signals.length > 0) {
+    html += `<div class="section-header">
+      <span class="section-title">🎯 ${mktLabel} 매수구간</span>
+      <span class="count-badge">${signals.length}건</span>
     </div>
-    ${sorted.map(r => makeCard(r, market)).join('')}`;
+    ${signals.map(r => makeCard(r, market)).join('')}`;
+  }
+
+  if (watching.length > 0) {
+    html += `<div class="section-header" style="margin-top:16px">
+      <span class="section-title">⏳ ${mktLabel} 대기중</span>
+      <span class="count-badge">${watching.length}건</span>
+    </div>
+    ${watching.map(r => makeCard(r, market)).join('')}`;
+  }
+
+  if (!html) {
+    html = `<div class="empty-state">
+      <div class="empty-icon">📭</div>
+      <div class="empty-title">${noDataMsg}</div>
+      <div class="empty-desc">시장 조건이 충족되지 않았거나<br>데이터가 아직 없어요.</div>
+    </div>`;
+  }
+
+  el.innerHTML = html;
 }
 
 // 검색
