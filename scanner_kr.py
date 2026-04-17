@@ -82,8 +82,8 @@ def detect(df):
     n   = len(cl); idx = df.index
     if n < 60: return False, {}
 
-    c = cl[-min(200, n):]
-    v = vl[-min(200, n):]
+    c = cl[-min(500, n):]
+    v = vl[-min(500, n):]
     w = len(c)
 
     candidates = []
@@ -587,7 +587,7 @@ if __name__ == "__main__":
                 f"  현재가: {r['cur']:,.0f}원\n"
                 f"  피벗: {r['pivot']:,.0f}원({up:+.1f}%)\n"
                 f"  컵:{r['cd']}%/{r['cdays']}일{cup_date} 핸들:{r['hd']}%/{r['hdays']}일\n"
-                f"  거래량:{r['vr']}x🔥 RS:{r['rs']:+.1f}%\n\n"
+                f"  거래량:{r['vr']}x{'🔥' if r['vr']>=1.40 else ''} RS:{r['rs']:+.1f}%\n\n"
             )
             if len(msg) + len(blk) > 4000:
                 send(msg); msg = "(이어서)\n\n" + blk
