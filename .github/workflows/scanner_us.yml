@@ -37,4 +37,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add scanner_us_raw.csv scanner_us_all.csv
           git diff --staged --quiet || git commit -m "미장 스캐너 $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push
