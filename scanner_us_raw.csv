@@ -1,10 +1,10 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-04-17,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,35.6,41.87,48.7,15.0,313,14,2024-12-26,2026-03-30,0.87,23.0,58,,-15.0,danger
-2026-04-17,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,40.59,46.22,47.5,12.2,320,13,2024-12-17,2026-03-31,0.73,17.3,58,,-12.2,danger
-2026-04-17,RES,RPC Inc,NYSE,Energy,SmallCap,6.53,7.32,40.8,10.8,368,15,2024-10-07,2026-03-27,1.15,14.8,53,,-10.8,danger
-2026-04-17,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,34.53,35.36,27.4,6.6,282,13,2025-02-13,2026-03-31,0.7,2.9,47,,-2.3,safe
-2026-04-17,CZFS,Citizens Financial Services Inc. Common Stock,NASDAQ,Financial Services,SmallCap,68.35,68.99,27.1,6.1,354,7,2024-11-06,2026-04-09,0.49,3.0,47,,-0.9,safe
-2026-04-17,MUSA,Murphy USA Inc,NYSE,Consumer Cyclical,MidCap,491.13,525.85,31.4,6.6,399,9,2024-08-30,2026-04-07,0.85,0.9,47,,-6.6,safe
-2026-04-17,PFE,Pfizer Inc,NYSE,Healthcare,LargeCap,27.56,28.55,28.2,5.7,386,12,2024-09-16,2026-04-01,0.76,1.0,47,,-3.5,safe
-2026-04-17,RGR,Sturm Ruger & Company Inc,NYSE,Industrials,SmallCap,42.21,43.53,32.0,8.1,395,17,2024-08-26,2026-03-25,0.59,-3.1,47,,-3.0,safe
-2026-04-17,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,245.33,260.05,26.5,9.1,298,7,2025-01-30,2026-04-09,1.33,3.1,47,,-5.7,safe
+2026-04-20,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,11.98,13.7,45.8,13.8,364,16,2024-10-11,2026-03-27,0.68,31.8,66,,-12.6,danger
+2026-04-20,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,36.77,41.87,48.7,15.0,313,15,2024-12-26,2026-03-30,0.93,28.3,66,,-12.2,danger
+2026-04-20,FANG,Diamondback Energy Inc,NASDAQ,Energy,LargeCap,183.45,202.19,39.4,10.8,393,17,2024-08-29,2026-03-26,1.03,16.0,65,,-9.3,caution
+2026-04-20,RES,RPC Inc,NYSE,Energy,SmallCap,6.9,7.32,40.8,10.8,368,16,2024-10-07,2026-03-27,1.36,21.5,61,,-5.7,safe
+2026-04-20,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,40.98,46.22,47.5,12.2,320,14,2024-12-17,2026-03-31,0.68,17.9,58,,-11.3,danger
+2026-04-20,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,34.23,35.36,27.4,6.6,282,14,2025-02-13,2026-03-31,0.61,4.1,47,,-3.2,safe
+2026-04-20,MUSA,Murphy USA Inc,NYSE,Consumer Cyclical,MidCap,496.78,525.85,31.4,6.6,399,10,2024-08-30,2026-04-07,0.85,2.0,47,,-5.5,safe
+2026-04-20,RGR,Sturm Ruger & Company Inc,NYSE,Industrials,SmallCap,42.08,43.53,31.6,8.1,391,18,2024-08-30,2026-03-25,0.65,-3.5,47,,-3.3,safe
+2026-04-20,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,249.9,260.05,26.5,9.1,298,8,2025-01-30,2026-04-09,1.23,2.2,47,,-3.9,safe
