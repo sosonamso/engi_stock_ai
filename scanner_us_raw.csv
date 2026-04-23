@@ -1,14 +1,15 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-04-22,VMD,Viemed Healthcare Inc,NASDAQ,Healthcare,SmallCap,9.51,9.8,37.6,5.5,350,11,2024-11-11,2026-04-08,0.67,24.5,67,,-3.0,safe
-2026-04-22,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,12.63,13.7,45.8,13.8,364,18,2024-10-11,2026-03-27,0.66,37.7,66,,-7.8,caution
-2026-04-22,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,38.81,41.87,48.7,15.0,313,17,2024-12-26,2026-03-30,0.98,30.9,66,,-7.3,caution
-2026-04-22,FANG,Diamondback Energy Inc,NASDAQ,Energy,LargeCap,193.87,202.19,38.9,10.8,392,19,2024-08-30,2026-03-26,0.87,22.0,65,,-4.1,safe
-2026-04-22,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,9.77,10.56,44.2,8.7,324,6,2024-12-26,2026-04-15,1.13,19.8,64,,-7.5,caution
-2026-04-22,KOP,Koppers Holdings Inc,NYSE,Basic Materials,SmallCap,38.01,38.77,40.6,7.7,392,19,2024-08-30,2026-03-26,0.46,19.9,64,,-2.0,safe
-2026-04-22,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,43.15,46.22,47.5,12.2,320,16,2024-12-17,2026-03-31,0.73,24.3,58,,-6.6,safe
-2026-04-22,ETR,Entergy Corporation,NYSE,Utilities,LargeCap,110.47,117.44,40.3,5.9,399,10,2024-09-04,2026-04-09,1.3,10.1,56,,-5.9,safe
-2026-04-22,MUSA,Murphy USA Inc,NYSE,Consumer Cyclical,MidCap,519.78,525.85,31.4,6.6,399,12,2024-08-30,2026-04-07,0.82,9.4,55,,-1.2,safe
-2026-04-22,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,23.07,24.62,39.3,6.3,368,10,2024-10-17,2026-04-09,1.24,7.0,51,,-6.3,safe
-2026-04-22,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,33.74,35.36,27.4,6.6,282,16,2025-02-13,2026-03-31,0.55,-1.0,47,,-4.6,safe
-2026-04-22,RGR,Sturm Ruger & Company Inc,NYSE,Industrials,SmallCap,42.08,43.53,31.6,8.1,391,20,2024-08-30,2026-03-25,0.69,-3.6,47,,-3.3,safe
-2026-04-22,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,243.94,260.05,26.5,9.1,298,10,2025-01-30,2026-04-09,1.02,-1.9,47,,-6.2,safe
+2026-04-23,VMD,Viemed Healthcare Inc,NASDAQ,Healthcare,SmallCap,9.49,9.8,37.6,5.5,350,12,2024-11-11,2026-04-08,0.59,26.5,75,,-3.2,safe
+2026-04-23,KOP,Koppers Holdings Inc,NYSE,Basic Materials,SmallCap,38.65,38.77,39.1,7.7,391,20,2024-09-03,2026-03-26,0.44,23.8,67,,-0.3,safe
+2026-04-23,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,12.7,13.7,45.8,13.8,364,19,2024-10-11,2026-03-27,0.67,36.8,66,,-7.3,caution
+2026-04-23,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,38.53,41.87,48.7,15.0,313,18,2024-12-26,2026-03-30,1.13,36.2,66,,-8.0,caution
+2026-04-23,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,9.71,10.56,44.2,8.7,324,7,2024-12-26,2026-04-15,0.97,20.5,64,,-8.0,caution
+2026-04-23,FANG,Diamondback Energy Inc,NASDAQ,Energy,LargeCap,195.59,202.19,40.2,10.8,367,20,2024-10-07,2026-03-26,0.82,22.9,61,,-3.3,safe
+2026-04-23,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,23.39,24.62,39.3,6.3,368,11,2024-10-17,2026-04-09,1.2,11.8,59,,-5.0,safe
+2026-04-23,WLFC,Willis Lease Finance Corporation,NASDAQ,Industrials,SmallCap,190.0,210.01,47.2,10.5,341,8,2024-11-29,2026-04-14,1.88,12.7,58,,-9.5,caution
+2026-04-23,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,43.31,46.22,47.5,12.2,320,17,2024-12-17,2026-03-31,0.77,24.7,58,,-6.3,safe
+2026-04-23,ETR,Entergy Corporation,NYSE,Utilities,LargeCap,113.92,117.44,40.3,5.9,399,11,2024-09-04,2026-04-09,1.24,14.4,56,,-3.0,safe
+2026-04-23,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,33.91,35.36,27.4,6.6,282,17,2025-02-13,2026-03-31,0.53,1.6,47,,-4.1,safe
+2026-04-23,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,240.43,260.05,26.5,9.1,298,11,2025-01-30,2026-04-09,1.02,-2.1,47,,-7.5,caution
+2026-04-23,OKE,ONEOK Inc,NYSE,Energy,LargeCap,87.21,93.96,30.3,11.1,392,19,2024-09-03,2026-03-27,0.76,0.5,44,,-7.2,caution
+2026-04-23,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.51,7.28,43.6,10.6,396,5,2024-09-17,2026-04-17,0.72,1.3,37,,-10.6,danger
