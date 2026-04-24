@@ -1,15 +1,16 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-04-23,VMD,Viemed Healthcare Inc,NASDAQ,Healthcare,SmallCap,9.49,9.8,37.6,5.5,350,12,2024-11-11,2026-04-08,0.59,26.5,75,,-3.2,safe
-2026-04-23,KOP,Koppers Holdings Inc,NYSE,Basic Materials,SmallCap,38.65,38.77,39.1,7.7,391,20,2024-09-03,2026-03-26,0.44,23.8,67,,-0.3,safe
-2026-04-23,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,12.7,13.7,45.8,13.8,364,19,2024-10-11,2026-03-27,0.67,36.8,66,,-7.3,caution
-2026-04-23,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,38.53,41.87,48.7,15.0,313,18,2024-12-26,2026-03-30,1.13,36.2,66,,-8.0,caution
-2026-04-23,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,9.71,10.56,44.2,8.7,324,7,2024-12-26,2026-04-15,0.97,20.5,64,,-8.0,caution
-2026-04-23,FANG,Diamondback Energy Inc,NASDAQ,Energy,LargeCap,195.59,202.19,40.2,10.8,367,20,2024-10-07,2026-03-26,0.82,22.9,61,,-3.3,safe
-2026-04-23,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,23.39,24.62,39.3,6.3,368,11,2024-10-17,2026-04-09,1.2,11.8,59,,-5.0,safe
-2026-04-23,WLFC,Willis Lease Finance Corporation,NASDAQ,Industrials,SmallCap,190.0,210.01,47.2,10.5,341,8,2024-11-29,2026-04-14,1.88,12.7,58,,-9.5,caution
-2026-04-23,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,43.31,46.22,47.5,12.2,320,17,2024-12-17,2026-03-31,0.77,24.7,58,,-6.3,safe
-2026-04-23,ETR,Entergy Corporation,NYSE,Utilities,LargeCap,113.92,117.44,40.3,5.9,399,11,2024-09-04,2026-04-09,1.24,14.4,56,,-3.0,safe
-2026-04-23,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,33.91,35.36,27.4,6.6,282,17,2025-02-13,2026-03-31,0.53,1.6,47,,-4.1,safe
-2026-04-23,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,240.43,260.05,26.5,9.1,298,11,2025-01-30,2026-04-09,1.02,-2.1,47,,-7.5,caution
-2026-04-23,OKE,ONEOK Inc,NYSE,Energy,LargeCap,87.21,93.96,30.3,11.1,392,19,2024-09-03,2026-03-27,0.76,0.5,44,,-7.2,caution
-2026-04-23,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.51,7.28,43.6,10.6,396,5,2024-09-17,2026-04-17,0.72,1.3,37,,-10.6,danger
+2026-04-24,VMD,Viemed Healthcare Inc,NASDAQ,Healthcare,SmallCap,9.66,9.8,37.6,5.5,350,13,2024-11-11,2026-04-08,0.48,28.5,75,,-1.4,safe
+2026-04-24,ARKO,Arko Corp,NASDAQ,Consumer Cyclical,SmallCap,6.72,6.98,49.6,6.9,395,5,2024-09-19,2026-04-20,0.88,31.2,72,,-3.7,safe
+2026-04-24,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,10.09,10.56,44.2,8.7,324,8,2024-12-26,2026-04-15,0.89,26.0,72,,-4.5,safe
+2026-04-24,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,12.73,13.7,45.8,13.8,364,20,2024-10-11,2026-03-27,0.63,34.1,66,,-7.1,caution
+2026-04-24,DOW,Dow Inc,NYSE,Basic Materials,LargeCap,38.66,41.87,48.7,15.0,313,19,2024-12-26,2026-03-30,0.94,31.7,66,,-7.7,caution
+2026-04-24,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,26.3,28.18,41.2,7.2,370,5,2024-10-24,2026-04-20,1.1,20.4,64,,-6.7,safe
+2026-04-24,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,42.94,46.22,47.5,12.2,320,18,2024-12-17,2026-03-31,0.64,20.5,58,,-7.1,caution
+2026-04-24,ETR,Entergy Corporation,NYSE,Utilities,LargeCap,113.64,117.44,40.3,5.9,399,12,2024-09-04,2026-04-09,1.14,13.1,56,,-3.2,safe
+2026-04-24,AMTB,Amerant Bancorp Inc.,NYSE,Financial Services,SmallCap,22.82,24.22,32.1,5.8,351,12,2024-11-11,2026-04-09,1.19,9.2,55,,-5.8,safe
+2026-04-24,WLFC,Willis Lease Finance Corporation,NASDAQ,Industrials,SmallCap,190.67,210.01,47.2,10.5,341,9,2024-11-29,2026-04-14,1.55,13.6,53,,-9.2,caution
+2026-04-24,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,33.31,35.36,27.4,6.6,282,18,2025-02-13,2026-03-31,0.43,1.0,47,,-5.8,safe
+2026-04-24,CZFS,Citizens Financial Services Inc. Common Stock,NASDAQ,Financial Services,SmallCap,65.96,69.02,27.1,5.6,361,5,2024-11-06,2026-04-20,0.81,-0.4,47,,-4.4,safe
+2026-04-24,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,236.4,260.05,26.5,9.1,298,12,2025-01-30,2026-04-09,1.13,-4.7,47,,-9.1,caution
+2026-04-24,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.85,7.28,43.6,10.6,396,6,2024-09-17,2026-04-17,0.64,9.4,45,,-5.9,safe
+2026-04-24,OKE,ONEOK Inc,NYSE,Energy,LargeCap,87.5,93.96,30.3,11.1,392,20,2024-09-03,2026-03-27,0.67,1.0,44,,-6.9,safe
