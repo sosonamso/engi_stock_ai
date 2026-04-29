@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install pandas FinanceDataReader
+        run: pip install pandas finance-datareader
 
       - name: 티커 수집
         run: python build_tickers_kr_pykrx.py
