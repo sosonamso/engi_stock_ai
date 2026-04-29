@@ -362,11 +362,7 @@ if __name__ == "__main__":
 
     send(f"수집 완료: {len(valid_data)}/{len(ticker_list)}개\n패턴 분석 시작...")
 
-    # 삼성전자 RS 테스트
-    if "005930" in valid_data and kospi_idx is not None:
-        df_ss = valid_data["005930"]
-        rs_ss = calc_rs(df_ss, kospi_idx)
-        print(f"[RS테스트] 삼성전자 RS: {rs_ss:+.1f}%")
+
     if not market_ok:
         send("⚠️ KOSPI 200MA 하방 — 시그널 신뢰도 낮음!")
 
