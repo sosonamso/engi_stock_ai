@@ -130,18 +130,9 @@ def detect(df):
     }
 
 
-_rs_debug_done = False
 def calc_rs(df, idx_df):
-    global _rs_debug_done
     def p(d, n): return float(d["Close"].iloc[-1] / d["Close"].iloc[-n] - 1) if len(d) >= n else 0.0
     sm = idx_df.reindex(df.index).ffill().dropna()
-    if not _rs_debug_done:
-        print(f"[RS디버그] df.index[-1]={df.index[-1]} type={type(df.index[-1])}")
-        print(f"[RS디버그] idx_df.index[-1]={idx_df.index[-1]} type={type(idx_df.index[-1])}")
-        print(f"[RS디버그] sm len={len(sm)}")
-        if len(sm) > 0:
-            print(f"[RS디버그] sm[-1]={sm.iloc[-1]['Close']:.2f}")
-        _rs_debug_done = True
     if len(sm) < 63: return 0.0
     sl = df.reindex(sm.index)
     w_ = [0.4, 0.2, 0.2, 0.2]; p_ = [63, 126, 189, 252]
@@ -370,6 +361,12 @@ if __name__ == "__main__":
         time.sleep(0.05)
 
     send(f"수집 완료: {len(valid_data)}/{len(ticker_list)}개\n패턴 분석 시작...")
+
+    # 삼성전자 RS 테스트
+    if "005930" in valid_data and kospi_idx is not None:
+        df_ss = valid_data["005930"]
+        rs_ss = calc_rs(df_ss, kospi_idx)
+        print(f"[RS테스트] 삼성전자 RS: {rs_ss:+.1f}%")
     if not market_ok:
         send("⚠️ KOSPI 200MA 하방 — 시그널 신뢰도 낮음!")
 
