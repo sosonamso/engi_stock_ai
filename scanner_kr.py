@@ -130,9 +130,18 @@ def detect(df):
     }
 
 
+_rs_debug_done = False
 def calc_rs(df, idx_df):
+    global _rs_debug_done
     def p(d, n): return float(d["Close"].iloc[-1] / d["Close"].iloc[-n] - 1) if len(d) >= n else 0.0
     sm = idx_df.reindex(df.index).ffill().dropna()
+    if not _rs_debug_done:
+        print(f"[RS디버그] df.index[-1]={df.index[-1]} type={type(df.index[-1])}")
+        print(f"[RS디버그] idx_df.index[-1]={idx_df.index[-1]} type={type(idx_df.index[-1])}")
+        print(f"[RS디버그] sm len={len(sm)}")
+        if len(sm) > 0:
+            print(f"[RS디버그] sm[-1]={sm.iloc[-1]['Close']:.2f}")
+        _rs_debug_done = True
     if len(sm) < 63: return 0.0
     sl = df.reindex(sm.index)
     w_ = [0.4, 0.2, 0.2, 0.2]; p_ = [63, 126, 189, 252]
