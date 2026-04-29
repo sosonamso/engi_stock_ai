@@ -431,8 +431,8 @@ if __name__ == "__main__":
             # 피벗 돌파 구간 (97~105%) 체크
             pivot_ok = pat["pivot"] > 0 and (pat["pivot"] * 0.97 <= pat["cur"] <= pat["pivot"] * 1.05)
             signal = pat["vs"] and rs_ok and pivot_ok
-            # 대기 중 (패턴 완성, 피벗 미돌파)
-            watching = (not pivot_ok) and pat["vs"] and rs_ok
+            # 대기 중 (패턴만 감지되면 무조건 watching)
+            watching = (not signal)
 
             # LightGBM 점수
             lgbm_score = None
@@ -460,9 +460,7 @@ if __name__ == "__main__":
                     "거래량 미충족" if not pat["vs"] else "RS 미충족"),
             })
 
-            if not signal: break
-
-            # watching 종목도 따로 수집
+            # watching 종목 수집 (break 전에)
             if watching and not signal:
                 signals.append({
                     "sig_date":   sig_str,
@@ -487,6 +485,8 @@ if __name__ == "__main__":
                     "watching":   True,
                 })
                 break
+
+            if not signal: break
 
             if signal:
               signals.append({
