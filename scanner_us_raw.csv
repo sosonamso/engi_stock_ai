@@ -1,20 +1,20 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-04-28,ARKO,Arko Corp,NASDAQ,Consumer Cyclical,SmallCap,6.57,6.98,49.6,7.0,395,7,2024-09-19,2026-04-20,0.78,32.2,72,,-5.9,safe
-2026-04-28,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,9.96,10.56,44.2,8.7,324,10,2024-12-26,2026-04-15,0.76,28.3,72,,-5.7,safe
-2026-04-28,NVEC,NVE Corporation,NASDAQ,Technology,SmallCap,79.1,84.28,32.7,7.1,391,5,2024-09-27,2026-04-22,2.01,7.3,66,,-6.1,safe
-2026-04-28,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,26.45,28.18,41.2,7.2,370,7,2024-10-24,2026-04-20,1.17,22.5,64,,-6.1,safe
-2026-04-28,GMED,Globus Medical,NYSE,Healthcare,LargeCap,90.74,96.82,44.4,6.3,311,7,2025-01-22,2026-04-20,0.68,16.8,64,,-6.3,safe
-2026-04-28,ARCO,Arcos Dorados Holdings Inc,NYSE,Consumer Cyclical,SmallCap,9.09,9.5,34.5,5.9,387,7,2024-10-01,2026-04-20,0.91,10.3,63,,-4.3,safe
-2026-04-28,WLFC,Willis Lease Finance Corporation,NASDAQ,Industrials,SmallCap,191.53,210.01,47.2,10.5,341,11,2024-11-29,2026-04-14,1.35,15.8,61,,-8.8,caution
-2026-04-28,AMTB,Amerant Bancorp Inc.,NYSE,Financial Services,SmallCap,22.85,24.22,32.1,6.2,351,14,2024-11-11,2026-04-09,1.13,9.6,55,,-5.7,safe
-2026-04-28,CZFS,Citizens Financial Services Inc. Common Stock,NASDAQ,Financial Services,SmallCap,67.21,69.02,27.1,5.6,361,7,2024-11-06,2026-04-20,0.68,7.5,55,,-2.6,safe
-2026-04-28,IRM,Iron Mountain Incorporated,NYSE,Real Estate,LargeCap,112.62,120.53,40.0,6.6,368,7,2024-10-28,2026-04-20,1.08,8.2,51,,-6.6,safe
-2026-04-28,YPF,YPF Sociedad Anonima,NYSE,Energy,LargeCap,43.39,46.22,47.5,12.2,320,20,2024-12-17,2026-03-31,0.55,13.5,50,,-6.1,safe
-2026-04-28,MLAB,Mesa Laboratories Inc,NASDAQ,Technology,SmallCap,99.42,104.84,45.0,7.6,214,7,2025-06-11,2026-04-20,0.84,9.2,48,,-5.2,safe
-2026-04-28,TWLO,Twilio Inc,NYSE,Technology,LargeCap,142.16,150.45,45.2,5.9,307,5,2025-01-30,2026-04-22,1.13,8.3,48,,-5.5,safe
-2026-04-28,ALKS,Alkermes Plc,NASDAQ,Healthcare,MidCap,34.14,35.36,27.4,6.6,282,20,2025-02-13,2026-03-31,0.52,3.1,47,,-3.5,safe
-2026-04-28,NECB,Northeast Community Bancorp Inc,NASDAQ,Financial Services,SmallCap,24.96,25.59,26.2,5.1,381,14,2024-09-30,2026-04-09,0.83,3.4,47,,-2.5,safe
-2026-04-28,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,238.21,260.05,26.5,9.1,298,14,2025-01-30,2026-04-09,1.11,-1.8,47,,-8.4,caution
-2026-04-28,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.72,7.28,43.6,10.6,396,8,2024-09-17,2026-04-17,0.59,9.4,45,,-7.7,caution
-2026-04-28,H,Hyatt Hotels Corporation,NYSE,Consumer Cyclical,LargeCap,162.36,172.68,36.7,6.0,341,7,2024-12-05,2026-04-20,0.85,4.0,43,,-6.0,safe
-2026-04-28,USLM,United States Lime & Minerals Inc,NASDAQ,Basic Materials,MidCap,129.7,139.46,38.2,7.9,326,8,2024-12-26,2026-04-17,0.83,3.2,43,,-7.0,safe
+2026-04-29,ARKO,Arko Corp,NASDAQ,Consumer Cyclical,SmallCap,6.29,6.98,49.6,9.9,395,8,2024-09-19,2026-04-20,0.82,27.8,72,,-9.9,caution
+2026-04-29,ODFL,Old Dominion Freight Line Inc,NASDAQ,Industrials,LargeCap,209.35,224.42,45.5,6.7,359,7,2024-11-11,2026-04-21,1.26,26.0,72,,-6.7,safe
+2026-04-29,SAIA,Saia Inc,NASDAQ,Industrials,LargeCap,422.04,446.33,48.1,5.4,392,8,2024-09-24,2026-04-20,0.77,32.8,72,,-5.4,safe
+2026-04-29,NSA,National Storage Affiliates Trust,NYSE,Real Estate,MidCap,41.47,43.86,39.0,5.4,376,8,2024-10-16,2026-04-20,0.57,18.8,67,,-5.4,safe
+2026-04-29,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,9.67,10.56,44.2,8.7,324,11,2024-12-26,2026-04-15,0.75,22.7,64,,-8.4,caution
+2026-04-29,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,25.8,28.18,41.2,8.4,370,8,2024-10-24,2026-04-20,1.07,18.3,64,,-8.4,caution
+2026-04-29,DCOM,Dime Community Bancshares Inc,NASDAQ,Financial Services,SmallCap,35.54,37.34,33.8,5.5,351,5,2024-11-25,2026-04-23,1.2,11.0,63,,-4.8,safe
+2026-04-29,NVEC,NVE Corporation,NASDAQ,Technology,SmallCap,77.69,84.28,32.7,7.8,391,6,2024-09-27,2026-04-22,1.77,5.9,60,,-7.8,caution
+2026-04-29,IRM,Iron Mountain Incorporated,NYSE,Real Estate,LargeCap,114.52,120.53,40.0,6.6,368,8,2024-10-28,2026-04-20,1.17,10.8,59,,-5.0,safe
+2026-04-29,TWLO,Twilio Inc,NYSE,Technology,LargeCap,140.91,150.45,45.2,6.3,307,6,2025-01-30,2026-04-22,0.98,11.3,56,,-6.3,safe
+2026-04-29,AMTB,Amerant Bancorp Inc.,NYSE,Financial Services,SmallCap,22.87,24.22,32.1,6.2,351,15,2024-11-11,2026-04-09,1.19,9.5,55,,-5.6,safe
+2026-04-29,CAC,Camden National Corporation,NASDAQ,Financial Services,SmallCap,47.97,51.27,28.5,6.4,354,15,2024-11-06,2026-04-09,0.97,7.0,55,,-6.4,safe
+2026-04-29,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.69,7.28,43.6,10.6,396,9,2024-09-17,2026-04-17,0.63,11.6,53,,-8.1,caution
+2026-04-29,VFS,VinFast Auto Ltd. Ordinary Shares,NASDAQ,Consumer Cyclical,MidCap,4.07,4.76,41.1,14.7,323,7,2025-01-03,2026-04-21,0.76,11.4,50,,-14.5,danger
+2026-04-29,ARCO,Arcos Dorados Holdings Inc,NYSE,Consumer Cyclical,SmallCap,8.66,9.5,34.5,8.8,387,8,2024-10-01,2026-04-20,0.94,3.6,47,,-8.8,caution
+2026-04-29,HTO,H2O America,NASDAQ,Utilities,MidCap,57.67,61.31,27.0,5.9,400,5,2024-09-17,2026-04-23,0.97,2.0,47,,-5.9,safe
+2026-04-29,SAM,Boston Beer Company Inc,NYSE,Consumer Defensive,MidCap,236.49,260.05,26.5,9.1,298,15,2025-01-30,2026-04-09,1.25,-2.0,47,,-9.1,caution
+2026-04-29,USLM,United States Lime & Minerals Inc,NASDAQ,Basic Materials,MidCap,128.24,139.46,38.2,8.0,326,9,2024-12-26,2026-04-17,0.82,1.8,43,,-8.0,caution
+2026-04-29,MLAB,Mesa Laboratories Inc,NASDAQ,Technology,SmallCap,95.76,104.84,45.0,8.7,214,8,2025-06-11,2026-04-20,1.0,4.1,40,,-8.7,caution
