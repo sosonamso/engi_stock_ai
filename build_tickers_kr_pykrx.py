@@ -25,11 +25,11 @@ if __name__ == "__main__":
 
     # KOSPI + KOSDAQ 티커 전체
     print("KOSPI 티커 수집 중...")
-    kospi_tickers  = stock.get_market_tickers(market="KOSPI")
+    kospi_tickers  = stock.get_market_ticker_list(market="KOSPI")
     print(f"KOSPI: {len(kospi_tickers)}개")
 
     print("KOSDAQ 티커 수집 중...")
-    kosdaq_tickers = stock.get_market_tickers(market="KOSDAQ")
+    kosdaq_tickers = stock.get_market_ticker_list(market="KOSDAQ")
     print(f"KOSDAQ: {len(kosdaq_tickers)}개")
 
     rows = []
