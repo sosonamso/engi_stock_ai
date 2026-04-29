@@ -6,7 +6,7 @@ on:
 jobs:
   build_tickers_kr_pykrx:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 30
     permissions:
       contents: write
 
@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install pandas pykrx
+        run: pip install pandas FinanceDataReader
 
       - name: 티커 수집
         run: python build_tickers_kr_pykrx.py
