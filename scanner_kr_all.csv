@@ -68,7 +68,7 @@
 001270,Bookook Sec,KOSPI,Financial Services,73900.0,-53.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 001275,Bookook Securities Co Ltd,KOSPI,Financial Services,36500.0,-58.4,True,False,False,32,,패턴 미감지,,,,,,,,,
 001290,Golden Bridge Investment & Securities Co. Ltd.,KOSDAQ,Financial Services,1337.0,12.6,True,False,False,48,,패턴 미감지,,,,,,,,,
-001340,Paik Kwang Ind,KOSPI,Basic Materials,7520.0,-72.4,True,True,False,43,,거래량 미충족,7970.0,37.8,6.6,1.11,335.0,9.0,-5.6,safe,False
+001340,Paik Kwang Ind,KOSPI,Basic Materials,7520.0,-72.4,True,True,False,43,,대기중(피벗미돌파),7970.0,37.8,6.6,1.11,335.0,9.0,-5.6,safe,True
 001360,Samsung Pharmaceutical Co. Ltd.,KOSDAQ,Healthcare,2100.0,-64.2,True,False,False,32,,패턴 미감지,,,,,,,,,
 001390,Kg Chemical,KOSPI,Industrials,6360.0,-65.9,True,False,False,32,,패턴 미감지,,,,,,,,,
 001430,SeAH Besteel Corp.,KOSDAQ,Basic Materials,73100.0,30.0,True,False,False,64,,패턴 미감지,,,,,,,,,
@@ -184,7 +184,7 @@
 004020,Hyundai Steel Co.,KOSDAQ,Basic Materials,45750.0,-49.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 004080,Shinhung Co. Ltd.,KOSDAQ,Healthcare,13890.0,-98.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
 004090,Korea Petroleum Industrial Co. Ltd.,KOSDAQ,Basic Materials,15880.0,-81.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
-004100,Taeyang Metal Industrial Co. Ltd.,KOSDAQ,Consumer Cyclical,3350.0,-64.2,True,True,False,43,,거래량 미충족,3640.0,38.3,8.0,1.0,379.0,6.0,-8.0,caution,False
+004100,Taeyang Metal Industrial Co. Ltd.,KOSDAQ,Consumer Cyclical,3350.0,-64.2,True,True,False,43,,대기중(피벗미돌파),3640.0,38.3,8.0,1.0,379.0,6.0,-8.0,caution,True
 004105,Taeyang Metal Industrial Co. Ltd. Pfd. Series 1,KOSDAQ,Consumer Cyclical,4185.0,-82.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
 004140,Dongbang Transport Logistics Co. Ltd.,KOSDAQ,Industrials,2940.0,-91.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 004150,Hansol Holdings Co. Ltd.,KOSDAQ,Basic Materials,3355.0,-85.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -223,7 +223,7 @@
 004990,Lotte Confectionery Co. Ltd.,KOSDAQ,Consumer Defensive,31300.0,-85.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
 00499K,LOTTE Corporation,KOSPI,Consumer Defensive,30300.0,-93.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 005010,Husteel Co. Ltd.,KOSDAQ,Basic Materials,7120.0,-37.9,True,False,False,32,,패턴 미감지,,,,,,,,,
-005070,Cosmoam&T,KOSPI,Basic Materials,61100.0,-65.7,True,True,False,40,,거래량 미충족,65500.0,49.7,6.7,1.27,328.0,6.0,-6.7,safe,False
+005070,Cosmoam&T,KOSPI,Basic Materials,61100.0,-65.7,True,True,False,40,,대기중(피벗미돌파),65500.0,49.7,6.7,1.27,328.0,6.0,-6.7,safe,True
 005090,Samkwang Glass Co. Ltd.,KOSDAQ,Industrials,60500.0,65.8,True,False,False,64,,패턴 미감지,,,,,,,,,
 005180,Binggrae,KOSPI,Consumer Defensive,75300.0,-84.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
 005250,Green Cross Holdings Corp.,KOSDAQ,Healthcare,13900.0,-108.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -392,7 +392,7 @@
 013360,Il Sung Const,KOSPI,Industrials,1912.0,-97.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 013520,Hwaseung Corporation Co Ltd,KOSPI,Consumer Cyclical,3075.0,-50.6,True,False,False,32,,패턴 미감지,,,,,,,,,
 013570,DY Corp.,KOSDAQ,Consumer Cyclical,5320.0,-79.9,True,False,False,32,,패턴 미감지,,,,,,,,,
-013580,Kyeryong Construction Industrial Co. Ltd.,KOSDAQ,Industrials,29600.0,-53.0,True,True,False,40,,거래량 미충족,30150.0,46.8,6.6,0.63,237.0,12.0,-1.8,safe,False
+013580,Kyeryong Construction Industrial Co. Ltd.,KOSDAQ,Industrials,29600.0,-53.0,True,True,False,40,,대기중(피벗미돌파),30150.0,46.8,6.6,0.63,237.0,12.0,-1.8,safe,True
 013700,Camus Engineering & Construction Inc,KOSPI,Industrials,1384.0,-77.9,True,False,False,32,,패턴 미감지,,,,,,,,,
 013870,GMB Korea Corp.,KOSDAQ,Consumer Cyclical,4965.0,-79.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 013890,Zinus Inc,KOSPI,Consumer Cyclical,12850.0,-110.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -618,7 +618,7 @@
 079160,CJ CGV,KOSPI,Communication Services,4885.0,-105.6,False,False,False,0,,트렌드 미통과,,,,,,,,,
 079430,Hyundai Livart Furniture Co. Ltd.,KOSDAQ,Consumer Cyclical,7850.0,-85.6,False,False,False,0,,트렌드 미통과,,,,,,,,,
 079550,LIG Nex1 Co. Ltd.,KOSDAQ,Industrials,968000.0,15.6,True,False,False,56,,패턴 미감지,,,,,,,,,
-079900,079900,KOSPI,Industrials,66000.0,-62.3,True,True,False,40,,거래량 미충족,73000.0,43.8,9.6,0.39,280.0,16.0,-9.6,caution,False
+079900,079900,KOSPI,Industrials,66000.0,-62.3,True,True,False,40,,대기중(피벗미돌파),73000.0,43.8,9.6,0.39,280.0,16.0,-9.6,caution,True
 079980,Huvis Corp.,KOSDAQ,Consumer Cyclical,3435.0,-70.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
 081000,Iljin Diamond Co. Ltd.,KOSDAQ,Industrials,14990.0,-80.6,True,False,False,32,,패턴 미감지,,,,,,,,,
 081660,Fila Korea Ltd.,KOSDAQ,Consumer Cyclical,41400.0,-94.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -789,7 +789,7 @@
 169330,Macromill Embrain Co. Ltd,KOSDAQ,기타,2155.0,-93.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
 169670,169670,KOSPI,기타,4100.0,-137.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
 170900,Dong-A St,KOSPI,Healthcare,44800.0,-108.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
-173130,OPASNET Co. Ltd.,KOSPI,기타,7850.0,-81.8,True,True,False,47,,RS 미충족,8350.0,20.9,7.7,1.49,379.0,6.0,-6.0,safe,False
+173130,OPASNET Co. Ltd.,KOSPI,기타,7850.0,-81.8,True,True,False,47,,대기중(피벗미돌파),8350.0,20.9,7.7,1.49,379.0,6.0,-6.0,safe,True
 175330,Jb Financial,KOSPI,Financial Services,27100.0,-74.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
 176590,176590,KOSPI,기타,2700.0,-140.7,False,False,False,0,,트렌드 미통과,,,,,,,,,
 176750,176750,KOSPI,기타,9120.0,-105.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -1452,7 +1452,7 @@
 019660,Globon Co. Ltd,KOSDAQ,기타,2225.0,-74.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 019770,Seoyon Topmetal Co. Ltd,KOSDAQ,기타,4270.0,-87.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 019990,Enertork Ltd,KOSDAQ,기타,10590.0,-61.5,True,False,False,32,,패턴 미감지,,,,,,,,,
-020180,Daishin Information & Communications Co.Ltd,KOSDAQ,기타,1259.0,-78.9,True,True,False,44,,거래량 미충족,1407.0,27.2,10.5,0.48,317.0,12.0,-10.5,danger,False
+020180,Daishin Information & Communications Co.Ltd,KOSDAQ,기타,1259.0,-78.9,True,True,False,44,,대기중(피벗미돌파),1407.0,27.2,10.5,0.48,317.0,12.0,-10.5,danger,True
 020400,Daedong Metals Co. Ltd,KOSDAQ,기타,6050.0,-94.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
 020710,Sigong Tech Co. Ltd,KOSDAQ,기타,5040.0,-87.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
 021080,Atinum Investment Co. Ltd,KOSDAQ,기타,3430.0,-72.1,True,False,False,32,,패턴 미감지,,,,,,,,,
@@ -1482,7 +1482,7 @@
 025770,Korea Information & Communications Co. Ltd,KOSDAQ,기타,11370.0,-60.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 025870,Silla Sg Co. Ltd,KOSDAQ,기타,4490.0,-119.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 025880,KC Feed Co. Ltd,KOSDAQ,기타,3025.0,-87.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
-025900,Dongwha Enterprise Co.Ltd,KOSDAQ,기타,12170.0,-68.4,True,True,False,40,,거래량 미충족,12600.0,44.4,5.4,0.93,373.0,7.0,-3.4,safe,False
+025900,Dongwha Enterprise Co.Ltd,KOSDAQ,기타,12170.0,-68.4,True,True,False,40,,대기중(피벗미돌파),12600.0,44.4,5.4,0.93,373.0,7.0,-3.4,safe,True
 025950,Dongsin Engineering & Construction,KOSDAQ,기타,16890.0,-117.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 025980,Ananti Inc,KOSDAQ,기타,7190.0,-110.7,False,False,False,0,,트렌드 미통과,,,,,,,,,
 026040,J.ESTINA Co.Ltd,KOSDAQ,기타,2950.0,-85.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -1674,7 +1674,7 @@
 049080,Gigalane Co Ltd,KOSDAQ,기타,2230.0,240.3,True,False,False,64,,패턴 미감지,,,,,,,,,
 049430,Komelon Corporation,KOSDAQ,기타,20400.0,-24.0,True,False,False,32,,패턴 미감지,,,,,,,,,
 049480,Openbase Inc,KOSDAQ,기타,3420.0,-60.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
-049520,UIL Co. Ltd,KOSDAQ,기타,4060.0,-86.3,True,True,False,43,,거래량 미충족,4285.0,36.3,5.3,0.77,336.0,10.0,-5.3,safe,False
+049520,UIL Co. Ltd,KOSDAQ,기타,4060.0,-86.3,True,True,False,43,,대기중(피벗미돌파),4285.0,36.3,5.3,0.77,336.0,10.0,-5.3,safe,True
 049550,InkTec Co. Ltd,KOSDAQ,기타,3765.0,-77.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
 049720,Koryo Credit Information Co. Ltd,KOSDAQ,기타,10110.0,-97.7,False,False,False,0,,트렌드 미통과,,,,,,,,,
 049830,Seung Il Corporation,KOSDAQ,기타,7480.0,-108.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -1963,7 +1963,7 @@
 094860,NEORIGIN Co. Ltd,KOSDAQ,기타,1500.0,-56.8,True,False,False,32,,패턴 미감지,,,,,,,,,
 094940,Puloon Technology Inc,KOSDAQ,기타,10530.0,-78.8,True,False,False,32,,패턴 미감지,,,,,,,,,
 094970,JMT Co.Ltd,KOSDAQ,기타,3720.0,-52.3,True,False,False,32,,패턴 미감지,,,,,,,,,
-095190,ENERGY&MACHINERY KOREA Co.Ltd,KOSDAQ,기타,2605.0,-84.4,True,True,False,47,,거래량 미충족,2610.0,32.5,7.7,1.31,370.0,11.0,-0.2,safe,False
+095190,ENERGY&MACHINERY KOREA Co.Ltd,KOSDAQ,기타,2605.0,-84.4,True,True,False,47,,대기중(피벗미돌파),2610.0,32.5,7.7,1.31,370.0,11.0,-0.2,safe,True
 095270,Wave Electronics Co. Ltd,KOSDAQ,기타,9340.0,-2.4,True,False,False,32,,패턴 미감지,,,,,,,,,
 095340,ISC Co. Ltd,KOSDAQ,기타,244000.0,130.5,True,False,False,64,,패턴 미감지,,,,,,,,,
 095500,MNtech Co. Ltd,KOSDAQ,기타,10770.0,-96.6,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2030,7 +2030,7 @@
 113810,Dgenx Co. Ltd,KOSDAQ,기타,731.0,-120.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 114190,KANGWON Co. Ltd,KOSDAQ,기타,16160.0,-67.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 114450,KPX Lifescience.Co.Ltd,KOSDAQ,기타,3000.0,-74.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
-114630,Uno&Company.Ltd,KOSDAQ,기타,2465.0,278.5,True,False,False,64,,패턴 미감지,,,,,,,,,
+114630,Uno&Company.Ltd,KOSDAQ,기타,2465.0,278.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
 114810,Iones Co. Ltd,KOSDAQ,기타,17570.0,-31.2,True,False,False,32,,패턴 미감지,,,,,,,,,
 115180,Qurient Co. Ltd,KOSDAQ,기타,39300.0,60.6,True,False,False,64,,패턴 미감지,,,,,,,,,
 115310,INFOvine co. Ltd,KOSDAQ,기타,12720.0,-182.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2089,7 +2089,7 @@
 136150,WONILTNI,KOSDAQ,기타,18990.0,-66.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
 136480,HARIM Co. Ltd,KOSDAQ,기타,3300.0,-88.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
 136540,WINS Co. Ltd,KOSDAQ,기타,13050.0,-87.6,False,False,False,0,,트렌드 미통과,,,,,,,,,
-137400,People & Technology Inc,KOSDAQ,기타,57600.0,-61.6,True,True,False,40,,거래량 미충족,60900.0,45.0,7.6,1.09,355.0,7.0,-5.4,safe,False
+137400,People & Technology Inc,KOSDAQ,기타,57600.0,-61.6,True,True,False,40,,대기중(피벗미돌파),60900.0,45.0,7.6,1.09,355.0,7.0,-5.4,safe,True
 137940,NextEye Co. Ltd,KOSDAQ,기타,240.0,-132.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 137950,JC Chemical Co. Ltd,KOSDAQ,기타,4665.0,-65.6,False,False,False,0,,트렌드 미통과,,,,,,,,,
 138070,Shinjin Sm Co.Ltd,KOSDAQ,기타,1901.0,-107.7,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2114,7 +2114,7 @@
 146060,"Yulchon Co., Ltd",KOSDAQ,기타,1562.0,-81.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
 147830,Cheryong Industrial Co.Ltd,KOSDAQ,기타,11180.0,-25.1,True,False,False,32,,패턴 미감지,,,,,,,,,
 148250,RN2 Technologies Co. Ltd,KOSDAQ,기타,3860.0,-119.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
-149950,Avatec Co. Ltd,KOSDAQ,기타,13520.0,-47.1,True,True,False,40,,RS 미충족,13880.0,45.6,5.6,1.57,379.0,6.0,-2.6,safe,False
+149950,Avatec Co. Ltd,KOSDAQ,기타,13520.0,-47.1,True,True,False,40,,대기중(피벗미돌파),13880.0,45.6,5.6,1.57,379.0,6.0,-2.6,safe,True
 150900,FASOO.COM Co Ltd,KOSDAQ,기타,6000.0,-65.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 151860,KG Eco Technology Services Co. Ltd,KOSDAQ,기타,7340.0,-72.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 153460,Nable Communications Inc,KOSDAQ,기타,10120.0,-60.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2185,7 +2185,7 @@
 206650,EuBiologics Co. Ltd.,KOSDAQ,기타,13150.0,-88.9,False,False,False,0,,트렌드 미통과,,,,,,,,,
 207760,Mr. Blue Corporation,KOSDAQ,기타,1032.0,-127.1,False,False,False,0,,트렌드 미통과,,,,,,,,,
 208140,JUNGDAWN Co. Ltd,KOSDAQ,기타,2540.0,-101.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
-208350,KB SPAC 5,KOSDAQ,기타,3385.0,-79.4,True,True,False,47,,거래량 미충족,3570.0,21.7,6.4,0.51,389.0,7.0,-5.2,safe,False
+208350,KB SPAC 5,KOSDAQ,기타,3385.0,-79.4,True,True,False,47,,대기중(피벗미돌파),3570.0,21.7,6.4,0.51,389.0,7.0,-5.2,safe,True
 208370,Hana Must SPAC 2,KOSDAQ,기타,4430.0,-102.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 208640,KB SPAC 6,KOSDAQ,기타,212.0,-126.8,False,False,False,0,,트렌드 미통과,,,,,,,,,
 208710,Kyobo 3 SPAC,KOSDAQ,기타,2715.0,-17.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2267,7 +2267,7 @@
 250930,YeSUN Tech Co.Ltd.,KOSDAQ,기타,488.0,-98.4,False,False,False,0,,트렌드 미통과,,,,,,,,,
 251370,"YMT Co., Ltd.",KOSDAQ,기타,17170.0,-34.1,True,False,False,32,,패턴 미감지,,,,,,,,,
 253450,Studio Dragon Corporation,KOSDAQ,기타,35550.0,-120.5,False,False,False,0,,트렌드 미통과,,,,,,,,,
-255440,"YAS Co., Ltd.",KOSDAQ,기타,11220.0,-71.5,True,True,False,43,,거래량 미충족,12270.0,38.3,9.9,1.24,344.0,8.0,-8.6,caution,False
+255440,"YAS Co., Ltd.",KOSDAQ,기타,11220.0,-71.5,True,True,False,43,,대기중(피벗미돌파),12270.0,38.3,9.9,1.24,344.0,8.0,-8.6,caution,True
 263750,Pearl Abyss Corp,KOSDAQ,기타,59900.0,-50.3,True,False,False,32,,패턴 미감지,,,,,,,,,
 265520,Advanced Process Systems Corporation,KOSDAQ,기타,26200.0,-59.9,True,False,False,32,,패턴 미감지,,,,,,,,,
 267320,Naintech Co. Ltd.,KOSDAQ,기타,3630.0,-96.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
@@ -2286,7 +2286,7 @@
 308430,308430,KOSDAQ,기타,37300.0,-20.0,False,False,False,0,,트렌드 미통과,,,,,,,,,
 311690,ChunLab Inc,KOSDAQ,기타,7920.0,-114.2,False,False,False,0,,트렌드 미통과,,,,,,,,,
 314130,Genome & Company,KOSDAQ,기타,7650.0,-10.8,True,False,False,32,,패턴 미감지,,,,,,,,,
-317330,DUKSAN TECHOPIA Co.Ltd,KOSDAQ,기타,25200.0,-71.7,True,True,False,37,,RS 미충족,25650.0,40.7,10.5,1.53,239.0,9.0,-1.8,safe,False
+317330,DUKSAN TECHOPIA Co.Ltd,KOSDAQ,기타,25200.0,-71.7,True,True,False,37,,대기중(피벗미돌파),25650.0,40.7,10.5,1.53,239.0,9.0,-1.8,safe,True
 319660,PSK Inc,KOSDAQ,기타,93300.0,129.6,True,False,False,64,,패턴 미감지,,,,,,,,,
 323350,"Dawon Nexview Co., Ltd.",KOSDAQ,기타,12450.0,-26.7,False,False,False,0,,트렌드 미통과,,,,,,,,,
 338840,338840,KOSDAQ,기타,22900.0,-39.3,False,False,False,0,,트렌드 미통과,,,,,,,,,
