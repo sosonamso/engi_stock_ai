@@ -34,16 +34,6 @@ if semi_theme:
     resp2 = requests.get(detail_url, headers=headers, timeout=10)
     tables = pd.read_html(StringIO(resp2.text))
     print(f"테이블 수: {len(tables)}")
-    for i, t in enumerate(tables[:2]):
-        print(f"\n[테이블 {i}] shape={t.shape}")
-        print(t.head(5))
-else:
-    print("\n반도체 장비 테마 없음, 첫번째 테마로 테스트")
-    t0 = themes[1]  # 0은 NaN 스킵
-    detail_url = f"https://finance.naver.com/sise/sise_group_detail.naver?type=theme&no={t0['no']}"
-    resp2 = requests.get(detail_url, headers=headers, timeout=10)
-    tables = pd.read_html(StringIO(resp2.text))
-    print(f"테마: {t0['name']}")
-    for i, t in enumerate(tables[:2]):
-        print(f"\n[테이블 {i}] shape={t.shape}")
-        print(t.head(5))
+    for i, t in enumerate(tables):
+        print(f"\n[테이블 {i}] shape={t.shape} 컬럼:{t.columns.tolist()}")
+        print(t.head(10))
