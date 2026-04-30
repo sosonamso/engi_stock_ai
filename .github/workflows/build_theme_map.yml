@@ -1,0 +1,35 @@
+name: 네이버 테마 종목 매핑 수집
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build_theme_map:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install requests pandas beautifulsoup4 lxml
+
+      - name: 테마 매핑 수집
+        run: python build_theme_map.py
+
+      - name: 커밋 & 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add theme_ticker_map.csv
+          git diff --staged --quiet || git commit -m "네이버 테마 종목 매핑 $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
+          git push
