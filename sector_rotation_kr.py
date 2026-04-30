@@ -110,20 +110,10 @@ if __name__ == "__main__":
         if i % 100 == 0:
             print(f"[{i}/{len(target_tickers)}] 처리 중...")
 
-        # OHLCV 로드 (캐시 우선)
-        cache_path = os.path.join(KR_DIR, f"{ticker}.csv")
-        df = None
-        if os.path.exists(cache_path):
-            try:
-                df = pd.read_csv(cache_path, index_col="date", parse_dates=True)
-                df = df[["Open","High","Low","Close","Volume"]].astype(float).dropna()
-                if df.index[-1] < data_cutoff: df = None
-            except: df = None
-
-        if df is None:
-            exchange = "KQ" if market_map.get(ticker, "KOSPI") == "KOSDAQ" else "KO"
-            df = get_ohlcv(ticker, exchange, start=start_date, end=end_date)
-            time.sleep(0.05)
+        # EODHD에서 직접 수집 (캐시 미사용 - 최신 데이터 보장)
+        exchange = "KQ" if market_map.get(ticker, "KOSPI") == "KOSDAQ" else "KO"
+        df = get_ohlcv(ticker, exchange, start=start_date, end=end_date)
+        time.sleep(0.05)
 
         if df is None or len(df) < 60: continue
         if float(df["Close"].iloc[-1]) < 1000: continue
