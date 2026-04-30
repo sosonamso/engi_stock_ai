@@ -19,4 +19,4 @@ jobs:
         run: pip install requests pandas lxml html5lib beautifulsoup4
 
       - name: 테스트 실행
-        run: python test_data_sources.py
+        run: python test_naver_theme.py
