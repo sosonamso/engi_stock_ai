@@ -1,0 +1,22 @@
+name: 데이터 소스 테스트
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install requests pandas lxml html5lib beautifulsoup4
+
+      - name: 테스트 실행
+        run: python test_data_sources.py
