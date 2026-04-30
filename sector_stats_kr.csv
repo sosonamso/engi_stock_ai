@@ -1,0 +1,2362 @@
+﻿ticker,name,sector,market,cap,cur,rs_4w,rs_12w,vr,pct52,above200
+000020,동화약품,Healthcare,KOSPI,SmallCap,6060.0,-20.58,-35.23,1.14,-14.2,False
+000050,경방,Consumer Cyclical,KOSPI,MidCap,10100.0,-11.52,-29.75,1.15,-16.3,True
+000070,삼양홀딩스,Industrials,KOSPI,MidCap,69800.0,-18.39,-20.31,1.12,-6.3,True
+000080,하이트진로,Consumer Defensive,KOSPI,LargeCap,17110.0,-22.39,-38.92,0.94,-22.2,False
+000087,하이트진로2우B,Consumer Defensive,KOSPI,MidCap,14050.0,-23.27,-38.13,0.52,-13.7,False
+000100,유한양행,Healthcare,KOSPI,LargeCap,91600.0,-25.28,-49.85,1.05,-32.5,False
+000105,유한양행우,Healthcare,KOSPI,LargeCap,76600.0,-33.77,-54.61,2.16,-32.4,False
+000120,CJ대한통운,Industrials,KOSPI,LargeCap,101100.0,-26.12,-35.3,0.92,-30.6,True
+000140,하이트진로홀딩스,Consumer Defensive,KOSPI,MidCap,9210.0,-21.54,-38.07,1.13,-21.9,False
+000145,하이트진로홀딩스우,Consumer Defensive,KOSPI,MidCap,12000.0,-21.25,-37.25,0.73,-19.7,False
+000150,두산,Industrials,KOSPI,MegaCap,1000000.0,-23.99,-17.23,0.96,0.0,True
+000155,두산우,Industrials,KOSPI,MegaCap,645000.0,14.72,3.1,0.96,0.0,True
+000157,두산2우B,Industrials,KOSPI,LargeCap,564000.0,21.75,3.05,1.02,-1.7,True
+000180,성창기업지주,Basic Materials,KOSPI,SmallCap,7200.0,368.44,366.6,1.4,-1.5,True
+000210,DL,Basic Materials,KOSPI,LargeCap,71500.0,-3.82,40.22,1.24,-6.9,True
+000215,DL우,Basic Materials,KOSPI,MidCap,30300.0,-10.51,-7.38,1.05,-5.3,True
+000220,유유제약,Healthcare,KOSDAQ,SmallCap,4245.0,-20.96,-36.23,0.99,-11.0,False
+000225,유유제약1우,Healthcare,KOSDAQ,nan,4450.0,-20.62,-43.04,1.88,-15.7,False
+000227,유유제약2우B,Healthcare,KOSDAQ,nan,10810.0,-23.24,-35.54,1.21,-7.4,True
+000230,일동홀딩스,Healthcare,KOSDAQ,SmallCap,9950.0,-25.08,-51.35,0.74,-37.1,False
+000240,한국앤컴퍼니,Consumer Cyclical,KOSPI,LargeCap,24950.0,-16.45,-40.9,0.88,-28.0,False
+000270,기아,Consumer Cyclical,KOSPI,MegaCap,151800.0,-22.92,-36.29,1.16,-26.3,True
+000320,노루홀딩스,Basic Materials,KOSDAQ,MidCap,22100.0,-15.66,-28.01,0.87,-39.0,False
+000325,노루홀딩스우,Basic Materials,KOSDAQ,MidCap,31550.0,-20.89,-32.78,0.5,-20.1,False
+000370,한화손해보험,Financial Services,KOSPI,MidCap,6620.0,-19.57,-24.26,1.22,-28.8,True
+000390,삼화페인트,Basic Materials,KOSDAQ,MidCap,9450.0,-17.21,2.37,0.74,-23.5,True
+000400,롯데손해보험,Financial Services,KOSPI,MidCap,2115.0,-21.57,-8.3,1.06,-22.4,True
+000430,대원강업,Consumer Cyclical,KOSPI,MidCap,4365.0,-16.35,-33.74,0.98,-3.0,True
+000480,CR홀딩스,Basic Materials,KOSPI,MidCap,5120.0,-18.31,-27.9,0.72,-9.2,True
+000490,대동,Industrials,KOSPI,MidCap,10130.0,-15.99,-31.57,1.04,-14.2,True
+000500,가온전선,Technology,KOSDAQ,LargeCap,241500.0,107.78,161.84,1.11,0.0,True
+000520,삼일제약,Healthcare,KOSDAQ,SmallCap,8890.0,-32.81,-53.95,1.27,-35.4,False
+000540,흥국화재,Financial Services,KOSDAQ,MidCap,4415.0,-18.37,-11.82,1.2,-33.0,True
+000545,흥국화재우,Financial Services,KOSDAQ,nan,7020.0,-22.54,-38.13,1.05,-62.1,False
+000590,CS홀딩스,Industrials,KOSPI,SmallCap,80400.0,-17.92,-41.93,0.67,-18.5,False
+000640,동아쏘시오홀딩스,Healthcare,KOSDAQ,MidCap,97900.0,-18.38,-45.06,1.06,-21.0,False
+000650,천일고속,Industrials,KOSPI,MidCap,201000.0,-27.82,-69.86,0.89,-56.1,True
+000660,SK하이닉스,Technology,KOSPI,MegaCap,1000000.0,-9.83,-16.94,0.9,0.0,True
+000670,영풍,Technology,KOSPI,LargeCap,65900.0,-13.6,-24.19,0.93,-82.7,True
+000680,LS네트웍스,Consumer Cyclical,KOSDAQ,MidCap,4475.0,18.3,-4.63,2.71,-3.3,True
+000700,유수홀딩스,Industrials,KOSDAQ,SmallCap,6250.0,-22.36,-29.1,0.76,-13.0,True
+000720,현대건설,Industrials,KOSDAQ,MegaCap,161800.0,-16.91,26.34,0.75,-14.3,True
+000725,현대건설우,Industrials,KOSDAQ,LargeCap,74300.0,-15.52,-14.61,0.83,-9.8,True
+000810,삼성화재,Financial Services,KOSDAQ,MegaCap,461000.0,-19.57,-41.68,1.15,-26.8,False
+000815,삼성화재우,Financial Services,KOSDAQ,MegaCap,372500.0,-21.37,-35.23,0.96,-17.6,True
+000850,화천기공,Industrials,KOSDAQ,SmallCap,38750.0,-15.45,-37.03,1.91,-12.5,True
+000860,강남제비스코,Basic Materials,KOSDAQ,MidCap,16840.0,-2.66,-37.48,1.38,-29.4,True
+000880,한화,Industrials,KOSDAQ,MegaCap,133400.0,-6.66,-14.36,1.11,-4.2,True
+00088K,Hanwha Corp Preferred,Industrials,KOSPI,LargeCap,49500.0,-13.99,-30.39,1.03,-11.8,True
+000910,유니온,Basic Materials,KOSDAQ,SmallCap,4520.0,-20.56,-33.15,1.01,-24.5,True
+000970,한국주철관,Basic Materials,KOSDAQ,SmallCap,7350.0,-17.47,-26.89,1.85,-1.6,True
+000990,DB하이텍,Technology,KOSDAQ,LargeCap,158500.0,50.95,16.46,1.12,-0.3,True
+001040,CJ,Industrials,KOSPI,LargeCap,224500.0,-6.27,-31.02,0.82,-3.2,True
+001045,CJ우,Industrials,KOSPI,LargeCap,90100.0,-16.21,-46.13,1.06,-16.6,False
+00104K,CJ Corp 4P Pref ,Industrials,KOSPI,LargeCap,192000.0,-10.92,-27.64,1.32,-1.3,True
+001060,JW중외제약,Healthcare,KOSDAQ,MidCap,31200.0,-16.4,-34.62,1.09,-20.1,True
+001065,JW중외제약우,Healthcare,KOSDAQ,nan,26300.0,-23.99,-42.99,0.93,-12.3,False
+001067,JW중외제약2우B,Healthcare,KOSDAQ,LargeCap,55300.0,-25.24,-44.32,0.46,-15.7,False
+001080,만호제강,Basic Materials,KOSPI,SmallCap,5300.0,-21.87,-127.65,1.45,-90.3,False
+001120,LX인터내셔널,Industrials,KOSDAQ,LargeCap,53400.0,-23.43,3.85,0.85,-5.8,True
+001130,대한제분,Consumer Defensive,KOSPI,MidCap,156500.0,-19.1,-22.78,0.0,-8.4,True
+001200,유진투자증권,Financial Services,KOSDAQ,MidCap,5590.0,0.23,3.39,3.18,-11.0,True
+001230,동국홀딩스,Basic Materials,KOSPI,SmallCap,3313.0,-6.75,19.71,0.82,-0.6,True
+001250,GS글로벌,Industrials,KOSDAQ,MidCap,5110.0,37.21,89.69,0.86,-5.7,True
+001260,남광토건,Industrials,KOSDAQ,SmallCap,9880.0,-7.89,-15.29,0.34,-10.7,True
+001270,부국증권,Financial Services,KOSPI,MidCap,73000.0,-22.74,-35.61,1.11,-29.3,True
+001275,부국증권우,Financial Services,KOSPI,MidCap,36200.0,-22.16,-9.96,1.2,-6.3,True
+001290,상상인증권,Financial Services,KOSDAQ,SmallCap,1305.0,-3.49,48.21,2.72,-16.2,True
+001340,PKC,Basic Materials,KOSPI,MidCap,7330.0,-14.75,-12.76,0.82,-8.0,True
+001360,삼성제약,Healthcare,KOSDAQ,SmallCap,2030.0,-10.84,-23.89,1.49,-8.1,True
+001390,KG케미칼,Industrials,KOSPI,MidCap,7070.0,13.29,-12.51,2.25,0.0,True
+001430,세아베스틸지주,Basic Materials,KOSDAQ,LargeCap,75500.0,-11.81,-30.93,1.26,-16.4,True
+001440,대한전선,Industrials,KOSDAQ,MegaCap,56300.0,68.82,73.84,1.75,0.0,True
+001450,현대해상,Financial Services,KOSDAQ,LargeCap,30400.0,-22.32,-27.08,1.06,-21.6,True
+001460,BYC,Consumer Cyclical,KOSPI,MidCap,50400.0,-16.07,-16.56,1.16,-15.9,True
+001465,BYC우,Consumer Cyclical,KOSPI,MidCap,34000.0,-6.95,6.65,0.69,-0.6,True
+001500,현대차증권,Financial Services,KOSPI,MidCap,10970.0,-14.62,-14.16,1.35,-20.5,True
+001510,SK증권,Financial Services,KOSPI,LargeCap,5230.0,182.45,659.93,0.97,-5.1,True
+001515,SK증권우,Financial Services,KOSDAQ,nan,13110.0,331.68,419.16,1.0,-13.6,True
+001525,동양우,Basic Materials,KOSDAQ,nan,4410.0,-22.14,-44.68,1.93,-50.8,False
+001527,동양2우B,Basic Materials,KOSDAQ,LargeCap,7490.0,-13.03,-54.2,0.55,-43.6,False
+001530,DI동일,Consumer Cyclical,KOSDAQ,MidCap,30050.0,16.76,17.56,0.99,-31.6,True
+001550,조비,Basic Materials,KOSPI,SmallCap,15930.0,-27.39,11.04,1.54,-8.7,True
+001560,제일연마,Industrials,KOSPI,SmallCap,12070.0,-12.44,-9.02,1.44,-0.9,True
+001630,종근당홀딩스,Healthcare,KOSPI,MidCap,49300.0,-19.43,-36.71,0.63,-12.6,True
+001680,대상,Consumer Defensive,KOSPI,MidCap,20700.0,-18.65,-40.24,0.71,-16.2,False
+001685,대상우,Consumer Defensive,KOSPI,MidCap,16890.0,-19.02,-37.6,0.99,-5.7,False
+001720,신영증권,Financial Services,KOSPI,LargeCap,197100.0,-18.87,-23.23,0.88,-22.7,True
+001740,SK네트웍스,Industrials,KOSPI,LargeCap,5870.0,-11.54,-21.18,1.58,-1.7,True
+001750,한양증권,Financial Services,KOSDAQ,MidCap,28650.0,-9.62,9.88,1.24,-7.6,True
+001755,한양증권우,Financial Services,KOSDAQ,nan,29600.0,-3.17,23.01,0.73,-3.9,True
+001780,알루코,Basic Materials,KOSPI,MidCap,3005.0,-0.83,-2.06,1.36,-12.8,True
+001790,대한제당,Consumer Defensive,KOSDAQ,MidCap,2910.0,-26.83,-30.63,0.8,-27.4,False
+001795,대한제당우,Consumer Defensive,KOSDAQ,nan,2475.0,-22.76,-34.3,0.55,-53.0,False
+001800,오리온홀딩스,Consumer Defensive,KOSDAQ,LargeCap,25850.0,-12.09,-12.54,1.17,0.0,True
+001820,삼화콘덴서,Technology,KOSDAQ,MidCap,67200.0,-5.89,85.1,1.07,-5.4,True
+001940,KISCO홀딩스,Basic Materials,KOSPI,MidCap,27000.0,-17.48,-19.0,1.01,-5.3,True
+002020,코오롱,Industrials,KOSDAQ,LargeCap,72000.0,-7.49,-21.85,1.77,-4.0,True
+002025,코오롱우,Industrials,KOSDAQ,MidCap,31250.0,-15.48,-25.81,1.24,-0.5,True
+002030,아세아,Basic Materials,KOSPI,MidCap,271000.0,-26.16,-41.66,1.13,-31.7,False
+002100,경농,Basic Materials,KOSPI,SmallCap,10480.0,-18.02,-20.72,1.39,0.0,True
+002140,고려산업,Consumer Defensive,KOSDAQ,SmallCap,2830.0,-20.52,-17.76,0.6,-9.1,True
+002150,도화엔지니어링,Industrials,KOSDAQ,MidCap,7120.0,-14.28,-19.93,0.48,-3.5,True
+002170,SYTS,Consumer Cyclical,KOSDAQ,SmallCap,60200.0,-24.49,-31.25,1.51,-3.7,True
+002200,한국수출포장,Consumer Cyclical,KOSDAQ,SmallCap,2795.0,-26.43,-49.11,0.76,-14.0,False
+002220,한일철강,Basic Materials,KOSDAQ,SmallCap,5230.0,8.08,-27.2,1.9,-4.4,True
+002240,고려제강,Basic Materials,KOSPI,MidCap,25700.0,-2.48,-16.76,1.27,-5.5,True
+002310,아세아제지,Basic Materials,KOSPI,MidCap,9040.0,-26.26,-18.63,0.75,-19.6,True
+002320,한진,Industrials,KOSPI,MidCap,19420.0,-19.81,-39.54,0.89,-15.2,False
+002350,넥센타이어,Consumer Cyclical,KOSDAQ,MidCap,7430.0,-19.05,-42.65,1.45,-23.6,True
+002355,넥센타이어1우B,Consumer Cyclical,KOSDAQ,MidCap,4330.0,-21.75,-21.18,1.2,-7.5,True
+002380,KCC,Basic Materials,KOSDAQ,LargeCap,555000.0,-4.38,-20.33,0.82,-18.4,True
+002390,한독,Healthcare,KOSDAQ,SmallCap,10310.0,-26.26,-44.79,1.06,-16.9,False
+002450,삼익악기,Technology,KOSDAQ,SmallCap,1250.0,-18.86,-28.82,1.12,-11.3,True
+002460,HS화성,Industrials,KOSDAQ,SmallCap,13310.0,-9.74,-25.76,1.1,-13.2,True
+002600,조흥,Consumer Defensive,KOSPI,SmallCap,147000.0,-21.26,-45.49,1.63,-9.4,False
+002620,제일파마홀딩스,Healthcare,KOSDAQ,SmallCap,9000.0,-20.06,-25.48,0.42,-3.0,True
+002700,신일전자,Consumer Cyclical,KOSDAQ,SmallCap,1474.0,-17.56,-26.93,0.96,-9.1,True
+002710,TCC스틸,Basic Materials,KOSDAQ,MidCap,19730.0,11.8,-15.4,1.8,-12.7,True
+002720,국제약품,Healthcare,KOSDAQ,SmallCap,4710.0,-27.18,-31.7,0.66,-9.9,True
+002760,보락,Basic Materials,KOSPI,SmallCap,1147.0,-25.62,-45.22,3.17,-13.3,True
+002780,진흥기업,Industrials,KOSPI,MidCap,1387.0,23.25,67.76,3.1,-4.9,True
+002785,진흥기업우B,Industrials,KOSPI,MidCap,3495.0,-19.97,-35.97,3.25,-23.2,False
+002787,진흥기업2우B,Industrials,KOSPI,LargeCap,8490.0,-19.18,-37.07,2.45,-26.8,True
+002790,아모레퍼시픽홀딩스,Consumer Defensive,KOSPI,LargeCap,27850.0,-21.79,-40.04,2.0,-20.5,False
+002795,아모레퍼시픽홀딩스우,Consumer Defensive,KOSPI,LargeCap,12040.0,-20.55,-38.0,1.35,-13.5,True
+00279K,AMOREPACIFIC Group,Consumer Defensive,KOSPI,nan,23950.0,-21.42,-31.21,1.74,-14.3,True
+002810,삼영무역,Industrials,KOSDAQ,MidCap,20300.0,-17.76,-17.52,0.78,-14.0,True
+002840,미원상사,Basic Materials,KOSDAQ,MidCap,151800.0,-11.04,-25.23,1.35,-22.9,True
+002900,TYM,Industrials,KOSDAQ,MidCap,8050.0,-1.28,-20.24,1.42,-4.2,True
+002960,한국쉘석유,Energy,KOSDAQ,MidCap,509000.0,-20.01,-19.46,1.1,-8.9,True
+002990,금호건설,Industrials,KOSDAQ,MidCap,5530.0,-5.57,-1.88,0.87,-4.2,True
+002995,금호건설우,Industrials,KOSDAQ,MidCap,15390.0,-14.84,-38.19,0.29,-69.3,True
+003000,부광약품,Healthcare,KOSPI,MidCap,6320.0,-48.57,26.52,1.46,-32.3,True
+003010,혜인,Industrials,KOSDAQ,SmallCap,7130.0,3.1,2.66,0.35,-11.2,True
+003030,세아제강지주,Basic Materials,KOSDAQ,MidCap,240000.0,-29.13,46.49,1.36,-5.1,True
+003070,코오롱글로벌,Industrials,KOSDAQ,MidCap,11450.0,-24.77,-6.56,0.43,-8.0,True
+003075,코오롱글로벌우,Industrials,KOSDAQ,MidCap,15790.0,-27.12,-26.61,0.78,-6.3,True
+003080,SB성보,Basic Materials,KOSDAQ,SmallCap,2695.0,-20.73,-39.95,1.35,-8.6,False
+003090,대웅,Healthcare,KOSDAQ,MidCap,22550.0,-24.43,-40.22,0.84,-23.2,False
+003120,일성아이에스,Healthcare,KOSDAQ,SmallCap,22750.0,-23.77,-43.41,1.58,-20.6,False
+003160,디아이,Technology,KOSDAQ,MidCap,33250.0,-6.5,-31.87,1.25,-14.2,True
+003200,일신방직,Consumer Cyclical,KOSDAQ,MidCap,13380.0,-13.04,-33.3,0.97,-16.4,True
+003220,대원제약,Healthcare,KOSDAQ,MidCap,10720.0,-19.51,-42.05,0.87,-23.5,False
+003230,삼양식품,Consumer Defensive,KOSPI,MegaCap,1000000.0,-23.99,-37.42,0.94,0.0,False
+003240,태광산업,Basic Materials,KOSPI,LargeCap,1000000.0,-23.99,-23.4,0.75,0.0,True
+003280,흥아해운,Industrials,KOSPI,MidCap,2890.0,-53.33,34.09,0.4,-35.3,True
+003300,한일홀딩스,Basic Materials,KOSDAQ,MidCap,17550.0,-16.98,-22.94,0.77,-12.3,True
+003350,한국화장품제조,Consumer Defensive,KOSDAQ,SmallCap,10100.0,-100.99,-117.73,2.21,-85.6,False
+003460,유화증권,Financial Services,KOSDAQ,MidCap,3555.0,-16.59,-13.55,1.33,-14.7,True
+003465,유화증권우,Financial Services,KOSDAQ,MidCap,3390.0,-19.36,-9.74,1.52,-9.5,True
+003470,유안타증권,Financial Services,KOSDAQ,LargeCap,5250.0,-7.45,-13.31,1.91,-10.7,True
+003475,유안타증권우,Financial Services,KOSDAQ,MidCap,4455.0,-16.51,-29.29,1.19,-14.7,True
+003480,한진중공업홀딩스,Industrials,KOSDAQ,SmallCap,6160.0,6.52,-6.91,1.68,-2.2,True
+003490,대한항공,Industrials,KOSDAQ,LargeCap,24550.0,-17.25,-28.31,0.86,-15.2,True
+003495,대한항공우,Industrials,KOSDAQ,LargeCap,23550.0,-21.6,-34.81,1.19,-15.7,False
+003520,영진약품,Healthcare,KOSDAQ,MidCap,1770.0,-21.14,-41.95,0.9,-25.0,False
+003530,한화투자증권,Financial Services,KOSDAQ,LargeCap,7510.0,-12.23,-13.29,1.51,-21.4,True
+003535,한화투자증권우,Financial Services,KOSDAQ,LargeCap,9200.0,-19.33,-32.64,1.56,-34.8,True
+003540,대신증권,Financial Services,KOSDAQ,LargeCap,37950.0,-18.87,-8.56,1.23,-22.6,True
+003545,대신증권우,Financial Services,KOSDAQ,LargeCap,23700.0,-21.83,-30.66,1.27,-20.5,True
+003547,대신증권2우B,Financial Services,KOSDAQ,LargeCap,22500.0,-22.41,-31.29,1.13,-22.1,True
+003550,LG,Technology,KOSDAQ,MegaCap,99100.0,-9.42,-24.68,0.98,-8.0,True
+003555,LG우,Technology,KOSDAQ,MegaCap,71300.0,-16.29,-33.33,1.48,-11.9,True
+003570,SNT다이내믹스,Industrials,KOSPI,LargeCap,59800.0,-10.3,-16.25,1.05,-19.8,True
+003580,HLB글로벌,Industrials,KOSPI,SmallCap,2205.0,-14.56,-35.34,0.69,-29.7,False
+003610,방림,Consumer Cyclical,KOSDAQ,SmallCap,5720.0,-11.17,-31.49,1.01,-7.6,True
+003620,KG모빌리티,Consumer Cyclical,KOSDAQ,MidCap,4335.0,4.45,-19.14,1.32,-1.9,True
+003650,미창석유,Energy,KOSPI,SmallCap,125100.0,-17.43,-34.63,1.23,-16.2,True
+003670,포스코퓨처엠,Industrials,KOSPI,MegaCap,252000.0,-4.84,-21.56,1.1,-4.2,True
+003690,코리안리,Financial Services,KOSDAQ,LargeCap,12350.0,-22.59,-29.75,1.05,-14.2,True
+003720,삼영,Consumer Cyclical,KOSPI,MidCap,11290.0,29.2,58.93,0.82,-3.5,True
+003780,진양산업,Consumer Cyclical,KOSPI,SmallCap,5820.0,-17.0,-39.44,0.97,-26.7,False
+003830,대한화섬,Consumer Cyclical,KOSPI,SmallCap,124300.0,-19.1,-27.13,0.41,-17.1,True
+003850,보령,Healthcare,KOSPI,MidCap,9940.0,-15.12,-26.61,0.78,-6.9,True
+003920,남양유업,Consumer Defensive,KOSDAQ,MidCap,52600.0,-19.83,-25.98,1.04,-35.9,False
+003925,남양유업우,Consumer Defensive,KOSDAQ,MidCap,38150.0,-25.67,-17.83,1.11,-19.8,True
+003960,사조대림,Consumer Defensive,KOSDAQ,MidCap,32750.0,-20.35,-44.64,1.1,-28.3,False
+004000,롯데정밀화학,Basic Materials,KOSDAQ,LargeCap,69400.0,23.2,11.35,2.28,-2.5,True
+004020,현대제철,Basic Materials,KOSDAQ,LargeCap,42550.0,0.24,6.57,1.71,-8.5,True
+004080,신흥,Healthcare,KOSDAQ,SmallCap,13990.0,-24.06,-34.4,1.17,-4.2,True
+004090,한국석유,Basic Materials,KOSDAQ,MidCap,16040.0,-29.86,-26.03,0.64,-43.0,True
+004100,태양금속,Consumer Cyclical,KOSDAQ,SmallCap,3235.0,-13.01,-2.35,0.95,-29.6,True
+004105,태양금속우,Consumer Cyclical,KOSDAQ,nan,4005.0,-16.76,-16.97,0.65,-42.8,True
+004140,동방,Industrials,KOSDAQ,SmallCap,2915.0,-18.76,-19.64,0.59,-23.2,True
+004150,한솔홀딩스,Basic Materials,KOSDAQ,SmallCap,3350.0,-19.95,-29.88,1.26,-10.4,True
+004170,신세계,Consumer Cyclical,KOSDAQ,LargeCap,407000.0,9.45,-7.6,1.22,-0.1,True
+004250,NPC,Consumer Cyclical,KOSDAQ,SmallCap,3925.0,-24.87,-32.05,0.91,-14.5,False
+004255,NPC우,Consumer Cyclical,KOSDAQ,SmallCap,2400.0,-24.2,-36.79,1.23,-13.4,False
+004310,현대약품,Healthcare,KOSDAQ,MidCap,8620.0,-24.34,-59.27,1.47,-39.9,True
+004360,세방,Industrials,KOSPI,MidCap,15930.0,-18.28,-23.64,1.18,-4.6,True
+004365,세방우,Industrials,KOSDAQ,MidCap,10310.0,-12.53,-22.87,1.19,-7.9,True
+004370,농심,Consumer Defensive,KOSDAQ,LargeCap,377500.0,-21.13,-43.98,1.01,-27.7,False
+004415,서울식품우,Consumer Defensive,KOSDAQ,MidCap,1193.0,-24.13,-32.46,1.19,-21.2,False
+004430,송원산업,Basic Materials,KOSDAQ,MidCap,15850.0,51.34,44.76,3.41,0.0,True
+004440,삼일씨엔에스,Basic Materials,KOSPI,SmallCap,8220.0,-32.86,3.57,0.58,-21.2,True
+004450,삼화왕관,Consumer Cyclical,KOSDAQ,SmallCap,29050.0,-18.55,-34.41,1.39,-27.0,False
+004490,세방전지,Industrials,KOSDAQ,MidCap,66000.0,-14.54,-31.14,1.1,-11.3,True
+004540,깨끗한나라,Basic Materials,KOSPI,SmallCap,2005.0,-25.22,-31.17,0.9,-25.7,True
+004545,깨끗한나라우,Basic Materials,KOSPI,nan,10600.0,-20.58,-42.69,1.21,-28.5,False
+004560,현대비앤지스틸,Basic Materials,KOSDAQ,MidCap,17200.0,-11.5,-39.25,2.33,-22.7,True
+004690,삼천리,Utilities,KOSDAQ,MidCap,147600.0,-16.57,-30.85,1.07,-14.2,True
+004700,조광피혁,Consumer Cyclical,KOSPI,MidCap,69000.0,-21.0,-42.77,1.2,-18.3,True
+004710,한솔테크닉스,Technology,KOSDAQ,MidCap,8130.0,51.41,3.48,1.1,-6.4,True
+004720,팜젠사이언스,Healthcare,KOSPI,SmallCap,4195.0,-9.22,-35.35,1.84,-14.8,True
+004770,써니전자,Technology,KOSDAQ,SmallCap,1828.0,-12.32,-22.09,0.56,-22.5,True
+004800,효성,Industrials,KOSPI,LargeCap,228000.0,41.23,28.64,2.49,0.0,True
+004830,덕성,Consumer Cyclical,KOSDAQ,SmallCap,4955.0,-10.34,-30.86,0.52,-26.0,False
+004835,덕성우,Consumer Cyclical,KOSDAQ,SmallCap,6860.0,-9.66,-36.24,0.55,-33.0,False
+004840,DRB동일,Consumer Cyclical,KOSDAQ,SmallCap,5390.0,-22.48,-43.52,0.92,-13.8,True
+004890,동일산업,Basic Materials,KOSDAQ,SmallCap,39750.0,-19.52,-33.36,1.55,-15.2,False
+004920,씨아이테크,Technology,KOSPI,SmallCap,1217.0,-10.36,-23.26,2.18,-27.8,True
+004960,한신공영,Industrials,KOSDAQ,SmallCap,14900.0,-28.29,11.58,0.65,-16.0,True
+004970,신라교역,Consumer Defensive,KOSPI,SmallCap,9680.0,-22.1,-30.7,1.01,-10.2,True
+004980,성신양회,Basic Materials,KOSDAQ,MidCap,11430.0,0.93,-21.62,0.35,-13.6,True
+004985,성신양회우,Basic Materials,KOSDAQ,MidCap,11650.0,-15.21,-34.41,0.21,-42.2,True
+004990,롯데지주,Consumer Defensive,KOSDAQ,LargeCap,30550.0,-12.09,-35.76,1.51,-20.9,True
+00499K,LOTTE Corporation,Consumer Defensive,KOSPI,LargeCap,29650.0,-22.97,-31.53,1.76,-26.6,False
+005010,휴스틸,Basic Materials,KOSDAQ,MidCap,6820.0,-12.0,31.18,2.02,-4.2,True
+005070,코스모신소재,Basic Materials,KOSPI,LargeCap,58900.0,-8.95,-19.62,0.88,-10.1,True
+005090,SGC에너지,Industrials,KOSDAQ,MidCap,59700.0,-18.88,142.86,1.03,-13.0,True
+005180,빙그레,Consumer Defensive,KOSPI,MidCap,75000.0,-18.95,-36.75,1.34,-23.0,False
+005250,녹십자홀딩스,Healthcare,KOSDAQ,MidCap,13960.0,-22.76,-43.41,0.95,-18.8,False
+005257,녹십자홀딩스2우,Healthcare,KOSDAQ,LargeCap,22950.0,-24.21,-41.99,0.78,-61.7,False
+005300,롯데칠성,Consumer Defensive,KOSDAQ,LargeCap,122400.0,-16.15,-46.48,1.1,-17.4,False
+005305,롯데칠성우,Consumer Defensive,KOSDAQ,MidCap,80300.0,-21.57,-36.03,0.99,-13.7,True
+005380,현대차,Consumer Cyclical,KOSPI,MegaCap,531000.0,-11.25,-26.33,1.37,-21.2,True
+005385,현대차우,Consumer Cyclical,KOSDAQ,MegaCap,249000.0,-18.48,-39.39,1.2,-22.6,True
+005387,현대차2우B,Consumer Cyclical,KOSDAQ,MegaCap,248000.0,-19.79,-41.11,1.12,-23.3,True
+005389,현대차3우B,Consumer Cyclical,KOSDAQ,MegaCap,241500.0,-18.99,-39.65,1.32,-21.2,True
+005420,코스모화학,Basic Materials,KOSPI,MidCap,17750.0,-6.98,-26.07,0.95,-15.5,True
+005430,한국공항,Industrials,KOSDAQ,SmallCap,58800.0,-22.44,-50.95,1.05,-19.0,False
+005440,현대지에프홀딩스,Consumer Defensive,KOSDAQ,LargeCap,14350.0,-17.3,16.88,1.03,-23.5,True
+005490,POSCO홀딩스,Basic Materials,KOSDAQ,MegaCap,462000.0,8.96,-2.14,1.51,-1.5,True
+005500,삼진제약,Healthcare,KOSDAQ,MidCap,18710.0,-20.9,-38.64,1.13,-11.3,False
+005610,삼립,Consumer Defensive,KOSDAQ,MidCap,49700.0,-23.38,-38.42,1.14,-22.3,False
+005680,삼영전자,Technology,KOSDAQ,MidCap,15360.0,-23.79,-0.28,1.53,-7.7,True
+005690,파미셀,Healthcare,KOSDAQ,LargeCap,18110.0,-2.77,-2.87,1.32,-8.5,True
+005720,넥센,Consumer Cyclical,KOSDAQ,MidCap,7200.0,-11.67,-14.13,1.09,-10.6,True
+005725,넥센우,Consumer Cyclical,KOSDAQ,MidCap,4710.0,-15.21,-32.17,0.73,-12.8,True
+005740,크라운해태홀딩스,Consumer Defensive,KOSPI,SmallCap,7170.0,-14.69,-26.26,1.05,-26.7,True
+005745,크라운해태홀딩스우,Consumer Defensive,KOSPI,SmallCap,7390.0,-23.85,-40.82,1.42,-28.2,False
+005750,대림바스,Industrials,KOSPI,SmallCap,5640.0,-24.17,-17.29,0.83,-8.9,True
+005800,신영와코루,Consumer Cyclical,KOSPI,SmallCap,15080.0,-23.46,-41.67,0.54,-21.5,True
+005810,풍산홀딩스,Basic Materials,KOSDAQ,MidCap,45250.0,0.49,-21.25,0.28,-17.4,True
+005830,DB손해보험,Financial Services,KOSDAQ,MegaCap,167600.0,-20.53,-18.47,0.89,-18.4,True
+005850,에스엘,Consumer Cyclical,KOSDAQ,LargeCap,62900.0,-10.04,-18.52,1.11,-14.3,True
+005870,휴니드,Technology,KOSPI,SmallCap,9460.0,-22.05,-21.63,0.44,-15.2,True
+005880,대한해운,Industrials,KOSDAQ,MidCap,2595.0,-15.41,-6.29,0.45,-16.0,True
+005930,삼성전자,Technology,KOSPI,MegaCap,220500.0,-5.57,9.19,0.89,-2.4,True
+005935,삼성전자우,Technology,KOSPI,MegaCap,158300.0,3.26,6.36,1.29,-3.2,True
+005940,NH투자증권,Financial Services,KOSDAQ,MegaCap,33650.0,-11.64,-3.62,0.91,-14.2,True
+005945,NH투자증권우,Financial Services,KOSDAQ,MegaCap,27200.0,-10.66,-12.08,1.07,-6.2,True
+005950,이수화학,Basic Materials,KOSDAQ,MidCap,11130.0,18.34,-13.2,3.02,-10.3,True
+005960,동부건설,Industrials,KOSPI,MidCap,9630.0,-6.41,46.01,0.88,-6.2,True
+005965,동부건설우,Industrials,KOSPI,MidCap,20000.0,-16.29,-29.95,0.27,-54.4,True
+006040,동원산업,Consumer Defensive,KOSDAQ,LargeCap,38550.0,-22.14,-41.76,1.23,-26.9,False
+006060,화승인더,Consumer Cyclical,KOSPI,SmallCap,3490.0,-18.87,-28.53,0.98,-33.8,False
+006090,사조오양,Consumer Defensive,KOSDAQ,SmallCap,8430.0,-21.56,-35.73,1.5,-22.3,False
+006110,삼아알미늄,Basic Materials,KOSDAQ,LargeCap,68800.0,67.12,89.27,0.44,-5.2,True
+006120,SK디스커버리,Energy,KOSPI,LargeCap,55900.0,-15.66,-34.28,0.72,-18.0,False
+006125,SK디스커버리우,Energy,KOSPI,MidCap,42400.0,-14.43,-23.14,0.78,-6.5,True
+006220,제주은행,Financial Services,KOSDAQ,MidCap,12620.0,-19.61,-63.4,0.75,-34.2,False
+006260,LS,Industrials,KOSDAQ,MegaCap,453000.0,45.04,92.88,1.39,0.0,True
+006280,녹십자,Healthcare,KOSDAQ,LargeCap,137100.0,-26.48,-49.93,1.13,-24.0,False
+006340,대원전선,Industrials,KOSPI,LargeCap,15050.0,158.37,291.97,2.38,0.0,True
+006345,대원전선우,Industrials,KOSDAQ,nan,9940.0,139.67,144.97,3.5,0.0,True
+006360,GS건설,Industrials,KOSDAQ,LargeCap,38050.0,15.64,70.5,0.66,-11.7,True
+006400,삼성SDI,Industrials,KOSPI,MegaCap,695000.0,34.5,57.8,1.03,-2.4,True
+006405,삼성SDI우,Industrials,KOSDAQ,MegaCap,354000.0,37.29,44.4,1.49,-1.4,True
+006620,동구바이오제약,기타,KOSDAQ,nan,5150.0,-23.4,-37.23,1.18,-15.4,False
+006650,대한유화,Basic Materials,KOSDAQ,LargeCap,181100.0,15.42,-14.89,1.35,-5.0,True
+006660,삼성공조,Consumer Cyclical,KOSDAQ,SmallCap,13090.0,-8.76,-37.27,3.0,-20.6,False
+006800,미래에셋증권,Financial Services,KOSPI,MegaCap,64800.0,-21.3,23.2,0.87,-12.6,True
+006805,미래에셋증권우,Financial Services,KOSPI,MegaCap,21150.0,-23.04,-29.55,1.04,-24.5,True
+00680K,Mirae Asset Daewoo Co Ltd Pref,Financial Services,KOSPI,MegaCap,19510.0,-24.3,-9.58,1.3,-16.0,True
+006840,AK홀딩스,Basic Materials,KOSPI,SmallCap,8560.0,-20.48,-25.38,0.9,-34.6,False
+006880,신송홀딩스,Industrials,KOSPI,SmallCap,7310.0,-20.15,-26.16,0.71,-13.3,True
+006890,태경케미컬,Utilities,KOSDAQ,SmallCap,8990.0,-27.94,-10.26,0.52,-24.6,True
+006980,우성,Consumer Defensive,KOSPI,SmallCap,23400.0,-7.28,2.2,1.17,-3.7,True
+007070,GS리테일,Consumer Cyclical,KOSDAQ,LargeCap,23500.0,-14.43,-31.57,0.99,-2.1,True
+007110,일신석재,Industrials,KOSDAQ,SmallCap,1638.0,-13.31,-32.02,0.79,-40.1,False
+007120,미래아이앤지,Industrials,KOSPI,SmallCap,1936.0,-27.19,45.74,0.53,-19.5,True
+007160,사조산업,Consumer Defensive,KOSPI,MidCap,53100.0,-21.68,-47.42,1.77,-26.5,True
+007210,벽산,Industrials,KOSPI,SmallCap,2200.0,-0.53,-4.65,0.8,-12.9,True
+007280,한국특강,Basic Materials,KOSPI,SmallCap,1524.0,-21.14,-19.47,0.0,-20.0,True
+007310,오뚜기,Consumer Defensive,KOSDAQ,LargeCap,365500.0,-21.18,-40.98,0.9,-15.6,False
+007340,DN오토모티브,Consumer Cyclical,KOSDAQ,LargeCap,48050.0,5.18,61.13,1.11,0.0,True
+007540,샘표,Consumer Defensive,KOSDAQ,SmallCap,51800.0,-25.32,-29.5,1.05,-20.3,True
+007590,동방아그로,Basic Materials,KOSDAQ,SmallCap,6060.0,-21.63,-32.76,1.21,-4.6,False
+007660,이수페타시스,Technology,KOSDAQ,MegaCap,150300.0,22.5,-1.53,0.8,-6.9,True
+007680,대원,기타,KOSDAQ,nan,4335.0,-19.15,-27.53,0.64,-27.9,False
+007690,국도화학,Basic Materials,KOSDAQ,MidCap,41800.0,-8.04,-19.67,1.23,-5.7,True
+007700,F&F홀딩스,Consumer Cyclical,KOSDAQ,MidCap,19200.0,-16.85,-41.18,1.1,-18.3,False
+007810,코리아써키트,Technology,KOSPI,LargeCap,92700.0,12.33,6.97,0.61,-5.6,True
+007815,코리아써우,Technology,KOSDAQ,MidCap,21600.0,1.96,-20.03,0.78,-0.5,True
+00781K,Korea Circuit Co. Ltd. Pfd. Series 2,Technology,KOSDAQ,MidCap,16750.0,-1.28,-23.32,1.02,-0.2,True
+007860,서연,Consumer Cyclical,KOSDAQ,MidCap,9460.0,-20.38,-47.84,1.12,-23.5,False
+007980,TP,Consumer Cyclical,KOSDAQ,SmallCap,2190.0,-0.61,-19.81,1.03,-1.6,True
+008040,사조동아원,Consumer Defensive,KOSDAQ,SmallCap,1042.0,-17.45,-39.03,1.04,-25.4,False
+008060,대덕,Technology,KOSPI,MidCap,16650.0,10.07,19.06,1.14,-3.8,True
+00806K,Daeduck Co.Ltd,Technology,KOSPI,MidCap,11430.0,-2.39,-11.68,1.56,-5.7,True
+008260,NI스틸,Basic Materials,KOSDAQ,SmallCap,3940.0,-13.63,-22.05,2.52,-3.8,True
+008350,남선알미늄,Industrials,KOSDAQ,MidCap,2105.0,-7.37,26.65,0.15,-31.7,True
+008355,남선알미우,Industrials,KOSDAQ,LargeCap,13980.0,-25.54,-48.66,0.25,-33.7,True
+008420,문배철강,Basic Materials,KOSDAQ,SmallCap,2900.0,5.76,6.14,1.98,-8.9,True
+008490,서흥,Healthcare,KOSDAQ,MidCap,20050.0,-13.28,-39.38,0.5,-35.5,False
+008700,아남전자,Technology,KOSPI,SmallCap,1493.0,-27.42,-23.45,0.5,-15.8,True
+008730,율촌화학,Consumer Cyclical,KOSDAQ,MidCap,25750.0,-16.47,-38.57,0.74,-32.5,False
+008770,호텔신라,Consumer Cyclical,KOSPI,LargeCap,65500.0,27.98,4.82,2.08,-5.6,True
+008775,호텔신라우,Consumer Cyclical,KOSPI,LargeCap,41000.0,-3.93,-17.19,2.58,-20.8,True
+008930,한미사이언스,Healthcare,KOSDAQ,LargeCap,37700.0,-23.72,-41.49,0.99,-27.4,False
+008970,KBI동양철관,Basic Materials,KOSDAQ,SmallCap,1885.0,-19.96,-31.52,0.82,-41.4,False
+009070,KCTC,Industrials,KOSDAQ,SmallCap,5930.0,-22.8,-44.33,1.09,-25.8,False
+009150,삼성전기,Technology,KOSDAQ,MegaCap,832000.0,58.47,156.57,0.89,-0.8,True
+009155,삼성전기우,Technology,KOSDAQ,MegaCap,348000.0,78.69,151.62,1.24,-0.9,True
+009160,SIMPAC,Industrials,KOSPI,SmallCap,5870.0,-11.11,-16.14,2.49,-4.1,True
+009180,한솔로지스틱스,Industrials,KOSDAQ,SmallCap,3175.0,-17.09,-20.69,1.25,-4.4,True
+009190,대양금속,Basic Materials,KOSDAQ,SmallCap,1536.0,-12.2,-14.84,1.16,-20.0,True
+009200,무림페이퍼,Basic Materials,KOSDAQ,SmallCap,2045.0,-26.61,-30.3,0.2,-20.1,False
+009240,한샘,Consumer Cyclical,KOSDAQ,MidCap,45200.0,-7.94,-37.2,1.75,-12.1,True
+009270,신원,Consumer Cyclical,KOSDAQ,SmallCap,1384.0,-17.69,-36.55,0.88,-29.1,False
+009290,광동제약,Consumer Defensive,KOSDAQ,MidCap,8270.0,-24.47,2.51,1.33,-25.4,True
+009320,아진전자부품,Consumer Cyclical,KOSDAQ,SmallCap,1100.0,-14.97,-33.35,1.54,-6.7,True
+009420,한올바이오파마,Healthcare,KOSPI,LargeCap,47400.0,-23.25,-41.37,0.81,-26.4,True
+009450,경동나비엔,Industrials,KOSDAQ,LargeCap,77700.0,-0.26,1.08,1.6,-16.4,True
+009470,삼화전기,Technology,KOSDAQ,MidCap,48500.0,12.25,-40.23,1.71,-14.0,True
+009540,HD한국조선해양,Industrials,KOSDAQ,MegaCap,461500.0,-0.92,-22.48,0.98,-3.8,True
+009580,무림P&P,Basic Materials,KOSDAQ,SmallCap,3030.0,-12.59,-8.76,0.29,-19.2,True
+009680,모토닉,Consumer Cyclical,KOSDAQ,MidCap,11020.0,-21.57,-32.07,1.32,-5.4,True
+009770,삼정펄프,Basic Materials,KOSDAQ,SmallCap,31100.0,-26.34,-42.17,0.72,-14.7,True
+009830,한화솔루션,Technology,KOSDAQ,LargeCap,50700.0,5.84,53.9,1.77,-13.3,True
+009835,한화솔루션우,Technology,KOSDAQ,LargeCap,29350.0,-1.95,7.52,1.91,-11.3,True
+009900,명신산업,Consumer Cyclical,KOSPI,MidCap,13300.0,13.69,12.52,2.42,-9.5,True
+009970,영원무역홀딩스,Consumer Cyclical,KOSDAQ,LargeCap,208000.0,-25.18,-34.45,1.05,-16.8,True
+010040,한국내화,Industrials,KOSDAQ,SmallCap,1999.0,-17.55,-39.19,0.9,-18.7,False
+010060,OCI홀딩스,Financial Services,KOSPI,LargeCap,368000.0,36.36,195.01,1.09,-4.2,True
+010100,한국무브넥스,Consumer Cyclical,KOSDAQ,SmallCap,4480.0,-21.47,-55.82,1.32,-38.1,False
+010120,LS ELECTRIC,Industrials,KOSDAQ,MegaCap,278000.0,-93.73,-82.55,1.34,-68.6,False
+010130,고려아연,Basic Materials,KOSDAQ,MegaCap,1000000.0,-23.99,-37.42,0.99,0.0,True
+010140,삼성중공업,Industrials,KOSPI,MegaCap,32350.0,-8.04,-19.36,1.11,-6.0,True
+010660,화천기계,Industrials,KOSDAQ,SmallCap,5080.0,-41.79,-48.3,1.23,-21.8,False
+010690,화신,Consumer Cyclical,KOSDAQ,MidCap,12400.0,-9.39,0.82,1.15,-20.2,True
+010770,평화홀딩스,Industrials,KOSDAQ,SmallCap,4135.0,-13.43,-25.66,1.58,-68.4,True
+010780,아이에스동서,Industrials,KOSDAQ,MidCap,26700.0,-29.98,-18.75,1.28,-20.2,True
+010820,퍼스텍,Industrials,KOSDAQ,MidCap,13500.0,23.87,155.1,0.22,-17.5,True
+010950,S-Oil,Energy,KOSDAQ,MegaCap,134500.0,-3.25,-4.25,1.35,-4.8,True
+010955,S-Oil우,Energy,KOSDAQ,LargeCap,61400.0,-6.59,-25.78,1.49,-6.5,True
+010960,삼호개발,Industrials,KOSDAQ,SmallCap,3995.0,-17.46,-29.3,0.71,-6.0,True
+011070,LG이노텍,Technology,KOSDAQ,MegaCap,573000.0,52.59,103.34,1.22,-3.2,True
+011150,CJ씨푸드,Consumer Defensive,KOSPI,SmallCap,2715.0,-21.73,-39.23,1.02,-19.3,False
+011155,CJ씨푸드1우,Consumer Defensive,KOSPI,MidCap,13260.0,-21.99,-51.93,0.9,-33.0,False
+011170,롯데케미칼,Basic Materials,KOSDAQ,LargeCap,113900.0,18.21,9.93,1.92,-3.5,True
+011200,HMM,Industrials,KOSPI,MegaCap,20500.0,-21.75,-32.45,0.87,-21.0,False
+011210,현대위아,Consumer Cyclical,KOSDAQ,LargeCap,82700.0,-16.03,-36.44,1.18,-18.4,True
+011280,태림포장,Consumer Cyclical,KOSDAQ,SmallCap,2095.0,-23.51,-31.99,0.12,-16.0,True
+011300,우성머티리얼스,Consumer Cyclical,KOSPI,SmallCap,3175.0,896.33,729.53,1.94,0.0,True
+011390,부산산업,Basic Materials,KOSPI,SmallCap,74100.0,-20.21,-37.69,1.01,-35.3,False
+011420,갤럭시아에스엠,Communication Services,KOSDAQ,SmallCap,1840.0,-16.39,-41.74,1.14,-36.8,False
+011500,한농화성,Basic Materials,KOSDAQ,MidCap,23600.0,-8.87,-39.9,0.58,-12.3,True
+011700,한신기계,Industrials,KOSDAQ,SmallCap,4615.0,-18.14,-19.54,1.02,-15.6,True
+011760,현대코퍼레이션,Industrials,KOSDAQ,MidCap,30900.0,-5.83,2.08,1.33,-5.1,True
+011780,금호석유화학,Basic Materials,KOSDAQ,LargeCap,146600.0,0.25,-30.41,1.47,-4.4,True
+011785,금호석유화학우,Basic Materials,KOSDAQ,LargeCap,61100.0,-14.88,-44.28,1.7,-16.3,False
+011790,SKC,Basic Materials,KOSDAQ,LargeCap,118000.0,0.35,-31.5,1.46,-12.5,True
+011930,신성이엔지,Industrials,KOSDAQ,MidCap,3995.0,34.66,97.73,0.55,-7.0,True
+012030,DB,Technology,KOSDAQ,MidCap,2010.0,-2.17,-21.84,1.43,-8.6,True
+012200,계양전기,Industrials,KOSPI,SmallCap,7000.0,-21.5,-49.7,0.79,-43.7,True
+012205,계양전기우,Industrials,KOSPI,MidCap,8430.0,-52.12,-21.15,0.71,-39.8,True
+012210,삼미금속,기타,KOSPI,nan,13340.0,-27.39,-54.82,0.49,-27.9,True
+012280,영화금속,Consumer Cyclical,KOSPI,SmallCap,1102.0,-16.69,-20.19,1.13,-3.0,True
+012320,경동인베스트,Utilities,KOSDAQ,SmallCap,66000.0,-6.13,-27.05,0.93,-33.0,True
+012330,현대모비스,Consumer Cyclical,KOSPI,MegaCap,425000.0,-14.59,-39.94,1.22,-19.7,True
+012450,한화에어로스페이스,Industrials,KOSDAQ,MegaCap,1000000.0,-23.99,-37.42,1.02,0.0,True
+012510,더존비즈온,Technology,KOSPI,LargeCap,120000.0,-23.32,-6.27,2.42,0.0,True
+012610,경인양행,Basic Materials,KOSDAQ,MidCap,5090.0,3.26,-29.12,1.91,-1.9,True
+012630,HDC,Industrials,KOSDAQ,LargeCap,28100.0,-18.55,7.95,0.88,-6.8,True
+012690,모나리자,Consumer Defensive,KOSPI,SmallCap,2365.0,-18.88,-27.16,0.84,-21.6,True
+0126Z0,SAMSUNG EPISHOLDINGS CO LTD,Healthcare,KOSPI,MegaCap,543000.0,-14.95,-44.44,0.91,-26.9,False
+012750,에스원,Industrials,KOSPI,LargeCap,86100.0,-24.45,-30.33,0.97,-8.5,True
+012800,대창,Industrials,KOSPI,SmallCap,1650.0,-0.76,-13.73,1.91,0.0,True
+013360,일성건설,Industrials,KOSPI,SmallCap,1886.0,-23.08,-43.12,0.32,-48.2,True
+013520,화승코퍼레이션,Consumer Cyclical,KOSPI,SmallCap,3280.0,-4.06,4.88,1.97,-5.6,True
+013570,디와이,Consumer Cyclical,KOSDAQ,SmallCap,5270.0,-13.28,-33.06,1.42,-5.0,True
+013580,계룡건설,Industrials,KOSDAQ,MidCap,29000.0,-9.37,-3.47,0.42,-7.3,True
+013700,까뮤이앤씨,Industrials,KOSPI,SmallCap,1384.0,-21.01,-27.32,0.88,-10.5,True
+013870,지엠비코리아,Consumer Cyclical,KOSDAQ,SmallCap,4905.0,-24.29,-41.06,0.53,-16.9,True
+013890,지누스,Consumer Cyclical,KOSPI,MidCap,12910.0,-1.85,-29.93,0.82,-40.5,False
+014160,대영포장,Consumer Cyclical,KOSPI,SmallCap,1195.0,-22.63,-19.34,0.11,-36.7,True
+014280,금강공업,Basic Materials,KOSDAQ,nan,5360.0,-13.82,-50.69,1.23,-26.2,False
+014285,금강공업우,Basic Materials,KOSDAQ,nan,7170.0,-17.77,-48.9,0.71,-47.5,False
+014440,영보화학,Basic Materials,KOSDAQ,SmallCap,4775.0,-19.62,-33.5,0.75,-18.0,True
+014530,극동유화,Basic Materials,KOSDAQ,SmallCap,4000.0,-23.11,-18.02,0.61,-33.2,True
+014580,태경비케이,Basic Materials,KOSPI,SmallCap,4780.0,-17.05,-30.96,0.86,-20.1,False
+014680,한솔케미칼,Basic Materials,KOSDAQ,LargeCap,285000.0,-16.24,-33.22,0.81,-15.7,True
+014710,사조씨푸드,Consumer Defensive,KOSPI,SmallCap,8120.0,-10.11,-38.28,1.07,-18.8,False
+014790,HL D&I,Industrials,KOSDAQ,SmallCap,3550.0,-15.09,-11.53,1.07,-10.7,True
+014820,동원시스템즈,Consumer Cyclical,KOSDAQ,MidCap,28100.0,-9.06,-32.96,1.2,-17.6,True
+014825,동원시스템즈우,Consumer Cyclical,KOSDAQ,MidCap,16670.0,-21.59,-36.82,0.96,-11.8,False
+014830,유니드,Basic Materials,KOSDAQ,MidCap,94800.0,-7.53,-18.03,1.74,-3.3,True
+014915,성문전자우,Technology,KOSDAQ,SmallCap,4420.0,-16.97,-42.57,2.75,-33.7,False
+015230,대창단조,Consumer Cyclical,KOSPI,SmallCap,7090.0,-18.64,-30.16,0.87,-0.8,True
+015360,INVENI,Utilities,KOSPI,MidCap,16070.0,-111.27,-110.86,0.93,-81.3,False
+015760,한국전력,Utilities,KOSPI,MegaCap,43550.0,-15.93,-61.42,0.84,-35.9,False
+015860,일진홀딩스,Industrials,KOSDAQ,MidCap,10320.0,28.9,6.91,1.86,-0.3,True
+015890,태경산업,Basic Materials,KOSPI,SmallCap,5120.0,-19.39,-26.6,0.97,-8.2,True
+016090,대현,Consumer Cyclical,KOSPI,SmallCap,1765.0,-23.31,-28.2,1.05,-12.8,True
+016360,삼성증권,Financial Services,KOSDAQ,LargeCap,107500.0,-8.89,-8.99,0.98,-6.1,True
+016380,KG스틸,Basic Materials,KOSDAQ,MidCap,7030.0,10.68,-6.99,2.17,0.0,True
+016450,한세예스24홀딩스,Consumer Cyclical,KOSDAQ,SmallCap,4540.0,-18.53,-24.49,1.14,-9.0,True
+016580,환인제약,Healthcare,KOSDAQ,SmallCap,11860.0,-9.73,-23.16,2.54,-9.7,True
+016590,신대양제지,Basic Materials,KOSDAQ,MidCap,13050.0,-19.92,-25.5,0.26,-20.4,True
+016610,DB증권,Financial Services,KOSDAQ,MidCap,13660.0,-11.28,-31.2,1.26,-22.2,True
+016710,대성홀딩스,Utilities,KOSPI,SmallCap,8640.0,-21.98,-35.89,1.31,-22.3,False
+016740,두올,Consumer Cyclical,KOSDAQ,SmallCap,5200.0,-9.07,-25.71,2.02,0.0,True
+016800,퍼시스,Consumer Cyclical,KOSDAQ,MidCap,35900.0,-30.13,-52.85,1.07,-28.6,False
+016880,웅진,Industrials,KOSDAQ,MidCap,3015.0,-11.28,-4.89,1.53,-41.2,False
+017180,명문제약,Healthcare,KOSDAQ,SmallCap,1788.0,-26.5,-34.13,1.27,-8.1,True
+017370,우신시스템,Consumer Cyclical,KOSPI,SmallCap,6120.0,-15.09,-42.98,0.96,-27.5,False
+017390,서울가스,Utilities,KOSDAQ,MidCap,65400.0,-19.18,-35.71,1.26,-11.4,True
+017550,수산세보틱스,Industrials,KOSDAQ,SmallCap,3110.0,31.51,48.7,0.27,-12.6,True
+017670,SK텔레콤,Communication Services,KOSPI,MegaCap,95100.0,-6.44,0.21,0.76,-5.4,True
+017800,현대엘리베이터,Industrials,KOSDAQ,LargeCap,98700.0,-10.41,-31.97,0.75,-11.6,True
+017810,풀무원,Consumer Defensive,KOSDAQ,MidCap,12300.0,-21.66,-41.1,1.34,-30.4,False
+017860,DS단석,Basic Materials,KOSPI,MidCap,24000.0,-3.99,-8.32,0.84,-14.4,True
+017900,광전자,Technology,KOSPI,MidCap,10110.0,102.95,383.98,0.43,-43.1,True
+017940,E1,Energy,KOSDAQ,MidCap,108300.0,-13.03,-12.22,1.47,-3.7,True
+017960,한국카본,Basic Materials,KOSDAQ,LargeCap,49550.0,-13.88,17.67,0.99,-5.1,True
+018250,애경산업,Consumer Defensive,KOSPI,MidCap,14900.0,-19.36,-17.36,1.07,-19.8,True
+018260,삼성에스디에스,Technology,KOSDAQ,MegaCap,166200.0,-14.79,-38.43,0.9,-14.8,False
+018470,조일알미늄,Basic Materials,KOSPI,MidCap,1749.0,-1.17,-1.73,0.65,-10.4,True
+018500,동원금속,Consumer Cyclical,KOSDAQ,SmallCap,1864.0,-5.72,-15.99,1.19,0.0,True
+018670,SK가스,Energy,KOSPI,LargeCap,289000.0,-11.1,-7.53,1.11,-2.4,True
+018880,한온시스템,Consumer Cyclical,KOSDAQ,LargeCap,4230.0,-12.09,-5.23,1.14,-19.7,True
+019170,신풍제약,Healthcare,KOSDAQ,MidCap,11690.0,-10.71,-44.57,0.33,-34.4,False
+019175,신풍제약우,Healthcare,KOSDAQ,MidCap,19000.0,-3.81,-42.14,0.22,-59.1,False
+019180,티에이치엔,Consumer Cyclical,KOSDAQ,SmallCap,7540.0,-22.92,-29.55,1.05,-18.9,True
+019680,대교,Consumer Defensive,KOSPI,SmallCap,1503.0,-27.4,-50.04,1.25,-40.8,False
+019685,대교우B,Consumer Defensive,KOSPI,SmallCap,1056.0,-20.26,-46.31,0.4,-22.2,False
+020000,한섬,Consumer Cyclical,KOSDAQ,MidCap,26550.0,-5.46,7.42,1.19,-2.7,True
+020120,키다리스튜디오,Communication Services,KOSDAQ,SmallCap,3875.0,-4.94,-13.22,2.05,-11.8,True
+020150,롯데에너지머티리얼즈,Industrials,KOSDAQ,LargeCap,66700.0,40.9,43.83,0.97,-2.3,True
+020560,아시아나항공,Industrials,KOSPI,LargeCap,7040.0,-22.84,-43.68,1.02,-30.4,False
+021050,서원,Industrials,KOSDAQ,SmallCap,1550.0,5.28,-10.37,0.66,0.0,True
+021240,코웨이,Consumer Cyclical,KOSPI,LargeCap,86100.0,-4.41,-34.43,1.19,-23.9,False
+022100,포스코DX,Technology,KOSPI,LargeCap,34900.0,-9.56,-44.35,1.29,-18.6,True
+023000,삼원강재,Consumer Cyclical,KOSPI,SmallCap,2440.0,-17.44,-33.15,1.95,-6.7,True
+023350,한국종합기술,Industrials,KOSDAQ,SmallCap,5280.0,-11.05,-19.96,0.34,-16.2,True
+023450,동남합성,Basic Materials,KOSDAQ,SmallCap,30200.0,-23.99,-42.75,1.43,-14.0,False
+023530,롯데쇼핑,Consumer Cyclical,KOSDAQ,LargeCap,135300.0,11.99,25.0,1.24,0.0,True
+023590,다우기술,Technology,KOSDAQ,LargeCap,46400.0,-19.6,-40.85,1.24,-24.6,True
+023800,인지컨트롤스,Consumer Cyclical,KOSDAQ,SmallCap,8250.0,-1.59,-20.57,0.99,0.0,True
+023810,인팩,Consumer Cyclical,KOSDAQ,SmallCap,9120.0,-5.7,-29.11,1.29,-30.8,True
+023960,에쓰씨엔지니어링,Industrials,KOSDAQ,SmallCap,1340.0,-25.46,-64.16,1.24,-29.1,True
+024090,디씨엠,Basic Materials,KOSDAQ,SmallCap,12500.0,-23.26,-31.76,2.05,-14.6,True
+024110,기업은행,Financial Services,KOSPI,MegaCap,22600.0,-18.14,-33.75,1.01,-20.8,True
+024720,콜마홀딩스,Consumer Defensive,KOSDAQ,MidCap,9810.0,-10.45,-34.91,1.58,-46.8,False
+024900,디와이덕양,Consumer Cyclical,KOSDAQ,SmallCap,2365.0,-2.4,-26.91,0.83,-18.9,True
+025000,KPX케미칼,Basic Materials,KOSDAQ,MidCap,54200.0,-15.05,-23.79,1.51,-3.7,True
+025530,SJM홀딩스,Consumer Cyclical,KOSPI,SmallCap,3850.0,-16.45,-28.97,1.25,-2.8,True
+025540,한국단자,Industrials,KOSDAQ,MidCap,91400.0,0.36,-10.12,1.25,0.0,True
+025560,미래산업,Technology,KOSPI,SmallCap,15450.0,-5.87,-14.22,2.06,-7.5,True
+025620,차AI헬스케어,Consumer Defensive,KOSDAQ,SmallCap,8650.0,-26.14,-66.58,1.24,-47.7,False
+025820,이구산업,Industrials,KOSDAQ,MidCap,6000.0,-1.67,-26.31,2.06,-3.1,True
+025860,남해화학,Basic Materials,KOSDAQ,MidCap,11740.0,16.61,39.92,1.55,0.0,True
+026890,스틱인베스트먼트,Financial Services,KOSDAQ,MidCap,10120.0,-14.35,-47.31,1.86,-22.2,False
+026940,부국철강,Basic Materials,KOSPI,SmallCap,2900.0,18.52,6.5,1.11,-13.4,True
+026960,동서,Consumer Defensive,KOSDAQ,LargeCap,26700.0,-24.92,-31.26,1.07,-15.8,False
+027360,아주IB투자,기타,KOSDAQ,nan,15000.0,45.89,197.77,1.37,-19.9,True
+027410,BGF,Basic Materials,KOSPI,MidCap,5240.0,-14.14,-3.75,0.77,-1.1,True
+028050,삼성E&A,Industrials,KOSDAQ,MegaCap,53100.0,6.96,34.98,0.73,-5.7,True
+028100,동아지질,Industrials,KOSDAQ,MidCap,18000.0,-23.21,-37.03,1.15,-3.1,True
+028260,삼성물산,Industrials,KOSDAQ,MegaCap,298500.0,-10.49,-34.84,0.91,-17.1,True
+02826K,Samsung C&T Corp. Pfd. Series 1,Industrials,KOSDAQ,MegaCap,190300.0,-12.05,-31.17,1.09,-13.1,True
+028670,팬오션,Industrials,KOSDAQ,LargeCap,5540.0,-18.67,-22.96,0.6,-10.6,True
+029460,케이씨,Technology,KOSDAQ,MidCap,39150.0,6.51,-12.74,1.02,-1.9,True
+029530,신도리코,Industrials,KOSPI,MidCap,49950.0,-25.08,-44.23,1.74,-22.6,True
+029780,삼성카드,Financial Services,KOSPI,LargeCap,53300.0,-21.69,-40.34,1.14,-20.9,False
+030000,제일기획,Communication Services,KOSPI,LargeCap,20050.0,-19.51,-42.4,1.17,-13.4,False
+030190,NICE평가정보,Financial Services,KOSPI,MidCap,15300.0,-29.78,-45.03,1.48,-15.9,False
+030200,KT,Communication Services,KOSPI,MegaCap,60900.0,-21.64,-27.09,0.74,-11.6,True
+030210,다올투자증권,Financial Services,KOSDAQ,MidCap,4415.0,-11.36,-21.54,1.87,-17.8,True
+030610,교보증권,Financial Services,KOSDAQ,LargeCap,13630.0,-7.09,-15.18,1.19,-18.5,True
+031210,서울보증보험,Financial Services,KOSPI,LargeCap,47800.0,-24.82,-41.24,0.73,-22.9,False
+031430,신세계인터내셔날,Consumer Cyclical,KOSDAQ,MidCap,14870.0,1.07,-11.94,1.16,-2.9,True
+031440,신세계푸드,Consumer Defensive,KOSDAQ,SmallCap,52300.0,-16.16,-26.97,0.97,-0.9,True
+032300,한국파마,기타,KOSDAQ,nan,11600.0,-19.01,-41.55,0.83,-27.5,False
+032350,롯데관광개발,Consumer Cyclical,KOSDAQ,LargeCap,20700.0,4.26,-54.29,0.82,-22.0,True
+032560,황금에스티,Basic Materials,KOSDAQ,SmallCap,6370.0,-16.75,-30.18,1.57,-2.3,True
+032640,LG유플러스,Communication Services,KOSPI,LargeCap,15840.0,-20.66,-37.8,0.88,-11.1,True
+032830,삼성생명,Financial Services,KOSDAQ,MegaCap,249500.0,-11.09,1.96,0.91,-3.3,True
+033240,자화전자,Technology,KOSDAQ,LargeCap,48650.0,17.43,15.81,1.11,-2.0,True
+033270,유나이티드제약,Healthcare,KOSDAQ,MidCap,20200.0,-22.99,-28.53,0.68,-9.6,True
+033530,SJG세종,Consumer Cyclical,KOSDAQ,MidCap,7950.0,-14.49,-60.68,1.27,-32.9,True
+033780,KT&G,Consumer Defensive,KOSDAQ,MegaCap,178300.0,-9.91,-22.17,0.82,-0.8,True
+033920,무학,Consumer Defensive,KOSDAQ,MidCap,8900.0,-20.26,-34.77,0.98,-14.4,True
+034020,두산에너빌리티,Industrials,KOSPI,MegaCap,127100.0,7.58,10.03,1.0,-1.6,True
+034120,SBS,Communication Services,KOSDAQ,MidCap,15900.0,-18.41,-50.63,0.63,-45.5,False
+034220,LG디스플레이,Technology,KOSDAQ,LargeCap,12260.0,-11.1,-26.37,0.91,-22.6,False
+034230,파라다이스,Consumer Cyclical,KOSPI,LargeCap,15850.0,-18.46,-46.43,1.02,-33.0,False
+034310,NICE,Financial Services,KOSDAQ,MidCap,14590.0,-14.13,-30.06,1.3,-5.4,True
+034590,인천도시가스,Utilities,KOSDAQ,SmallCap,26950.0,-23.62,-32.96,0.77,-2.4,True
+034730,SK,Industrials,KOSPI,MegaCap,425000.0,12.01,4.48,1.23,0.0,True
+03473K,SK Holdings 1p Pref,Industrials,KOSPI,nan,298000.0,-0.08,-0.72,1.61,-0.8,True
+034830,한국토지신탁,Real Estate,KOSDAQ,MidCap,1597.0,-19.54,-4.12,1.28,-8.4,True
+035000,HS애드,Communication Services,KOSDAQ,SmallCap,8990.0,-15.15,-26.98,1.45,-3.3,True
+035150,백산,Consumer Cyclical,KOSPI,MidCap,12400.0,-27.27,-40.32,1.25,-20.8,False
+035250,강원랜드,Consumer Cyclical,KOSDAQ,LargeCap,17200.0,-20.44,-36.6,1.0,-16.3,False
+035420,NAVER,Communication Services,KOSPI,MegaCap,211000.0,-17.15,-58.69,1.04,-27.4,False
+035510,신세계 I&C,Technology,KOSDAQ,MidCap,21100.0,-13.23,-18.48,1.08,-12.6,True
+035720,카카오,Communication Services,KOSPI,MegaCap,47300.0,-19.34,-56.43,1.03,-32.8,False
+036170,에이치엠넥스,기타,KOSDAQ,nan,6990.0,57.57,319.44,0.39,-12.2,True
+036420,콘텐트리중앙,Communication Services,KOSPI,SmallCap,6050.0,-14.78,-50.25,0.79,-55.6,False
+036460,한국가스공사,Utilities,KOSDAQ,LargeCap,39100.0,-11.15,-38.18,1.4,-17.4,False
+036530,SNT홀딩스,Industrials,KOSPI,MidCap,62100.0,-17.29,-17.54,1.0,-29.6,True
+036570,NC,Communication Services,KOSPI,LargeCap,270500.0,3.91,-14.47,1.07,-2.5,True
+036580,팜스코,Consumer Defensive,KOSDAQ,SmallCap,3380.0,-17.2,-21.07,1.02,-17.9,True
+037270,YG PLUS,Communication Services,KOSPI,MidCap,5110.0,-24.38,-62.71,1.21,-50.7,False
+037560,LG헬로비전,Communication Services,KOSPI,SmallCap,2360.0,-18.4,-33.68,0.96,-28.8,False
+037710,광주신세계,Consumer Cyclical,KOSDAQ,MidCap,38500.0,-15.54,-14.81,1.21,-5.1,True
+039130,하나투어,Consumer Cyclical,KOSPI,MidCap,41850.0,-19.89,-44.63,1.15,-27.3,False
+039490,키움증권,Financial Services,KOSPI,MegaCap,398000.0,-27.39,-41.98,1.21,-19.7,True
+039570,HDC랩스,Technology,KOSDAQ,SmallCap,8390.0,-20.66,-33.71,1.48,-15.7,False
+041650,상신브레이크,Consumer Cyclical,KOSDAQ,SmallCap,2800.0,-16.3,-32.55,0.92,-7.3,True
+042000,카페24,기타,KOSDAQ,nan,25100.0,-26.13,-67.5,1.29,-62.3,False
+042660,한화오션,Industrials,KOSPI,MegaCap,131800.0,-21.02,-38.77,0.81,-12.1,True
+042700,한미반도체,Technology,KOSDAQ,MegaCap,368000.0,17.55,59.27,2.14,-1.5,True
+043650,국순당,기타,KOSPI,nan,4280.0,-19.73,-27.96,0.69,-12.9,False
+044450,KSS해운,Industrials,KOSDAQ,MidCap,12820.0,-10.74,-1.76,0.41,-6.0,True
+044820,코스맥스비티아이,Consumer Defensive,KOSPI,SmallCap,17810.0,-13.51,1.07,0.75,-27.9,True
+047040,대우건설,Industrials,KOSDAQ,MegaCap,35000.0,84.22,583.49,0.65,-5.8,True
+047050,포스코인터내셔널,Industrials,KOSPI,MegaCap,87300.0,-21.4,5.46,0.99,0.0,True
+047400,유니온머티리얼,Industrials,KOSDAQ,SmallCap,1778.0,-15.18,-17.04,1.18,-21.3,True
+047810,한국항공우주,Industrials,KOSDAQ,MegaCap,169000.0,-31.44,-31.8,1.65,-16.3,True
+049800,우진플라임,Industrials,KOSDAQ,SmallCap,2735.0,-14.59,-1.35,0.32,-21.0,True
+051600,한전KPS,Industrials,KOSDAQ,LargeCap,62200.0,-15.25,-22.87,1.02,-7.9,True
+051900,LG생활건강,Consumer Defensive,KOSPI,LargeCap,254000.0,-21.16,-38.59,1.21,-27.3,False
+051905,LG생활건강우,Consumer Defensive,KOSDAQ,LargeCap,114200.0,-16.56,-32.75,1.39,-18.4,False
+051910,LG화학,Basic Materials,KOSPI,MegaCap,397000.0,6.39,-3.53,1.02,-5.4,True
+051915,LG화학우,Basic Materials,KOSDAQ,MegaCap,186700.0,0.48,-12.62,1.1,-10.2,True
+052690,한전기술,Industrials,KOSDAQ,LargeCap,188600.0,-8.21,12.98,0.82,-3.2,True
+053080,케이엔솔,기타,KOSDAQ,nan,13930.0,9.82,-25.8,1.25,-7.8,True
+053210,스카이라이프,Communication Services,KOSDAQ,MidCap,4925.0,-18.98,-34.6,0.67,-10.0,False
+053580,웹케시,기타,KOSDAQ,nan,9160.0,-14.03,-44.24,0.77,-58.5,False
+053690,한미글로벌,Industrials,KOSDAQ,MidCap,28000.0,-28.75,16.43,0.42,-15.7,True
+055490,테이팩스,Basic Materials,KOSPI,SmallCap,20000.0,0.62,0.13,1.41,-4.5,True
+055550,신한지주,Financial Services,KOSDAQ,MegaCap,99900.0,-15.17,-16.33,1.33,-5.8,True
+057050,현대홈쇼핑,Consumer Cyclical,KOSDAQ,MidCap,84900.0,-14.86,11.01,1.0,-9.9,True
+058430,포스코스틸리온,Industrials,KOSDAQ,MidCap,8390.0,-96.27,-119.63,3.52,-82.7,False
+058650,세아홀딩스,Basic Materials,KOSDAQ,MidCap,162300.0,-21.4,-34.24,1.22,-10.3,True
+058730,다스코,Basic Materials,KOSDAQ,SmallCap,3855.0,-21.33,-13.07,0.35,-16.7,True
+058850,KTcs,Industrials,KOSDAQ,SmallCap,2695.0,-19.13,-37.61,0.94,-13.3,False
+058860,KTis,Communication Services,KOSPI,SmallCap,2875.0,-19.44,-34.0,0.86,-9.0,True
+058970,엠로,기타,KOSDAQ,nan,28250.0,-16.58,-65.99,0.71,-52.0,False
+059270,해성에어로보틱스,기타,KOSDAQ,nan,9560.0,-28.39,-67.89,2.16,-52.8,True
+060850,영림원소프트랩,기타,KOSDAQ,nan,6480.0,-16.35,-33.24,1.49,-4.4,True
+060900,에이전트AI,기타,KOSDAQ,nan,7530.0,2589.45,421.01,1.57,0.0,True
+060980,HL홀딩스,Consumer Cyclical,KOSDAQ,MidCap,43450.0,-17.89,-39.56,1.18,-18.0,True
+062040,산일전기,Industrials,KOSPI,LargeCap,266000.0,75.11,57.88,1.31,0.0,True
+062970,한국첨단소재,기타,KOSDAQ,nan,2710.0,-31.1,-35.1,0.22,-47.9,False
+063160,종근당바이오,Healthcare,KOSPI,SmallCap,19510.0,-20.43,-42.25,0.26,-20.4,False
+063760,이엘피,기타,KOSPI,nan,3475.0,-5.39,2.98,0.73,-4.3,True
+064350,현대로템,Industrials,KOSDAQ,MegaCap,268500.0,3.87,-12.25,1.47,0.0,True
+064400,LG씨엔에스,Technology,KOSPI,LargeCap,65000.0,-11.14,-40.69,0.92,-33.3,False
+064850,에프앤가이드,기타,KOSDAQ,nan,27200.0,19.32,81.23,0.61,-10.1,True
+064960,SNT모티브,Consumer Cyclical,KOSPI,MidCap,35000.0,-19.36,-35.97,1.45,-11.3,True
+065370,위세아이텍,기타,KOSDAQ,nan,5310.0,-12.67,-47.27,0.81,-56.3,False
+066360,체리부로,기타,KOSDAQ,nan,1274.0,-12.43,28.46,0.57,-7.9,True
+066430,아이로보틱스,기타,KOSDAQ,nan,2220.0,-4.64,-34.4,2.8,-39.8,True
+066570,LG전자,Technology,KOSDAQ,MegaCap,140900.0,6.11,8.44,1.91,-4.0,True
+066575,LG전자우,Technology,KOSDAQ,MegaCap,60300.0,0.98,-13.35,1.86,-11.2,True
+066830,제노텍,기타,KOSPI,nan,1258.0,-45.36,-1.68,1.92,-21.4,True
+066970,엘앤에프,기타,KOSPI,nan,195100.0,-6.74,20.81,0.71,-6.7,True
+067370,선바이오,기타,KOSPI,nan,8280.0,33.72,19.4,1.35,-0.1,True
+067830,세이브존I&C,Consumer Cyclical,KOSDAQ,SmallCap,3175.0,-18.16,-32.98,0.9,-21.8,True
+068270,셀트리온,Healthcare,KOSPI,MegaCap,200500.0,-21.33,-38.65,1.06,-19.3,True
+068290,삼성출판사,Communication Services,KOSDAQ,SmallCap,9130.0,-21.17,-49.12,1.01,-55.1,False
+068330,일신바이오,기타,KOSPI,nan,1555.0,-14.02,-37.29,0.21,-28.3,False
+069260,TKG휴켐스,Basic Materials,KOSPI,MidCap,18890.0,-15.68,-40.85,0.91,-10.9,True
+069620,대웅제약,Healthcare,KOSDAQ,LargeCap,148300.0,-28.74,-45.76,0.87,-23.6,False
+069730,DSR제강,Industrials,KOSDAQ,SmallCap,5640.0,-10.85,12.58,0.91,-1.4,True
+069960,현대백화점,Consumer Cyclical,KOSDAQ,LargeCap,108900.0,20.25,-19.95,1.56,-3.9,True
+070960,모나용평,Consumer Cyclical,KOSPI,SmallCap,3120.0,-17.51,-37.74,0.8,-41.5,False
+071050,한국금융지주,Financial Services,KOSDAQ,MegaCap,240000.0,-10.78,-17.3,0.99,-17.9,True
+071055,한국금융지주우,Financial Services,KOSDAQ,MegaCap,172100.0,-9.41,-14.84,0.81,-9.2,True
+071090,하이스틸,Basic Materials,KOSPI,SmallCap,4620.0,0.37,-6.17,1.11,-21.3,True
+071200,인피니트헬스케어,기타,KOSPI,nan,7360.0,-5.85,-27.57,1.95,-5.8,True
+071320,지역난방공사,Utilities,KOSDAQ,MidCap,76500.0,-17.59,-60.15,0.78,-31.9,False
+071840,롯데하이마트,Consumer Cyclical,KOSDAQ,SmallCap,8010.0,-19.83,-26.33,1.2,-15.1,False
+071970,HD현대마린엔진,Industrials,KOSDAQ,LargeCap,105800.0,15.59,-11.47,1.85,-8.4,True
+072130,유엔젤,Communication Services,KOSDAQ,SmallCap,5230.0,-23.02,-21.46,0.46,-15.9,True
+072710,농심홀딩스,Consumer Defensive,KOSDAQ,MidCap,97600.0,-17.9,-24.33,1.15,-21.2,True
+073240,금호타이어,Consumer Cyclical,KOSDAQ,LargeCap,5820.0,-25.51,-36.55,1.7,-22.7,True
+075180,새론오토모티브,Consumer Cyclical,KOSPI,SmallCap,3040.0,-23.66,-39.99,1.04,-17.1,False
+075580,세진중공업,Industrials,KOSDAQ,LargeCap,20550.0,-5.48,-26.22,1.21,-21.3,True
+076340,지에이이노더스,기타,KOSPI,nan,4575.0,-31.89,-33.27,0.27,-26.0,False
+077500,유니퀘스트,Technology,KOSDAQ,SmallCap,7330.0,0.88,-18.23,1.3,-5.3,True
+077970,STX엔진,Industrials,KOSDAQ,LargeCap,61600.0,46.18,53.29,1.26,-7.4,True
+078000,텔코웨어,Communication Services,KOSDAQ,SmallCap,16900.0,-24.46,-27.68,0.5,-26.5,True
+078520,에이블씨엔씨,Consumer Defensive,KOSPI,MidCap,14920.0,7.35,4.0,1.54,-3.2,True
+078930,GS,Industrials,KOSDAQ,LargeCap,81900.0,5.39,-10.25,1.27,-0.2,True
+078935,GS우,Industrials,KOSDAQ,LargeCap,57900.0,-15.16,-28.18,1.27,-7.4,True
+079160,CJ CGV,Communication Services,KOSPI,MidCap,4935.0,-18.43,-53.49,0.95,-24.9,False
+079430,현대리바트,Consumer Cyclical,KOSDAQ,SmallCap,7980.0,-4.89,-12.54,0.31,-6.0,True
+079550,LIG디펜스앤에어로스페이스,Industrials,KOSDAQ,MegaCap,941000.0,-14.57,69.85,0.65,-5.9,True
+079900,전진건설로봇,Industrials,KOSPI,MidCap,64100.0,-6.81,-10.24,0.27,-12.2,True
+079980,휴비스,Consumer Cyclical,KOSDAQ,SmallCap,3485.0,-28.25,-5.91,0.49,-4.3,True
+081000,일진다이아,Industrials,KOSDAQ,MidCap,14710.0,-8.89,-22.59,1.56,-11.2,True
+081660,미스토홀딩스,Consumer Cyclical,KOSDAQ,LargeCap,40600.0,-23.87,-49.54,1.06,-25.1,False
+082640,동양생명,Financial Services,KOSPI,LargeCap,8310.0,-25.76,-16.99,2.6,-8.7,True
+082740,한화엔진,Industrials,KOSDAQ,LargeCap,88000.0,68.57,28.3,1.53,-0.6,True
+083420,그린케미칼,Basic Materials,KOSDAQ,SmallCap,6260.0,-17.89,-31.5,1.07,-38.3,False
+083500,에프엔에스테크,기타,KOSPI,nan,19350.0,2.48,-19.29,0.89,-8.3,True
+084010,대한제강,Basic Materials,KOSPI,MidCap,12660.0,-7.2,-16.73,2.07,-39.1,False
+084440,유비온,기타,KOSPI,nan,1174.0,-8.44,-27.19,0.38,-10.9,True
+084670,동양고속,Industrials,KOSDAQ,SmallCap,37800.0,-29.13,-68.57,0.89,-71.7,True
+084680,이월드,Consumer Cyclical,KOSDAQ,MidCap,1924.0,-11.01,-12.16,0.36,-3.1,True
+084690,대상홀딩스,Consumer Defensive,KOSPI,MidCap,9540.0,-16.8,-37.94,1.14,-29.7,False
+084695,대상홀딩스우,Consumer Defensive,KOSPI,MidCap,14400.0,-22.58,-32.77,1.04,-29.4,True
+084850,아이티엠반도체,기타,KOSDAQ,nan,16980.0,32.08,28.24,0.38,-8.9,True
+085310,엔케이,Industrials,KOSDAQ,SmallCap,1169.0,-24.45,-33.36,1.34,-30.0,False
+085620,미래에셋생명,Financial Services,KOSPI,LargeCap,15930.0,-29.0,36.3,0.79,-12.9,True
+086220,광동헬스바이오,기타,KOSPI,nan,1479.0,-30.63,-23.46,0.47,-11.4,True
+086280,현대글로비스,Industrials,KOSDAQ,MegaCap,227000.0,-15.89,-45.14,1.58,-21.9,True
+086710,선진뷰티사이언스,기타,KOSDAQ,nan,11030.0,-10.86,-18.82,2.31,-27.4,True
+086790,하나금융지주,Financial Services,KOSDAQ,MegaCap,127900.0,-7.4,-13.61,1.28,-2.6,True
+086820,바이오솔루션,기타,KOSDAQ,nan,11990.0,-22.38,24.83,1.78,-65.7,True
+088260,이리츠코크렙,Real Estate,KOSPI,MidCap,4965.0,-21.51,-31.67,1.54,-7.0,True
+088350,한화생명,Financial Services,KOSPI,LargeCap,4885.0,-14.71,6.68,1.21,-26.0,True
+089470,HDC현대EP,Consumer Cyclical,KOSDAQ,SmallCap,5450.0,-11.39,-13.84,1.38,-16.2,True
+089590,제주항공,Industrials,KOSDAQ,MidCap,5310.0,-18.63,-36.85,0.89,-27.6,False
+089860,롯데렌탈,Industrials,KOSPI,LargeCap,33650.0,-16.65,-26.73,1.04,-4.0,True
+089970,브이엠,기타,KOSDAQ,nan,53400.0,4.84,59.26,0.7,-7.0,True
+090080,평화산업,Consumer Cyclical,KOSDAQ,SmallCap,1014.0,-14.96,-30.68,0.67,-51.4,True
+090350,노루페인트,Basic Materials,KOSDAQ,SmallCap,8830.0,-18.87,-28.68,0.99,-11.1,True
+090355,노루페인트우,Basic Materials,KOSDAQ,MidCap,13720.0,-15.36,-25.24,0.54,-14.7,True
+090430,아모레퍼시픽,Consumer Defensive,KOSPI,LargeCap,135300.0,-21.1,-39.52,1.99,-18.0,True
+090435,아모레퍼시픽우,Consumer Defensive,KOSPI,LargeCap,48550.0,-15.86,-41.47,1.48,-13.1,True
+090460,비에이치,Technology,KOSPI,LargeCap,34500.0,26.34,58.6,0.57,-4.3,True
+092190,서울바이오시스,기타,KOSDAQ,nan,8640.0,135.86,177.33,3.4,0.0,True
+092200,디아이씨,Consumer Cyclical,KOSPI,MidCap,7590.0,-29.7,-65.55,1.52,-48.1,False
+092220,KEC,Technology,KOSPI,MidCap,1838.0,-11.79,99.33,2.19,-4.1,True
+092230,KPX홀딩스,Industrials,KOSDAQ,MidCap,91000.0,-12.47,-15.27,0.92,0.0,True
+092440,기신정기,Industrials,KOSPI,SmallCap,2380.0,-17.26,-36.14,1.1,-15.8,False
+092780,DYP,Consumer Cyclical,KOSPI,SmallCap,5070.0,-5.81,-49.4,0.84,-39.9,True
+092790,넥스틸,Industrials,KOSPI,MidCap,20300.0,12.07,54.45,0.83,-7.1,True
+093050,LF,Consumer Cyclical,KOSDAQ,MidCap,24800.0,-22.35,-6.89,0.67,-5.5,True
+093370,후성,Basic Materials,KOSDAQ,LargeCap,13240.0,24.44,25.83,0.37,-6.1,True
+094280,효성ITX,Technology,KOSDAQ,SmallCap,13180.0,-16.49,-31.56,1.74,-13.5,True
+094800,맵스리얼티,기타,KOSPI,nan,7350.0,-22.71,-5.5,2.05,-7.9,True
+095570,AJ네트웍스,Industrials,KOSPI,MidCap,5300.0,-20.88,-37.23,1.41,-2.9,True
+095720,웅진씽크빅,Communication Services,KOSDAQ,SmallCap,1154.0,-22.12,-41.98,1.21,-51.9,False
+096760,JW홀딩스,Healthcare,KOSDAQ,MidCap,4280.0,-17.79,-27.11,1.1,-4.3,True
+096770,SK이노베이션,Energy,KOSPI,MegaCap,146200.0,-0.3,-0.66,1.68,-2.4,True
+096775,SK이노베이션우,Energy,KOSPI,MegaCap,77700.0,-12.83,-24.16,1.74,-6.2,True
+097230,HJ중공업,Industrials,KOSDAQ,LargeCap,29000.0,-4.89,-17.09,0.81,-13.0,True
+097520,엠씨넥스,Technology,KOSPI,MidCap,23000.0,-18.97,-57.42,1.1,-28.3,False
+097950,CJ제일제당,Consumer Defensive,KOSPI,LargeCap,246500.0,-14.92,-20.32,0.89,-8.5,True
+097955,CJ제일제당 우,Consumer Defensive,KOSPI,LargeCap,139100.0,-17.81,-35.89,1.06,-9.1,True
+099390,브레인즈컴퍼니,기타,KOSDAQ,nan,4710.0,-14.71,-34.92,0.51,-26.3,False
+099430,바이오플러스,기타,KOSDAQ,nan,5780.0,-13.89,-26.27,1.25,-30.8,False
+099750,이지케어텍,기타,KOSDAQ,nan,8690.0,-26.68,-42.14,1.01,-62.1,False
+100090,SK오션플랜트,Industrials,KOSPI,LargeCap,24550.0,-42.7,4.73,0.61,-19.0,True
+100220,비상교육,Communication Services,KOSDAQ,SmallCap,7030.0,-0.22,3.18,1.0,-8.3,True
+100250,진양홀딩스,Basic Materials,KOSPI,SmallCap,3105.0,-20.83,-31.45,0.99,-12.4,False
+100590,머큐리,기타,KOSDAQ,nan,6200.0,-22.35,35.52,0.19,-45.2,True
+100790,미래에셋벤처투자,기타,KOSDAQ,nan,52400.0,66.9,170.81,0.54,-16.0,True
+100840,SNT에너지,Industrials,KOSPI,LargeCap,56200.0,-16.12,-2.16,0.7,-12.3,True
+101140,인바이오젠,Consumer Cyclical,KOSPI,SmallCap,8790.0,-24.22,-58.23,0.71,-40.0,False
+101360,에코앤드림,기타,KOSDAQ,nan,19280.0,-10.58,-46.69,1.0,-27.8,False
+101530,해태제과식품,Consumer Defensive,KOSDAQ,SmallCap,6500.0,-24.14,-40.12,0.85,-20.4,False
+102260,동성케미컬,Basic Materials,KOSPI,MidCap,4400.0,-19.23,-34.01,0.78,-6.8,True
+102370,케이옥션,기타,KOSDAQ,nan,3175.0,-23.67,-49.23,1.22,-41.0,False
+102460,이연제약,Healthcare,KOSPI,SmallCap,10790.0,-16.84,-39.95,0.95,-21.5,False
+102950,아하,기타,KOSPI,nan,2550.0,67.53,29.67,0.98,-17.5,True
+103140,풍산,Industrials,KOSPI,LargeCap,99200.0,-21.51,-52.71,0.46,-39.9,False
+103590,일진전기,Industrials,KOSDAQ,LargeCap,122500.0,48.55,68.81,1.91,0.0,True
+103660,씨앗,기타,KOSPI,nan,1599.0,-11.66,82.78,0.2,0.0,True
+103840,우양,기타,KOSDAQ,nan,3245.0,-19.98,-27.98,0.84,-40.7,False
+104620,노랑풍선,기타,KOSDAQ,nan,4955.0,-8.22,-38.32,1.29,-27.3,False
+104700,한국철강,Basic Materials,KOSPI,MidCap,10600.0,-11.1,-23.07,1.59,-7.3,True
+105560,KB금융,Financial Services,KOSPI,MegaCap,160500.0,-13.68,-17.38,1.14,-4.9,True
+105630,한세실업,Consumer Cyclical,KOSPI,MidCap,11540.0,-18.89,-56.83,0.76,-25.6,False
+105840,우진,Technology,KOSDAQ,MidCap,28050.0,-4.12,-21.27,0.83,-10.1,True
+107590,미원홀딩스,Basic Materials,KOSDAQ,SmallCap,63300.0,-26.0,-44.88,1.48,-19.8,False
+107600,새빗켐,기타,KOSDAQ,nan,30700.0,-2.16,-48.82,0.77,-24.8,True
+108320,LX세미콘,Technology,KOSPI,LargeCap,62600.0,2.99,-19.53,2.09,-6.1,True
+108490,로보티즈,기타,KOSDAQ,nan,316500.0,4.67,-34.49,1.98,-9.1,True
+108670,LX하우시스,Industrials,KOSPI,MidCap,36100.0,5.63,-10.98,1.76,0.0,True
+108675,LX하우시스우,Industrials,KOSDAQ,SmallCap,16940.0,-13.99,-34.38,1.69,-12.0,False
+110020,전진바이오팜,기타,KOSDAQ,nan,2380.0,-20.51,-40.28,0.55,-46.5,False
+110990,디아이티,기타,KOSDAQ,nan,24950.0,12.27,-16.89,1.45,-6.4,True
+111110,호전실업,Consumer Cyclical,KOSPI,SmallCap,7870.0,-14.99,-36.39,1.8,-13.9,True
+111380,동인기연,Consumer Cyclical,KOSPI,SmallCap,14500.0,-18.23,-35.74,0.81,-18.6,True
+111710,남화산업,기타,KOSDAQ,nan,4200.0,-18.59,-36.94,1.3,-21.1,False
+111770,영원무역,Consumer Cyclical,KOSPI,LargeCap,82900.0,-19.98,-38.85,1.08,-15.4,True
+112190,KC산업,기타,KOSPI,nan,1305.0,-20.39,-11.42,0.99,-34.8,False
+112290,와이씨켐,기타,KOSDAQ,nan,14050.0,-92.68,-109.88,2.62,-75.0,False
+112610,씨에스윈드,Industrials,KOSPI,LargeCap,71600.0,-30.88,45.23,0.72,-6.9,True
+114090,GKL,Consumer Cyclical,KOSPI,MidCap,12060.0,-17.45,-42.68,1.4,-31.0,False
+114840,아이패밀리에스씨,기타,KOSDAQ,nan,10800.0,-25.9,-70.3,1.44,-60.0,False
+114920,대주이엔티,기타,KOSPI,nan,2830.0,-31.64,-31.41,2.94,-16.3,True
+117580,대성에너지,Utilities,KOSPI,MidCap,9190.0,-31.54,-21.97,0.55,-36.1,True
+117730,티로보틱스,기타,KOSDAQ,nan,22700.0,1.84,-41.84,1.97,-21.2,True
+120030,조선선재,Industrials,KOSPI,SmallCap,101200.0,-21.25,-37.12,1.55,-23.0,False
+120110,코오롱인더,Basic Materials,KOSPI,LargeCap,94100.0,-8.39,40.46,1.57,-6.7,True
+120115,코오롱인더우,Basic Materials,KOSDAQ,MidCap,30350.0,-18.06,-20.69,1.88,-7.2,True
+122310,제노레이,기타,KOSDAQ,nan,4620.0,-16.55,-25.15,0.31,-21.8,False
+122830,원포유,기타,KOSPI,nan,1246.0,-43.06,-64.26,1.9,-50.9,False
+122900,아이마켓코리아,Industrials,KOSPI,MidCap,7600.0,-21.29,-41.22,1.08,-11.5,False
+123690,한국화장품,Consumer Defensive,KOSDAQ,SmallCap,8890.0,-10.45,-50.35,3.37,-30.3,False
+123700,SJM,Consumer Cyclical,KOSPI,SmallCap,3835.0,-16.72,-31.77,1.79,-4.1,True
+123890,한국자산신탁,Real Estate,KOSPI,MidCap,2655.0,-20.28,-34.71,1.12,-12.2,True
+124560,태웅로직스,기타,KOSDAQ,nan,2615.0,-25.31,-36.46,0.8,-24.4,False
+125210,아모그린텍,기타,KOSDAQ,nan,15860.0,68.72,87.22,1.0,0.0,True
+126340,비나텍,기타,KOSDAQ,nan,175600.0,23.57,41.4,1.47,-4.3,True
+126560,현대퓨처넷,Communication Services,KOSPI,MidCap,3345.0,-22.78,-33.7,0.75,-8.4,True
+126720,수산인더스트리,Industrials,KOSPI,MidCap,34050.0,-2.17,5.95,1.37,-1.0,True
+127980,화인써키트,기타,KOSPI,nan,7010.0,16.21,-8.56,1.59,0.0,True
+128540,에코캡,기타,KOSDAQ,nan,1895.0,-17.17,-57.46,1.0,-33.4,True
+128820,대성산업,Energy,KOSPI,MidCap,7080.0,-17.52,-52.63,1.03,-40.1,True
+128940,한미약품,Healthcare,KOSPI,LargeCap,460000.0,-33.26,-38.92,0.98,-26.5,True
+129260,인터지스,Industrials,KOSDAQ,SmallCap,2525.0,-19.22,-31.11,1.45,-27.3,False
+129890,앱코,기타,KOSDAQ,nan,1099.0,-5.44,-14.76,0.44,-17.2,True
+129920,대성하이텍,기타,KOSDAQ,nan,10640.0,-49.17,82.64,0.88,-27.6,True
+130660,한전산업,Utilities,KOSDAQ,MidCap,20100.0,-15.81,17.79,1.0,-21.6,True
+133820,화인베스틸,Basic Materials,KOSDAQ,SmallCap,1700.0,15.24,-38.93,1.72,-37.0,True
+134380,미원화학,Basic Materials,KOSDAQ,MidCap,12820.0,-112.15,-127.27,0.64,-89.3,False
+136410,아셈스,기타,KOSDAQ,nan,7370.0,-19.15,-53.67,0.86,-39.4,False
+136490,선진,Consumer Defensive,KOSPI,MidCap,10720.0,-16.68,-37.98,1.08,-28.1,False
+136660,큐엠씨,기타,KOSPI,nan,2000.0,4.1,-25.45,0.3,-20.0,True
+137080,나래나노텍,기타,KOSDAQ,nan,5980.0,-10.3,-21.53,0.89,-2.4,True
+137310,에스디바이오센서,Healthcare,KOSPI,LargeCap,8420.0,-11.27,-41.41,0.56,-30.2,False
+138040,메리츠금융지주,Financial Services,KOSPI,MegaCap,111700.0,-24.52,-42.28,1.0,-23.6,False
+138490,Kolon Plastics,Basic Materials,KOSPI,MidCap,15000.0,6.73,53.31,0.0,-2.5,True
+138930,BNK금융지주,Financial Services,KOSPI,LargeCap,18730.0,-17.57,-23.7,0.86,-17.3,True
+139130,iM금융지주,Financial Services,KOSPI,LargeCap,19100.0,-9.28,-13.15,0.83,-11.8,True
+139480,이마트,Consumer Defensive,KOSPI,LargeCap,106700.0,-5.7,-16.58,1.03,-16.4,True
+139990,아주스틸,Basic Materials,KOSPI,SmallCap,3800.0,-0.61,-14.84,3.45,-14.6,True
+140070,서플러스글로벌,기타,KOSPI,nan,2610.0,14.91,-9.48,1.43,-1.1,True
+140610,엔솔바이오사이언스,기타,KOSPI,nan,13780.0,-25.23,-28.71,1.02,-61.8,False
+140660,위월드,기타,KOSPI,nan,1020.0,-48.92,-52.25,0.85,-50.1,False
+140670,알에스오토메이션,기타,KOSDAQ,nan,16780.0,-16.08,-60.45,1.46,-38.3,True
+144960,뉴파워프라즈마,기타,KOSDAQ,nan,6760.0,8.56,-24.0,1.11,-1.3,True
+145720,덴티움,Healthcare,KOSPI,MidCap,53300.0,-19.48,-21.8,0.83,-30.9,False
+145990,삼양사,Consumer Defensive,KOSPI,MidCap,48200.0,-17.71,-35.95,0.93,-18.6,False
+145995,삼양사우,Consumer Defensive,KOSPI,MidCap,33950.0,-22.19,-45.17,0.66,-14.7,False
+146320,비씨엔씨,기타,KOSDAQ,nan,17850.0,14.6,-15.58,1.65,-0.8,True
+147760,피엠티,기타,KOSDAQ,nan,6980.0,91.11,49.46,2.39,-5.7,True
+148150,세경하이테크,기타,KOSDAQ,nan,4790.0,-17.78,-37.42,0.73,-43.7,False
+148780,비큐AI,기타,KOSDAQ,nan,1285.0,-9.26,-53.16,1.7,-54.4,False
+148930,에이치와이티씨,기타,KOSDAQ,nan,3195.0,-10.69,-33.01,0.7,-23.4,False
+149010,아이케이세미콘,기타,KOSPI,nan,4890.0,-7.13,-15.52,1.38,-27.8,False
+153710,옵티팜,기타,KOSDAQ,nan,5190.0,-22.42,-40.59,0.58,-16.3,True
+154030,아시아종묘,기타,KOSDAQ,nan,2050.0,-19.66,-35.43,0.82,-26.8,False
+155660,DSR,Consumer Cyclical,KOSDAQ,SmallCap,4505.0,-17.49,-20.1,1.03,-2.1,True
+156100,엘앤케이바이오,기타,KOSPI,nan,7310.0,-30.03,-88.98,1.02,-54.0,False
+158430,아톤,기타,KOSDAQ,nan,8010.0,14.11,-26.33,0.32,-37.0,True
+159010,아스플로,기타,KOSDAQ,nan,10590.0,59.86,64.29,1.97,-3.1,True
+161000,애경케미칼,Basic Materials,KOSPI,MidCap,15530.0,-13.38,18.03,0.53,-18.7,True
+161390,한국타이어앤테크놀로지,Consumer Cyclical,KOSPI,LargeCap,59200.0,-10.14,-42.09,0.91,-22.0,True
+161580,필옵틱스,기타,KOSPI,nan,47800.0,3.65,-47.4,0.98,-16.6,True
+161890,한국콜마,Consumer Defensive,KOSPI,LargeCap,88700.0,-7.43,-5.62,1.13,-18.8,True
+162120,루켄테크놀러지스,기타,KOSPI,nan,3145.0,-23.34,-9.28,1.45,-13.7,True
+162300,신스틸,기타,KOSPI,nan,2050.0,2.55,-15.9,2.1,-15.5,True
+163560,동일고무벨트,Consumer Cyclical,KOSDAQ,SmallCap,7540.0,-15.81,-27.83,0.15,-5.0,True
+163730,핑거,기타,KOSDAQ,nan,18950.0,79.55,22.09,0.63,-8.7,True
+168360,펨트론,기타,KOSPI,nan,25800.0,6.78,12.14,1.55,-18.2,True
+169330,엠브레인,기타,KOSDAQ,nan,2160.0,-15.45,-27.39,0.98,-7.7,True
+169670,코스텍시스템,기타,KOSPI,nan,4100.0,-17.21,-62.26,1.23,-62.7,False
+170900,동아에스티,Healthcare,KOSPI,MidCap,44300.0,-22.03,-54.77,1.38,-23.4,False
+173130,오파스넷,기타,KOSPI,nan,7670.0,-19.49,-20.32,1.13,-14.4,True
+175330,JB금융지주,Financial Services,KOSPI,LargeCap,27300.0,-30.5,-29.52,1.26,-27.2,True
+176590,코나솔,기타,KOSPI,nan,2900.0,-25.1,-54.79,1.83,-58.6,False
+176750,듀켐바이오,기타,KOSPI,nan,9040.0,-22.42,-50.41,0.92,-23.3,False
+178600,대동고려삼,기타,KOSPI,nan,1975.0,-31.22,-32.94,1.82,-30.3,False
+178920,PI첨단소재,Basic Materials,KOSPI,MidCap,25750.0,-3.38,24.94,1.1,-3.4,True
+179290,엠아이텍,기타,KOSDAQ,nan,6530.0,-26.53,-46.35,1.06,-22.7,False
+179530,애드바이오텍,기타,KOSDAQ,nan,2485.0,-43.83,14.94,0.38,-45.8,False
+179720,머니무브,기타,KOSPI,nan,9980.0,-46.06,-30.91,1.28,-25.0,True
+180060,탑선,기타,KOSPI,nan,8790.0,-31.89,-7.77,0.67,-15.5,True
+180640,한진칼,Consumer Cyclical,KOSPI,LargeCap,112700.0,-20.5,-35.52,0.81,-34.9,False
+18064K,Hanjin Kal,Consumer Cyclical,KOSPI,LargeCap,33000.0,-17.54,-49.54,1.11,-34.7,False
+181710,NHN,Communication Services,KOSPI,LargeCap,41000.0,-11.2,-5.16,0.65,-6.2,True
+183190,아세아시멘트,Basic Materials,KOSPI,MidCap,11730.0,-12.17,-43.28,0.7,-20.4,False
+185750,종근당,Healthcare,KOSPI,LargeCap,85700.0,-26.82,-35.15,0.96,-12.3,True
+186230,그린플러스,기타,KOSDAQ,nan,4545.0,-23.77,-48.3,0.77,-45.8,False
+187660,페니트리움바이오,기타,KOSDAQ,nan,11210.0,-15.89,260.9,0.59,-40.0,True
+187870,디바이스,기타,KOSDAQ,nan,20200.0,-28.71,-7.01,1.12,-47.3,True
+189300,인텔리안테크,기타,KOSDAQ,nan,132700.0,-9.4,-1.32,0.91,-7.5,True
+189330,씨이랩,기타,KOSDAQ,nan,6620.0,21.03,11.34,0.67,-32.4,True
+189350,코셋,기타,KOSPI,nan,1794.0,11.92,-21.92,0.09,-19.4,True
+190650,코리아에셋투자증권,기타,KOSDAQ,nan,8710.0,-16.72,-22.66,1.06,-23.1,True
+191600,블루탑,기타,KOSPI,nan,8100.0,-24.04,-9.99,0.97,-22.5,True
+192080,더블유게임즈,Communication Services,KOSPI,LargeCap,61100.0,-0.05,-17.62,2.15,-1.6,True
+192400,쿠쿠홀딩스,Consumer Cyclical,KOSPI,MidCap,29450.0,-17.48,-27.74,1.01,-15.3,False
+192650,드림텍,Technology,KOSPI,MidCap,6710.0,-20.44,-49.13,0.95,-22.6,False
+192820,코스맥스,Consumer Defensive,KOSPI,LargeCap,210500.0,-12.79,-26.28,0.88,-25.4,True
+194370,제이에스코퍼레이션,Consumer Cyclical,KOSDAQ,MidCap,14790.0,9.25,-16.09,1.38,-3.8,True
+194700,노바렉스,기타,KOSDAQ,nan,14900.0,-14.19,-30.07,1.25,-32.3,False
+195500,마니커에프앤지,기타,KOSDAQ,nan,2875.0,-15.09,-32.88,1.27,-25.9,True
+195870,해성디에스,Technology,KOSDAQ,LargeCap,80200.0,28.48,-8.9,1.47,-1.8,True
+195940,HK이노엔,기타,KOSDAQ,nan,52400.0,-13.91,-40.92,1.37,-9.0,True
+196300,HLB펩,기타,KOSPI,nan,7250.0,-20.42,-42.03,1.31,-30.4,False
+197140,디지캡,기타,KOSDAQ,nan,2035.0,-16.83,-45.75,0.33,-23.4,False
+198080,캐프,기타,KOSDAQ,nan,3060.0,-8.3,-10.97,0.72,-3.5,True
+198440,강동씨앤엘,기타,KOSDAQ,nan,1195.0,-17.29,-20.84,0.67,-14.4,True
+199150,데이터스트림즈,기타,KOSPI,nan,2350.0,-42.19,-36.71,2.28,-36.5,False
+199730,바이오인프라,기타,KOSPI,nan,4180.0,-17.76,-45.35,0.59,-35.8,False
+199800,툴젠,기타,KOSDAQ,nan,83500.0,21.99,2.92,0.89,-16.4,True
+199820,제일일렉트릭,기타,KOSDAQ,nan,17260.0,46.56,40.52,3.16,0.0,True
+200350,아티스트스튜디오,기타,KOSDAQ,nan,5520.0,-1.6,-29.19,0.57,-72.9,False
+200580,메디쎄이,기타,KOSPI,nan,12390.0,-25.98,-22.5,1.02,-3.9,True
+200880,서연이화,Consumer Cyclical,KOSDAQ,MidCap,14110.0,-16.61,-42.85,1.13,-15.5,True
+203400,에이비온,기타,KOSDAQ,nan,2740.0,-3.81,-61.63,1.34,-75.0,False
+203450,유니온바이오메트릭스,기타,KOSDAQ,nan,3240.0,-19.14,-39.68,0.57,-11.2,True
+204020,그리티,기타,KOSDAQ,nan,2355.0,-6.24,-21.7,1.91,-47.6,False
+204270,제이앤티씨,기타,KOSDAQ,nan,19340.0,3.41,-52.22,1.3,-34.3,False
+204320,HL만도,Consumer Cyclical,KOSPI,LargeCap,57100.0,-5.89,-44.42,1.7,-20.0,True
+204610,티쓰리,기타,KOSPI,nan,3515.0,14.12,40.01,1.33,-3.8,True
+206950,볼빅,기타,KOSPI,nan,1749.0,-31.79,-33.27,1.17,-36.1,False
+207490,에이펙스인텍,기타,KOSPI,nan,6800.0,-32.09,-27.68,0.06,-2.9,True
+207940,삼성바이오로직스,Healthcare,KOSPI,MegaCap,1000000.0,-23.99,-37.42,1.22,0.0,True
+208850,이비테크,기타,KOSPI,nan,5100.0,-28.24,-28.71,1.39,-14.7,False
+208890,미래엔에듀파트너,기타,KOSPI,nan,1000.0,-38.24,-39.8,0.0,-23.1,False
+210540,디와이파워,Industrials,KOSDAQ,SmallCap,15450.0,-12.84,-18.3,0.89,-2.6,True
+210980,SK디앤디,Real Estate,KOSPI,MidCap,12820.0,-24.84,-35.67,1.22,-5.6,True
+211050,인카금융서비스,기타,KOSDAQ,nan,10820.0,-29.66,-63.46,0.84,-36.3,False
+212710,아이에스티이,기타,KOSPI,nan,9130.0,2.64,-45.38,1.19,-15.9,False
+213500,한솔제지,Basic Materials,KOSPI,MidCap,8530.0,-25.03,-33.65,0.97,-8.3,True
+214260,라파스,기타,KOSDAQ,nan,9500.0,-24.93,-57.92,1.13,-55.1,False
+214320,이노션,Communication Services,KOSPI,MidCap,19800.0,-12.88,-30.62,0.89,-9.4,True
+214390,경보제약,Healthcare,KOSPI,SmallCap,6680.0,-34.08,-23.23,0.25,-21.9,True
+214420,토니모리,Consumer Defensive,KOSDAQ,SmallCap,7610.0,-7.09,-49.24,2.33,-40.1,False
+214610,롤링스톤,기타,KOSPI,nan,2290.0,-29.23,-64.24,,-73.0,False
+215570,크로넥스,기타,KOSPI,nan,1085.0,-34.88,-52.26,0.53,-50.9,True
+216050,인크로스,기타,KOSDAQ,nan,6810.0,-18.9,-36.38,0.7,-26.8,False
+216080,제테마,기타,KOSDAQ,nan,7030.0,-31.97,-62.15,0.69,-35.4,False
+216400,인바이츠바이오코아,기타,KOSPI,nan,3585.0,-37.31,-46.95,1.33,-36.9,True
+217320,썬테크,기타,KOSPI,nan,9330.0,-64.71,346.53,0.1,-51.2,True
+217880,틸론,기타,KOSPI,nan,1684.0,-39.56,-31.18,0.99,-41.2,False
+217950,파마리서치바이오,기타,KOSPI,nan,35650.0,-14.78,-33.97,0.38,-22.8,True
+219420,링크제니시스,기타,KOSPI,nan,5080.0,-13.31,-46.22,1.3,-16.0,False
+220100,퓨쳐켐,기타,KOSDAQ,nan,18340.0,-25.07,-61.0,0.98,-46.4,False
+220180,핸디소프트,기타,KOSPI,nan,1955.0,-23.32,-36.7,1.16,-47.2,False
+222670,플럼라인생명과학,기타,KOSPI,nan,4635.0,-29.23,-31.46,,-44.7,False
+223250,드림씨아이에스,기타,KOSDAQ,nan,4950.0,-19.45,-51.33,1.44,-35.6,True
+224810,엄지하우스,기타,KOSPI,nan,1568.0,-47.56,-48.23,2.67,-47.6,False
+225190,LK삼양,기타,KOSPI,nan,2150.0,-8.77,13.03,0.73,-29.9,True
+225220,제놀루션,기타,KOSDAQ,nan,1888.0,-19.57,-36.51,0.69,-28.6,False
+226320,잇츠한불,Consumer Defensive,KOSPI,MidCap,12370.0,0.08,-28.15,3.33,-15.4,True
+226330,신테카바이오,기타,KOSDAQ,nan,3170.0,-24.62,-47.87,0.9,-61.6,False
+226400,오스테오닉,기타,KOSDAQ,nan,6630.0,-23.84,-28.01,1.37,-18.6,False
+227840,현대코퍼레이션홀딩스,Consumer Defensive,KOSDAQ,SmallCap,13900.0,-10.06,-20.71,1.58,-4.6,True
+228670,레이,기타,KOSDAQ,nan,8810.0,49.44,22.76,0.46,-19.1,True
+229000,젠큐릭스,기타,KOSDAQ,nan,2340.0,-29.06,-2.78,0.53,-60.1,True
+229500,노브메타파마,기타,KOSPI,nan,8700.0,-40.45,-58.21,1.02,-49.1,False
+229640,LS에코에너지,Industrials,KOSDAQ,LargeCap,87100.0,74.64,87.06,1.55,-4.2,True
+232530,이엠티,기타,KOSPI,nan,12810.0,0.03,131.52,0.75,-0.3,True
+232680,라온로보틱스,기타,KOSPI,nan,16640.0,-9.63,-62.47,1.7,-25.0,True
+233250,메디안디노스틱,기타,KOSPI,nan,8890.0,-20.82,-49.74,0.03,-46.4,False
+234080,JW생명과학,Healthcare,KOSPI,MidCap,12930.0,-21.94,-33.65,1.07,-16.6,False
+234100,폴라리스세원,기타,KOSPI,nan,1020.0,-27.23,-47.1,1.6,-34.8,False
+234300,에스트래픽,기타,KOSPI,nan,3845.0,-9.04,-28.81,1.36,-10.3,True
+234690,녹십자웰빙,기타,KOSDAQ,nan,12830.0,-37.3,-0.64,0.65,-15.0,True
+235980,메드팩토,기타,KOSDAQ,nan,5120.0,-30.9,-70.93,1.16,-36.4,False
+236030,씨알푸드,기타,KOSPI,nan,3490.0,10.37,87.42,0.23,0.0,True
+236340,메디젠휴먼케어,기타,KOSPI,nan,1800.0,-50.97,-44.79,1.04,-39.8,False
+236810,엔비티,기타,KOSDAQ,nan,1965.0,-13.53,-42.03,0.62,-53.5,False
+237820,플레이디,기타,KOSDAQ,nan,4690.0,-22.14,-27.46,1.87,-17.4,False
+238120,얼라인드,기타,KOSDAQ,nan,4315.0,-15.98,-23.57,0.6,-28.7,True
+238200,비피도,기타,KOSPI,nan,2840.0,-22.92,-41.64,0.56,-34.5,False
+238490,힘스,기타,KOSPI,nan,3580.0,-4.66,-22.86,0.6,-11.3,True
+239890,피엔에이치테크,기타,KOSDAQ,nan,6190.0,12.5,-11.22,0.65,-8.3,True
+241520,DSC인베스트먼트,기타,KOSDAQ,nan,17060.0,4.57,76.63,2.24,-8.4,True
+241560,두산밥캣,Industrials,KOSPI,LargeCap,72000.0,-5.18,-12.64,1.25,-5.9,True
+241590,화승엔터프라이즈,Consumer Cyclical,KOSPI,MidCap,4830.0,-18.19,-40.63,1.73,-44.4,False
+241770,메카로,기타,KOSDAQ,nan,36500.0,-27.94,18.9,1.21,-13.4,True
+241790,티이엠씨씨엔에스,기타,KOSPI,nan,8320.0,-12.16,-24.84,2.16,-9.1,True
+241840,에이스토리,기타,KOSDAQ,nan,5260.0,-23.8,-61.63,0.97,-56.3,False
+243870,아이티센코어,기타,KOSPI,nan,12770.0,-35.95,8.09,0.94,-11.2,True
+244880,나눔테크,기타,KOSPI,nan,1887.0,-29.81,-37.06,0.39,-21.4,False
+244920,에이플러스에셋,Financial Services,KOSPI,MidCap,10800.0,-22.68,-51.77,0.64,-26.9,True
+245450,씨앤에스링크,기타,KOSPI,nan,1836.0,-32.5,-36.56,0.53,-18.2,True
+246710,티앤알바이오팹,기타,KOSDAQ,nan,2960.0,-21.74,-43.0,0.61,-46.5,True
+246720,아스타,기타,KOSPI,nan,6070.0,-29.23,-55.96,,-44.7,False
+246960,SCL사이언스,기타,KOSDAQ,nan,2040.0,-34.12,-40.74,0.97,-83.6,False
+247660,나노씨엠에스,기타,KOSDAQ,nan,4915.0,-22.34,-41.24,0.41,-24.4,True
+248070,솔루엠,Technology,KOSPI,MidCap,19400.0,-1.67,-12.34,0.94,-2.8,True
+248170,샘표식품,Consumer Defensive,KOSDAQ,SmallCap,27250.0,-23.62,-45.98,1.05,-12.0,False
+249420,일동제약,Healthcare,KOSPI,MidCap,26500.0,-25.84,-64.32,0.89,-40.2,False
+250000,보라티알,기타,KOSPI,nan,7750.0,-24.12,-38.57,0.58,-29.9,False
+250030,진코스텍,기타,KOSPI,nan,23300.0,-9.93,24.94,0.58,-5.7,True
+251120,바이오에프디엔씨,기타,KOSDAQ,nan,14310.0,-15.99,-43.28,0.87,-35.7,False
+251270,넷마블,Communication Services,KOSPI,LargeCap,49650.0,-24.69,-39.49,1.11,-27.0,False
+251280,안지오랩,기타,KOSPI,nan,1970.0,-41.67,-53.45,2.91,-67.5,False
+251630,브이원텍,기타,KOSPI,nan,6220.0,-3.68,-55.04,1.48,-36.6,True
+251970,펌텍코리아,기타,KOSDAQ,nan,41400.0,-33.1,-71.71,0.95,-43.5,False
+252990,샘씨엔에스,기타,KOSDAQ,nan,14260.0,31.01,4.05,0.81,0.0,True
+253590,네오셈,기타,KOSDAQ,nan,18670.0,3.36,-11.02,1.51,-8.0,True
+253840,수젠텍,기타,KOSDAQ,nan,5580.0,-2.16,-49.55,0.25,-36.4,False
+254120,자비스,기타,KOSDAQ,nan,1483.0,-0.2,-29.25,2.45,-22.2,True
+254160,제이엠멀티,기타,KOSPI,nan,3870.0,-39.23,-9.77,0.28,-14.0,True
+254490,미래반도체,기타,KOSPI,nan,23350.0,18.82,-0.63,2.74,0.0,True
+255220,SG,기타,KOSDAQ,nan,2645.0,-25.48,-37.61,0.5,-21.0,True
+256150,한독크린텍,기타,KOSDAQ,nan,5450.0,-17.54,-31.6,0.66,-12.8,False
+256840,한국비엔씨,기타,KOSDAQ,nan,3980.0,-18.42,-53.1,0.79,-34.2,False
+256940,킵스파마,기타,KOSDAQ,nan,8240.0,-15.0,-46.37,0.43,-60.7,False
+257720,실리콘투,기타,KOSDAQ,nan,44000.0,-12.03,-52.81,1.0,-28.8,False
+257990,나우코스,기타,KOSPI,nan,8220.0,-26.48,-30.95,3.03,-2.0,True
+258610,케일럼,기타,KOSPI,nan,1393.0,-29.68,-31.09,1.0,-40.6,False
+258790,소프트캠프,기타,KOSPI,nan,1718.0,2.24,-6.08,0.63,-13.8,True
+259630,엠플러스,기타,KOSDAQ,nan,17550.0,10.49,-4.97,0.41,-6.9,True
+259960,크래프톤,Communication Services,KOSPI,MegaCap,265000.0,-15.16,-31.0,1.49,-31.3,False
+260660,알리코제약,기타,KOSPI,nan,3620.0,-19.37,-47.03,0.9,-28.3,False
+260870,SK시그넷,기타,KOSPI,nan,10850.0,-7.05,-30.99,1.12,-24.7,True
+260930,씨티케이,기타,KOSDAQ,nan,3960.0,-20.46,-47.22,0.68,-44.0,False
+260970,에스앤디,기타,KOSDAQ,nan,55200.0,-23.81,-54.41,1.16,-62.0,False
+261200,덴티스,기타,KOSPI,nan,3970.0,-22.59,-38.91,1.05,-45.5,False
+261780,차백신연구소,기타,KOSDAQ,nan,4100.0,-11.66,13.31,1.65,-28.1,True
+262260,에이프로,기타,KOSDAQ,nan,8630.0,48.61,24.49,1.8,-8.2,True
+262840,아이퀘스트,기타,KOSDAQ,nan,1780.0,-4.61,-25.06,0.65,-30.3,False
+263020,디케이앤디,기타,KOSDAQ,nan,3770.0,-3.54,-11.54,3.71,-8.7,True
+263600,덕우전자,기타,KOSPI,nan,6460.0,1.69,-4.36,1.35,0.0,True
+263690,디알젬,기타,KOSDAQ,nan,5760.0,-15.31,-30.56,1.19,-11.5,True
+263700,케어랩스,기타,KOSDAQ,nan,2645.0,-6.95,-46.21,1.06,-57.7,False
+263720,디앤씨미디어,기타,KOSDAQ,nan,12260.0,-16.54,-32.81,1.56,-33.0,False
+263770,유에스티,기타,KOSDAQ,nan,2115.0,-16.36,-39.28,2.0,-22.2,True
+263800,데이타솔루션,기타,KOSPI,nan,5370.0,-1.11,-32.54,0.27,-19.4,True
+263810,상신전자,기타,KOSDAQ,nan,3195.0,-10.09,-34.36,0.23,-18.3,True
+263860,지니언스,기타,KOSPI,nan,15530.0,-4.71,-53.47,0.38,-46.1,False
+263920,휴엠앤씨,기타,KOSPI,nan,3910.0,-31.11,-27.95,1.17,-26.4,False
+264450,유비쿼스,기타,KOSDAQ,nan,14900.0,-27.24,-19.63,0.42,-12.4,True
+264660,씨앤지하이테크,기타,KOSDAQ,nan,22500.0,16.55,-7.06,1.76,-8.9,True
+264850,이랜시스,기타,KOSPI,nan,6320.0,-12.33,-63.33,1.87,-29.8,True
+264900,크라운제과,Consumer Defensive,KOSPI,SmallCap,8560.0,-22.57,-35.52,0.9,-11.7,False
+26490K,Crown Confectionery Co Ltd Pref,Consumer Defensive,KOSPI,SmallCap,9390.0,-21.03,-33.55,1.53,-21.8,False
+265560,영화테크,기타,KOSDAQ,nan,10810.0,2.15,-3.96,1.17,-1.3,True
+265740,엔에프씨,기타,KOSDAQ,nan,7140.0,-26.32,5.67,1.23,-40.2,True
+266170,레드우즈,기타,KOSPI,nan,1050.0,-29.23,-95.59,,-75.3,True
+267250,HD현대,Energy,KOSPI,MegaCap,310500.0,2.74,1.82,1.36,0.0,True
+267260,HD현대일렉트릭,Industrials,KOSPI,MegaCap,1000000.0,-10.74,-17.8,1.47,0.0,True
+267270,HD건설기계,Industrials,KOSPI,LargeCap,183900.0,1.88,33.97,1.17,-7.2,True
+267290,경동도시가스,Utilities,KOSPI,SmallCap,23000.0,-18.0,-29.94,0.85,-4.0,True
+267790,배럴,기타,KOSDAQ,nan,3520.0,-19.23,-36.85,1.86,-27.3,False
+267850,아시아나IDT,Technology,KOSPI,SmallCap,10820.0,-19.25,-36.11,1.11,-13.9,False
+268280,미원에스씨,Basic Materials,KOSPI,MidCap,122500.0,-22.25,-44.62,1.62,-26.6,False
+270210,에스알바이오텍,기타,KOSPI,nan,18500.0,-52.15,-36.66,0.72,-44.5,False
+270660,에브리봇,기타,KOSDAQ,nan,19160.0,-7.59,-59.38,1.81,-31.8,False
+270870,뉴트리,기타,KOSDAQ,nan,4370.0,-19.94,-46.09,0.24,-36.5,False
+271560,오리온,Consumer Defensive,KOSPI,LargeCap,143600.0,-13.36,-15.52,0.96,-1.6,True
+271830,팸텍,기타,KOSPI,nan,1570.0,-15.19,-45.07,1.22,-45.4,False
+271940,일진하이솔루스,Consumer Cyclical,KOSPI,MidCap,18280.0,-8.59,-1.81,1.73,-11.5,True
+271980,제일약품,Healthcare,KOSPI,MidCap,14000.0,-19.82,-38.76,0.72,-19.5,False
+272110,케이엔제이,기타,KOSDAQ,nan,40100.0,2.31,17.7,1.07,-6.0,True
+272210,한화시스템,Industrials,KOSPI,MegaCap,117300.0,-37.36,-11.16,0.9,-27.9,True
+272450,진에어,Industrials,KOSPI,MidCap,6280.0,-21.04,-41.98,1.16,-35.5,False
+272550,삼양패키징,Consumer Cyclical,KOSPI,SmallCap,11750.0,-25.0,-40.95,0.38,-23.1,False
+273060,와이즈버즈,기타,KOSPI,nan,1070.0,-15.03,-58.86,0.73,-22.5,True
+273640,와이엠텍,기타,KOSDAQ,nan,12250.0,48.55,15.9,1.49,0.0,True
+274090,켄코아에어로스페이스,기타,KOSDAQ,nan,21650.0,-13.19,-58.55,0.69,-27.5,True
+275630,에스에스알,기타,KOSDAQ,nan,4170.0,-14.4,12.85,0.44,-8.8,True
+277070,린드먼아시아,기타,KOSDAQ,nan,4280.0,-22.69,-47.97,1.07,-34.7,False
+277410,인산가,기타,KOSPI,nan,1134.0,-22.38,-38.38,0.77,-27.5,False
+277810,레인보우로보틱스,기타,KOSDAQ,nan,664000.0,-1.03,-44.16,1.7,-24.5,True
+277880,티에스아이,기타,KOSDAQ,nan,5620.0,-9.06,-42.97,0.88,-13.3,True
+278470,에이피알,Consumer Defensive,KOSPI,MegaCap,424500.0,5.83,17.51,0.74,-7.5,True
+278650,HLB바이오스텝,기타,KOSDAQ,nan,1272.0,-22.79,-56.87,1.08,-24.4,False
+278990,EMB,기타,KOSPI,nan,2990.0,-42.56,-42.25,1.64,-24.8,False
+279600,미디어젠,기타,KOSPI,nan,5830.0,-32.32,-53.66,1.02,-57.1,False
+280360,롯데웰푸드,Consumer Defensive,KOSPI,LargeCap,121100.0,-14.5,-35.74,1.54,-10.7,True
+281740,레이크머티리얼즈,기타,KOSDAQ,nan,23000.0,-2.75,-50.63,0.98,-16.5,True
+281820,케이씨텍,Technology,KOSPI,LargeCap,61300.0,18.9,-0.74,1.01,-1.6,True
+282330,BGF리테일,Consumer Defensive,KOSPI,LargeCap,132000.0,-25.41,-27.7,1.16,-10.7,True
+282720,금양그린파워,기타,KOSPI,nan,16100.0,-31.46,20.73,1.0,-10.6,True
+284740,쿠쿠홈시스,Industrials,KOSPI,MidCap,24400.0,-18.36,-32.25,0.87,-21.7,False
+285130,SK케미칼,Basic Materials,KOSPI,LargeCap,59400.0,-8.2,-44.9,1.52,-25.6,False
+28513K,SK Chemicals Co Ltd Pref,Basic Materials,KOSPI,MidCap,27900.0,-12.83,-34.85,1.92,-12.4,True
+285490,노바텍,기타,KOSDAQ,nan,23400.0,-11.22,-55.75,1.3,-22.3,True
+285800,진영,기타,KOSPI,nan,2245.0,7.37,16.87,0.35,-19.1,True
+286750,나노실리칸첨단소재,기타,KOSDAQ,nan,1589.0,6.79,-40.17,0.8,-49.2,False
+286940,롯데이노베이트,Technology,KOSPI,MidCap,23100.0,-8.43,-31.7,1.31,-13.5,True
+288620,에스퓨얼셀,기타,KOSDAQ,nan,10770.0,-0.05,-28.08,1.97,-23.5,False
+288980,모아데이타,기타,KOSDAQ,nan,1366.0,35.78,28.36,0.26,-9.2,True
+289010,아이스크림에듀,기타,KOSDAQ,nan,1575.0,-24.31,-36.85,0.71,-74.5,False
+289080,SV인베스트먼트,기타,KOSDAQ,nan,4045.0,-15.25,25.68,0.83,-11.1,True
+289220,자이언트스텝,기타,KOSDAQ,nan,3110.0,-32.65,-59.18,0.61,-63.8,False
+290090,트윔,기타,KOSDAQ,nan,6670.0,-14.29,-42.0,0.59,-37.8,False
+290120,DH오토리드,기타,KOSDAQ,nan,3295.0,1.3,-13.55,2.68,-7.8,True
+290270,휴네시온,기타,KOSDAQ,nan,4210.0,-2.49,-25.75,0.19,-7.2,True
+290520,신도기연,기타,KOSDAQ,nan,2725.0,5.16,13.55,1.98,-6.0,True
+290550,디케이티,기타,KOSDAQ,nan,25450.0,17.95,125.49,1.2,-4.7,True
+290650,엘앤씨바이오,기타,KOSDAQ,nan,63200.0,-28.09,-65.44,1.34,-46.6,True
+290660,다이나믹솔루션,기타,KOSDAQ,nan,1146.0,-13.9,-38.8,0.96,-32.6,True
+290670,대보마그네틱,기타,KOSDAQ,nan,12350.0,-10.69,-44.21,0.6,-44.7,False
+290690,소룩스,기타,KOSDAQ,nan,3770.0,-18.24,-45.02,1.26,-36.5,False
+290720,푸드나무,기타,KOSDAQ,nan,3440.0,-14.26,36.14,0.68,-12.9,True
+290740,액트로,기타,KOSDAQ,nan,18260.0,-16.64,-59.22,0.65,-40.6,True
+291650,압타머사이언스,기타,KOSDAQ,nan,1705.0,-36.15,10.97,1.08,-12.2,True
+291810,핀텔,기타,KOSPI,nan,1875.0,-29.86,-52.0,1.2,-63.5,False
+293480,하나제약,Healthcare,KOSPI,SmallCap,9810.0,-18.05,-40.87,1.01,-21.1,False
+293490,카카오게임즈,기타,KOSDAQ,nan,12020.0,-21.95,-63.72,1.08,-48.9,False
+293580,나우IB,기타,KOSDAQ,nan,2635.0,31.65,4.09,1.24,-18.5,True
+293780,압타바이오,기타,KOSDAQ,nan,8470.0,-2.12,-33.75,1.94,-18.9,True
+293940,신한알파리츠,Real Estate,KOSPI,MidCap,6050.0,-17.66,-31.47,1.3,-3.0,True
+294140,레몬,기타,KOSDAQ,nan,3405.0,-16.41,-86.6,0.48,-60.8,False
+294570,쿠콘,기타,KOSDAQ,nan,29850.0,-10.06,-48.32,0.76,-38.8,False
+294630,서남,기타,KOSDAQ,nan,4550.0,-7.92,18.94,0.3,-19.8,True
+294870,IPARK현대산업개발,Industrials,KOSPI,LargeCap,22950.0,-11.77,-23.24,1.19,-15.3,True
+296640,이노에이엑스,기타,KOSPI,nan,8040.0,-23.49,16.6,0.79,-16.5,True
+297090,씨에스베어링,기타,KOSDAQ,nan,9150.0,-23.88,23.39,0.81,-1.6,True
+297570,알로이스,기타,KOSDAQ,nan,1781.0,-16.12,0.96,2.21,-6.6,True
+297890,HB솔루션,기타,KOSDAQ,nan,2300.0,-3.95,-32.88,1.73,-22.2,True
+298000,효성화학,Basic Materials,KOSPI,SmallCap,38900.0,-29.23,-30.71,,0.0,False
+298020,효성티앤씨,Consumer Cyclical,KOSPI,LargeCap,518000.0,13.78,2.96,1.03,-3.2,True
+298040,효성중공업,Industrials,KOSPI,MegaCap,1000000.0,-23.99,-37.42,1.35,0.0,True
+298050,HS효성첨단소재,Consumer Cyclical,KOSPI,LargeCap,269500.0,4.04,-20.75,2.23,-2.9,True
+298540,더네이쳐홀딩스,기타,KOSDAQ,nan,7990.0,-20.76,-35.38,1.07,-38.5,False
+298690,에어부산,Industrials,KOSPI,MidCap,2050.0,-12.27,-22.9,0.49,-9.5,True
+298830,슈어소프트테크,기타,KOSPI,nan,7500.0,-14.34,-47.06,1.46,-26.5,True
+299030,하나기술,기타,KOSDAQ,nan,31850.0,0.18,-30.72,1.35,-10.3,True
+299170,더블유에스아이,기타,KOSPI,nan,2435.0,-24.6,-66.74,1.19,-41.7,True
+299660,셀리드,기타,KOSDAQ,nan,3180.0,6.87,-31.07,0.32,-64.2,False
+300080,플리토,기타,KOSDAQ,nan,11520.0,-21.13,-62.08,1.67,-64.0,False
+300720,한일시멘트,Basic Materials,KOSPI,LargeCap,17450.0,-15.4,-34.29,0.89,-18.1,False
+301300,바이브컴퍼니,기타,KOSDAQ,nan,2770.0,-13.85,-47.19,1.58,-58.2,False
+302430,이노메트리,기타,KOSDAQ,nan,8390.0,3.13,-24.35,1.03,-9.1,True
+302440,SK바이오사이언스,Healthcare,KOSPI,LargeCap,43050.0,-19.25,-48.84,0.82,-28.4,False
+302550,리메드,기타,KOSDAQ,nan,3085.0,-21.33,-25.65,0.65,-22.6,False
+302920,더콘텐츠온,기타,KOSPI,nan,3450.0,-21.42,-26.16,0.23,-36.1,False
+303360,프로티아,기타,KOSPI,nan,5010.0,-12.16,-37.42,0.62,-23.5,True
+303530,이노뎁,기타,KOSDAQ,nan,5000.0,-1.29,-36.82,0.17,-31.7,False
+304100,솔트룩스,기타,KOSDAQ,nan,23400.0,-12.3,-55.6,0.76,-58.2,False
+304840,피플바이오,기타,KOSDAQ,nan,1329.0,34.04,-16.82,0.15,-55.0,False
+305090,마이크로디지탈,기타,KOSDAQ,nan,6190.0,-17.27,-69.99,0.85,-46.3,False
+306040,에스제이그룹,기타,KOSDAQ,nan,7170.0,-7.4,-86.5,0.34,-49.1,True
+306200,세아제강,Basic Materials,KOSPI,MidCap,177400.0,-3.8,14.85,1.62,-5.0,True
+306620,지아이에스,기타,KOSDAQ,nan,3245.0,-15.64,-7.62,1.54,-9.4,True
+307180,아이엘,기타,KOSDAQ,nan,6340.0,1.55,24.52,1.07,-32.0,True
+307280,원바이오젠,기타,KOSPI,nan,7430.0,-13.59,-30.82,0.39,-9.9,True
+307750,국전,기타,KOSDAQ,nan,3910.0,-23.22,-10.47,0.83,-29.4,True
+307870,비투엔,기타,KOSPI,nan,1157.0,-27.65,-49.77,0.41,-37.3,False
+307930,컴퍼니케이,기타,KOSDAQ,nan,9120.0,-0.25,-3.89,0.45,-6.6,True
+307950,현대오토에버,Technology,KOSPI,MegaCap,450500.0,-5.59,-32.65,1.61,-10.8,True
+308080,바이젠셀,기타,KOSDAQ,nan,10890.0,91.23,1.84,2.64,-31.1,True
+309930,조이웍스앤코,기타,KOSDAQ,nan,1842.0,70.72,42.11,0.63,-48.8,False
+309960,LB인베스트먼트,기타,KOSPI,nan,5900.0,-11.82,-37.59,0.68,-16.1,True
+310200,애니플러스,기타,KOSDAQ,nan,2840.0,-16.21,-39.83,0.91,-52.2,False
+310210,보로노이,기타,KOSDAQ,nan,284000.0,-22.2,-4.71,0.99,-21.9,True
+310870,디와이씨,기타,KOSPI,nan,1618.0,-21.33,-10.42,0.39,-11.6,True
+311060,엘에이티,기타,KOSPI,nan,3530.0,-40.76,-23.25,0.9,-15.9,True
+311320,지오엘리먼트,기타,KOSDAQ,nan,8460.0,-2.44,-25.22,0.9,-5.8,True
+311390,네오크레마,기타,KOSDAQ,nan,4720.0,-12.93,-41.39,1.07,-56.9,False
+311960,인터로이드,기타,KOSPI,nan,2205.0,0.55,-25.21,1.54,-50.9,True
+312610,에이에프더블류,기타,KOSDAQ,nan,1350.0,-1.49,-38.74,0.87,-27.1,True
+314140,알피바이오,기타,KOSPI,nan,6250.0,-21.19,-43.72,0.9,-22.0,False
+314930,바이오다인,기타,KOSDAQ,nan,11660.0,-26.42,-50.99,1.16,-31.1,False
+315640,딥노이드,기타,KOSDAQ,nan,3600.0,-15.88,-33.07,1.03,-57.3,False
+316140,우리금융지주,Financial Services,KOSPI,MegaCap,33350.0,-19.61,-26.62,1.56,-18.3,True
+317120,라닉스,기타,KOSDAQ,nan,2475.0,4.45,-19.84,0.74,-22.8,True
+317400,자이에스앤디,Real Estate,KOSPI,SmallCap,4825.0,-7.58,-22.54,1.18,-5.9,True
+317530,에피소드컴퍼니,기타,KOSDAQ,nan,4045.0,-21.19,-43.35,1.32,-39.2,False
+317690,퀀타매트릭스,기타,KOSDAQ,nan,3910.0,-24.25,-42.98,0.94,-31.0,False
+317770,엑스페릭스,기타,KOSDAQ,nan,3685.0,-4.73,-6.28,1.33,-48.5,True
+317830,에스피시스템스,기타,KOSDAQ,nan,10520.0,-11.24,-55.1,1.72,-32.4,True
+317850,대모,기타,KOSDAQ,nan,8980.0,-17.97,-28.7,0.17,-12.8,True
+317860,노드메이슨,기타,KOSPI,nan,4500.0,-19.21,-18.07,0.01,-17.9,False
+317870,엔바이오니아,기타,KOSDAQ,nan,8520.0,-25.15,-52.22,1.1,-55.9,False
+318000,KBG,기타,KOSDAQ,nan,4570.0,-13.6,-34.72,0.89,-20.4,False
+318010,팜스빌,기타,KOSDAQ,nan,3700.0,-18.88,-35.77,1.31,-34.3,False
+318160,셀바이오휴먼텍,기타,KOSPI,nan,7650.0,-9.98,-49.29,0.83,-27.8,False
+318410,비비씨,기타,KOSDAQ,nan,7500.0,-23.05,-35.24,1.61,-27.5,False
+319400,현대무벡스,기타,KOSDAQ,nan,31350.0,-9.15,-43.56,1.13,-32.4,True
+320000,한울반도체,기타,KOSDAQ,nan,1533.0,-8.73,-53.64,1.52,-52.4,False
+321260,프로이천,기타,KOSDAQ,nan,2485.0,7.7,3.13,0.1,-19.2,True
+321550,티움바이오,기타,KOSDAQ,nan,13140.0,-0.03,92.7,1.27,0.0,True
+321820,아티스트컴퍼니,기타,KOSDAQ,nan,4805.0,6.23,-7.56,0.68,-65.4,False
+322000,HD현대에너지솔루션,Technology,KOSPI,LargeCap,231000.0,-3.11,319.1,1.22,0.0,True
+322180,LS티라유텍,기타,KOSDAQ,nan,8930.0,8.5,-43.12,1.78,-12.6,True
+322310,오로스테크놀로지,기타,KOSDAQ,nan,34500.0,-7.04,-7.23,1.28,-4.6,True
+322510,제이엘케이,기타,KOSDAQ,nan,7180.0,-21.42,-37.0,1.9,-20.2,True
+322970,무진메디,기타,KOSPI,nan,2865.0,-32.11,18.51,1.13,-19.5,True
+323280,태성,기타,KOSPI,nan,79500.0,27.15,-28.52,1.59,-11.4,True
+323410,카카오뱅크,Financial Services,KOSPI,MegaCap,24350.0,-20.15,-27.24,0.92,-34.2,True
+323990,박셀바이오,기타,KOSDAQ,nan,7480.0,-27.35,-62.02,1.1,-32.0,False
+326030,SK바이오팜,Healthcare,KOSPI,LargeCap,99900.0,-17.83,-47.82,0.91,-29.0,False
+327260,RF머트리얼즈,기타,KOSDAQ,nan,93300.0,-1.87,143.6,0.87,-13.0,True
+328130,루닛,기타,KOSDAQ,nan,41450.0,2.96,-32.22,1.46,-28.0,True
+329180,HD현대중공업,Industrials,KOSPI,MegaCap,685000.0,18.87,-12.65,1.04,-0.7,True
+330350,위더스제약,기타,KOSDAQ,nan,8940.0,-18.07,-33.1,0.88,-25.1,True
+330590,롯데리츠,Real Estate,KOSDAQ,LargeCap,4440.0,-28.71,-33.56,1.4,-8.5,True
+330730,스톤브릿지벤처스,기타,KOSDAQ,nan,6430.0,-14.08,-23.62,0.9,-5.0,True
+330860,네패스아크,기타,KOSDAQ,nan,37850.0,20.75,80.48,1.3,-2.9,True
+331380,포커스에이아이,기타,KOSDAQ,nan,2310.0,-35.14,-56.79,1.1,-35.4,False
+331660,한국미라클피플사,기타,KOSPI,nan,16450.0,-26.42,-27.9,0.0,-8.9,True
+331920,셀레믹스,기타,KOSDAQ,nan,14990.0,-7.34,365.6,1.16,-17.6,True
+332290,누보,기타,KOSDAQ,nan,1382.0,-22.15,-9.46,0.57,-19.6,True
+332370,아이디피,기타,KOSDAQ,nan,5220.0,-20.21,-33.85,0.55,-7.4,True
+332570,PS일렉트로닉스,기타,KOSDAQ,nan,8060.0,32.82,-24.54,1.01,-13.6,True
+333050,이노테나,기타,KOSPI,nan,1393.0,-17.61,-22.22,0.19,-16.6,True
+333430,일승,기타,KOSPI,nan,6290.0,-12.47,-27.07,1.38,-36.5,True
+333620,엔시스,기타,KOSDAQ,nan,7130.0,-0.85,-27.9,2.61,-11.5,True
+334890,이지스밸류플러스리츠,Real Estate,KOSPI,MidCap,4185.0,-23.39,-36.09,1.32,-15.9,False
+334970,프레스티지바이오로직스,기타,KOSDAQ,nan,2380.0,-23.99,-54.06,0.74,-50.8,False
+335810,프리시젼바이오,기타,KOSDAQ,nan,2265.0,-23.77,-50.31,1.14,-35.7,False
+335870,윙스풋,기타,KOSPI,nan,1876.0,-29.0,-41.31,1.25,-34.5,False
+336040,타스컴,기타,KOSPI,nan,4700.0,-11.73,-7.03,0.34,-8.7,True
+336060,웨이버스,기타,KOSPI,nan,1040.0,-15.54,-32.69,1.75,-22.7,False
+336260,두산퓨얼셀,Industrials,KOSPI,LargeCap,60800.0,34.34,52.58,1.36,0.0,True
+33626K,Doosan Fuel Cell Co. Ltd. Pfd. Series 1,Industrials,KOSPI,MidCap,9890.0,9.84,7.38,2.05,0.0,True
+33626L,Doosan Fuel Cell America Inc,Industrials,KOSPI,nan,11320.0,-5.46,-23.88,2.47,-14.5,True
+336370,솔루스첨단소재,Technology,KOSPI,LargeCap,13090.0,19.23,33.02,1.17,-18.9,True
+33637K,Doosan Solus Co Ltd Pref 1P,Technology,KOSPI,MidCap,2600.0,0.41,-10.59,0.41,-7.1,True
+33637L,Doosan Solus Co Ltd Pref 2P,Technology,KOSPI,nan,3645.0,-16.31,-34.02,0.44,-26.3,False
+336570,원텍,기타,KOSDAQ,nan,7320.0,-17.9,-57.6,0.94,-45.0,False
+337840,유엑스엔,기타,KOSPI,nan,7220.0,-33.98,-46.07,1.71,-43.9,False
+337930,젝시믹스,기타,KOSDAQ,nan,4395.0,-17.96,-57.66,0.72,-41.4,False
+338100,NH프라임리츠,Real Estate,KOSPI,SmallCap,4770.0,-21.74,-28.14,1.17,-3.4,True
+338220,뷰노,기타,KOSDAQ,nan,18960.0,-1.51,-43.33,1.01,-31.3,False
+339770,교촌에프앤비,Consumer Cyclical,KOSPI,MidCap,4485.0,-15.39,-31.64,1.14,-26.1,False
+339950,아이비김영,기타,KOSDAQ,nan,2725.0,-11.15,-4.49,0.99,-7.6,True
+340360,다보링크,기타,KOSDAQ,nan,1554.0,-29.23,-29.2,0.32,-29.8,False
+340440,세림B&G,기타,KOSPI,nan,2510.0,0.58,46.6,0.92,0.0,True
+340450,지씨지놈,기타,KOSPI,nan,8470.0,-9.69,-37.42,1.92,-9.0,False
+340570,티앤엘,기타,KOSDAQ,nan,61200.0,-9.38,-24.51,0.67,-17.5,True
+340810,시선AI,기타,KOSPI,nan,3335.0,5.52,-44.13,2.51,-45.4,True
+341170,퓨쳐메디신,기타,KOSPI,nan,1804.0,-29.01,-18.03,1.02,-41.8,True
+344820,KCC글라스,Industrials,KOSPI,MidCap,29300.0,-7.02,-27.89,0.64,-15.2,True
+346010,타이드,기타,KOSPI,nan,1000.0,-42.27,-68.17,0.0,-54.8,False
+347000,센코,기타,KOSDAQ,nan,2405.0,-12.13,-22.62,0.78,-12.9,True
+347700,스피어,기타,KOSDAQ,nan,42200.0,-31.24,17.73,0.7,-20.5,True
+347740,피엔케이피부임상연구센타,기타,KOSDAQ,nan,2495.0,-3.46,-31.25,1.32,-22.9,False
+347770,핌스,기타,KOSDAQ,nan,2110.0,-2.66,66.44,2.08,-6.6,True
+347860,알체라,기타,KOSDAQ,nan,2700.0,24.36,4.83,0.96,-24.5,True
+347890,엠엑스온,기타,KOSDAQ,nan,6040.0,-7.84,-45.91,0.91,-18.2,False
+348030,모비릭스,기타,KOSDAQ,nan,2480.0,-24.59,-49.63,0.12,-49.5,False
+348150,고바이오랩,기타,KOSDAQ,nan,5320.0,-26.55,-50.78,0.56,-23.2,False
+348210,넥스틴,기타,KOSDAQ,nan,69700.0,-18.38,-55.42,1.04,-29.2,True
+348350,위드텍,기타,KOSDAQ,nan,11050.0,-9.48,-11.57,1.41,-14.8,True
+348370,엔켐,기타,KOSDAQ,nan,44300.0,2.94,-83.72,0.76,-54.7,False
+348950,제이알글로벌리츠,Real Estate,KOSPI,MidCap,1182.0,-55.91,-79.98,0.49,-61.4,False
+350520,이지스레지던스리츠,Real Estate,KOSPI,SmallCap,3920.0,-21.37,-33.99,0.87,-8.7,True
+351320,넥사다이내믹스,기타,KOSPI,nan,1345.0,-20.53,-22.56,0.85,-54.0,False
+351330,이삭엔지니어링,기타,KOSDAQ,nan,7970.0,-8.82,-48.96,1.44,-23.2,False
+352480,씨앤씨인터내셔널,기타,KOSDAQ,nan,29700.0,-8.65,-53.64,1.78,-38.5,False
+352700,씨앤투스,기타,KOSDAQ,nan,2145.0,-16.26,-38.12,1.02,-24.3,False
+352820,하이브,Communication Services,KOSPI,MegaCap,263000.0,-26.58,-63.75,0.96,-35.0,False
+352910,오비고,기타,KOSDAQ,nan,5520.0,-0.5,-33.86,0.46,-15.7,True
+352940,인바이오,기타,KOSDAQ,nan,2305.0,-17.03,-27.13,0.64,-17.5,True
+353200,대덕전자,Technology,KOSPI,LargeCap,112800.0,14.93,48.41,0.96,-2.3,True
+35320K,DAEDUCK ELECTRONICS Co.Ltd,Technology,KOSPI,LargeCap,25250.0,13.84,13.78,1.45,-1.6,True
+353590,오토앤,기타,KOSDAQ,nan,2995.0,-15.87,-46.53,1.07,-25.7,False
+353810,이지바이오,기타,KOSDAQ,nan,7740.0,-20.38,-27.79,0.77,-4.0,True
+354200,엔젠바이오,기타,KOSDAQ,nan,1159.0,-55.08,-93.44,2.3,-56.0,False
+354390,바스칸바이오제약,기타,KOSPI,nan,5590.0,-12.77,-18.35,1.43,-5.3,True
+355150,코스텍시스,기타,KOSPI,nan,51000.0,80.01,228.43,1.55,0.0,True
+356680,엑스게이트,기타,KOSPI,nan,14090.0,81.1,48.71,0.45,-16.5,True
+356860,티엘비,기타,KOSDAQ,nan,87500.0,9.6,11.64,0.71,0.0,True
+356890,싸이버원,기타,KOSPI,nan,3825.0,-5.39,-40.71,1.1,-26.0,True
+357120,코람코라이프인프라리츠,Real Estate,KOSPI,MidCap,4685.0,-20.91,-33.54,1.54,-4.8,True
+357230,에이치피오,기타,KOSDAQ,nan,2790.0,-7.25,-20.93,3.74,-0.4,True
+357250,미래에셋맵스리츠,Real Estate,KOSPI,SmallCap,2390.0,-23.57,-41.82,1.28,-15.7,False
+357550,석경에이티,기타,KOSDAQ,nan,57200.0,-12.71,-33.99,1.45,-22.7,True
+357580,아모센스,기타,KOSDAQ,nan,23050.0,0.0,24.22,0.96,-8.2,True
+357880,SKAI,기타,KOSDAQ,nan,3300.0,-17.71,72.24,0.41,-38.0,True
+360070,탑머티리얼,기타,KOSDAQ,nan,20300.0,-8.65,-45.36,0.36,-27.0,False
+361390,제노코,기타,KOSDAQ,nan,29450.0,-19.37,-27.74,0.85,-16.8,True
+361570,알비더블유,기타,KOSDAQ,nan,1945.0,-21.3,-38.69,0.86,-29.8,False
+361610,SK아이이테크놀로지,Technology,KOSPI,LargeCap,26400.0,1.43,-34.09,0.85,-23.0,False
+361670,삼영에스앤씨,기타,KOSDAQ,nan,3440.0,-10.46,-39.14,0.82,-25.9,False
+362320,청담글로벌,기타,KOSDAQ,nan,5180.0,-16.63,-44.42,2.39,-49.5,False
+363250,진시스템,기타,KOSDAQ,nan,5510.0,-42.96,-21.54,0.85,-49.0,True
+363260,모비데이즈,기타,KOSPI,nan,1490.0,-19.87,-44.41,0.92,-32.1,False
+363280,티와이홀딩스,Communication Services,KOSPI,SmallCap,2840.0,-18.02,-21.03,0.9,-35.7,False
+36328K,TY Holdings Co. Ltd. Pfd. Series 1,Communication Services,KOSPI,nan,4080.0,-23.62,-36.93,0.97,-51.6,False
+365270,큐라클,기타,KOSDAQ,nan,17800.0,3.24,21.37,1.2,-9.7,True
+365340,성일하이텍,기타,KOSDAQ,nan,82200.0,13.01,-9.58,0.74,-2.7,True
+365550,ESR켄달스퀘어리츠,Real Estate,KOSPI,LargeCap,4525.0,-23.43,-33.87,1.35,-6.1,True
+365590,하이딥,기타,KOSDAQ,nan,2035.0,-16.38,-54.36,0.63,-46.7,True
+365900,브이씨,기타,KOSDAQ,nan,3125.0,-29.01,-28.16,0.86,-20.4,False
+366030,공구우먼,기타,KOSDAQ,nan,6750.0,5.82,-19.83,2.13,0.0,True
+367000,플래티어,기타,KOSDAQ,nan,4000.0,-22.21,-38.53,1.14,-20.9,False
+368600,아이씨에이치,기타,KOSDAQ,nan,1168.0,1.6,-20.62,0.24,-64.8,False
+368770,파이버프로,기타,KOSPI,nan,23550.0,-21.6,-6.59,0.42,-11.1,True
+368970,오에스피,기타,KOSPI,nan,1925.0,-15.99,-29.39,0.79,-43.1,False
+369370,블리츠웨이엔터테인먼트,기타,KOSDAQ,nan,1170.0,-32.23,-53.67,2.07,-35.0,False
+370090,퓨런티어,기타,KOSDAQ,nan,13970.0,-10.04,-40.2,1.06,-28.5,True
+371950,풍원정밀,기타,KOSDAQ,nan,10640.0,-34.2,-46.56,0.53,-44.6,False
+372170,윤성에프앤씨,기타,KOSDAQ,nan,36300.0,2.71,-30.66,1.15,-14.1,True
+372800,아이티아이즈,기타,KOSDAQ,nan,4255.0,-18.8,-60.89,0.66,-53.0,False
+372910,한컴라이프케어,Technology,KOSPI,SmallCap,2590.0,-12.35,-47.33,0.28,-24.6,False
+373220,LG에너지솔루션,Industrials,KOSPI,MegaCap,460500.0,-8.43,-16.24,0.89,-10.4,True
+375500,DL이앤씨,Industrials,KOSPI,LargeCap,99000.0,8.01,89.9,0.66,-3.4,True
+37550K,DL E&C Co. Ltd. Pfd. Series 1,Industrials,KOSPI,LargeCap,30700.0,-23.5,0.56,0.63,-9.2,True
+37550L,DL E&C Co. Ltd. Pfd.,Industrials,KOSPI,nan,59000.0,-3.7,43.84,0.63,-3.0,True
+376180,피코그램,기타,KOSDAQ,nan,2925.0,-14.03,-14.26,0.81,-23.4,True
+376290,씨유테크,기타,KOSDAQ,nan,2900.0,-16.98,-36.02,1.19,-17.6,False
+376300,디어유,기타,KOSDAQ,nan,32250.0,-15.04,-46.19,1.19,-48.2,False
+376930,노을,기타,KOSDAQ,nan,1548.0,-28.73,-51.23,1.31,-58.6,False
+376980,원티드랩,기타,KOSDAQ,nan,4000.0,-4.59,-18.73,3.7,-57.6,True
+377030,비트맥스,기타,KOSDAQ,nan,3430.0,248.84,57.29,0.86,-51.8,True
+377190,디앤디플랫폼리츠,Real Estate,KOSPI,MidCap,3215.0,-18.75,-39.4,1.34,-14.3,False
+377220,프롬바이오,기타,KOSDAQ,nan,1269.0,-24.69,-56.18,0.82,-63.2,False
+377300,카카오페이,Technology,KOSPI,LargeCap,55700.0,-7.71,-49.7,0.73,-40.6,False
+377330,이지트로닉스,기타,KOSDAQ,nan,3945.0,-4.63,-25.03,1.02,-25.8,True
+377450,리파인,기타,KOSDAQ,nan,12700.0,-9.47,-32.11,1.21,-32.4,False
+377480,마음AI,기타,KOSDAQ,nan,15850.0,-11.42,-49.51,0.62,-39.3,False
+377740,바이오노트,Healthcare,KOSPI,MidCap,5110.0,-22.2,-47.93,0.89,-18.0,False
+378800,샤페론,기타,KOSPI,nan,1876.0,-10.77,-34.17,0.98,-50.6,False
+378850,화승알앤에이,Consumer Cyclical,KOSPI,SmallCap,3515.0,-17.15,-36.56,1.33,-10.3,True
+379390,이성씨엔아이,기타,KOSPI,nan,5020.0,-28.22,-43.86,0.01,-33.9,False
+380540,옵티코어,기타,KOSPI,nan,4225.0,-29.23,-19.53,,-15.8,True
+381970,케이카,Consumer Cyclical,KOSPI,MidCap,11000.0,-20.9,-64.28,0.97,-35.6,False
+382150,온코크로스,기타,KOSPI,nan,8500.0,-14.31,-37.77,0.32,-38.7,False
+382480,지아이텍,기타,KOSDAQ,nan,2765.0,-5.57,-21.73,0.84,-2.5,True
+382800,지앤비에스 에코,기타,KOSDAQ,nan,9090.0,33.55,152.53,2.17,0.0,True
+382840,원준,기타,KOSDAQ,nan,9910.0,-6.01,-34.94,0.73,-8.6,True
+382900,범한퓨얼셀,기타,KOSDAQ,nan,35250.0,-0.52,-18.33,2.13,-6.0,True
+383220,F&F,Consumer Cyclical,KOSPI,LargeCap,66900.0,-14.5,-42.93,1.0,-19.1,False
+383310,에코프로에이치엔,기타,KOSDAQ,nan,31900.0,-15.12,-55.2,1.32,-27.6,True
+383800,LX홀딩스,Financial Services,KOSPI,MidCap,9100.0,-11.64,-29.98,1.98,-9.7,True
+38380K,LX Holdings Corp. Pfd.,Financial Services,KOSPI,MidCap,8890.0,-14.37,-37.2,1.86,-6.4,True
+388050,지투파워,기타,KOSDAQ,nan,14610.0,-7.3,34.66,0.58,-2.9,True
+388610,지에프씨생명과학,기타,KOSPI,nan,10020.0,-20.67,-53.45,0.99,-69.2,False
+388720,유일로보틱스,기타,KOSDAQ,nan,105100.0,-1.21,-55.82,1.57,-30.3,True
+388790,라이콤,기타,KOSPI,nan,5210.0,-26.42,81.95,0.35,-38.0,True
+389020,자람테크놀로지,기타,KOSPI,nan,52000.0,-18.41,-2.0,0.84,-14.8,True
+389030,지니너스,기타,KOSDAQ,nan,4960.0,-27.3,6.14,0.68,-20.9,True
+389140,포바이포,기타,KOSDAQ,nan,8870.0,-16.99,-24.14,2.08,-69.3,False
+389260,대명에너지,기타,KOSDAQ,nan,24250.0,-35.16,7.27,0.92,-21.6,True
+389470,인벤티지랩,기타,KOSPI,nan,61500.0,-23.34,-52.0,1.46,-38.2,True
+389500,에스비비테크,기타,KOSDAQ,nan,64700.0,10.94,-43.24,1.52,-19.9,True
+391710,코닉오토메이션,기타,KOSPI,nan,2100.0,-6.21,-52.91,2.08,-31.4,False
+393210,토마토시스템,기타,KOSPI,nan,4505.0,-13.98,-43.08,1.02,-49.3,False
+393890,더블유씨피,기타,KOSDAQ,nan,19520.0,11.38,82.4,0.62,-5.5,True
+394280,오픈엣지테크놀로지,기타,KOSDAQ,nan,20450.0,17.63,5.39,1.43,-4.4,True
+395400,SK리츠,Real Estate,KOSPI,LargeCap,6760.0,-18.86,-15.4,1.57,-4.7,True
+396270,넥스트칩,기타,KOSDAQ,nan,5160.0,15.47,11.28,0.87,-33.0,True
+396300,세아메카닉스,기타,KOSDAQ,nan,5900.0,44.1,-4.54,3.13,0.0,True
+396690,미래에셋글로벌리츠,Real Estate,KOSPI,SmallCap,2190.0,-28.57,-51.2,1.87,-22.6,False
+397030,에이프릴바이오,기타,KOSDAQ,nan,59300.0,-8.84,-40.21,0.97,-18.8,True
+399720,가온칩스,기타,KOSDAQ,nan,70400.0,-10.62,-30.43,2.2,-11.9,True
+400760,NH올원리츠,Real Estate,KOSPI,SmallCap,3360.0,-20.92,-34.98,1.24,-8.2,True
+402030,코난테크놀로지,기타,KOSDAQ,nan,20650.0,-8.76,-43.56,1.31,-55.6,False
+402340,SK스퀘어,Technology,KOSPI,MegaCap,841000.0,50.13,29.11,1.14,0.0,True
+402420,켈스,기타,KOSPI,nan,1100.0,-54.65,-72.81,0.13,-78.0,False
+403550,쏘카,Technology,KOSPI,MidCap,17810.0,29.68,14.67,1.31,0.0,True
+403870,HPSP,기타,KOSDAQ,nan,52600.0,1.25,-14.09,1.1,-4.0,True
+404990,신한서부티엔디리츠,Real Estate,KOSPI,MidCap,4685.0,-11.37,-13.48,1.04,-3.8,True
+405000,플라즈맵,기타,KOSPI,nan,7690.0,-18.21,2.4,0.58,-41.7,True
+405100,큐알티,기타,KOSPI,nan,20350.0,4.65,-15.8,0.53,-8.3,True
+408920,메쎄이상,기타,KOSPI,nan,3625.0,-23.44,-27.24,0.9,-4.1,True
+411080,샌즈랩,기타,KOSPI,nan,8230.0,12.49,-21.67,0.49,-17.5,True
+412350,레이저쎌,기타,KOSDAQ,nan,7920.0,-36.19,171.95,0.73,-17.0,True
+413300,티엘엔지니어링,기타,KOSPI,nan,1790.0,-39.14,-27.84,0.77,-43.0,False
+417010,나노팀,기타,KOSPI,nan,11200.0,-5.09,-26.75,0.97,-19.8,True
+417180,핑거스토리,기타,KOSPI,nan,1579.0,-25.62,-43.33,0.88,-50.3,False
+417310,코람코더원리츠,Real Estate,KOSPI,MidCap,10390.0,-15.99,-18.54,0.79,-0.9,True
+417500,제이아이테크,기타,KOSPI,nan,4650.0,-27.48,3.1,0.93,-21.5,True
+417790,트루엔,기타,KOSPI,nan,7910.0,-13.05,-36.27,1.36,-19.0,False
+417840,저스템,기타,KOSPI,nan,12070.0,72.91,27.92,0.37,-23.8,True
+417970,모델솔루션,기타,KOSPI,nan,18560.0,-20.99,-52.67,1.41,-36.3,True
+418420,라온텍,기타,KOSPI,nan,6650.0,-6.91,-21.16,0.76,-21.3,True
+419080,엔젯,기타,KOSPI,nan,5620.0,-9.99,-67.17,0.69,-48.9,False
+419120,산돌,기타,KOSPI,nan,4040.0,-23.87,-39.0,0.76,-77.8,False
+420770,기가비스,기타,KOSDAQ,nan,103900.0,0.89,65.91,0.86,-4.8,True
+424980,마이크로투나노,기타,KOSPI,nan,13660.0,-8.52,-40.75,1.35,-14.9,True
+432320,KB스타리츠,Real Estate,KOSPI,MidCap,2165.0,-25.36,-73.84,1.29,-47.2,False
+434190,탈로스,기타,KOSPI,nan,4000.0,-41.89,-27.88,3.82,-35.9,False
+434480,모니터랩,기타,KOSPI,nan,4180.0,2.1,-28.42,0.19,-24.0,True
+437730,삼현,기타,KOSDAQ,nan,53500.0,-22.86,-48.84,1.4,-26.9,True
+439090,마녀공장,기타,KOSDAQ,nan,15940.0,7.53,-22.83,3.64,-18.9,True
+439260,대한조선,Industrials,KOSPI,LargeCap,89500.0,-28.88,-7.52,1.09,-16.1,False
+443060,HD현대마린솔루션,Industrials,KOSPI,MegaCap,265500.0,24.83,14.99,1.32,-5.3,True
+446070,유니드비티플러스,기타,KOSPI,nan,3155.0,-18.12,-34.99,0.97,-35.6,False
+446440,에피바이오텍,기타,KOSPI,nan,14900.0,-22.34,-24.28,1.58,-17.1,True
+446840,지슨,기타,KOSPI,nan,1419.0,-13.99,-47.61,0.66,-38.3,False
+447690,아이오바이오,기타,KOSPI,nan,3000.0,-39.81,-30.71,2.27,-37.4,False
+448730,삼성FN리츠,Real Estate,KOSPI,MidCap,6210.0,-8.35,-10.17,0.97,-15.5,True
+448900,한국피아이엠,기타,KOSPI,nan,107700.0,-18.4,28.27,1.19,-36.6,True
+450080,에코프로머티,Industrials,KOSPI,LargeCap,80300.0,-6.76,-12.54,0.91,-7.1,True
+451800,한화리츠,Real Estate,KOSPI,LargeCap,5970.0,-10.71,-7.21,1.43,-12.8,True
+452260,한화갤러리아,Consumer Cyclical,KOSPI,MidCap,3070.0,3.4,23.56,3.18,-11.8,True
+45226K,Hanwha Galleria Corp. Pfd.,Consumer Cyclical,KOSPI,nan,7300.0,-7.19,-64.2,2.46,-46.4,True
+453340,현대그린푸드,Consumer Defensive,KOSPI,MidCap,16540.0,-16.94,-26.79,0.97,-9.5,True
+454910,두산로보틱스,Industrials,KOSPI,LargeCap,110200.0,9.59,-34.62,2.22,-8.8,True
+456040,OCI,Industrials,KOSDAQ,LargeCap,150000.0,32.1,81.56,1.5,0.0,True
+456190,큐라켐,기타,KOSPI,nan,7000.0,-29.23,-30.57,,-58.3,False
+457190,이수스페셜티케미컬,기타,KOSPI,LargeCap,121500.0,7.5,-20.14,0.78,-6.6,True
+457600,벡트,기타,KOSPI,nan,2260.0,-15.6,-34.93,1.97,-26.9,False
+460850,동국씨엠,Basic Materials,KOSPI,MidCap,6830.0,5.12,-4.54,3.37,-4.9,True
+460860,동국제강,Basic Materials,KOSPI,MidCap,15390.0,44.21,50.49,2.51,-5.6,True
+462520,조선내화,Basic Materials,KOSPI,SmallCap,14650.0,-18.97,-31.03,0.92,-14.7,True
+462870,시프트업,Communication Services,KOSPI,LargeCap,32550.0,-25.35,-39.67,1.06,-44.4,False
+475150,SK이터닉스,Utilities,KOSPI,LargeCap,58000.0,-38.95,169.95,0.87,-15.0,True
+475560,더본코리아,Consumer Cyclical,KOSPI,MidCap,20900.0,-25.64,-49.05,0.99,-29.4,False
+476060,온코닉테라퓨틱스,기타,KOSPI,nan,21250.0,-19.31,-19.95,0.85,-19.2,False
+480370,씨케이솔루션,기타,KOSPI,nan,2475.0,-0.05,-107.64,0.91,-81.8,False
+481070,에이유브랜즈,기타,KOSPI,nan,18460.0,-8.62,-67.89,0.99,-32.6,False
+483650,달바글로벌,기타,KOSPI,nan,226000.0,29.23,5.08,0.76,-6.2,True
+487570,HS효성,Industrials,KOSPI,MidCap,65500.0,-3.14,-27.34,2.99,-28.5,True
+489790,한화비전,Industrials,KOSPI,LargeCap,86200.0,-5.42,14.07,1.82,-7.0,True
+499790,GS피앤엘,Industrials,KOSPI,LargeCap,55300.0,12.22,-26.27,1.61,-14.4,True
+570019,TRUE KOSPI Short Strangle 5% OT,기타,KOSPI,nan,6605.0,-15.33,-72.96,0.8,-32.4,False
+900140,엘브이엠씨홀딩스,Consumer Cyclical,KOSPI,MidCap,1702.0,-16.54,-17.73,0.91,-18.4,True
+900290,GRT,기타,KOSPI,nan,3880.0,-49.23,-26.09,1.44,-45.5,True
+950210,프레스티지바이오파마,Healthcare,KOSPI,MidCap,8910.0,-31.18,-55.15,0.99,-35.2,False
+0001A0,Deokyang Energen Corporation,기타,KOSDAQ,nan,18820.0,-13.93,-88.54,2.82,-51.1,False
+000250,삼천당제약,기타,KOSDAQ,nan,415500.0,-59.87,-47.87,0.57,-58.4,True
+000440,중앙에너비스,기타,KOSDAQ,nan,21600.0,-32.66,0.6,0.69,-34.1,True
+0004Y0,0004Y0,기타,KOSDAQ,nan,2030.0,-25.21,-37.91,0.7,-4.0,False
+0009K0,Aimed Bio,기타,KOSDAQ,nan,46850.0,-26.99,-45.74,1.04,-35.4,False
+001000,신라섬유,기타,KOSDAQ,nan,1677.0,-33.54,-68.55,2.37,-34.7,False
+001540,안국약품,기타,KOSDAQ,nan,8120.0,-19.62,-39.47,0.91,-13.6,True
+001810,무림SP,기타,KOSDAQ,nan,1699.0,-18.59,-15.1,0.21,-22.1,True
+002230,피에스텍,기타,KOSDAQ,nan,10360.0,-13.42,-73.82,1.39,-36.4,True
+002290,삼일기업공사,기타,KOSDAQ,nan,4290.0,-13.99,-23.48,1.15,0.0,True
+002800,신신제약,기타,KOSDAQ,nan,5860.0,-17.06,-33.15,0.95,-21.8,True
+003100,선광,기타,KOSDAQ,nan,23850.0,-8.49,-20.51,1.92,0.0,True
+003310,대주산업,기타,KOSDAQ,nan,3455.0,-24.57,-73.44,0.34,-36.4,True
+003380,하림지주,기타,KOSDAQ,nan,13120.0,-27.09,-43.1,0.9,-33.1,True
+0037T0,KB No. 32 Special Purpose Acquisition Company,기타,KOSDAQ,nan,2010.0,-24.73,-38.16,1.34,-2.0,True
+003800,에이스침대,기타,KOSDAQ,nan,34250.0,-24.57,-34.41,0.78,-13.2,True
+0041B0,0041B0,기타,KOSDAQ,nan,2042.0,-24.86,-39.72,1.12,-3.2,False
+0041J0,0041J0,기타,KOSDAQ,nan,2000.0,-24.24,-38.17,1.48,-23.1,False
+0041L0,Hana 35 Special Purpose Acquisition Company,기타,KOSDAQ,nan,2010.0,-23.74,-37.17,0.2,-1.2,False
+0044K0,0044K0,기타,KOSDAQ,nan,2040.0,-24.48,-36.18,0.69,-2.9,False
+004590,한국가구,기타,KOSDAQ,nan,5680.0,-10.84,-22.9,1.63,-7.8,True
+004650,창해에탄올,기타,KOSDAQ,nan,10520.0,-23.8,-28.86,0.09,-12.4,True
+004780,대륙제관,기타,KOSDAQ,nan,4060.0,-16.44,-21.25,1.69,-0.5,True
+005160,동국산업,기타,KOSDAQ,nan,3625.0,-14.31,-3.66,1.7,-11.6,True
+005290,동진쎄미켐,기타,KOSDAQ,nan,56600.0,-0.95,-26.44,0.6,-10.4,True
+005670,푸드웰,기타,KOSDAQ,nan,6520.0,-11.77,-30.36,1.02,-33.5,False
+005710,대원산업,기타,KOSDAQ,nan,13790.0,-15.06,-29.01,1.12,-23.9,True
+005860,한일사료,기타,KOSDAQ,nan,3945.0,-27.89,-5.26,0.55,-13.7,True
+005990,매일홀딩스,기타,KOSDAQ,nan,11140.0,-23.81,-33.41,1.56,-9.3,True
+006050,국영지앤엠,기타,KOSDAQ,nan,1375.0,-27.09,-35.42,0.94,-14.6,True
+006140,피제이전자,기타,KOSDAQ,nan,7120.0,-12.57,-47.97,0.93,-28.6,True
+006730,서부T&D,기타,KOSDAQ,nan,14970.0,-9.1,-51.34,1.66,-19.4,True
+006910,보성파워텍,기타,KOSDAQ,nan,12080.0,0.29,26.04,1.33,-6.0,True
+006920,모헨즈,기타,KOSDAQ,nan,4915.0,-16.91,9.3,0.19,-27.9,True
+007370,진양제약,기타,KOSDAQ,nan,4950.0,-11.87,-37.72,1.02,-26.6,False
+007390,네이처셀,기타,KOSDAQ,nan,19150.0,-11.67,-59.26,0.89,-49.3,False
+007530,와이엠,기타,KOSDAQ,nan,2535.0,-13.77,-33.31,1.24,-15.6,False
+007770,한일화학,기타,KOSDAQ,nan,7840.0,-23.86,-37.04,1.56,-22.7,False
+007820,엠엑스로보틱스,기타,KOSDAQ,nan,5210.0,-11.46,-47.59,1.19,-25.1,True
+008370,원풍,기타,KOSDAQ,nan,5360.0,-16.25,-24.58,1.1,-0.2,True
+008470,부스타,기타,KOSDAQ,nan,3870.0,-25.77,-37.68,0.69,-9.7,False
+008830,대동기어,기타,KOSDAQ,nan,20200.0,-21.61,-23.43,0.57,-22.6,True
+009300,삼아제약,기타,KOSDAQ,nan,16600.0,-18.06,-30.81,1.37,-12.9,False
+009520,포스코엠텍,기타,KOSDAQ,nan,19920.0,-14.12,-36.56,1.97,-7.1,True
+009780,엠에스씨,기타,KOSDAQ,nan,7240.0,-17.99,-43.88,1.23,-42.0,False
+010170,대한광통신,기타,KOSDAQ,nan,15150.0,-5.07,336.76,0.74,-24.8,True
+010240,흥국,기타,KOSDAQ,nan,5950.0,-11.73,-21.66,0.78,0.0,True
+010280,아이티센엔텍,기타,KOSDAQ,nan,5940.0,399.61,451.89,2.81,0.0,True
+010470,오리콤,기타,KOSDAQ,nan,6060.0,-18.6,-31.11,1.25,-14.2,True
+011040,경동제약,기타,KOSDAQ,nan,5640.0,-20.31,-36.71,0.63,-9.0,False
+011320,유니크,기타,KOSDAQ,nan,4780.0,1.3,-18.22,1.3,-3.6,True
+011370,서한,기타,KOSDAQ,nan,1086.0,-18.86,-15.26,0.89,-10.8,True
+011560,세보엠이씨,기타,KOSDAQ,nan,23500.0,5.13,24.31,1.42,-0.4,True
+012620,원일특강,기타,KOSDAQ,nan,9650.0,-17.48,-16.04,1.63,-0.7,True
+012700,리드코프,기타,KOSDAQ,nan,3810.0,-17.86,-28.87,1.17,-37.4,False
+012790,신일제약,기타,KOSDAQ,nan,6280.0,-18.8,-28.39,0.83,-9.2,True
+012860,모베이스전자,기타,KOSDAQ,nan,3820.0,-18.03,-45.59,1.65,-33.2,True
+013030,하이록코리아,기타,KOSDAQ,nan,44150.0,-7.96,0.55,1.05,-4.0,True
+013120,동원개발,기타,KOSDAQ,nan,2865.0,-22.21,-39.14,1.16,-19.0,False
+013310,아진산업,기타,KOSDAQ,nan,3730.0,-1.69,-26.24,3.36,-3.5,True
+013810,스페코,기타,KOSDAQ,nan,2935.0,-25.17,-20.02,0.37,-16.9,True
+013990,아가방컴퍼니,기타,KOSDAQ,nan,5260.0,-13.37,-20.92,1.93,-36.1,True
+014190,원익큐브,기타,KOSDAQ,nan,1769.0,-21.5,-44.85,1.06,-30.1,True
+014470,부방,기타,KOSDAQ,nan,1456.0,-10.77,-24.29,0.94,-37.9,True
+014570,고려제약,기타,KOSDAQ,nan,4190.0,-18.18,-32.67,1.15,-15.8,False
+014620,성광벤드,기타,KOSDAQ,nan,46400.0,-6.82,11.78,1.59,-3.9,True
+014940,오리엔탈정공,기타,KOSDAQ,nan,7940.0,-3.5,-37.67,0.88,-36.7,False
+014970,삼륭물산,기타,KOSDAQ,nan,7260.0,-36.52,-31.44,0.3,-36.1,False
+015710,코콤,기타,KOSDAQ,nan,4010.0,-18.74,-18.96,0.39,-7.9,True
+015750,성우하이텍,기타,KOSDAQ,nan,8890.0,-18.28,-21.97,1.32,-21.4,True
+016100,리더스코스메틱,기타,KOSDAQ,nan,1850.0,0.17,-30.48,3.06,-34.7,False
+016250,SGC E&C,기타,KOSDAQ,nan,17640.0,-7.71,-19.82,0.74,-15.4,True
+016920,카스,기타,KOSDAQ,nan,1061.0,-14.16,-32.89,0.59,-50.7,False
+017000,신원종합개발,기타,KOSDAQ,nan,3135.0,-17.36,-39.15,0.44,-18.3,True
+017250,인터엠,기타,KOSDAQ,nan,1066.0,-22.85,-30.93,0.7,-7.6,True
+017480,삼현철강,기타,KOSDAQ,nan,4980.0,-15.85,-21.07,3.08,-8.1,True
+017510,세명전기,기타,KOSDAQ,nan,14500.0,37.12,16.18,2.81,0.0,True
+017650,대림제지,기타,KOSDAQ,nan,9520.0,-12.65,-24.09,1.53,-6.1,True
+017890,한국알콜,기타,KOSDAQ,nan,14070.0,7.87,-6.78,0.48,-1.0,True
+018000,유니슨,기타,KOSDAQ,nan,1349.0,-43.79,6.7,0.62,-33.1,True
+018120,진로발효,기타,KOSDAQ,nan,17990.0,-21.89,-33.31,0.71,-11.8,False
+018290,브이티,기타,KOSDAQ,nan,16960.0,-10.7,-51.85,1.94,-61.8,False
+018310,삼목에스폼,기타,KOSDAQ,nan,18840.0,-22.86,-40.06,0.68,-21.2,False
+018680,서울제약,기타,KOSDAQ,nan,2840.0,-19.19,-38.29,1.91,-25.9,False
+019010,베뉴지,기타,KOSDAQ,nan,4895.0,-25.7,-3.86,0.83,-25.0,True
+019210,와이지-원,기타,KOSDAQ,nan,15800.0,-13.5,60.08,1.03,-6.7,True
+019540,일지테크,기타,KOSDAQ,nan,7210.0,-12.72,16.47,0.7,-7.1,True
+019660,글로본,기타,KOSDAQ,nan,2270.0,-19.86,-45.33,0.2,-31.2,False
+019770,서연탑메탈,기타,KOSDAQ,nan,4155.0,-16.07,-26.62,0.36,-2.7,True
+019990,에너토크,기타,KOSDAQ,nan,10310.0,-6.3,-10.45,1.82,-2.6,True
+020180,대신정보통신,기타,KOSDAQ,nan,1231.0,-8.19,-12.95,0.24,-12.5,True
+020400,대동금속,기타,KOSDAQ,nan,5690.0,-67.09,-33.02,0.66,-53.3,False
+020710,시공테크,기타,KOSDAQ,nan,4905.0,-1.98,-15.1,0.29,-50.5,True
+021080,에이티넘인베스트,기타,KOSDAQ,nan,3370.0,-9.17,-30.1,1.08,-11.0,True
+021320,KCC건설,기타,KOSDAQ,nan,7110.0,-14.61,-2.25,0.93,-6.3,True
+021650,한국큐빅,기타,KOSDAQ,nan,2330.0,-17.11,-38.06,0.56,-10.7,False
+023160,태광,기타,KOSDAQ,nan,46050.0,-12.62,38.34,0.97,-5.1,True
+023410,유진기업,기타,KOSDAQ,nan,4085.0,-19.91,-34.39,0.97,-19.7,True
+023600,삼보판지,기타,KOSDAQ,nan,10090.0,-20.08,-31.54,0.87,-8.5,True
+023770,플레이위드,기타,KOSDAQ,nan,2990.0,-25.96,-33.96,0.65,-52.9,False
+023790,동일스틸럭스,기타,KOSDAQ,nan,1249.0,12.92,-33.67,2.43,-67.6,False
+023900,풍국주정,기타,KOSDAQ,nan,10710.0,-20.61,-18.29,0.23,-3.9,True
+023910,대한약품,기타,KOSDAQ,nan,28650.0,-23.99,-37.77,1.3,-15.0,False
+024060,흥구석유,기타,KOSDAQ,nan,17930.0,-42.49,-5.68,0.73,-45.2,True
+024120,KB오토시스,기타,KOSDAQ,nan,4025.0,-15.79,-23.4,1.1,-1.0,True
+024740,한일단조,기타,KOSDAQ,nan,3525.0,-14.86,17.52,0.19,-10.6,True
+024800,유성티엔에스,기타,KOSDAQ,nan,4435.0,-8.65,11.91,1.71,-0.6,True
+024840,KBI메탈,기타,KOSDAQ,nan,5100.0,110.49,167.97,2.02,0.0,True
+024850,HLB이노베이션,기타,KOSDAQ,nan,4620.0,53.08,106.45,0.45,-14.3,True
+024880,케이피에프,기타,KOSDAQ,nan,5880.0,-11.99,-26.53,0.89,-3.8,True
+024910,경창산업,기타,KOSDAQ,nan,2030.0,-24.24,-39.82,1.19,-25.5,True
+024940,PN풍년,기타,KOSDAQ,nan,3305.0,-36.9,-63.48,0.55,-44.0,False
+025320,시노펙스,기타,KOSDAQ,nan,5940.0,-22.62,-58.64,1.02,-25.7,False
+025550,한국선재,기타,KOSDAQ,nan,4255.0,7.34,-8.09,2.19,-24.2,True
+025770,한국정보통신,기타,KOSDAQ,nan,11420.0,22.8,8.99,0.59,-28.2,True
+025870,신라에스지,기타,KOSDAQ,nan,4440.0,-22.85,-55.2,0.82,-35.9,False
+025880,케이씨피드,기타,KOSDAQ,nan,3050.0,-20.42,-20.56,1.19,-1.6,True
+025900,동화기업,기타,KOSDAQ,nan,11600.0,-10.93,-23.7,0.79,-7.9,True
+025950,동신건설,기타,KOSDAQ,nan,16500.0,-12.5,-48.18,0.23,-69.3,False
+025980,아난티,기타,KOSDAQ,nan,7060.0,-18.46,-48.5,0.76,-37.7,False
+026040,제이에스티나,기타,KOSDAQ,nan,2900.0,-23.12,-36.02,1.23,-47.4,False
+026150,특수건설,기타,KOSDAQ,nan,6760.0,-20.78,-42.61,0.74,-20.5,True
+026910,광진실업,기타,KOSDAQ,nan,2130.0,-7.02,-48.3,0.43,-37.3,False
+027050,코리아나,기타,KOSDAQ,nan,2005.0,-11.54,-43.29,3.72,-38.8,False
+027710,팜스토리,기타,KOSDAQ,nan,1379.0,-21.84,-14.08,1.29,-5.0,True
+027830,대성창투,기타,KOSDAQ,nan,1574.0,-17.42,-39.96,0.56,-45.5,False
+028080,휴맥스홀딩스,기타,KOSDAQ,nan,9770.0,528.81,417.63,3.07,0.0,True
+028300,HLB,기타,KOSDAQ,nan,60800.0,-5.01,-25.24,0.53,-10.9,True
+029480,광무,기타,KOSDAQ,nan,2140.0,-17.79,-41.02,0.65,-34.0,False
+030520,한글과컴퓨터,기타,KOSDAQ,nan,20350.0,-17.56,-54.7,0.66,-41.0,False
+030530,원익홀딩스,기타,KOSDAQ,nan,32800.0,-1.83,-54.8,2.2,-32.6,True
+030960,양지사,기타,KOSDAQ,nan,6800.0,-18.07,-52.42,0.9,-26.0,False
+031310,아이즈비전,기타,KOSDAQ,nan,1682.0,-28.26,-19.47,0.2,-32.4,True
+031330,에스에이엠티,기타,KOSDAQ,nan,7070.0,14.91,17.45,0.72,-4.5,True
+031510,오스템,기타,KOSDAQ,nan,1039.0,-21.83,-36.35,0.68,-8.3,False
+031980,피에스케이홀딩스,기타,KOSDAQ,nan,124300.0,8.95,31.46,1.13,-6.4,True
+032080,아즈텍WB,기타,KOSDAQ,nan,1363.0,-19.14,-25.33,1.29,-4.1,True
+032190,다우데이타,기타,KOSDAQ,nan,23050.0,-21.77,-45.4,0.98,-24.7,True
+032280,삼일,기타,KOSDAQ,nan,1398.0,-23.85,-38.2,0.98,-49.0,False
+032500,케이엠더블유,기타,KOSDAQ,nan,29750.0,-19.6,27.22,0.57,-12.8,True
+032540,TJ미디어,기타,KOSDAQ,nan,3770.0,-26.57,-70.1,1.3,-42.3,False
+032580,피델릭스,기타,KOSDAQ,nan,1372.0,3.64,-13.26,2.17,-0.2,True
+032620,GC메디아이,기타,KOSDAQ,nan,4060.0,-21.72,-32.24,0.83,-6.2,True
+032685,소프트센우,기타,KOSDAQ,nan,6270.0,-5.01,-45.22,1.26,-20.6,False
+032750,삼진,기타,KOSDAQ,nan,3605.0,-15.73,-35.15,0.22,-25.1,False
+032820,우리기술,기타,KOSDAQ,nan,21600.0,-23.99,108.87,0.49,-26.3,True
+032850,비트컴퓨터,기타,KOSDAQ,nan,5490.0,-20.79,-25.38,1.2,-3.9,True
+032940,원익,기타,KOSDAQ,nan,10510.0,-4.83,-56.57,1.69,-29.7,True
+032960,동일기연,기타,KOSDAQ,nan,14250.0,-37.21,-35.78,0.7,-18.2,True
+033050,제이엠아이,기타,KOSDAQ,nan,1025.0,-10.23,-17.12,0.95,-7.5,True
+033100,제룡전기,기타,KOSDAQ,nan,70400.0,33.86,23.86,2.56,0.0,True
+033130,디지틀조선,기타,KOSDAQ,nan,2760.0,-14.47,10.89,1.28,-9.5,True
+033160,엠케이전자,기타,KOSDAQ,nan,27900.0,30.15,142.98,0.6,-8.4,True
+033200,모아텍,기타,KOSDAQ,nan,3950.0,-9.0,-29.35,0.24,-18.4,True
+033230,인성정보,기타,KOSDAQ,nan,1946.0,-5.26,-21.24,1.48,-23.2,True
+033290,로젠,기타,KOSDAQ,nan,2020.0,-22.12,-37.67,0.68,-13.9,False
+033310,엠투엔,기타,KOSDAQ,nan,1786.0,-27.92,-45.07,0.51,-24.2,False
+033320,제이씨현시스템,기타,KOSDAQ,nan,5040.0,-20.07,-14.49,0.65,-17.0,True
+033500,동성화인텍,기타,KOSDAQ,nan,29000.0,-11.8,-28.4,1.01,-14.8,True
+033540,파라텍,기타,KOSDAQ,nan,1019.0,-33.01,-71.51,1.1,-36.3,False
+033560,블루콤,기타,KOSDAQ,nan,3495.0,-17.6,-17.73,0.62,-8.7,True
+033640,네패스,기타,KOSDAQ,nan,32000.0,44.34,43.17,1.43,-7.6,True
+034810,해성산업,기타,KOSDAQ,nan,8050.0,-12.03,-40.32,2.47,-9.9,True
+034950,한국기업평가,기타,KOSDAQ,nan,106300.0,-18.01,-27.27,1.11,-6.7,True
+035080,그래디언트,기타,KOSDAQ,nan,12110.0,-21.54,-30.16,1.16,-24.3,False
+035200,프럼파스트,기타,KOSDAQ,nan,4200.0,-9.55,-16.21,0.15,-34.4,True
+035460,기산텔레콤,기타,KOSDAQ,nan,3835.0,8.25,60.26,0.39,-38.1,True
+035600,KG이니시스,기타,KOSDAQ,nan,11450.0,-12.72,-36.98,0.77,-10.8,True
+035610,솔본,기타,KOSDAQ,nan,3785.0,-12.99,-33.86,1.14,-14.9,False
+035760,CJ ENM,기타,KOSDAQ,nan,54100.0,-22.87,-57.86,1.04,-33.9,False
+035810,이지홀딩스,기타,KOSDAQ,nan,5460.0,-28.54,-30.36,1.24,-36.0,True
+035900,JYP Ent.,기타,KOSDAQ,nan,62900.0,-19.51,-47.44,1.05,-26.0,False
+036000,예림당,기타,KOSDAQ,nan,3205.0,-20.44,-38.35,0.76,-33.5,False
+036010,아비코전자,기타,KOSDAQ,nan,11630.0,9.69,3.55,1.33,0.0,True
+036030,케이티알파,기타,KOSDAQ,nan,5120.0,-18.75,-25.02,0.82,-15.1,False
+036120,서울평가정보,기타,KOSDAQ,nan,1966.0,-24.95,-35.61,1.55,-27.1,False
+036190,금화피에스시,기타,KOSDAQ,nan,40300.0,-18.22,-11.68,1.02,-0.7,True
+036200,유니셈,기타,KOSDAQ,nan,11500.0,6.99,-25.77,1.36,-5.3,True
+036220,오상헬스케어,기타,KOSDAQ,nan,9070.0,-16.53,-55.34,0.24,-60.7,False
+036480,대성미생물,기타,KOSDAQ,nan,7490.0,-26.08,-36.2,0.99,-24.2,False
+036540,SFA반도체,기타,KOSDAQ,nan,8300.0,5.29,-18.34,2.68,-16.7,True
+036560,KZ정밀,기타,KOSDAQ,nan,14680.0,-25.2,-28.84,0.65,-14.4,True
+036620,감성코퍼레이션,기타,KOSDAQ,nan,6530.0,-1.25,-40.82,1.58,-11.4,True
+036630,세종텔레콤,기타,KOSDAQ,nan,10050.0,-30.5,-22.83,0.29,-30.9,True
+036640,HRS,기타,KOSDAQ,nan,5350.0,-19.29,-30.31,1.1,-7.1,True
+036670,삼양케이씨아이,기타,KOSDAQ,nan,6240.0,-20.85,-37.58,1.05,-16.6,False
+036710,심텍홀딩스,기타,KOSDAQ,nan,3780.0,35.84,11.11,0.62,-12.5,True
+036800,나이스정보통신,기타,KOSDAQ,nan,28050.0,-7.36,-17.8,0.5,-19.3,True
+036810,에프에스티,기타,KOSDAQ,nan,42500.0,-9.13,-38.01,0.94,-14.2,True
+036830,솔브레인홀딩스,기타,KOSDAQ,nan,73000.0,28.73,7.13,1.55,-8.3,True
+036890,진성티이씨,기타,KOSDAQ,nan,17800.0,-14.92,-11.89,1.08,-3.1,True
+036930,주성엔지니어링,기타,KOSDAQ,nan,126000.0,78.58,171.02,0.7,-3.4,True
+037030,파워넷,기타,KOSDAQ,nan,5730.0,-17.09,52.31,0.19,-32.9,True
+037070,파세코,기타,KOSDAQ,nan,9780.0,-10.53,-6.5,0.84,-3.5,True
+037230,한국팩키지,기타,KOSDAQ,nan,2370.0,-29.57,-7.63,0.2,-30.5,True
+037330,인지디스플레,기타,KOSDAQ,nan,1525.0,-11.03,-30.7,0.76,-2.9,True
+037350,성도이엔지,기타,KOSDAQ,nan,13290.0,18.3,50.82,1.37,-4.5,True
+037370,EG,기타,KOSDAQ,nan,5640.0,-12.75,-40.18,1.31,-17.7,False
+037400,우리엔터프라이즈,기타,KOSDAQ,nan,1060.0,-14.82,-22.95,0.52,-8.9,True
+037440,희림,기타,KOSDAQ,nan,5950.0,18.18,4.41,0.17,-6.4,True
+037460,삼지전자,기타,KOSDAQ,nan,32700.0,-9.65,15.03,0.66,-6.7,True
+037760,쎄니트,기타,KOSDAQ,nan,2365.0,-20.71,-4.26,0.63,-0.6,True
+038010,제일테크노스,기타,KOSDAQ,nan,6830.0,-13.65,-19.25,0.69,-10.6,True
+038060,루멘스,기타,KOSDAQ,nan,1180.0,34.4,41.1,0.3,-28.4,True
+038070,서린바이오,기타,KOSDAQ,nan,6340.0,-20.06,-37.1,0.52,-24.4,False
+038110,에코플라스틱,기타,KOSDAQ,nan,3680.0,-29.02,-18.9,0.37,-14.4,True
+038290,마크로젠,기타,KOSDAQ,nan,16220.0,-22.23,-47.31,1.09,-16.9,False
+038390,레드캡투어,기타,KOSDAQ,nan,11520.0,-10.27,-45.04,1.75,-11.5,False
+038460,바이오스마트,기타,KOSDAQ,nan,4450.0,-15.45,-59.08,1.26,-28.8,True
+038500,삼표시멘트,기타,KOSDAQ,nan,16930.0,-6.26,72.31,0.66,-16.2,True
+038540,상상인,기타,KOSDAQ,nan,2230.0,-19.3,-16.88,1.03,-4.9,True
+038680,에스넷,기타,KOSDAQ,nan,4520.0,0.19,0.17,0.16,-19.4,True
+038870,에코심플렉스,기타,KOSDAQ,nan,3120.0,-27.99,-31.66,0.55,-44.2,False
+038950,파인디지털,기타,KOSDAQ,nan,3455.0,-18.97,-20.3,0.98,-8.5,True
+039010,현대에이치티,기타,KOSDAQ,nan,10540.0,0.01,-6.65,0.98,-14.6,True
+039020,이건홀딩스,기타,KOSDAQ,nan,3475.0,-15.4,-47.04,1.14,-34.8,False
+039030,이오테크닉스,기타,KOSDAQ,nan,468000.0,-5.81,-5.4,0.98,-9.3,True
+039200,오스코텍,기타,KOSDAQ,nan,52000.0,-17.76,-35.46,1.0,-16.1,True
+039240,경남스틸,기타,KOSDAQ,nan,2955.0,-18.45,-24.42,1.27,-66.1,True
+039290,인포뱅크,기타,KOSDAQ,nan,4850.0,-15.49,-50.97,0.47,-31.7,False
+039310,세중,기타,KOSDAQ,nan,1780.0,-14.32,-2.06,1.14,-28.8,True
+039340,한국경제TV,기타,KOSDAQ,nan,4945.0,-23.89,-46.18,0.49,-22.1,False
+039420,케이엘넷,기타,KOSDAQ,nan,3040.0,-14.04,-25.04,0.64,-16.0,True
+039440,에스티아이,기타,KOSDAQ,nan,37400.0,3.65,-27.42,1.43,-8.3,True
+039560,다산네트웍스,기타,KOSDAQ,nan,5020.0,-24.98,6.63,0.55,-11.9,True
+039610,화성밸브,기타,KOSDAQ,nan,9650.0,-5.44,-22.4,0.96,-15.6,True
+039740,한국정보공학,기타,KOSDAQ,nan,4070.0,-23.62,-3.54,0.56,-10.0,True
+039830,오로라,기타,KOSDAQ,nan,16680.0,51.59,-17.33,1.66,-34.1,True
+039840,디오,기타,KOSDAQ,nan,17260.0,-18.55,-28.11,0.74,-17.6,True
+039860,나노엔텍,기타,KOSDAQ,nan,6850.0,11.92,3.24,3.02,-10.7,True
+039980,폴라리스AI,기타,KOSDAQ,nan,9300.0,409.84,385.46,0.66,-3.4,True
+040160,누리플렉스,기타,KOSDAQ,nan,16770.0,36.8,290.39,0.51,-2.5,True
+040300,YTN,기타,KOSDAQ,nan,3470.0,-13.13,-40.49,0.22,-21.8,True
+040420,정상제이엘에스,기타,KOSDAQ,nan,6010.0,-20.9,-32.9,1.08,-9.2,False
+040610,SG&G,기타,KOSDAQ,nan,2175.0,-17.02,-14.72,1.36,-6.0,True
+040910,아이씨디,기타,KOSDAQ,nan,5880.0,-11.35,7.23,0.93,-2.5,True
+041020,폴라리스오피스,기타,KOSDAQ,nan,4960.0,-7.83,-28.77,1.29,-24.2,False
+041190,우리기술투자,기타,KOSDAQ,nan,6490.0,-17.94,-54.22,0.89,-46.6,False
+041440,현대에버다임,기타,KOSDAQ,nan,9200.0,-16.76,-24.95,0.47,-3.4,True
+041460,한국전자인증,기타,KOSDAQ,nan,4175.0,-19.88,-28.13,0.32,-15.3,True
+041510,에스엠,기타,KOSDAQ,nan,96600.0,-10.34,-46.12,1.26,-36.9,False
+041520,이엘씨,기타,KOSDAQ,nan,12620.0,16.23,53.79,1.3,-2.1,True
+041830,인바디,기타,KOSDAQ,nan,29500.0,-19.93,-44.51,0.58,-17.1,True
+041910,폴라리스AI파마,기타,KOSDAQ,nan,7480.0,-16.67,-20.73,3.31,-18.4,True
+041920,메디아나,기타,KOSDAQ,nan,21000.0,-11.93,-37.42,1.09,-26.7,True
+041930,SY동아,기타,KOSDAQ,nan,6850.0,-9.63,-31.87,1.44,-9.3,True
+041960,코미팜,기타,KOSDAQ,nan,9720.0,-4.14,-0.33,0.73,-5.7,True
+042040,케이피엠테크,기타,KOSDAQ,nan,1227.0,601.58,455.85,2.45,0.0,True
+042110,에스씨디,기타,KOSDAQ,nan,1601.0,-14.41,-10.26,1.75,0.0,True
+042370,비츠로테크,기타,KOSDAQ,nan,16950.0,19.29,29.08,0.89,-5.7,True
+042420,네오위즈홀딩스,기타,KOSDAQ,nan,21800.0,-26.67,-57.71,1.05,-33.6,False
+042500,링네트,기타,KOSDAQ,nan,6010.0,24.4,22.42,1.7,-5.4,True
+042510,라온시큐어,기타,KOSDAQ,nan,12560.0,21.38,0.15,0.39,-18.5,True
+042520,한스바이오메드,기타,KOSDAQ,nan,29400.0,-38.52,-67.67,1.16,-47.2,True
+042600,새로닉스,기타,KOSDAQ,nan,20200.0,-13.49,8.96,0.63,-8.2,True
+042940,상지건설,기타,KOSDAQ,nan,10530.0,7.63,-38.17,0.24,-77.5,True
+043150,바텍,기타,KOSDAQ,nan,23000.0,-18.73,-20.55,1.05,-15.9,True
+043200,파루,기타,KOSDAQ,nan,1063.0,-21.28,-2.35,0.74,-36.9,True
+043260,성호전자,기타,KOSDAQ,nan,40900.0,-34.98,105.45,1.03,-23.1,True
+043360,디지아이,기타,KOSDAQ,nan,2640.0,-17.75,-27.42,0.67,-4.7,True
+043370,피에이치에이,기타,KOSDAQ,nan,13100.0,-16.52,-24.29,1.07,-4.0,True
+043610,KT지니뮤직,기타,KOSDAQ,nan,1787.0,-17.94,-42.32,0.13,-23.8,False
+044340,위닉스,기타,KOSDAQ,nan,5380.0,-13.4,-30.04,0.87,-31.6,False
+044490,태웅,기타,KOSDAQ,nan,53000.0,-19.45,47.25,0.78,-7.5,True
+044780,에이치케이,기타,KOSDAQ,nan,1594.0,-14.74,-9.39,0.27,-8.8,True
+044960,이글벳,기타,KOSDAQ,nan,4010.0,-17.06,-43.4,0.9,-18.2,False
+044990,에이치엔에스하이텍,기타,KOSDAQ,nan,16300.0,-15.47,-36.3,1.86,-31.9,True
+045060,오공,기타,KOSDAQ,nan,2475.0,-15.67,-30.74,0.66,-7.6,True
+045100,한양이엔지,기타,KOSDAQ,nan,32150.0,-12.74,-28.99,1.06,-8.0,True
+045300,성우테크론,기타,KOSDAQ,nan,3195.0,-14.57,-31.8,0.84,-5.9,True
+045340,토탈소프트,기타,KOSDAQ,nan,7200.0,-18.11,-32.62,0.74,-25.0,False
+045390,대아티아이,기타,KOSDAQ,nan,4550.0,-9.38,-25.76,1.24,-22.4,True
+045510,정원엔시스,기타,KOSDAQ,nan,1166.0,-10.01,-2.0,1.29,-30.8,True
+045520,크린앤사이언스,기타,KOSDAQ,nan,3355.0,-21.23,-34.98,0.74,-32.6,False
+045660,에이텍,기타,KOSDAQ,nan,9920.0,-16.86,-36.2,0.93,-66.1,False
+045970,코아시아,기타,KOSDAQ,nan,5600.0,-6.34,-40.2,1.37,-27.0,True
+046120,오르비텍,기타,KOSDAQ,nan,11630.0,-32.85,135.26,0.57,-16.9,True
+046210,HLB파나진,기타,KOSDAQ,nan,2125.0,-33.18,-9.79,0.74,-19.8,True
+046310,백금T&A,기타,KOSDAQ,nan,3270.0,-11.23,-56.98,0.46,-27.6,True
+046440,KG파이낸셜,기타,KOSDAQ,nan,5230.0,-16.49,-38.74,0.87,-14.4,True
+046890,서울반도체,기타,KOSDAQ,nan,16510.0,61.52,94.46,2.78,0.0,True
+046940,우원개발,기타,KOSDAQ,nan,5640.0,5.96,-0.86,0.89,-4.2,True
+047080,한빛소프트,기타,KOSDAQ,nan,1323.0,-23.84,-27.26,0.95,-9.1,True
+047310,파워로직스,기타,KOSDAQ,nan,5180.0,-10.64,-44.59,0.74,-19.3,True
+047560,이스트소프트,기타,KOSDAQ,nan,14600.0,-8.58,-55.63,0.86,-40.9,False
+047770,코데즈컴바인,기타,KOSDAQ,nan,4595.0,-17.25,22.68,0.55,-14.7,True
+047920,HLB제약,기타,KOSDAQ,nan,17300.0,-18.69,-30.83,0.56,-17.2,True
+048410,현대바이오,기타,KOSDAQ,nan,13400.0,-20.91,-11.36,0.97,-33.0,True
+048430,유라테크,기타,KOSDAQ,nan,8460.0,-10.43,-30.2,0.21,-38.7,True
+048470,대동스틸,기타,KOSDAQ,nan,3625.0,-15.94,-20.67,2.94,-31.9,True
+048530,인트론바이오,기타,KOSDAQ,nan,3610.0,-27.08,-41.28,0.31,-45.7,False
+048550,SM C&C,기타,KOSDAQ,nan,1140.0,-20.45,-45.49,1.16,-24.8,False
+048770,TPC로보틱스,기타,KOSDAQ,nan,3945.0,6.86,-24.71,1.84,-18.2,True
+048830,엔피케이,기타,KOSDAQ,nan,1179.0,-11.17,-7.43,0.45,-1.0,True
+048870,시너지이노베이션,기타,KOSDAQ,nan,2100.0,-22.05,-45.72,1.01,-33.9,False
+048910,대원미디어,기타,KOSDAQ,nan,7700.0,-18.65,-32.23,0.97,-37.9,False
+049070,인탑스,기타,KOSDAQ,nan,18620.0,-11.28,-46.59,1.53,-21.6,True
+049080,기가레인,기타,KOSDAQ,nan,2070.0,9.93,237.99,0.31,-27.5,True
+049430,코메론,기타,KOSDAQ,nan,20250.0,-29.8,1.37,0.51,-12.5,True
+049480,오픈베이스,기타,KOSDAQ,nan,3245.0,30.9,2.75,0.58,-10.6,True
+049520,유아이엘,기타,KOSDAQ,nan,4035.0,-21.58,-25.65,0.77,-5.8,True
+049550,잉크테크,기타,KOSDAQ,nan,3750.0,-8.07,-41.14,1.73,-9.0,True
+049630,재영솔루텍,기타,KOSDAQ,nan,17100.0,439.05,226.41,1.42,0.0,True
+049720,고려신용정보,기타,KOSDAQ,nan,10060.0,-25.94,-35.7,1.42,-10.4,False
+049830,승일,기타,KOSDAQ,nan,7490.0,-22.5,-43.8,1.63,-20.2,False
+049950,미래컴퍼니,기타,KOSDAQ,nan,16200.0,-3.09,-45.17,1.27,-24.3,True
+049960,쎌바이오텍,기타,KOSDAQ,nan,16000.0,-11.55,-20.55,0.68,-3.3,True
+050110,캠시스,기타,KOSDAQ,nan,1894.0,-20.66,321.73,2.36,-26.7,True
+050120,ES큐브,기타,KOSDAQ,nan,2860.0,-8.67,-26.35,0.25,-10.3,True
+050760,에스폴리텍,기타,KOSDAQ,nan,1348.0,-27.98,-31.2,0.25,-31.3,False
+050860,아세아텍,기타,KOSDAQ,nan,2080.0,-19.52,-26.19,1.44,-12.2,True
+050890,쏠리드,기타,KOSDAQ,nan,17110.0,-19.02,68.23,0.59,-5.8,True
+050960,수산아이앤티,기타,KOSDAQ,nan,9540.0,-16.07,-32.47,0.42,-43.4,False
+051160,지어소프트,기타,KOSDAQ,nan,7520.0,-29.99,-38.47,0.62,-38.1,False
+051360,토비스,기타,KOSDAQ,nan,17700.0,-9.43,-19.81,1.12,-0.3,True
+051370,인터플렉스,기타,KOSDAQ,nan,13440.0,-15.6,-23.14,0.8,-7.2,True
+051380,피씨디렉트,기타,KOSDAQ,nan,2420.0,-12.73,-8.77,1.92,-8.5,True
+051390,YW,기타,KOSDAQ,nan,4425.0,-19.75,-20.97,0.58,-0.3,True
+051490,나라엠앤디,기타,KOSDAQ,nan,3970.0,-11.53,-36.79,0.99,-11.9,False
+051500,CJ프레시웨이,기타,KOSDAQ,nan,28800.0,-24.85,-35.29,1.15,-20.1,True
+051980,중앙첨단소재,기타,KOSDAQ,nan,1922.0,3.8,-60.23,0.64,-59.8,False
+052020,에스티큐브,기타,KOSDAQ,nan,21100.0,8.55,140.21,1.45,-4.5,True
+052220,iMBC,기타,KOSDAQ,nan,3135.0,-18.79,-46.42,0.15,-32.2,False
+052260,현대바이오랜드,기타,KOSDAQ,nan,4590.0,-12.04,-27.74,1.59,-14.0,True
+052330,코텍,기타,KOSDAQ,nan,11770.0,-8.94,-12.61,1.29,0.0,True
+052400,코나아이,기타,KOSDAQ,nan,54400.0,-23.99,-42.15,0.82,-32.8,True
+052460,아이크래프트,기타,KOSDAQ,nan,3960.0,-9.87,-26.5,0.72,-5.6,True
+052600,한네트,기타,KOSDAQ,nan,4075.0,-14.89,-22.15,0.17,-21.2,True
+052710,아모텍,기타,KOSDAQ,nan,22300.0,19.33,90.36,0.65,-20.2,True
+052790,액토즈소프트,기타,KOSDAQ,nan,5660.0,-17.6,-41.81,1.15,-19.9,False
+052860,아이앤씨,기타,KOSDAQ,nan,5790.0,-7.96,59.52,0.79,-11.6,True
+052900,KX하이텍,기타,KOSDAQ,nan,1197.0,-13.05,-28.6,1.93,-19.4,True
+053030,바이넥스,기타,KOSDAQ,nan,11020.0,-23.53,-66.6,1.03,-41.8,False
+053050,지에스이,기타,KOSDAQ,nan,2610.0,-32.57,-27.06,0.57,-34.9,False
+053060,세동,기타,KOSDAQ,nan,1252.0,-21.28,-43.92,0.92,-20.9,False
+053160,프리엠스,기타,KOSDAQ,nan,9020.0,-23.54,-2.39,0.44,-17.6,True
+053260,금강철강,기타,KOSDAQ,nan,6400.0,20.15,30.12,0.92,-15.9,True
+053270,구영테크,기타,KOSDAQ,nan,2360.0,-18.87,-41.29,1.07,-17.6,True
+053280,예스24,기타,KOSDAQ,nan,3495.0,-22.39,-38.13,0.6,-27.1,False
+053290,NE능률,기타,KOSDAQ,nan,2200.0,-26.86,-17.86,0.6,-22.5,True
+053300,한국정보인증,기타,KOSDAQ,nan,6430.0,-8.13,-37.42,0.31,-36.3,False
+053350,이니텍,기타,KOSDAQ,nan,3015.0,-30.21,-66.73,0.27,-74.3,False
+053610,프로텍,기타,KOSDAQ,nan,82200.0,32.58,27.47,1.14,0.0,True
+053620,태양,기타,KOSDAQ,nan,7240.0,-20.41,-25.52,2.01,-1.1,True
+053700,삼보모터스,기타,KOSDAQ,nan,6020.0,-17.63,-63.19,1.1,-34.8,True
+053800,안랩,기타,KOSDAQ,nan,63100.0,-18.29,-36.78,0.58,-19.7,True
+053980,오상자이엘,기타,KOSDAQ,nan,3275.0,-18.0,-35.4,0.45,-16.2,False
+054040,한국컴퓨터,기타,KOSDAQ,nan,5750.0,-11.9,-16.11,0.67,-0.9,True
+054050,농우바이오,기타,KOSDAQ,nan,8080.0,-22.35,-36.55,1.23,-11.3,False
+054090,삼진엘앤디,기타,KOSDAQ,nan,1138.0,-14.67,8.85,0.39,-14.4,True
+054210,이랜텍,기타,KOSDAQ,nan,12750.0,4.8,-11.68,1.42,-6.2,True
+054300,팬스타엔터프라이즈,기타,KOSDAQ,nan,1099.0,54.45,9.23,1.27,0.0,True
+054410,케이피티유,기타,KOSDAQ,nan,3875.0,-16.35,-26.07,1.44,-2.0,True
+054450,텔레칩스,기타,KOSDAQ,nan,14310.0,-3.33,-40.14,1.81,-11.9,True
+054540,삼영엠텍,기타,KOSDAQ,nan,13430.0,-2.89,-40.38,1.17,-33.5,True
+054620,APS,기타,KOSDAQ,nan,6830.0,-38.62,23.28,0.37,-28.1,True
+054670,대한뉴팜,기타,KOSDAQ,nan,7110.0,-22.71,-28.71,0.52,-15.2,True
+054780,키이스트,기타,KOSDAQ,nan,2750.0,-18.63,-39.73,0.65,-54.2,False
+054800,아이디스홀딩스,기타,KOSDAQ,nan,15600.0,-26.37,-5.78,1.0,-5.9,True
+054920,한컴위드,기타,KOSDAQ,nan,6860.0,19.22,-15.57,1.21,-11.6,True
+054930,유신,기타,KOSDAQ,nan,25700.0,-15.78,-34.62,0.31,-9.5,True
+054950,제이브이엠,기타,KOSDAQ,nan,25000.0,-21.11,-37.02,1.37,-26.0,False
+056080,유진로봇,기타,KOSDAQ,nan,26650.0,-15.88,-54.91,2.1,-41.7,True
+056190,에스에프에이,기타,KOSDAQ,nan,31400.0,-6.61,-39.91,1.28,-11.9,True
+056360,코위버,기타,KOSDAQ,nan,9680.0,10.27,53.13,0.23,-22.3,True
+056700,신화인터텍,기타,KOSDAQ,nan,1951.0,-14.51,-27.63,1.13,-4.1,True
+057030,YBM넷,기타,KOSDAQ,nan,2895.0,-15.16,-36.2,1.16,-47.5,False
+057680,티사이언티픽,기타,KOSDAQ,nan,2960.0,324.06,215.05,1.74,0.0,True
+058110,멕아이씨에스,기타,KOSDAQ,nan,2780.0,-29.91,13.91,0.17,-19.7,True
+058470,리노공업,기타,KOSDAQ,nan,119300.0,-15.93,-11.44,1.74,-38.1,True
+058610,에스피지,기타,KOSDAQ,nan,127600.0,-3.39,-51.49,1.87,-19.3,True
+058630,엠게임,기타,KOSDAQ,nan,5360.0,-18.89,-41.36,1.52,-24.7,False
+058820,CMG제약,기타,KOSDAQ,nan,1774.0,-23.71,-48.01,1.04,-35.1,False
+059090,미코,기타,KOSDAQ,nan,22650.0,48.25,-8.43,0.9,-5.8,True
+059100,아이컴포넌트,기타,KOSDAQ,nan,5450.0,-20.18,-27.32,0.65,-25.2,True
+059120,아진엑스텍,기타,KOSDAQ,nan,8910.0,9.39,-43.73,3.34,-48.0,True
+059210,메타바이오메드,기타,KOSDAQ,nan,4420.0,-19.37,-44.27,1.16,-32.2,False
+060150,인선이엔티,기타,KOSDAQ,nan,4640.0,-11.09,-26.55,1.59,-23.3,True
+060250,NHN KCP,기타,KOSDAQ,nan,19650.0,3.36,-51.05,0.46,-17.4,True
+060260,뉴보텍,기타,KOSDAQ,nan,1486.0,-15.76,1.72,0.51,-24.0,True
+060280,큐렉소,기타,KOSDAQ,nan,16480.0,-13.76,-53.72,2.34,-19.0,True
+060310,3S,기타,KOSDAQ,nan,1454.0,-2.92,-34.74,0.61,-42.8,False
+060370,LS마린솔루션,기타,KOSDAQ,nan,38150.0,3.18,-8.32,1.66,-2.6,True
+060380,동양에스텍,기타,KOSDAQ,nan,1631.0,-6.9,-23.36,2.95,-27.5,True
+060480,국일신동,기타,KOSDAQ,nan,1821.0,-14.49,-20.84,0.47,-3.4,True
+060540,에스에이티,기타,KOSDAQ,nan,1387.0,-15.21,-32.03,0.93,-5.6,True
+060560,HC홈센타,기타,KOSDAQ,nan,3865.0,473.82,400.91,0.71,0.0,True
+060570,드림어스컴퍼니,기타,KOSDAQ,nan,1237.0,-25.11,-44.2,0.68,-47.4,False
+060590,씨티씨바이오,기타,KOSDAQ,nan,3915.0,-20.14,-41.93,0.72,-47.4,False
+060720,KH바텍,기타,KOSDAQ,nan,14030.0,-16.89,-59.91,1.24,-26.6,True
+061040,알에프텍,기타,KOSDAQ,nan,1937.0,0.66,-27.74,0.28,-48.0,False
+061970,LB세미콘,기타,KOSDAQ,nan,5600.0,17.96,-8.09,3.19,-18.6,True
+063080,컴투스홀딩스,기타,KOSDAQ,nan,18450.0,-21.6,-52.98,0.61,-48.0,False
+063170,서울옥션,기타,KOSDAQ,nan,6880.0,-25.0,-46.89,1.29,-39.9,False
+063440,SM Life Design,기타,KOSDAQ,nan,1467.0,-26.12,-45.73,1.02,-29.5,False
+063570,NICE인프라,기타,KOSDAQ,nan,4650.0,-7.16,-22.89,1.15,-11.3,True
+064240,홈캐스트,기타,KOSDAQ,nan,2190.0,-13.1,-17.09,3.0,-27.5,True
+064260,다날,기타,KOSDAQ,nan,7330.0,-1.82,-56.61,0.23,-33.9,False
+064290,인텍플러스,기타,KOSDAQ,nan,30800.0,19.27,48.91,1.43,-2.1,True
+064480,브리지텍,기타,KOSDAQ,nan,4340.0,-21.87,-56.0,0.67,-42.7,False
+064550,바이오니아,기타,KOSDAQ,nan,10540.0,-22.25,-56.34,0.66,-39.9,False
+064760,티씨케이,기타,KOSDAQ,nan,294000.0,14.36,4.61,0.86,-7.0,True
+064820,케이프,기타,KOSDAQ,nan,15860.0,28.36,7.42,1.34,-6.2,True
+065130,탑엔지니어링,기타,KOSDAQ,nan,3300.0,-15.26,-47.26,1.15,-23.6,False
+065170,비엘팜텍,기타,KOSDAQ,nan,2400.0,-41.8,-42.44,0.65,-65.0,True
+065350,신성델타테크,기타,KOSDAQ,nan,58000.0,-16.18,-58.51,0.8,-29.4,False
+065440,이루온,기타,KOSDAQ,nan,4010.0,15.73,143.98,0.66,-10.4,True
+065450,빅텍,기타,KOSDAQ,nan,5800.0,-29.83,14.21,0.33,-9.7,True
+065500,오리엔트정공,기타,KOSDAQ,nan,2115.0,-20.57,-44.04,1.02,-84.0,False
+065510,휴비츠,기타,KOSDAQ,nan,7870.0,-22.44,-47.68,1.59,-19.9,False
+065530,와이어블,기타,KOSDAQ,nan,2080.0,-27.25,21.72,0.2,-32.4,True
+065650,하이퍼코퍼레이션,기타,KOSDAQ,nan,2110.0,-15.67,-19.08,1.21,-65.4,False
+065660,안트로젠,기타,KOSDAQ,nan,36000.0,-47.48,-46.97,0.47,-37.9,True
+065680,우주일렉트로,기타,KOSDAQ,nan,39700.0,34.81,-15.08,0.78,-11.1,True
+065690,파커스,기타,KOSDAQ,nan,1466.0,-17.91,-27.77,1.21,-10.3,True
+065710,서호전기,기타,KOSDAQ,nan,46200.0,-16.8,-46.12,1.92,-21.2,True
+065770,CS,기타,KOSDAQ,nan,1584.0,5.82,72.28,0.24,-46.0,True
+065950,웰크론,기타,KOSDAQ,nan,1591.0,-21.61,-40.59,0.54,-38.3,False
+066130,하츠,기타,KOSDAQ,nan,4480.0,-20.05,-31.51,0.8,-21.3,False
+066310,큐에스아이,기타,KOSDAQ,nan,15340.0,15.97,50.57,0.31,-14.2,True
+066590,스모트로닉,기타,KOSDAQ,nan,2760.0,-18.04,-46.63,1.77,-31.2,False
+066620,국보디자인,기타,KOSDAQ,nan,23600.0,-14.98,-26.1,0.97,-9.6,True
+066670,디티씨,기타,KOSDAQ,nan,2920.0,-10.37,-39.1,0.66,-19.1,False
+066700,테라젠이텍스,기타,KOSDAQ,nan,3035.0,-19.87,-32.4,0.76,-8.4,True
+066900,디에이피,기타,KOSDAQ,nan,1644.0,-9.19,-52.68,0.69,-41.7,False
+066980,한성크린텍,기타,KOSDAQ,nan,1531.0,-8.44,-13.95,0.55,-9.9,True
+067000,조이시티,기타,KOSDAQ,nan,2450.0,-17.93,-47.35,1.06,-21.3,True
+067010,이씨에스,기타,KOSDAQ,nan,2430.0,-14.04,-36.38,0.88,-19.7,False
+067080,대화제약,기타,KOSDAQ,nan,14720.0,-20.4,-43.06,0.85,-36.8,False
+067160,SOOP,기타,KOSDAQ,nan,58400.0,-23.99,-54.35,0.91,-38.8,False
+067170,오텍,기타,KOSDAQ,nan,2655.0,22.61,5.32,0.4,-5.7,True
+067280,멀티캠퍼스,기타,KOSDAQ,nan,29400.0,-16.89,-38.43,2.3,-20.3,False
+067290,JW신약,기타,KOSDAQ,nan,2000.0,-23.99,-34.43,0.53,-19.4,True
+067310,하나마이크론,기타,KOSDAQ,nan,39700.0,13.38,-28.2,0.98,-2.5,True
+067570,엔브이에이치코리아,기타,KOSDAQ,nan,2200.0,-20.7,-40.93,1.09,-10.2,False
+067730,로지시스,기타,KOSDAQ,nan,3265.0,-2.84,-9.13,0.44,-20.7,True
+067770,세진티에스,기타,KOSDAQ,nan,2225.0,-25.1,-34.89,0.53,-12.2,False
+067900,와이엔텍,기타,KOSDAQ,nan,7490.0,-14.65,-22.19,1.22,-7.4,True
+067920,이글루,기타,KOSDAQ,nan,7190.0,-5.93,2.74,0.5,-10.9,True
+067990,도이치모터스,기타,KOSDAQ,nan,5610.0,4.09,-6.04,3.23,0.0,True
+068050,팬엔터테인먼트,기타,KOSDAQ,nan,1610.0,-20.85,-47.22,1.28,-39.7,False
+068100,케이웨더,기타,KOSDAQ,nan,2600.0,-23.8,-52.04,1.47,-33.8,False
+068760,셀트리온제약,기타,KOSDAQ,nan,56100.0,-21.05,-56.0,1.25,-25.9,False
+068930,디지털대성,기타,KOSDAQ,nan,8280.0,-20.23,-35.83,1.0,-8.8,True
+069080,웹젠,기타,KOSDAQ,nan,12160.0,-23.24,-56.3,1.16,-32.4,False
+069140,누리플랜,기타,KOSDAQ,nan,2165.0,-18.89,-57.09,1.16,-32.4,False
+069410,엔텔스,기타,KOSDAQ,nan,4775.0,-24.41,-48.17,0.56,-22.0,False
+069510,에스텍,기타,KOSDAQ,nan,16310.0,-13.56,-25.86,1.55,-14.4,True
+070590,인티큐브,기타,KOSDAQ,nan,1911.0,-24.46,-35.72,0.8,-29.2,False
+071280,로체시스템즈,기타,KOSDAQ,nan,9460.0,2.14,-42.73,1.42,-36.9,False
+071670,에이테크솔루션,기타,KOSDAQ,nan,8850.0,-17.23,-53.38,1.07,-35.0,True
+071850,캐스텍코리아,기타,KOSDAQ,nan,1503.0,-25.04,-38.02,1.49,-15.1,False
+072020,중앙백신,기타,KOSDAQ,nan,10080.0,-12.85,-32.09,1.22,-1.2,True
+072470,우리산업홀딩스,기타,KOSDAQ,nan,3970.0,-10.24,-12.18,0.82,-15.5,True
+072870,메가스터디,기타,KOSDAQ,nan,13520.0,-13.35,-13.38,0.59,-0.7,True
+072950,빛샘전자,기타,KOSDAQ,nan,12110.0,40.77,79.99,0.36,-48.8,True
+072990,에이치시티,기타,KOSDAQ,nan,4705.0,-18.38,-56.3,0.37,-65.8,False
+073010,케이에스피,기타,KOSDAQ,nan,5870.0,42.77,0.05,2.46,-26.6,True
+073110,엘엠에스,기타,KOSDAQ,nan,5880.0,-9.59,-23.25,0.92,-18.0,True
+073190,듀오백,기타,KOSDAQ,nan,1300.0,-14.47,-50.75,0.82,-63.6,False
+073490,LIG아큐버,기타,KOSDAQ,nan,52600.0,-5.79,41.49,0.56,-8.4,True
+073540,에프알텍,기타,KOSDAQ,nan,4060.0,8.47,63.57,0.15,-37.0,True
+073560,우리손에프앤지,기타,KOSDAQ,nan,1777.0,-15.37,-26.29,1.0,-16.6,True
+074430,아미노로직스,기타,KOSDAQ,nan,1387.0,-26.93,-50.13,0.92,-24.5,True
+074600,원익QnC,기타,KOSDAQ,nan,37850.0,4.1,4.87,1.24,-2.9,True
+075130,플랜티넷,기타,KOSDAQ,nan,2500.0,-9.83,-32.16,0.42,-34.5,False
+075970,동국알앤에스,기타,KOSDAQ,nan,2410.0,-12.42,-27.38,1.1,-15.0,True
+076080,웰크론한텍,기타,KOSDAQ,nan,1265.0,-20.64,-38.21,0.85,-30.5,False
+076610,해성옵틱스,기타,KOSDAQ,nan,1739.0,-2.81,-3.65,1.9,-11.8,True
+077360,덕산하이메탈,기타,KOSDAQ,nan,18360.0,44.3,67.26,0.89,0.0,True
+078020,LS증권,기타,KOSDAQ,nan,7840.0,-9.03,10.5,1.76,-8.8,True
+078070,유비쿼스홀딩스,기타,KOSDAQ,nan,15440.0,-22.61,5.41,0.32,-19.6,True
+078140,대봉엘에스,기타,KOSDAQ,nan,10880.0,-13.76,-44.98,1.22,-26.9,False
+078150,HB테크놀러지,기타,KOSDAQ,nan,2850.0,9.5,1.6,1.34,-4.8,True
+078160,메디포스트,기타,KOSDAQ,nan,27900.0,24.49,-26.04,1.03,-0.4,True
+078340,컴투스,기타,KOSDAQ,nan,32750.0,-25.94,-44.38,1.14,-25.9,False
+078350,한양디지텍,기타,KOSDAQ,nan,30950.0,-11.24,-18.38,0.65,-11.2,True
+078600,대주전자재료,기타,KOSDAQ,nan,158500.0,6.89,71.96,1.59,-13.3,True
+078860,스테이지원엔터,기타,KOSDAQ,nan,4065.0,895.86,248.74,0.89,0.0,True
+078890,가온그룹,기타,KOSDAQ,nan,6740.0,-9.75,-31.94,0.46,-14.1,True
+079000,와토스코리아,기타,KOSDAQ,nan,7900.0,-20.04,-22.93,0.37,-35.2,True
+079170,한창산업,기타,KOSDAQ,nan,6770.0,-18.21,-29.45,0.33,-18.9,False
+079370,제우스,기타,KOSDAQ,nan,16110.0,-13.5,-50.29,1.39,-21.2,True
+079650,서산,기타,KOSDAQ,nan,1300.0,-33.59,-44.36,0.65,-31.9,False
+079810,APS이노베이션,기타,KOSDAQ,nan,6670.0,31.67,-11.33,0.3,-14.5,True
+079940,가비아,기타,KOSDAQ,nan,30050.0,-12.49,-45.52,0.35,-16.8,True
+079950,인베니아,기타,KOSDAQ,nan,1110.0,-12.77,-99.6,0.67,-80.7,False
+079960,동양이엔피,기타,KOSDAQ,nan,34000.0,0.55,-25.58,1.33,-2.9,True
+080010,이상네트웍스,기타,KOSDAQ,nan,7360.0,-11.28,-27.73,1.22,-3.5,True
+080160,모두투어,기타,KOSDAQ,nan,11390.0,-21.01,-38.38,0.98,-31.8,False
+080220,제주반도체,기타,KOSDAQ,nan,52400.0,12.11,-3.75,2.46,-10.3,True
+080420,모다이노칩,기타,KOSDAQ,nan,2010.0,-22.37,-31.96,1.74,-15.4,False
+080470,성창오토텍,기타,KOSDAQ,nan,4295.0,-13.29,-33.93,1.11,-11.2,True
+080520,오디텍,기타,KOSDAQ,nan,4160.0,-14.8,1.25,0.16,-18.4,True
+080580,오킨스전자,기타,KOSDAQ,nan,22050.0,-6.83,25.31,0.53,-12.2,True
+081150,티플랙스,기타,KOSDAQ,nan,3655.0,-22.04,-15.99,0.4,-4.3,True
+081180,쎄크,기타,KOSDAQ,nan,13610.0,-7.76,-61.43,1.49,-25.6,True
+081580,성우전자,기타,KOSDAQ,nan,3270.0,-18.34,-22.28,0.65,-10.4,True
+082210,옵트론텍,기타,KOSDAQ,nan,1860.0,-27.32,-37.31,1.04,-23.1,False
+082270,젬백스,기타,KOSDAQ,nan,23800.0,-40.77,-75.6,0.66,-65.9,False
+082800,비보존 제약,기타,KOSDAQ,nan,3230.0,-19.12,-69.06,1.31,-60.6,False
+082850,우리바이오,기타,KOSDAQ,nan,2240.0,-2.78,-23.14,1.22,-12.8,True
+082920,비츠로셀,기타,KOSDAQ,nan,57000.0,16.23,142.68,0.69,-1.4,True
+083310,엘오티베큠,기타,KOSDAQ,nan,15830.0,6.84,-18.67,0.8,-6.7,True
+083450,GST,기타,KOSDAQ,nan,48500.0,63.63,40.56,0.74,-2.2,True
+083550,케이엠,기타,KOSDAQ,nan,3530.0,-28.2,-37.7,0.73,-10.1,True
+083650,비에이치아이,기타,KOSDAQ,nan,97500.0,-18.58,2.67,1.18,-11.0,True
+083790,CG인바이츠,기타,KOSDAQ,nan,1258.0,-32.7,-34.31,0.92,-45.1,False
+083930,아바코,기타,KOSDAQ,nan,15920.0,-3.38,-31.64,1.25,-5.0,True
+084110,휴온스글로벌,기타,KOSDAQ,nan,63100.0,-12.31,-12.22,0.93,-16.2,True
+084180,수성웹툰,기타,KOSDAQ,nan,1191.0,-23.65,-88.51,0.47,-79.3,False
+084370,유진테크,기타,KOSDAQ,nan,130000.0,-15.48,-6.64,1.38,-12.2,True
+084650,랩지노믹스,기타,KOSDAQ,nan,1328.0,-21.28,-63.56,0.2,-57.4,False
+084730,팅크웨어,기타,KOSDAQ,nan,8720.0,-15.67,-45.15,1.3,-15.1,True
+084990,헬릭스미스,기타,KOSDAQ,nan,8620.0,-26.92,1.39,0.58,-9.0,True
+085660,차바이오텍,기타,KOSDAQ,nan,17090.0,-26.44,-55.26,0.99,-28.3,True
+085670,뉴프렉스,기타,KOSDAQ,nan,6600.0,-0.86,-35.1,0.64,-7.7,True
+085810,알티캐스트,기타,KOSDAQ,nan,2505.0,400.44,293.25,2.3,0.0,True
+085910,네오티스,기타,KOSDAQ,nan,25800.0,-4.27,73.88,0.8,-12.2,True
+086040,바이오톡스텍,기타,KOSDAQ,nan,3325.0,-16.73,-8.04,0.94,-15.3,True
+086060,진바이오텍,기타,KOSDAQ,nan,4665.0,-26.09,-31.4,0.98,-15.9,True
+086390,유니테스트,기타,KOSDAQ,nan,18360.0,-9.95,-1.92,1.24,-19.1,True
+086450,동국제약,기타,KOSDAQ,nan,23900.0,-36.76,-3.9,0.58,-20.1,True
+086520,에코프로,기타,KOSDAQ,nan,152900.0,-15.93,-43.33,0.97,-17.4,True
+086670,비엠티,기타,KOSDAQ,nan,17790.0,-5.47,10.83,1.24,0.0,True
+086890,이수앱지스,기타,KOSDAQ,nan,4760.0,-17.38,-54.2,0.79,-23.7,False
+086900,메디톡스,기타,KOSDAQ,nan,105500.0,-17.64,-55.0,0.89,-41.9,False
+086960,MDS테크,기타,KOSDAQ,nan,1115.0,-12.72,-52.72,0.49,-36.9,False
+086980,쇼박스,기타,KOSDAQ,nan,2990.0,-6.5,-14.12,0.75,-12.8,True
+087010,펩트론,기타,KOSDAQ,nan,260500.0,-29.43,-46.65,1.23,-32.5,False
+087260,모바일어플라이언스,기타,KOSDAQ,nan,2255.0,-13.72,-29.78,1.85,-8.1,True
+087600,픽셀플러스,기타,KOSDAQ,nan,6350.0,-19.55,-49.83,1.31,-18.6,False
+088130,동아엘텍,기타,KOSDAQ,nan,11100.0,34.13,40.18,1.69,-24.1,True
+088280,쏘닉스,기타,KOSDAQ,nan,7170.0,50.67,269.97,1.33,-10.2,True
+088340,유라클,기타,KOSDAQ,nan,13210.0,-8.11,-43.93,0.38,-54.8,False
+088390,이녹스,기타,KOSDAQ,nan,13370.0,-9.62,-9.97,1.11,-20.7,True
+088800,에이스테크,기타,KOSDAQ,nan,4680.0,-6.99,22.58,0.3,-30.4,True
+088910,동우팜투테이블,기타,KOSDAQ,nan,2540.0,-16.59,-14.42,1.09,0.0,True
+089010,켐트로닉스,기타,KOSDAQ,nan,37400.0,14.79,-26.93,2.11,-12.0,True
+089030,테크윙,기타,KOSDAQ,nan,57300.0,-1.29,-10.65,1.4,-19.4,True
+089140,넥스턴앤롤코리아,기타,KOSDAQ,nan,2215.0,-16.47,-51.23,1.01,-30.1,False
+089150,케이씨티,기타,KOSDAQ,nan,3475.0,-22.38,-12.65,0.1,-28.2,True
+089230,THE E&M,기타,KOSDAQ,nan,3890.0,59.5,168.88,0.5,0.0,True
+089600,KT나스미디어,기타,KOSDAQ,nan,12190.0,-16.68,-37.91,1.14,-31.8,False
+089790,제이티,기타,KOSDAQ,nan,6080.0,-6.62,-27.48,1.15,-22.1,True
+089850,유비벨록스,기타,KOSDAQ,nan,5560.0,-15.61,-33.69,0.68,-40.3,False
+089890,코세스,기타,KOSDAQ,nan,47400.0,85.74,43.84,1.04,0.0,True
+089980,상아프론테크,기타,KOSDAQ,nan,27450.0,-2.53,26.17,1.28,-6.2,True
+090360,로보스타,기타,KOSDAQ,nan,72900.0,2.35,-48.63,1.81,-28.3,True
+090410,덕신이피씨,기타,KOSDAQ,nan,1313.0,-13.28,-28.46,0.78,-25.6,False
+090470,제이스로보틱스,기타,KOSDAQ,nan,9360.0,-11.35,49.78,0.98,-5.9,True
+090710,휴림로봇,기타,KOSDAQ,nan,12620.0,-8.0,-49.66,2.44,-41.3,True
+090850,현대이지웰,기타,KOSDAQ,nan,6220.0,-18.92,-15.94,0.87,-11.6,True
+091120,이엠텍,기타,KOSDAQ,nan,7520.0,-3.48,-41.5,1.77,-41.5,False
+091340,S&K폴리텍,기타,KOSDAQ,nan,2630.0,-18.37,-22.32,0.58,-11.0,True
+091440,한울소재과학,기타,KOSDAQ,nan,3200.0,-19.59,-18.46,0.78,-12.2,True
+091580,상신이디피,기타,KOSDAQ,nan,26600.0,-6.29,43.16,0.79,-13.4,True
+091590,남화토건,기타,KOSDAQ,nan,4370.0,-11.07,-16.03,0.42,-5.7,True
+091700,파트론,기타,KOSDAQ,nan,8280.0,-20.36,-17.94,1.01,-3.7,True
+092040,아미코젠,기타,KOSDAQ,nan,1812.0,-8.65,-28.92,0.63,-61.4,False
+092070,디엔에프,기타,KOSDAQ,nan,23650.0,-1.7,-4.56,1.14,-6.9,True
+092130,이크레더블,기타,KOSDAQ,nan,15310.0,-20.12,-37.68,0.92,-16.5,False
+092300,현우산업,기타,KOSDAQ,nan,3715.0,-1.58,-30.21,1.38,-3.9,True
+092460,한라IMS,기타,KOSDAQ,nan,20950.0,12.4,-0.67,2.03,-0.2,True
+092730,네오팜,기타,KOSDAQ,nan,20400.0,-6.14,-36.43,1.48,-7.9,True
+092870,엑시콘,기타,KOSDAQ,nan,36700.0,18.53,12.07,1.49,-2.0,True
+093190,빅솔론,기타,KOSDAQ,nan,8370.0,-15.29,1.39,2.38,-0.4,True
+093320,케이아이엔엑스,기타,KOSDAQ,nan,104300.0,-21.33,-57.8,0.97,-25.8,True
+093380,풍강,기타,KOSDAQ,nan,2835.0,-19.18,-33.0,1.01,-9.4,True
+093520,매커스,기타,KOSDAQ,nan,26400.0,-6.92,-23.14,2.03,-20.7,True
+093640,케이알엠,기타,KOSDAQ,nan,4885.0,-8.51,3.15,0.78,-15.5,True
+093920,서원인텍,기타,KOSDAQ,nan,5210.0,-21.23,-35.06,1.1,-11.5,False
+094170,동운아나텍,기타,KOSDAQ,nan,51400.0,53.25,29.46,1.0,0.0,True
+094360,칩스앤미디어,기타,KOSDAQ,nan,18260.0,-5.8,-34.02,1.76,-7.9,True
+094480,갤럭시아머니트리,기타,KOSDAQ,nan,8520.0,-14.9,-61.49,0.75,-41.1,False
+094840,슈프리마에이치큐,기타,KOSDAQ,nan,11350.0,22.08,29.98,0.87,-3.2,True
+094850,참좋은여행,기타,KOSDAQ,nan,5670.0,-12.38,-36.35,1.06,-26.0,False
+094860,네오리진,기타,KOSDAQ,nan,1489.0,-19.13,-26.3,0.95,-2.5,True
+094940,푸른기술,기타,KOSDAQ,nan,10460.0,-9.92,-39.02,2.43,-19.2,True
+094970,제이엠티,기타,KOSDAQ,nan,3610.0,-12.4,2.5,0.76,-4.0,True
+095190,신화프리텍,기타,KOSDAQ,nan,2555.0,-18.19,-30.29,1.0,-2.1,True
+095270,웨이브일렉트로,기타,KOSDAQ,nan,9420.0,37.04,66.92,0.25,-11.1,True
+095340,ISC,기타,KOSDAQ,nan,242500.0,-21.67,39.33,0.55,-10.5,True
+095500,미래나노텍,기타,KOSDAQ,nan,10420.0,-12.43,-48.66,0.86,-23.1,False
+095610,테스,기타,KOSDAQ,nan,84000.0,16.24,-12.61,0.58,-10.0,True
+095660,네오위즈,기타,KOSDAQ,nan,22000.0,-30.37,-59.13,1.33,-28.9,False
+095700,제넥신,기타,KOSDAQ,nan,5430.0,-6.71,-24.77,0.42,-23.5,True
+095910,에스에너지,기타,KOSDAQ,nan,2660.0,12.84,65.32,0.99,0.0,True
+096240,크레버스,기타,KOSDAQ,nan,11140.0,-18.5,-46.18,1.23,-24.2,False
+096350,대창솔루션,기타,KOSDAQ,nan,3045.0,-25.76,13.7,0.92,-21.3,True
+096530,씨젠,기타,KOSDAQ,nan,24550.0,-14.15,-45.82,0.6,-30.2,False
+096690,에이루트,기타,KOSDAQ,nan,1337.0,-9.49,-52.18,1.12,-39.5,False
+096870,엘디티,기타,KOSDAQ,nan,2405.0,-13.16,-34.86,0.42,-26.6,False
+097870,효성오앤비,기타,KOSDAQ,nan,6750.0,-19.66,-22.82,1.21,-7.8,True
+098120,마이크로컨텍솔,기타,KOSDAQ,nan,37400.0,13.01,52.91,1.05,0.0,True
+098460,고영,기타,KOSDAQ,nan,40250.0,28.18,-12.23,2.67,-7.5,True
+098660,에스티오,기타,KOSDAQ,nan,1757.0,-23.42,-28.9,0.74,-31.2,False
+099190,아이센스,기타,KOSDAQ,nan,21200.0,-8.46,-13.88,1.8,-21.5,True
+099220,SDN,기타,KOSDAQ,nan,1449.0,-21.59,-0.33,1.07,-13.2,True
+099320,쎄트렉아이,기타,KOSDAQ,nan,166000.0,-24.83,-49.08,1.01,-22.4,True
+099410,동방선기,기타,KOSDAQ,nan,5660.0,-7.53,-35.81,1.59,-15.8,True
+099440,스맥,기타,KOSDAQ,nan,4430.0,-26.52,-65.51,0.77,-43.6,False
+100030,인지소프트,기타,KOSDAQ,nan,18920.0,-16.31,-48.18,0.88,-18.6,False
+100120,뷰웍스,기타,KOSDAQ,nan,27150.0,-17.52,-22.62,0.68,-10.1,True
+100130,동국S&C,기타,KOSDAQ,nan,2655.0,-19.05,5.71,1.47,-13.7,True
+100660,서암기계공업,기타,KOSDAQ,nan,4545.0,-15.0,-42.83,0.93,-19.8,True
+100700,세운메디칼,기타,KOSDAQ,nan,2840.0,-20.72,-15.79,0.08,-6.4,True
+101160,월덱스,기타,KOSDAQ,nan,32750.0,-6.61,-4.83,1.24,-6.3,True
+101170,우림피티에스,기타,KOSDAQ,nan,14210.0,-11.12,-56.64,1.97,-37.0,True
+101240,씨큐브,기타,KOSDAQ,nan,4165.0,-13.8,-30.63,0.14,-19.9,False
+101330,모베이스,기타,KOSDAQ,nan,4745.0,-16.76,-62.93,1.21,-37.7,True
+101490,에스앤에스텍,기타,KOSDAQ,nan,100700.0,6.11,-16.39,0.71,-4.2,True
+101670,하이드로리튬,기타,KOSDAQ,nan,2065.0,-24.23,-51.74,1.07,-37.4,False
+101730,위메이드맥스,기타,KOSDAQ,nan,5950.0,1.94,-52.3,1.71,-40.1,False
+101930,인화정공,기타,KOSDAQ,nan,13520.0,-93.08,-119.92,1.5,-78.3,False
+102120,어보브반도체,기타,KOSDAQ,nan,13930.0,9.7,-24.26,2.17,-6.6,True
+102710,이엔에프테크놀로지,기타,KOSDAQ,nan,57900.0,2.84,-29.2,1.18,-7.7,True
+102940,코오롱생명과학,기타,KOSDAQ,nan,58600.0,-17.25,-52.49,1.05,-17.2,True
+104200,NHN벅스,기타,KOSDAQ,nan,4395.0,0.16,-65.37,0.62,-34.0,True
+104460,디와이피엔에프,기타,KOSDAQ,nan,15090.0,-17.65,-30.4,0.89,-27.5,False
+104480,티케이케미칼,기타,KOSDAQ,nan,2740.0,-0.29,14.97,1.55,0.0,True
+104540,코렌텍,기타,KOSDAQ,nan,5830.0,-21.71,-54.25,1.38,-18.6,False
+104830,원익머트리얼즈,기타,KOSDAQ,nan,52300.0,6.43,2.05,0.98,-4.7,True
+105330,케이엔더블유,기타,KOSDAQ,nan,10440.0,8.83,48.01,0.93,0.0,True
+105550,엣지파운드리,기타,KOSDAQ,nan,1294.0,-11.47,-51.15,0.76,-68.2,False
+105740,디케이락,기타,KOSDAQ,nan,10800.0,-15.34,-26.31,1.38,-3.7,True
+105760,포스뱅크,기타,KOSDAQ,nan,5660.0,-19.56,-26.87,1.16,-25.5,False
+106190,하이텍팜,기타,KOSDAQ,nan,19230.0,-25.88,22.83,0.6,-23.1,True
+106240,파인테크닉스,기타,KOSDAQ,nan,2140.0,-24.69,-35.03,0.66,-11.8,True
+107640,한중엔시에스,기타,KOSDAQ,nan,67100.0,18.02,6.88,0.76,-7.4,True
+108230,톱텍,기타,KOSDAQ,nan,4590.0,-14.96,-40.79,1.25,-16.8,False
+108380,대양전기공업,기타,KOSDAQ,nan,31200.0,-1.4,-25.19,0.95,-9.3,True
+108860,셀바스AI,기타,KOSDAQ,nan,13140.0,-19.7,-33.79,0.45,-21.6,True
+109080,옵티시스,기타,KOSDAQ,nan,15010.0,-7.45,33.73,0.31,-26.4,True
+109610,에스와이,기타,KOSDAQ,nan,2990.0,-15.66,-28.69,0.81,-23.3,False
+109670,씨싸이트,기타,KOSDAQ,nan,5050.0,-22.28,-56.1,0.89,-43.6,False
+109740,디에스케이,기타,KOSDAQ,nan,5960.0,-23.82,-60.12,1.78,-32.7,False
+109820,진매트릭스,기타,KOSDAQ,nan,2015.0,-19.42,-55.84,0.23,-39.8,False
+109860,동일금속,기타,KOSDAQ,nan,7460.0,-20.23,-39.39,1.76,-11.9,False
+110790,크리스에프앤씨,기타,KOSDAQ,nan,3970.0,-20.87,-33.9,1.29,-22.9,False
+112040,위메이드,기타,KOSDAQ,nan,24950.0,0.76,-53.98,1.27,-42.0,False
+114190,강원에너지,기타,KOSDAQ,nan,15330.0,-13.54,-42.79,0.81,-17.5,True
+114450,그린생명과학,기타,KOSDAQ,nan,2930.0,-13.01,-40.56,0.21,-27.9,True
+114630,폴라리스우노,기타,KOSDAQ,nan,2400.0,352.36,328.42,1.15,-2.6,True
+114810,한솔아이원스,기타,KOSDAQ,nan,16940.0,9.08,-9.76,1.12,-13.9,True
+115160,휴맥스,기타,KOSDAQ,nan,9370.0,1239.4,1064.39,2.85,0.0,True
+115180,큐리언트,기타,KOSDAQ,nan,37300.0,-19.21,-32.79,0.97,-26.7,True
+115310,인포바인,기타,KOSDAQ,nan,12490.0,-95.07,-123.48,1.76,-86.3,False
+115440,우리넷,기타,KOSDAQ,nan,14200.0,2.23,46.52,0.34,-24.1,True
+115450,HLB테라퓨틱스,기타,KOSDAQ,nan,3530.0,-6.71,-16.12,0.53,-63.1,True
+115500,케이씨에스,기타,KOSDAQ,nan,15870.0,51.76,33.22,0.28,-31.3,True
+115570,스타플렉스,기타,KOSDAQ,nan,3035.0,-24.15,-37.59,1.13,-11.5,False
+115610,이미지스,기타,KOSDAQ,nan,3065.0,113.07,100.61,2.51,0.0,True
+118990,모트렉스,기타,KOSDAQ,nan,9030.0,-14.27,-40.84,1.26,-13.9,True
+119500,포메탈,기타,KOSDAQ,nan,4320.0,-13.5,-47.7,0.86,-23.3,True
+119830,아이텍,기타,KOSDAQ,nan,7500.0,3.13,-45.4,1.22,-21.9,True
+119850,지엔씨에너지,기타,KOSDAQ,nan,36650.0,-6.71,-30.73,1.58,-16.6,True
+120240,대정화금,기타,KOSDAQ,nan,13880.0,-24.13,-27.52,1.11,-6.5,True
+121440,골프존홀딩스,기타,KOSDAQ,nan,5250.0,-15.41,-23.04,1.2,-18.6,True
+121600,나노신소재,기타,KOSDAQ,nan,82800.0,7.86,-14.39,1.19,-6.8,True
+121850,코이즈,기타,KOSDAQ,nan,2635.0,10.52,-57.81,0.13,-84.4,False
+122350,삼기,기타,KOSDAQ,nan,1506.0,-17.63,-54.63,0.64,-24.7,True
+122450,KX,기타,KOSDAQ,nan,3190.0,-20.75,-42.9,1.28,-36.2,False
+122640,예스티,기타,KOSDAQ,nan,27200.0,19.62,-12.08,0.99,-8.4,True
+122690,서진오토모티브,기타,KOSDAQ,nan,2445.0,-23.79,-53.11,1.18,-39.5,True
+122870,와이지엔터테인먼트,기타,KOSDAQ,nan,54000.0,-18.11,-60.17,0.8,-49.7,False
+122990,와이솔,기타,KOSDAQ,nan,7550.0,-8.19,-12.21,0.91,-2.5,True
+123010,알엔티엑스,기타,KOSDAQ,nan,1541.0,4.96,-4.58,0.24,-22.5,True
+123040,엠에스오토텍,기타,KOSDAQ,nan,2450.0,-15.1,-22.93,1.47,-18.1,True
+123330,제닉,기타,KOSDAQ,nan,28150.0,-24.87,-4.95,0.96,-33.9,True
+123410,코리아에프티,기타,KOSDAQ,nan,6980.0,-20.28,-44.73,1.22,-24.5,True
+123420,위메이드플레이,기타,KOSDAQ,nan,8000.0,-7.03,-37.42,0.32,-31.1,False
+123570,이엠넷,기타,KOSDAQ,nan,2020.0,-16.14,-29.4,0.96,-21.4,False
+123750,알톤,기타,KOSDAQ,nan,2065.0,-45.62,-31.25,0.27,-34.3,True
+123860,아나패스,기타,KOSDAQ,nan,17500.0,-21.65,-34.96,0.66,-14.2,False
+124500,아이티센글로벌,기타,KOSDAQ,nan,54100.0,-7.77,-22.92,1.22,-24.8,True
+126600,BGF에코머티리얼즈,기타,KOSDAQ,nan,4210.0,-28.53,-31.24,0.43,-16.1,True
+126640,화신정공,기타,KOSDAQ,nan,1604.0,-16.27,-39.5,1.39,-2.1,True
+126700,하이비젼시스템,기타,KOSDAQ,nan,18390.0,-11.51,-24.6,1.15,-12.8,True
+126730,코칩,기타,KOSDAQ,nan,20950.0,-1.26,-9.91,1.89,-3.5,True
+126880,제이엔케이글로벌,기타,KOSDAQ,nan,3975.0,-16.27,-29.84,0.88,-18.1,False
+127120,제이에스링크,기타,KOSDAQ,nan,40800.0,-24.84,45.95,0.77,-16.6,True
+127710,아시아경제,기타,KOSDAQ,nan,1398.0,-43.69,-4.66,0.9,-21.5,True
+128660,피제이메탈,기타,KOSDAQ,nan,3615.0,-16.08,-15.7,0.97,-9.1,True
+130500,GH신소재,기타,KOSDAQ,nan,2590.0,-19.97,-34.85,0.71,-14.4,False
+130580,나이스디앤비,기타,KOSDAQ,nan,5580.0,-23.45,-39.01,0.88,-15.3,False
+130740,티피씨글로벌,기타,KOSDAQ,nan,2135.0,-18.56,-41.9,1.06,-31.6,True
+131030,옵투스제약,기타,KOSDAQ,nan,9090.0,-39.82,-20.13,0.33,-52.8,True
+131090,시큐브,기타,KOSDAQ,nan,4200.0,-14.33,-25.87,0.28,-8.3,True
+131100,티엔엔터테인먼트,기타,KOSDAQ,nan,1293.0,-22.58,-43.59,0.78,-41.1,False
+131220,대한과학,기타,KOSDAQ,nan,4745.0,-18.19,-34.94,0.96,-16.5,False
+131290,티에스이,기타,KOSDAQ,nan,168800.0,31.16,80.39,0.74,-3.4,True
+131370,알서포트,기타,KOSDAQ,nan,2610.0,-25.68,-25.88,0.22,-28.3,False
+131400,이브이첨단소재,기타,KOSDAQ,nan,1860.0,0.01,-39.53,1.44,-27.9,True
+131760,파인텍,기타,KOSDAQ,nan,1036.0,31.73,0.8,2.49,-49.2,True
+131970,두산테스나,기타,KOSDAQ,nan,130700.0,14.02,71.7,0.93,-0.9,True
+133750,메가엠디,기타,KOSDAQ,nan,1872.0,-19.7,-35.46,1.25,-30.9,False
+134060,이퓨쳐,기타,KOSDAQ,nan,4455.0,-13.85,-29.03,0.67,-9.0,True
+134580,탑코미디어,기타,KOSDAQ,nan,1924.0,-8.3,-29.51,3.52,-34.3,False
+136150,원일티엔아이,기타,KOSDAQ,nan,18350.0,-18.59,-37.26,1.88,-48.9,False
+136480,하림,기타,KOSDAQ,nan,3295.0,-20.54,-29.92,0.94,-13.3,True
+136540,윈스테크넷,기타,KOSDAQ,nan,13000.0,-9.25,-16.72,0.96,-2.7,True
+137400,피엔티,기타,KOSDAQ,nan,56000.0,-5.22,-27.4,0.85,-8.0,True
+137950,제이씨케미칼,기타,KOSDAQ,nan,4755.0,-39.08,10.71,0.31,-16.9,True
+138070,신진에스엠,기타,KOSDAQ,nan,1966.0,-12.29,-33.45,1.57,-20.4,False
+138080,오이솔루션,기타,KOSDAQ,nan,38700.0,-32.18,99.57,1.01,-18.9,True
+138610,나이벡,기타,KOSDAQ,nan,25900.0,-23.21,-59.41,0.75,-50.5,False
+139670,키네마스터,기타,KOSDAQ,nan,2150.0,-5.66,-41.65,1.01,-23.2,False
+140410,메지온,기타,KOSDAQ,nan,87700.0,-22.49,-81.88,1.51,-49.2,True
+140520,대창스틸,기타,KOSDAQ,nan,2340.0,-14.13,-24.65,2.44,-5.6,True
+140860,파크시스템스,기타,KOSDAQ,nan,289000.0,-1.27,-32.71,0.64,-5.9,True
+141000,비아트론,기타,KOSDAQ,nan,11590.0,-9.46,10.22,0.62,-3.3,True
+141080,리가켐바이오,기타,KOSDAQ,nan,183400.0,-19.19,-42.25,0.86,-14.1,True
+142210,유니트론텍,기타,KOSDAQ,nan,5690.0,-13.07,-50.02,1.46,-21.1,False
+142280,녹십자엠에스,기타,KOSDAQ,nan,3865.0,-18.96,-35.04,0.3,-17.9,False
+143160,아이디스,기타,KOSDAQ,nan,17830.0,-22.16,-37.03,0.78,-11.3,True
+143240,사람인,기타,KOSDAQ,nan,17080.0,-22.69,-5.12,1.6,-3.0,True
+143540,영우디에스피,기타,KOSDAQ,nan,1350.0,-23.84,-11.49,1.38,-11.1,True
+144510,지씨셀,기타,KOSDAQ,nan,23750.0,-20.28,-44.28,0.99,-13.6,True
+145020,휴젤,기타,KOSDAQ,nan,252500.0,-20.08,-43.03,0.96,-34.9,False
+145170,노브랜드,기타,KOSDAQ,nan,4670.0,-5.76,-12.05,0.52,-17.3,True
+146060,율촌,기타,KOSDAQ,nan,1536.0,-20.97,-62.68,0.93,-25.3,True
+147830,제룡산업,기타,KOSDAQ,nan,11690.0,33.98,27.46,3.57,0.0,True
+148250,알엔투테크놀로지,기타,KOSDAQ,nan,3705.0,-35.57,-23.42,0.58,-57.0,False
+149950,아바텍,기타,KOSDAQ,nan,13140.0,7.94,8.58,0.75,-5.3,True
+150900,파수에이아이,기타,KOSDAQ,nan,5660.0,44.71,9.78,1.2,-8.7,True
+151860,KG에코솔루션,기타,KOSDAQ,nan,7360.0,-4.51,-19.85,1.42,-1.7,True
+153460,네이블,기타,KOSDAQ,nan,9610.0,22.73,-2.07,0.24,-37.5,True
+154040,다산솔루에타,기타,KOSDAQ,nan,1170.0,-18.01,-36.56,0.81,-16.3,True
+155650,와이엠씨,기타,KOSDAQ,nan,4095.0,-7.98,-25.84,1.25,-1.8,True
+159580,제로투세븐,기타,KOSDAQ,nan,3995.0,-14.24,-30.75,1.32,-43.0,False
+160190,하이젠알앤엠,기타,KOSDAQ,nan,43600.0,6.35,-79.29,1.16,-48.9,False
+160550,NEW,기타,KOSDAQ,nan,1773.0,-20.43,-58.8,0.93,-46.0,False
+160980,싸이맥스,기타,KOSDAQ,nan,37200.0,19.09,75.39,1.54,-5.7,True
+166090,하나머티리얼즈,기타,KOSDAQ,nan,75500.0,13.28,-12.63,1.2,-5.2,True
+166480,코아스템켐온,기타,KOSDAQ,nan,3320.0,13.48,-26.01,0.84,-16.5,True
+170030,현대공업,기타,KOSDAQ,nan,5740.0,-16.3,-42.86,1.19,-16.0,False
+170790,파이오링크,기타,KOSDAQ,nan,11380.0,-1.76,0.02,0.29,-8.5,True
+170920,엘티씨,기타,KOSDAQ,nan,45800.0,28.68,43.97,0.91,-4.6,True
+171010,램테크놀러지,기타,KOSDAQ,nan,3730.0,-5.01,-41.66,0.39,-22.3,False
+171090,선익시스템,기타,KOSDAQ,nan,102500.0,-2.4,37.49,0.71,-21.8,True
+171120,라이온켐텍,기타,KOSDAQ,nan,2560.0,0.28,-10.69,1.18,-12.5,True
+172670,에이엘티,기타,KOSDAQ,nan,18730.0,52.38,-3.73,2.55,-0.6,True
+173940,에프엔씨엔터,기타,KOSDAQ,nan,4110.0,-14.1,-26.19,0.45,-18.6,True
+174900,앱클론,기타,KOSDAQ,nan,49150.0,-36.69,-57.24,0.71,-44.8,True
+175140,휴먼테크놀로지,기타,KOSDAQ,nan,3970.0,-29.24,-39.76,0.83,-39.9,False
+177830,파버나인,기타,KOSDAQ,nan,2760.0,-23.08,-41.42,0.79,-10.8,False
+178320,서진시스템,기타,KOSDAQ,nan,59500.0,7.65,27.86,1.24,0.0,True
+179900,유티아이,기타,KOSDAQ,nan,20450.0,-3.06,-50.4,0.89,-27.6,False
+182360,큐브엔터,기타,KOSDAQ,nan,10460.0,-19.08,-52.1,1.14,-47.3,False
+183300,코미코,기타,KOSDAQ,nan,141600.0,0.44,-12.33,0.79,-8.6,True
+185490,아이진,기타,KOSDAQ,nan,1432.0,-25.23,-38.25,0.24,-60.6,False
+187220,디티앤씨,기타,KOSDAQ,nan,3160.0,-19.7,-5.75,0.78,-6.4,True
+187270,신화콘텍,기타,KOSDAQ,nan,3900.0,-12.08,-35.06,1.58,-6.9,True
+187420,HLB제넥스,기타,KOSDAQ,nan,2940.0,-8.7,-24.78,0.99,-18.8,True
+188260,세니젠,기타,KOSDAQ,nan,2070.0,1.09,-30.33,0.43,-27.4,False
+189690,포시에스,기타,KOSDAQ,nan,2075.0,-17.96,-34.19,0.37,-26.5,False
+189860,서전기전,기타,KOSDAQ,nan,6850.0,4.53,29.04,1.41,-4.2,True
+189980,흥국에프엔비,기타,KOSDAQ,nan,1638.0,-17.83,-61.41,0.67,-27.7,False
+190510,나무가,기타,KOSDAQ,nan,19110.0,-7.75,-58.13,0.95,-29.0,True
+191410,육일씨엔에쓰,기타,KOSDAQ,nan,2735.0,-7.61,-79.23,0.33,-41.8,True
+191420,테고사이언스,기타,KOSDAQ,nan,12450.0,-24.39,-51.68,0.94,-37.1,False
+192250,케이사인,기타,KOSDAQ,nan,12850.0,-0.79,-13.27,0.51,-19.1,True
+192390,윈하이텍,기타,KOSDAQ,nan,1959.0,-26.28,-43.91,1.58,-38.6,False
+192440,슈피겐코리아,기타,KOSDAQ,nan,26750.0,-23.8,-15.55,0.34,-9.0,True
+194480,데브시스터즈,기타,KOSDAQ,nan,22650.0,-30.4,-74.15,0.76,-59.8,False
+195990,에이비프로바이오,기타,KOSDAQ,nan,1252.0,-32.67,493.65,0.88,-48.2,True
+196170,알테오젠,기타,KOSDAQ,nan,368500.0,-23.17,-43.89,1.16,-34.1,False
+196700,웹스,기타,KOSDAQ,nan,2095.0,-17.1,-49.4,0.87,-29.2,True
+199430,케이엔알시스템,기타,KOSDAQ,nan,25900.0,-5.18,-57.11,2.02,-36.0,True
+199480,뱅크웨어글로벌,기타,KOSDAQ,nan,5100.0,-7.95,-46.83,0.43,-47.0,False
+199550,레이저옵텍,기타,KOSDAQ,nan,5430.0,-21.54,-51.5,0.76,-46.0,False
+200130,콜마비앤에이치,기타,KOSDAQ,nan,11570.0,-19.28,-55.6,1.34,-34.6,False
+200470,에이팩트,기타,KOSDAQ,nan,8650.0,3.4,-24.05,1.44,-9.5,True
+200670,휴메딕스,기타,KOSDAQ,nan,35350.0,-15.39,-52.75,1.03,-53.4,False
+200710,에이디테크놀로지,기타,KOSDAQ,nan,52300.0,-31.09,9.08,1.02,-13.6,True
+200780,비씨월드제약,기타,KOSDAQ,nan,4445.0,-27.04,-44.91,1.15,-24.3,False
+201490,미투온,기타,KOSDAQ,nan,3170.0,-10.37,-62.66,0.17,-56.5,False
+203650,드림시큐리티,기타,KOSDAQ,nan,2740.0,48.01,23.85,0.44,-34.1,True
+204620,글로벌텍스프리,기타,KOSDAQ,nan,5960.0,0.31,-9.39,2.06,-22.3,True
+204840,지엘팜텍,기타,KOSDAQ,nan,1045.0,-24.75,-34.97,0.86,-26.8,False
+205100,엑셈,기타,KOSDAQ,nan,1957.0,-12.92,-47.03,1.88,-22.6,False
+205500,넥써쓰,기타,KOSDAQ,nan,1885.0,-7.92,-56.87,1.46,-58.9,False
+206400,베노티앤알,기타,KOSDAQ,nan,1288.0,-14.74,-56.52,1.76,-50.6,False
+206560,덱스터,기타,KOSDAQ,nan,2710.0,-34.7,-65.44,0.48,-65.4,False
+206640,바디텍메드,기타,KOSDAQ,nan,11690.0,-14.64,-44.72,0.86,-35.2,False
+206650,유바이오로직스,기타,KOSDAQ,nan,12800.0,-28.89,-35.02,0.94,-21.0,False
+207760,미스터블루,기타,KOSDAQ,nan,1025.0,-19.93,-52.71,2.39,-51.3,False
+208140,정다운,기타,KOSDAQ,nan,2540.0,-20.74,-36.43,1.06,-10.7,False
+208350,지란지교시큐리티,기타,KOSDAQ,nan,3385.0,-13.19,-23.26,0.32,-5.2,True
+208370,셀바스헬스케어,기타,KOSDAQ,nan,4340.0,-21.87,-54.12,0.85,-34.7,False
+208710,포톤,기타,KOSDAQ,nan,2695.0,10.42,-24.42,0.22,-22.8,True
+209640,와이제이링크,기타,KOSDAQ,nan,8140.0,64.0,61.6,1.68,-10.1,True
+210120,캔버스엔,기타,KOSDAQ,nan,1446.0,-31.48,-61.11,0.77,-75.3,False
+211270,AP위성,기타,KOSDAQ,nan,16610.0,-20.95,-54.58,0.73,-21.8,True
+212560,네오오토,기타,KOSDAQ,nan,8340.0,-12.49,-60.91,1.19,-36.6,True
+213420,덕산네오룩스,기타,KOSDAQ,nan,50500.0,-8.82,-2.21,0.75,-9.5,True
+214150,클래시스,기타,KOSDAQ,nan,55600.0,-18.49,-60.94,1.26,-26.5,False
+214180,헥토이노베이션,기타,KOSDAQ,nan,20600.0,-6.48,-30.13,1.33,-16.9,True
+214270,FSN,기타,KOSDAQ,nan,2050.0,-31.86,-24.78,0.95,-42.4,False
+214370,케어젠,기타,KOSDAQ,nan,105500.0,-25.85,-38.17,0.82,-29.7,True
+214430,아이쓰리시스템,기타,KOSDAQ,nan,104000.0,-18.94,-50.03,0.69,-20.0,True
+214450,파마리서치,기타,KOSDAQ,nan,313500.0,-16.07,-63.22,1.41,-55.9,False
+214680,디알텍,기타,KOSDAQ,nan,1900.0,-6.71,-40.97,0.93,-16.5,False
+215000,골프존,기타,KOSDAQ,nan,51300.0,-16.89,-49.12,1.18,-32.9,False
+215100,로보로보,기타,KOSDAQ,nan,7810.0,-5.48,-60.17,3.07,-43.2,True
+215200,메가스터디교육,기타,KOSDAQ,nan,47400.0,-23.14,-27.06,1.06,-12.9,True
+215360,우리산업,기타,KOSDAQ,nan,9340.0,-12.27,-26.76,1.42,-6.0,True
+215380,우정바이오,기타,KOSDAQ,nan,2890.0,-11.76,-18.74,0.28,-19.8,True
+215480,토박스코리아,기타,KOSDAQ,nan,2240.0,-22.4,-28.95,0.72,-33.8,True
+215600,신라젠,기타,KOSDAQ,nan,3495.0,-32.97,-55.76,0.68,-29.7,True
+215790,이노인스트루먼트,기타,KOSDAQ,nan,1596.0,90.15,144.02,0.58,-63.2,True
+217190,제너셈,기타,KOSDAQ,nan,7890.0,24.6,-5.92,1.22,-21.6,True
+217270,넵튠,기타,KOSDAQ,nan,4065.0,-21.85,-56.93,0.41,-60.7,False
+217330,싸이토젠,기타,KOSDAQ,nan,5900.0,25.19,-59.17,1.56,-37.4,True
+217500,러셀,기타,KOSDAQ,nan,2835.0,-12.81,-62.02,3.21,-44.7,True
+217730,강스템바이오텍,기타,KOSDAQ,nan,3995.0,-7.86,48.83,0.46,-13.4,True
+217820,원익피앤이,기타,KOSDAQ,nan,3975.0,9.85,-41.06,1.23,-11.5,True
+218150,미래생명자원,기타,KOSDAQ,nan,3285.0,-19.54,-26.81,0.76,-20.3,True
+218410,RFHIC,기타,KOSDAQ,nan,94300.0,-18.04,58.63,0.99,-10.6,True
+219130,타이거일렉,기타,KOSDAQ,nan,45750.0,42.68,-10.51,0.86,-4.5,True
+219550,디와이디,기타,KOSDAQ,nan,1883.0,-10.01,-26.98,1.08,-9.3,True
+220260,켐트로스,기타,KOSDAQ,nan,5980.0,-8.77,-40.97,1.0,-32.3,True
+221800,지구홀딩스,기타,KOSDAQ,nan,18250.0,-35.61,236.04,1.15,-35.3,True
+221840,하이즈항공,기타,KOSDAQ,nan,2980.0,-6.67,-5.27,0.9,-5.5,True
+221980,케이디켐,기타,KOSDAQ,nan,10430.0,-22.04,-37.23,1.15,-9.8,False
+222040,코스맥스엔비티,기타,KOSDAQ,nan,5170.0,7.56,19.25,1.31,-12.1,True
+222080,씨아이에스,기타,KOSDAQ,nan,17170.0,23.14,6.74,1.67,-7.9,True
+222110,팬젠,기타,KOSDAQ,nan,5950.0,-10.66,-20.75,0.4,-18.9,True
+222420,쎄노텍,기타,KOSDAQ,nan,1582.0,-3.23,-57.72,2.0,-20.8,True
+222800,심텍,기타,KOSDAQ,nan,87000.0,51.59,8.55,0.72,-2.6,True
+222980,한국맥널티,기타,KOSDAQ,nan,2620.0,-20.64,-48.31,0.87,-37.5,False
+224060,더코디,기타,KOSDAQ,nan,5850.0,-20.45,-0.42,1.11,-17.7,True
+224110,에이텍모빌리티,기타,KOSDAQ,nan,9380.0,-13.38,-38.58,1.09,-47.3,False
+225530,HC보광산업,기타,KOSDAQ,nan,3880.0,-22.82,2.65,0.97,-26.7,True
+225570,넥슨게임즈,기타,KOSDAQ,nan,11860.0,-19.59,-42.99,0.84,-29.6,False
+226590,엠디바이스,기타,KOSDAQ,nan,28550.0,-7.46,17.83,1.2,-21.2,True
+226950,올릭스,기타,KOSDAQ,nan,172500.0,-18.81,-5.54,1.1,-16.7,True
+228340,동양파일,기타,KOSDAQ,nan,2185.0,-13.08,-13.27,1.73,-9.5,True
+228760,지노믹트리,기타,KOSDAQ,nan,17150.0,-22.27,-60.52,1.02,-46.4,False
+228850,레이언스,기타,KOSDAQ,nan,6190.0,-21.17,-13.37,1.09,-10.7,True
+230240,에치에프알,기타,KOSDAQ,nan,29500.0,-36.97,79.01,0.77,-13.1,True
+230360,에코마케팅,기타,KOSDAQ,nan,16000.0,-23.99,-36.73,1.55,-0.2,True
+232140,와이씨,기타,KOSDAQ,nan,21850.0,3.71,-15.83,1.6,-6.8,True
+232830,아이티센피엔에스,기타,KOSDAQ,nan,4025.0,28.76,49.35,0.42,-4.6,True
+234340,헥토파이낸셜,기타,KOSDAQ,nan,32150.0,15.79,5.15,0.36,-20.2,True
+236200,슈프리마,기타,KOSDAQ,nan,55800.0,0.84,-5.66,0.82,-0.4,True
+237690,에스티팜,기타,KOSDAQ,nan,152500.0,-13.56,-38.07,1.58,-9.6,True
+237750,피앤씨테크,기타,KOSDAQ,nan,6180.0,10.07,-29.94,3.48,-8.2,True
+237880,클리오,기타,KOSDAQ,nan,13290.0,-10.01,-35.03,2.32,-32.2,False
+238090,앤디포스,기타,KOSDAQ,nan,3310.0,-32.05,64.16,0.6,-16.2,True
+239340,이스트에이드,기타,KOSDAQ,nan,1466.0,-16.43,-49.95,0.65,-49.0,False
+239610,에이치엘사이언스,기타,KOSDAQ,nan,8930.0,-2.99,-25.94,1.72,-29.8,False
+240550,동방메디컬,기타,KOSDAQ,nan,6990.0,-17.44,-41.93,1.04,-50.2,False
+240600,유진테크놀로지,기타,KOSDAQ,nan,4000.0,-0.15,-33.39,3.36,-28.2,False
+240810,원익IPS,기타,KOSDAQ,nan,117100.0,-20.82,-22.39,0.98,-15.0,True
+241690,유니테크노,기타,KOSDAQ,nan,3865.0,-15.57,-36.64,1.23,-7.1,True
+241710,코스메카코리아,기타,KOSDAQ,nan,81000.0,-18.38,-55.93,1.09,-21.4,True
+242040,나무기술,기타,KOSDAQ,nan,5150.0,-35.2,80.34,0.6,-28.9,True
+243070,휴온스,기타,KOSDAQ,nan,26400.0,-19.64,-40.18,1.33,-17.6,False
+243840,신흥에스이씨,기타,KOSDAQ,nan,10550.0,13.56,34.4,1.08,-6.6,True
+246690,TS인베스트먼트,기타,KOSDAQ,nan,1785.0,-13.46,-5.0,2.46,-25.9,True
+247540,에코프로비엠,기타,KOSDAQ,nan,206000.0,-17.03,-41.38,0.92,-16.3,True
+250060,모비스,기타,KOSDAQ,nan,4615.0,-18.5,-40.77,0.39,-40.2,True
+251370,와이엠티,기타,KOSDAQ,nan,17910.0,-9.04,22.92,1.73,-1.4,True
+253450,스튜디오드래곤,기타,KOSDAQ,nan,34850.0,-22.09,-60.32,0.79,-37.8,False
+255440,야스,기타,KOSDAQ,nan,10850.0,-22.49,-31.36,1.11,-11.6,True
+263750,펄어비스,기타,KOSDAQ,nan,58900.0,-30.79,-30.91,0.75,-18.2,True
+265520,AP시스템,기타,KOSDAQ,nan,26200.0,11.41,-8.99,1.98,-4.4,True
+267320,나인테크,기타,KOSDAQ,nan,3480.0,-8.38,-30.01,1.62,-28.2,True
+267980,매일유업,기타,KOSDAQ,nan,36300.0,-20.57,-34.88,1.32,-11.0,True
+272290,이녹스첨단소재,기타,KOSDAQ,nan,34300.0,-6.73,-40.8,0.85,-18.4,True
+274400,이노시뮬레이션,기타,KOSDAQ,nan,4060.0,-14.85,-33.85,0.73,-22.4,False
+278280,천보,기타,KOSDAQ,nan,62600.0,-0.52,-23.81,0.56,-21.2,True
+282880,코윈테크,기타,KOSDAQ,nan,16980.0,-1.83,-41.92,1.78,-15.9,True
+289930,웨이비스,기타,KOSDAQ,nan,21700.0,-13.28,24.52,1.74,-8.8,True
+290560,파라택시스이더리움,기타,KOSDAQ,nan,1795.0,-18.03,-140.9,0.52,-96.0,False
+294090,이오플로우,기타,KOSDAQ,nan,1490.0,-29.23,-30.71,,0.0,False
+295310,에이치브이엠,기타,KOSDAQ,nan,89000.0,-22.39,-35.47,0.9,-20.6,True
+298380,에이비엘바이오,기타,KOSDAQ,nan,134800.0,-38.02,-69.44,1.94,-45.1,False
+300120,라온피플,기타,KOSDAQ,nan,1017.0,-22.29,-94.78,0.83,-79.5,False
+304360,에스바이오메딕스,기타,KOSDAQ,nan,36100.0,17.58,-22.45,1.3,-10.8,True
+308430,셀비온,기타,KOSDAQ,nan,36250.0,-1.32,9.34,1.06,-9.7,True
+311690,CJ 바이오사이언스,기타,KOSDAQ,nan,7790.0,-27.22,-47.26,0.96,-31.1,False
+314130,지놈앤컴퍼니,기타,KOSDAQ,nan,7060.0,-26.61,-51.53,1.52,-29.2,True
+317330,덕산테코피아,기타,KOSDAQ,nan,24000.0,9.86,-7.83,0.89,-6.4,True
+319660,피에스케이,기타,KOSDAQ,nan,88700.0,-7.28,22.4,0.86,-5.1,True
+321370,센서뷰,기타,KOSDAQ,nan,2940.0,-20.88,18.29,0.57,-35.6,True
+323350,다원넥스뷰,기타,KOSDAQ,nan,11920.0,-16.31,-1.04,0.89,-36.3,True
+338840,와이바이오로직스,기타,KOSDAQ,nan,22000.0,-45.84,-41.56,0.63,-38.2,True
+344860,이노진,기타,KOSDAQ,nan,1543.0,-20.43,-45.9,1.07,-40.3,False
+347850,디앤디파마텍,기타,KOSDAQ,nan,74200.0,-15.83,-54.05,0.85,-76.8,False
+348340,뉴로메카,기타,KOSDAQ,nan,64800.0,-10.7,-59.07,1.5,-46.8,True
+351870,차이커뮤니케이션,기타,KOSDAQ,nan,4160.0,-16.5,-44.67,0.8,-59.9,False
+352090,스톰테크,기타,KOSDAQ,nan,3865.0,-17.22,-23.91,1.28,-9.8,True
+354320,알멕,기타,KOSDAQ,nan,100400.0,50.32,17.52,0.69,-1.0,True
+355390,크라우드웍스,기타,KOSDAQ,nan,3425.0,13.01,-36.54,0.75,-79.8,False
+355690,에이텀,기타,KOSDAQ,nan,5230.0,-32.72,-26.62,1.04,-46.7,False
+357780,솔브레인,기타,KOSDAQ,nan,458000.0,-2.34,-28.24,0.78,-8.6,True
+358570,지아이이노베이션,기타,KOSDAQ,nan,16250.0,5.7,-25.35,1.18,-32.3,False
+360350,코셈,기타,KOSDAQ,nan,15000.0,-34.86,105.69,0.98,-12.3,True
+362990,드림인사이트,기타,KOSDAQ,nan,1765.0,-7.49,-33.6,1.39,-28.1,False
+365330,에스와이스틸텍,기타,KOSDAQ,nan,3765.0,-17.63,-30.76,0.56,-38.7,False
+372320,큐로셀,기타,KOSDAQ,nan,58100.0,-7.44,-15.87,1.43,-10.6,True
+373110,엑셀세라퓨틱스,기타,KOSDAQ,nan,1679.0,-6.08,-23.28,1.22,-57.9,False
+373170,엠아이큐브솔루션,기타,KOSDAQ,nan,3200.0,-0.44,-110.73,0.6,-77.1,False
+378340,필에너지,기타,KOSDAQ,nan,19970.0,10.49,-12.45,0.73,-8.6,True
+381620,제닉스로보틱스,기타,KOSDAQ,nan,10180.0,-6.84,-63.97,2.14,-44.5,False
+383930,디티앤씨알오,기타,KOSDAQ,nan,3490.0,-19.97,6.5,0.86,-53.4,True
+384470,코어라인소프트,기타,KOSDAQ,nan,3805.0,-2.23,-51.24,1.13,-53.4,False
+388870,파로스아이바이오,기타,KOSDAQ,nan,9150.0,-24.43,-40.18,0.91,-21.3,True
+389650,넥스트바이오메디컬,기타,KOSDAQ,nan,59500.0,-33.56,-55.35,0.8,-39.3,False
+394800,쓰리빌리언,기타,KOSDAQ,nan,13510.0,-12.71,-50.15,1.98,-28.1,True
+396470,워트,기타,KOSDAQ,nan,7870.0,-7.57,-29.76,1.38,-11.6,True
+402490,그린리소스,기타,KOSDAQ,nan,20800.0,34.06,114.09,0.44,-13.7,True
+403490,우듬지팜,기타,KOSDAQ,nan,1247.0,-20.33,-49.48,0.61,-42.3,False
+403850,더핑크퐁컴퍼니,기타,KOSDAQ,nan,17470.0,-14.53,-59.43,1.52,-58.0,False
+405920,나라셀라,기타,KOSDAQ,nan,2630.0,-21.66,-24.3,0.71,-19.1,True
+406820,뷰티스킨,기타,KOSDAQ,nan,3005.0,40.58,-31.98,3.8,-84.4,False
+407400,꿈비,기타,KOSDAQ,nan,4560.0,-10.98,-38.83,2.57,-63.0,False
+408900,스튜디오미르,기타,KOSDAQ,nan,2640.0,-3.99,-40.89,3.58,-50.0,False
+412540,제일엠앤에스,기타,KOSDAQ,nan,3935.0,-29.23,-30.71,,0.0,False
+413640,비아이매트릭스,기타,KOSDAQ,nan,8700.0,-12.16,-34.58,0.41,-63.7,False
+415380,스튜디오삼익,기타,KOSDAQ,nan,2170.0,-16.56,-37.42,1.48,-82.9,False
+416180,신성에스티,기타,KOSDAQ,nan,37100.0,-11.4,-37.42,1.01,-28.4,False
+417200,LS머트리얼즈,기타,KOSDAQ,nan,30050.0,19.79,50.98,1.75,-3.8,True
+417860,오브젠,기타,KOSDAQ,nan,11620.0,15.17,-22.94,1.29,-59.9,False
+418470,KT밀리의서재,기타,KOSDAQ,nan,13430.0,-19.4,-36.6,1.46,-30.0,False
+418550,제이오,기타,KOSDAQ,nan,11460.0,16.97,-1.8,0.56,-20.4,True
+418620,E8,기타,KOSDAQ,nan,1473.0,-11.2,-27.99,0.84,-72.2,False
+419050,삼기에너지솔루션즈,기타,KOSDAQ,nan,1890.0,-0.06,-29.24,0.52,-20.9,True
+419530,SAMG엔터,기타,KOSDAQ,nan,42900.0,6.01,-18.58,2.31,-54.7,False
+420570,제이투케이바이오,기타,KOSDAQ,nan,8260.0,-15.87,-36.2,1.31,-31.8,False
+424870,이뮨온시아,기타,KOSDAQ,nan,6990.0,-34.95,-69.09,0.79,-54.6,False
+424960,스마트레이더시스템,기타,KOSDAQ,nan,6810.0,-23.84,-49.89,1.21,-35.5,False
+425040,티이엠씨,기타,KOSDAQ,nan,17160.0,6.6,41.14,2.05,0.0,True
+425420,티에프이,기타,KOSDAQ,nan,67000.0,-10.81,55.11,1.05,-2.9,True
+429270,시지트로닉스,기타,KOSDAQ,nan,7590.0,30.28,38.07,1.19,-13.7,True
+430690,한싹,기타,KOSDAQ,nan,4760.0,10.28,-30.93,0.08,-33.4,False
+431190,케이쓰리아이,기타,KOSDAQ,nan,4730.0,-7.49,-44.13,0.42,-27.8,False
+432430,와이랩,기타,KOSDAQ,nan,3640.0,-5.81,-43.36,2.49,-43.5,False
+432470,케이엔에스,기타,KOSDAQ,nan,14150.0,-15.14,-40.37,1.31,-19.6,True
+432720,퀄리타스반도체,기타,KOSDAQ,nan,25050.0,52.67,49.52,1.34,0.0,True
+438700,버넥트,기타,KOSDAQ,nan,3360.0,-12.73,-49.23,1.55,-48.1,False
+439580,블루엠텍,기타,KOSDAQ,nan,3320.0,-23.23,-62.65,0.94,-81.1,False
+440110,파두,기타,KOSDAQ,nan,78200.0,30.86,230.58,1.35,-4.2,True
+440290,HB인베스트먼트,기타,KOSDAQ,nan,2240.0,-14.19,-28.42,1.95,-7.6,True
+440320,오픈놀,기타,KOSDAQ,nan,4260.0,8.51,-18.43,2.52,-60.2,True
+441270,파인엠텍,기타,KOSDAQ,nan,10380.0,-14.26,-25.69,0.57,-25.0,True
+443250,레뷰코퍼레이션,기타,KOSDAQ,nan,7970.0,-33.01,-64.3,3.11,-40.1,False
+443670,에스피소프트,기타,KOSDAQ,nan,5810.0,11.6,-28.82,0.27,-28.4,True
+444920,Yuanta 11 Special Purpose Acquisition Co Ltd,기타,KOSDAQ,nan,2100.0,3.33,-23.17,1.15,-0.8,True
+445090,에이직랜드,기타,KOSDAQ,nan,29950.0,-12.65,-38.74,1.41,-13.8,True
+445180,퓨릿,기타,KOSDAQ,nan,12690.0,32.48,1.12,1.28,-2.5,True
+445680,큐리옥스바이오시스템즈,기타,KOSDAQ,nan,102100.0,7.92,-49.93,0.79,-26.9,True
+446540,메가터치,기타,KOSDAQ,nan,7140.0,47.64,34.21,1.27,-2.2,True
+448280,에코아이,기타,KOSDAQ,nan,12540.0,-14.76,-17.65,2.25,-60.3,True
+448710,코츠테크놀로지,기타,KOSDAQ,nan,21600.0,-17.32,-19.77,0.49,-19.9,True
+450330,하스,기타,KOSDAQ,nan,7140.0,-19.45,-11.27,0.79,-29.0,True
+450520,인스웨이브,기타,KOSDAQ,nan,3225.0,-16.13,-43.26,0.82,-32.8,False
+451220,아이엠티,기타,KOSDAQ,nan,15080.0,5.12,19.01,0.8,-3.0,True
+451250,삐아,기타,KOSDAQ,nan,8880.0,-15.03,-37.65,3.12,-28.6,False
+451760,컨텍,기타,KOSDAQ,nan,22500.0,0.39,-30.02,0.93,-2.6,True
+452160,제이엔비,기타,KOSDAQ,nan,6330.0,-4.1,-42.23,0.59,-32.9,False
+452190,한빛레이저,기타,KOSDAQ,nan,7960.0,72.31,29.46,1.14,-0.7,True
+452200,민테크,기타,KOSDAQ,nan,2765.0,-5.83,-27.7,1.59,-35.2,False
+452280,한선엔지니어링,기타,KOSDAQ,nan,22000.0,32.71,75.55,1.38,0.0,True
+452300,캡스톤파트너스,기타,KOSDAQ,nan,4455.0,0.97,14.89,0.15,-12.6,True
+452400,이닉스,기타,KOSDAQ,nan,9290.0,-14.7,-50.27,0.94,-29.6,False
+452430,사피엔반도체,기타,KOSDAQ,nan,42500.0,17.91,-24.84,1.38,-10.7,True
+452670,452670,기타,KOSDAQ,nan,2105.0,-16.39,-31.54,1.63,-0.5,True
+452980,신한제11호스팩,기타,KOSDAQ,nan,2110.0,-27.06,-28.52,1.39,0.0,True
+453450,그리드위즈,기타,KOSDAQ,nan,25150.0,-14.4,26.32,1.5,-4.9,True
+453860,에이에스텍,기타,KOSDAQ,nan,15270.0,-16.23,-38.59,1.0,-35.8,False
+455900,엔젤로보틱스,기타,KOSDAQ,nan,30350.0,-5.9,-51.2,1.75,-23.2,True
+456010,아이씨티케이,기타,KOSDAQ,nan,22550.0,36.28,-3.27,0.2,-15.4,True
+456070,이엔셀,기타,KOSDAQ,nan,15580.0,-18.72,-48.09,1.18,-22.7,True
+457370,한켐,기타,KOSDAQ,nan,9280.0,-4.4,-40.25,1.38,-13.4,True
+457550,우진엔텍,기타,KOSDAQ,nan,27250.0,-15.64,-27.76,1.04,-25.5,True
+458610,"Korea No.12 Special Purpose Acquisition Co., Ltd.",기타,KOSDAQ,nan,2095.0,6.2,-24.55,1.31,-4.3,False
+458870,씨어스,기타,KOSDAQ,nan,47650.0,-23.89,-108.19,0.96,-74.8,False
+459510,나우로보틱스,기타,KOSDAQ,nan,30550.0,22.18,-34.9,2.61,-13.1,True
+460470,아이빔테크놀로지,기타,KOSDAQ,nan,3880.0,-5.34,-2.7,1.62,-5.6,True
+460870,에스엠씨지,기타,KOSDAQ,nan,3590.0,-24.54,-33.96,0.44,-60.9,False
+460930,현대힘스,기타,KOSDAQ,nan,19900.0,-17.0,-20.43,0.93,-35.5,False
+460940,피앤에스로보틱스,기타,KOSDAQ,nan,8180.0,-15.21,-63.86,1.7,-63.6,False
+461030,아이엠비디엑스,기타,KOSDAQ,nan,6960.0,-15.41,-60.09,0.7,-42.4,False
+461300,아이스크림미디어,기타,KOSDAQ,nan,18600.0,-8.25,-27.3,1.39,-29.3,True
+462020,에이치엠씨제6호스팩,기타,KOSDAQ,nan,2105.0,-23.27,-36.94,1.27,-0.2,True
+462350,이노스페이스,기타,KOSDAQ,nan,16350.0,-14.04,-62.08,1.43,-32.9,True
+462510,라메디텍,기타,KOSDAQ,nan,4920.0,-19.53,-46.65,1.01,-45.4,False
+462980,아이지넷,기타,KOSDAQ,nan,2315.0,-31.2,-16.22,0.54,-36.7,True
+464080,에스오에스랩,기타,KOSDAQ,nan,16210.0,-12.81,-63.74,1.35,-38.0,True
+464280,티디에스팜,기타,KOSDAQ,nan,9260.0,-10.65,-39.22,1.45,-27.9,False
+464440,한국제13호스팩,기타,KOSDAQ,nan,2085.0,-24.23,-37.9,1.82,-5.2,False
+464500,아이언디바이스,기타,KOSDAQ,nan,3655.0,-7.4,-33.73,2.29,-16.3,True
+464680,KB제27호스팩,기타,KOSDAQ,nan,2090.0,-23.51,-36.94,2.39,-0.9,True
+465480,인스피언,기타,KOSDAQ,nan,5720.0,-10.27,-20.81,0.12,-40.3,False
+467930,IBKS제23호스팩,기타,KOSDAQ,nan,2140.0,-27.59,-39.7,1.62,-6.6,False
+468760,유진스팩10호,기타,KOSDAQ,nan,2090.0,-23.75,-29.71,0.99,-2.6,False
+469480,IBKS제24호스팩,기타,KOSDAQ,nan,2155.0,-24.91,-41.64,1.09,-5.3,False
+469750,아이비젼웍스,기타,KOSDAQ,nan,1161.0,-16.79,-50.26,1.27,-40.0,False
+469880,하나30호스팩,기타,KOSDAQ,nan,2085.0,-23.51,-37.42,2.34,-1.2,True
+469900,하나31호스팩,기타,KOSDAQ,nan,2060.0,-23.99,-37.66,1.0,-2.6,False
+471050,대신밸런스제17호스팩,기타,KOSDAQ,nan,2120.0,-23.28,-39.5,0.81,-5.1,False
+472220,신영스팩10호,기타,KOSDAQ,nan,2140.0,-24.69,-40.81,2.02,-3.8,False
+472230,에스케이증권제11호스팩,기타,KOSDAQ,nan,2060.0,-23.99,-36.93,0.81,-1.2,True
+472850,폰드그룹,기타,KOSDAQ,nan,5850.0,-12.56,-32.39,1.56,-53.8,False
+473000,에스케이증권제12호스팩,기타,KOSDAQ,nan,2085.0,-22.78,-35.96,3.21,-1.2,True
+473050,유안타제15호스팩,기타,KOSDAQ,nan,2065.0,-23.26,-36.44,0.81,-0.2,True
+473950,에스케이증권제13호스팩,기타,KOSDAQ,nan,2040.0,-23.74,-38.15,0.87,-1.4,True
+473980,노머스,기타,KOSDAQ,nan,17650.0,-25.99,-56.64,0.99,-51.6,False
+474170,루미르,기타,KOSDAQ,nan,16210.0,-4.18,-45.11,1.6,-24.1,True
+474490,유안타제16호스팩,기타,KOSDAQ,nan,2045.0,-23.5,-36.93,2.18,-0.5,True
+474930,신한제13호스팩,기타,KOSDAQ,nan,2125.0,-23.99,-37.42,1.42,-5.3,False
+475240,하나32호스팩,기타,KOSDAQ,nan,2080.0,-25.41,-38.84,0.97,-4.6,False
+475250,하나33호스팩,기타,KOSDAQ,nan,2090.0,-24.23,-37.9,1.19,-3.5,False
+475400,씨메스로보틱스,기타,KOSDAQ,nan,32200.0,-17.01,-57.72,1.39,-25.0,True
+475830,오름테라퓨틱,기타,KOSDAQ,nan,88200.0,-13.46,-54.06,0.98,-38.6,True
+475960,토모큐브,기타,KOSDAQ,nan,55800.0,-21.98,-21.17,1.15,-15.8,True
+476040,오가노이드사이언스,기타,KOSDAQ,nan,22400.0,-24.66,-66.65,0.59,-53.5,False
+476080,M83,기타,KOSDAQ,nan,7210.0,-9.0,-46.61,1.03,-54.2,False
+476830,알지노믹스,기타,KOSDAQ,nan,175900.0,-28.5,-12.4,0.84,-25.5,False
+477340,에이치엠씨제7호스팩,기타,KOSDAQ,nan,2030.0,-23.74,-36.93,2.06,-0.5,True
+477380,미래에셋비전스팩4호,기타,KOSDAQ,nan,2060.0,-23.99,-40.02,1.05,-3.3,False
+477470,미래에셋비전스팩5호,기타,KOSDAQ,nan,2115.0,-23.04,-38.36,3.04,-1.6,True
+478110,이베스트스팩6호,기타,KOSDAQ,nan,2030.0,-23.74,-37.42,2.09,-0.5,True
+478390,KB제29호스팩,기타,KOSDAQ,nan,2070.0,-23.5,-37.42,2.01,-2.4,False
+478440,미래에셋비전스팩6호,기타,KOSDAQ,nan,2035.0,-24.72,-38.15,0.7,-2.2,False
+479880,한국제15호스팩,기타,KOSDAQ,nan,2050.0,-23.5,-36.93,0.72,-4.4,False
+479960,위너스일렉,기타,KOSDAQ,nan,11810.0,-4.09,-17.03,1.43,-46.4,True
+481890,엔에이치스팩31호,기타,KOSDAQ,nan,2100.0,-24.46,-38.36,0.42,-3.4,True
+482630,삼양엔씨켐,기타,KOSDAQ,nan,19320.0,0.25,-72.59,0.89,-53.2,False
+482680,미래에셋비전스팩7호,기타,KOSDAQ,nan,2030.0,-24.24,-36.93,1.29,-1.9,True
+482690,대신밸런스제19호스팩,기타,KOSDAQ,nan,2135.0,-23.99,-38.35,2.72,-3.2,False
+484130,하나34호스팩,기타,KOSDAQ,nan,2045.0,-25.2,-38.87,0.72,-3.3,False
+486630,KB제30호스팩,기타,KOSDAQ,nan,2055.0,-24.95,-37.66,1.78,-3.1,False
+487360,신한제14호스팩,기타,KOSDAQ,nan,2020.0,-25.69,-39.12,0.63,-4.5,False
+487720,키움제10호스팩,기타,KOSDAQ,nan,2040.0,-24.72,-40.05,1.73,-5.1,False
+487830,신한제15호스팩,기타,KOSDAQ,nan,2045.0,-25.2,-38.87,1.05,-2.6,False
+488060,유진스팩11호,기타,KOSDAQ,nan,2080.0,-21.78,-35.96,1.13,-0.2,True
+489210,교보17호스팩,기타,KOSDAQ,nan,2100.0,-24.46,-39.29,1.71,-4.5,True
+489480,키움제11호스팩,기타,KOSDAQ,nan,2035.0,-24.48,-38.87,1.05,-4.2,False
+489500,엘케이켐,기타,KOSDAQ,nan,34550.0,-16.02,-16.19,1.68,-32.7,True
+489730,디비금융제13호스팩,기타,KOSDAQ,nan,2055.0,-25.19,-36.69,1.15,-3.5,True
+492220,KB제31호스팩,기타,KOSDAQ,nan,2025.0,-25.45,-37.91,2.0,-3.1,False
+493790,유안타제17호스팩,기타,KOSDAQ,nan,2007.0,-24.14,-37.32,0.77,-1.4,True
+496070,신한제16호스팩,기타,KOSDAQ,nan,2010.0,-24.49,-38.65,1.44,-3.4,False
+498390,한화플러스제5호스팩,기타,KOSDAQ,nan,2040.0,-23.25,-36.43,1.5,-0.2,True
+900260,로스웰,기타,KOSDAQ,nan,1620.0,-26.58,-34.69,1.53,-8.6,True
+900270,헝셩그룹,기타,KOSDAQ,nan,1092.0,-18.28,401.78,1.43,-17.9,True
+950140,잉글우드랩,기타,KOSDAQ,nan,12000.0,-25.06,-41.34,1.82,-23.7,False
+950160,코오롱티슈진,기타,KOSDAQ,nan,102000.0,-22.19,-38.3,0.88,-19.7,True
+950170,JTC,기타,KOSDAQ,nan,4105.0,-40.39,-63.19,0.93,-45.1,False

@@ -1,0 +1,23 @@
+﻿ticker,name,sector,market,cap,cur,rs_4w,rs_12w,vr,pct52,above200
+079430,현대리바트,Consumer Cyclical,KOSDAQ,SmallCap,7980.0,-4.89,-12.54,0.31,-6.0,True
+001465,BYC우,Consumer Cyclical,KOSPI,MidCap,34000.0,-6.95,6.65,0.69,-0.6,True
+084680,이월드,Consumer Cyclical,KOSDAQ,MidCap,1924.0,-11.01,-12.16,0.36,-3.1,True
+005725,넥센우,Consumer Cyclical,KOSDAQ,MidCap,4710.0,-15.21,-32.17,0.73,-12.8,True
+047040,대우건설,Industrials,KOSDAQ,MegaCap,35000.0,84.22,583.49,0.65,-5.8,True
+011930,신성이엔지,Industrials,KOSDAQ,MidCap,3995.0,34.66,97.73,0.55,-7.0,True
+017550,수산세보틱스,Industrials,KOSDAQ,SmallCap,3110.0,31.51,48.7,0.27,-12.6,True
+006360,GS건설,Industrials,KOSDAQ,LargeCap,38050.0,15.64,70.5,0.66,-11.7,True
+375500,DL이앤씨,Industrials,KOSPI,LargeCap,99000.0,8.01,89.9,0.66,-3.4,True
+028050,삼성E&A,Industrials,KOSDAQ,MegaCap,53100.0,6.96,34.98,0.73,-5.7,True
+021050,서원,Industrials,KOSDAQ,SmallCap,1550.0,5.28,-10.37,0.66,0.0,True
+003010,혜인,Industrials,KOSDAQ,SmallCap,7130.0,3.1,2.66,0.35,-11.2,True
+007210,벽산,Industrials,KOSPI,SmallCap,2200.0,-0.53,-4.65,0.8,-12.9,True
+37550L,DL E&C Co. Ltd. Pfd.,Industrials,KOSPI,nan,59000.0,-3.7,43.84,0.63,-3.0,True
+079900,전진건설로봇,Industrials,KOSPI,MidCap,64100.0,-6.81,-10.24,0.27,-12.2,True
+001260,남광토건,Industrials,KOSDAQ,SmallCap,9880.0,-7.89,-15.29,0.34,-10.7,True
+013580,계룡건설,Industrials,KOSDAQ,MidCap,29000.0,-9.37,-3.47,0.42,-7.3,True
+017800,현대엘리베이터,Industrials,KOSDAQ,LargeCap,98700.0,-10.41,-31.97,0.75,-11.6,True
+044450,KSS해운,Industrials,KOSDAQ,MidCap,12820.0,-10.74,-1.76,0.41,-6.0,True
+090460,비에이치,Technology,KOSPI,LargeCap,34500.0,26.34,58.6,0.57,-4.3,True
+007660,이수페타시스,Technology,KOSDAQ,MegaCap,150300.0,22.5,-1.53,0.8,-6.9,True
+007810,코리아써키트,Technology,KOSPI,LargeCap,92700.0,12.33,6.97,0.61,-5.6,True
