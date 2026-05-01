@@ -604,17 +604,26 @@ function renderTheme(data, rankData) {
     return;
   }
 
-  // 테마 랭킹 맵 (theme_rank_kr.csv)
+  // 랭킹 맵
   const rankMap = {};
   if (rankData) {
-    rankData.forEach((r, i) => { rankMap[r.theme] = {rank: i+1, rs4: parseFloat(r.rs_4w_avg||0), rs12: parseFloat(r.rs_12w_avg||0)}; });
+    rankData.forEach((r, i) => {
+      rankMap[r.theme] = {
+        rank: i+1,
+        rs2w: parseFloat(r.rs_2w_avg||0),
+        up_ratio: parseFloat(r.up_ratio||0),
+        up_count: parseInt(r.up_count||0),
+        total: parseInt(r.total||0),
+      };
+    });
   }
 
+  // 테마별 그룹
   const themes = {};
   data.forEach(r => {
     const t = r.theme || '기타';
-    if (!themes[t]) themes[t] = {type: r.theme_type||'', stocks: []};
-    themes[t].stocks.push(r);
+    if (!themes[t]) themes[t] = [];
+    themes[t].push(r);
   });
 
   const capEmoji = {'MegaCap':'💎','LargeCap':'🔷','MidCap':'🔹','SmallCap':'▪️'};
@@ -622,69 +631,105 @@ function renderTheme(data, rankData) {
 
   let html = `<div class="section-header">
     <span class="section-title">🔄 테마 로테이션</span>
-    <span class="count-badge">${data.length}개</span>
+    <span class="count-badge">${Object.keys(themes).length}개 테마</span>
   </div>`;
 
-  Object.entries(themes).forEach(([theme, info]) => {
-    const isLeader = (info.type||'').includes('주도');
-    const typeTag = isLeader
-      ? '<span class="tag" style="background:rgba(110,231,183,0.1);color:#6ee7b7">⭐ 주도</span>'
-      : '<span class="tag" style="background:rgba(251,191,36,0.1);color:#fbbf24">🚀 부상</span>';
+  // 랭킹 순서로 정렬
+  const sortedThemes = Object.entries(themes).sort((a, b) => {
+    const ra = rankMap[a[0]]?.rank || 999;
+    const rb = rankMap[b[0]]?.rank || 999;
+    return ra - rb;
+  });
 
-    const rk = rankMap[theme];
-    const rankStr = rk ? `<span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text3)">${rk.rank}위</span>` : '';
-    const rsStr = rk
-      ? `<span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:${rk.rs4>=0?'var(--accent)':'var(--danger)'}">
-           4주${rk.rs4>=0?'+':''}${rk.rs4.toFixed(1)}%
-         </span>
-         <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:${rk.rs12>=0?'var(--accent)':'var(--danger)'}">
-           12주${rk.rs12>=0?'+':''}${rk.rs12.toFixed(1)}%
-         </span>`
-      : '';
+  sortedThemes.forEach(([theme, stocks], idx) => {
+    const rk   = rankMap[theme];
+    const rank = rk ? rk.rank : '-';
+    const rs2w = rk ? rk.rs2w : 0;
+    const upR  = rk ? rk.up_ratio : 0;
+    const upC  = rk ? `${rk.up_count}/${rk.total}` : '-';
+    const themeId = `theme-${idx}`;
 
-    html += `<div style="margin:16px 0 8px">
-      <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
-        ${typeTag}
-        ${rankStr}
-        <span style="font-weight:700;font-size:14px">${theme}</span>
-        <span class="count-badge">${info.stocks.length}개</span>
+    html += `
+    <div style="margin-bottom:6px">
+      <div onclick="toggleTheme('${themeId}')" style="
+        display:flex;align-items:center;gap:8px;
+        padding:12px 14px;border-radius:10px;
+        background:var(--surface);border:1px solid var(--border);
+        cursor:pointer;user-select:none;
+      ">
+        <span style="font-family:'JetBrains Mono',monospace;font-size:11px;
+          color:var(--text3);min-width:28px">${rank}위</span>
+        <span style="font-weight:700;font-size:14px;flex:1">${theme}</span>
+        <span style="font-family:'JetBrains Mono',monospace;font-size:11px;
+          color:${rs2w>=0?'var(--accent)':'var(--danger)'};white-space:nowrap">
+          ${rs2w>=0?'+':''}${rs2w.toFixed(1)}%
+        </span>
+        <span style="font-size:11px;color:var(--text3);white-space:nowrap">
+          상승${upC}(${upR.toFixed(0)}%)
+        </span>
+        <span style="color:var(--text3);font-size:12px" id="${themeId}-arrow">▼</span>
       </div>
-      <div style="display:flex;gap:8px;margin-top:4px;padding-left:2px">
-        ${rsStr}
+      <div id="${themeId}" style="display:none;padding:4px 0 8px">
+        ${stocks.map(r => {
+          const mkt  = r.market==='KOSPI'?'🔵코스피':'🟢코스닥';
+          const cap  = capEmoji[r.cap_label||r.cap] || '';
+          const rs2  = parseFloat(r.rs_2w||0);
+          const vr   = parseFloat(r.vr||0);
+          const p52  = parseFloat(r.pct52||0);
+          return `
+          <div class="card" style="margin:4px 0;border-radius:8px">
+            <div style="padding:12px 14px 4px;display:flex;align-items:flex-start;justify-content:space-between">
+              <div>
+                <div style="font-size:14px;font-weight:700;margin-bottom:4px">
+                  ${cap} ${r.name||r.ticker}
+                </div>
+                <div style="font-size:11px;color:var(--text3);font-family:'JetBrains Mono',monospace;
+                  display:flex;gap:6px;flex-wrap:wrap">
+                  <span>${r.ticker}</span>
+                  <span>${mkt}</span>
+                </div>
+              </div>
+              <a href="${tvUrl(r.ticker)}" target="_blank" style="
+                padding:6px 10px;border-radius:6px;font-size:11px;font-weight:600;
+                background:rgba(56,189,248,0.1);color:var(--accent2);
+                text-decoration:none;white-space:nowrap;flex-shrink:0
+              ">차트 ↗</a>
+            </div>
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:8px 14px 12px">
+              <div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">현재가</div>
+                <div style="font-family:'JetBrains Mono',monospace;font-size:12px">
+                  ${parseFloat(r.cur||0).toLocaleString()}원</div></div>
+              <div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">RS 2주</div>
+                <div style="font-family:'JetBrains Mono',monospace;font-size:12px;
+                  color:${rs2>=0?'var(--accent)':'var(--danger)'}">
+                  ${rs2>=0?'+':''}${rs2.toFixed(1)}%</div></div>
+              <div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">52주고점</div>
+                <div style="font-family:'JetBrains Mono',monospace;font-size:12px;
+                  color:${p52>=-10?'var(--accent)':'var(--danger)'}">
+                  ${p52>=0?'+':''}${p52.toFixed(1)}%</div></div>
+              <div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">거래량</div>
+                <div style="font-family:'JetBrains Mono',monospace;font-size:12px">
+                  ${vr>0?vr.toFixed(2)+'x':'-'}</div></div>
+            </div>
+          </div>`;
+        }).join('')}
       </div>
     </div>`;
-
-    info.stocks.forEach(r => {
-      const mkt = r.market==='KOSPI'?'🔵':'🟢';
-      const cap = capEmoji[r.cap]||'';
-      const rs4 = parseFloat(r.rs_4w||0);
-      const vr  = parseFloat(r.vr||0);
-      const p52 = parseFloat(r.pct52||0);
-      html += `<div class="card" style="margin-bottom:8px">
-        <div class="card-header">
-          <div class="card-title">
-            <div class="stock-name">
-              <a href="${tvUrl(r.ticker)}" target="_blank" style="color:inherit;text-decoration:none">
-                ${mkt} ${r.name||r.ticker} ${cap} ↗
-              </a>
-            </div>
-            <div class="stock-meta"><span style="font-family:'JetBrains Mono',monospace">${r.ticker}</span></div>
-          </div>
-        </div>
-        <div class="price-row">
-          <div class="price-item"><div class="price-label">현재가</div>
-            <div class="price-value">${parseFloat(r.cur||0).toLocaleString()}원</div></div>
-          <div class="price-item"><div class="price-label">52주고점</div>
-            <div class="price-value ${p52>=-5?'up':'down'}">${p52>=0?'+':''}${p52.toFixed(1)}%</div></div>
-          <div class="price-item"><div class="price-label">RS 4주</div>
-            <div class="price-value ${rs4>=0?'up':'down'}">${rs4>=0?'+':''}${rs4.toFixed(1)}%</div></div>
-          <div class="price-item"><div class="price-label">거래량</div>
-            <div class="price-value">${vr>0?vr.toFixed(2)+'x':'-'}</div></div>
-        </div>
-      </div>`;
-    });
   });
+
   el.innerHTML = html;
+}
+
+function toggleTheme(id) {
+  const el    = document.getElementById(id);
+  const arrow = document.getElementById(id+'-arrow');
+  if (el.style.display === 'none') {
+    el.style.display = 'block';
+    if (arrow) arrow.textContent = '▲';
+  } else {
+    el.style.display = 'none';
+    if (arrow) arrow.textContent = '▼';
+  }
 }
 
 // 초기화
