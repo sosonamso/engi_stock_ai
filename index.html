@@ -296,6 +296,7 @@ body {
 <div class="tabs">
   <button class="tab us active" onclick="showTab('us')">🇺🇸 미장</button>
   <button class="tab kr" onclick="showTab('kr')">🇰🇷 국장</button>
+  <button class="tab" onclick="showTab('theme')">🔄 테마</button>
   <button class="tab" onclick="showTab('search')">🔍 검색</button>
 </div>
 
@@ -309,6 +310,11 @@ body {
   <!-- 국장 패널 -->
   <div id="panel-kr" class="panel">
     <div id="kr-content"><div class="loading"><div class="spinner"></div>데이터 로딩 중...</div></div>
+  </div>
+
+  <!-- 테마 로테이션 패널 -->
+  <div id="panel-theme" class="panel">
+    <div id="theme-content"><div class="loading"><div class="spinner"></div>데이터 로딩 중...</div></div>
   </div>
 
   <!-- 검색 패널 -->
@@ -567,9 +573,14 @@ function showTab(tab) {
   document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   document.getElementById(`panel-${tab}`).classList.add('active');
-  document.querySelector(`.tab.${tab}`) 
-    ? document.querySelector(`.tab.${tab}`).classList.add('active')
-    : document.querySelectorAll('.tab')[tab==='search'?2:0].classList.add('active');
+  const tabEl = document.querySelector(`.tab.${tab}`);
+  if (tabEl) {
+    tabEl.classList.add('active');
+  } else {
+    const tabs = document.querySelectorAll('.tab');
+    const idx = {'us':0,'kr':1,'theme':2,'search':3}[tab] ?? 0;
+    if (tabs[idx]) tabs[idx].classList.add('active');
+  }
 }
 
 // 시장 상태
@@ -581,21 +592,92 @@ function updateMarketBadge(spyData) {
   badge.className = 'market-badge ok';
 }
 
+// 테마 렌더
+function renderTheme(data) {
+  const el = document.getElementById('theme-content');
+  if (!data || data.length === 0) {
+    el.innerHTML = `<div class="empty-state">
+      <div class="empty-icon">📭</div>
+      <div class="empty-title">테마 데이터 없음</div>
+      <div class="empty-desc">테마 로테이션 스캐너를 먼저 실행해주세요.</div>
+    </div>`;
+    return;
+  }
+  const themes = {};
+  data.forEach(r => {
+    const t = r.theme || '기타';
+    if (!themes[t]) themes[t] = {type: r.theme_type||'', stocks: []};
+    themes[t].stocks.push(r);
+  });
+
+  const capEmoji = {'MegaCap':'💎','LargeCap':'🔷','MidCap':'🔹','SmallCap':'▪️'};
+  const tvUrl = t => `https://www.tradingview.com/chart/?symbol=KRX:${t}`;
+
+  let html = `<div class="section-header">
+    <span class="section-title">🔄 테마 로테이션</span>
+    <span class="count-badge">${data.length}개</span>
+  </div>`;
+
+  Object.entries(themes).forEach(([theme, info]) => {
+    const typeTag = (info.type||'').includes('주도')
+      ? '<span class="tag" style="background:rgba(110,231,183,0.1);color:#6ee7b7">⭐ 주도</span>'
+      : '<span class="tag" style="background:rgba(251,191,36,0.1);color:#fbbf24">🚀 부상</span>';
+    html += `<div style="margin:16px 0 8px;display:flex;align-items:center;gap:8px">
+      ${typeTag}
+      <span style="font-weight:700;font-size:14px">${theme}</span>
+      <span class="count-badge">${info.stocks.length}개</span>
+    </div>`;
+
+    info.stocks.forEach(r => {
+      const mkt = r.market==='KOSPI'?'🔵':'🟢';
+      const cap = capEmoji[r.cap]||'';
+      const rs4 = parseFloat(r.rs_4w||0);
+      const vr  = parseFloat(r.vr||0);
+      const p52 = parseFloat(r.pct52||0);
+      html += `<div class="card" style="margin-bottom:8px">
+        <div class="card-header">
+          <div class="card-title">
+            <div class="stock-name">
+              <a href="${tvUrl(r.ticker)}" target="_blank" style="color:inherit;text-decoration:none">
+                ${mkt} ${r.name||r.ticker} ${cap} ↗
+              </a>
+            </div>
+            <div class="stock-meta"><span style="font-family:'JetBrains Mono',monospace">${r.ticker}</span></div>
+          </div>
+        </div>
+        <div class="price-row">
+          <div class="price-item"><div class="price-label">현재가</div>
+            <div class="price-value">${parseFloat(r.cur||0).toLocaleString()}원</div></div>
+          <div class="price-item"><div class="price-label">52주고점</div>
+            <div class="price-value ${p52>=-5?'up':'down'}">${p52>=0?'+':''}${p52.toFixed(1)}%</div></div>
+          <div class="price-item"><div class="price-label">RS 4주</div>
+            <div class="price-value ${rs4>=0?'up':'down'}">${rs4>=0?'+':''}${rs4.toFixed(1)}%</div></div>
+          <div class="price-item"><div class="price-label">거래량</div>
+            <div class="price-value">${vr>0?vr.toFixed(2)+'x':'-'}</div></div>
+        </div>
+      </div>`;
+    });
+  });
+  el.innerHTML = html;
+}
+
 // 초기화
 async function init() {
-  const [us, kr, usA, krA] = await Promise.all([
+  const [us, kr, usA, krA, theme] = await Promise.all([
     fetchCSV('scanner_us_raw.csv'),
     fetchCSV('scanner_kr_raw.csv'),
     fetchCSV('scanner_us_all.csv'),
     fetchCSV('scanner_kr_all.csv'),
+    fetchCSV('theme_rotation_kr.csv'),
   ]);
 
   usData = us; krData = kr;
-  usAll  = usA.filter(r => r.ticker); 
+  usAll  = usA.filter(r => r.ticker);
   krAll  = krA.filter(r => r.ticker);
 
   renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
   renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
+  renderTheme(theme);
 
   document.getElementById('marketBadge').textContent =
     new Date().toLocaleDateString('ko', {month:'short', day:'numeric'});
