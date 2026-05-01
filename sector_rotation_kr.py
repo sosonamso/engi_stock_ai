@@ -76,6 +76,7 @@ if __name__ == "__main__":
     kr_df["ticker"] = kr_df["ticker"].astype(str).str.zfill(6)
     name_map   = {r["ticker"]: r["name"]   for _, r in kr_df.iterrows()}
     market_map = {r["ticker"]: r["market"] for _, r in kr_df.iterrows()}
+    cap_map    = {r["ticker"]: str(r.get("cap","") or "") for _, r in kr_df.iterrows()}
 
     # KOSPI 지수 로드
     kospi_idx  = None
@@ -136,6 +137,7 @@ if __name__ == "__main__":
             "ticker":   ticker,
             "name":     name_map.get(ticker, ticker),
             "market":   market_map.get(ticker, "KOSPI"),
+            "cap":      cap_map.get(ticker, ""),
             "cur":      round(float(close.iloc[-1]), 0),
             "rs_4w":    rs_4w,
             "rs_12w":   rs_12w,
