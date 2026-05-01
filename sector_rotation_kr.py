@@ -255,8 +255,9 @@ if __name__ == "__main__":
 
             mkt = "🔵" if r["market"] == "KOSPI" else "🟢"
             vr  = f"{r['vr']:.2f}x" if r["vr"] else "-"
+            cap_emoji = {"MegaCap":"💎초대형","LargeCap":"🔷대형","MidCap":"🔹중형","SmallCap":"▪️소형"}.get(r.get("cap",""), "")
             blk = (
-                f"{mkt} <b>{r['name']}</b>({r['ticker']})\n"
+                f"{mkt} <b>{r['name']}</b>({r['ticker']}) {cap_emoji}\n"
                 f"  현재가: {r['cur']:,.0f}원\n"
                 f"  52주고점대비: {r['pct52']:+.1f}%\n"
                 f"  RS 4주: {r['rs_4w']:+.1f}% | 12주: {r['rs_12w']:+.1f}%\n"
