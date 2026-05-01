@@ -129,6 +129,9 @@ if __name__ == "__main__":
 
         if rs_4w is None or rs_12w is None: continue
 
+        # RS 이상값 필터 (±500% 초과는 데이터 오류로 제외)
+        if abs(rs_4w) > 500 or abs(rs_12w) > 1000: continue
+
         stock_stats[ticker] = {
             "ticker":   ticker,
             "name":     name_map.get(ticker, ticker),
