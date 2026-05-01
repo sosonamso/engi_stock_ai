@@ -186,21 +186,15 @@ if __name__ == "__main__":
     leader_themes = theme_rank[leader_mask]["theme"].tolist()
     print(f"주도테마: {len(leader_themes)}개")
 
-    # ── 종목 선별 ──────────────────────────────────
+    # ── 종목 선별 (RS Top 5, 조건 없음) ─────────────
     candidates = []
     for theme_name in leader_themes:
         grp     = theme_df[theme_df["theme"] == theme_name]
         tickers = [t for t in grp["ticker"].tolist() if t in stock_stats]
         stats   = [stock_stats[t] for t in tickers]
 
-        # 조건 필터
-        filtered = [s for s in stats
-                    if s["above200"]
-                    and s["pct52"] is not None and s["pct52"] >= -20
-                    and s["vr"] is not None and s["vr"] <= 0.8]
-
-        # RS Top 5
-        top5 = sorted(filtered, key=lambda x: x["rs_2w"], reverse=True)[:MAX_STOCKS]
+        # RS 높은 순 Top 5
+        top5 = sorted(stats, key=lambda x: x["rs_2w"], reverse=True)[:MAX_STOCKS]
         for s in top5:
             candidates.append({**s, "theme": theme_name})
 
