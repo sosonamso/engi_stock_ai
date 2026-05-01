@@ -593,7 +593,7 @@ function updateMarketBadge(spyData) {
 }
 
 // 테마 렌더
-function renderTheme(data) {
+function renderTheme(data, rankData) {
   const el = document.getElementById('theme-content');
   if (!data || data.length === 0) {
     el.innerHTML = `<div class="empty-state">
@@ -603,6 +603,13 @@ function renderTheme(data) {
     </div>`;
     return;
   }
+
+  // 테마 랭킹 맵 (theme_rank_kr.csv)
+  const rankMap = {};
+  if (rankData) {
+    rankData.forEach((r, i) => { rankMap[r.theme] = {rank: i+1, rs4: parseFloat(r.rs_4w_avg||0), rs12: parseFloat(r.rs_12w_avg||0)}; });
+  }
+
   const themes = {};
   data.forEach(r => {
     const t = r.theme || '기타';
@@ -619,13 +626,32 @@ function renderTheme(data) {
   </div>`;
 
   Object.entries(themes).forEach(([theme, info]) => {
-    const typeTag = (info.type||'').includes('주도')
+    const isLeader = (info.type||'').includes('주도');
+    const typeTag = isLeader
       ? '<span class="tag" style="background:rgba(110,231,183,0.1);color:#6ee7b7">⭐ 주도</span>'
       : '<span class="tag" style="background:rgba(251,191,36,0.1);color:#fbbf24">🚀 부상</span>';
-    html += `<div style="margin:16px 0 8px;display:flex;align-items:center;gap:8px">
-      ${typeTag}
-      <span style="font-weight:700;font-size:14px">${theme}</span>
-      <span class="count-badge">${info.stocks.length}개</span>
+
+    const rk = rankMap[theme];
+    const rankStr = rk ? `<span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text3)">${rk.rank}위</span>` : '';
+    const rsStr = rk
+      ? `<span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:${rk.rs4>=0?'var(--accent)':'var(--danger)'}">
+           4주${rk.rs4>=0?'+':''}${rk.rs4.toFixed(1)}%
+         </span>
+         <span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:${rk.rs12>=0?'var(--accent)':'var(--danger)'}">
+           12주${rk.rs12>=0?'+':''}${rk.rs12.toFixed(1)}%
+         </span>`
+      : '';
+
+    html += `<div style="margin:16px 0 8px">
+      <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
+        ${typeTag}
+        ${rankStr}
+        <span style="font-weight:700;font-size:14px">${theme}</span>
+        <span class="count-badge">${info.stocks.length}개</span>
+      </div>
+      <div style="display:flex;gap:8px;margin-top:4px;padding-left:2px">
+        ${rsStr}
+      </div>
     </div>`;
 
     info.stocks.forEach(r => {
@@ -663,12 +689,13 @@ function renderTheme(data) {
 
 // 초기화
 async function init() {
-  const [us, kr, usA, krA, theme] = await Promise.all([
+  const [us, kr, usA, krA, theme, themeRank] = await Promise.all([
     fetchCSV('scanner_us_raw.csv'),
     fetchCSV('scanner_kr_raw.csv'),
     fetchCSV('scanner_us_all.csv'),
     fetchCSV('scanner_kr_all.csv'),
     fetchCSV('theme_rotation_kr.csv'),
+    fetchCSV('theme_rank_kr.csv'),
   ]);
 
   usData = us; krData = kr;
@@ -677,7 +704,7 @@ async function init() {
 
   renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
   renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
-  renderTheme(theme);
+  renderTheme(theme, themeRank);
 
   document.getElementById('marketBadge').textContent =
     new Date().toLocaleDateString('ko', {month:'short', day:'numeric'});
