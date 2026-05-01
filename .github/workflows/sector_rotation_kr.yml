@@ -2,7 +2,7 @@ name: 국장 테마 로테이션 스캐너
 
 on:
   schedule:
-    - cron: '0 7 * * 1-5'
+    - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
 jobs:
