@@ -1,4 +1,4 @@
-name: 데이터 소스 테스트
+name: 네이버인기테스트
 
 on:
   workflow_dispatch:
