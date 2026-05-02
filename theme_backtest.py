@@ -82,27 +82,38 @@ if __name__ == "__main__":
         print(f"KOSPI 지수 수집 완료: {len(kospi_df)}일치")
     idx_close = kospi_df["Close"]
 
-    # 전체 테마 종목 OHLCV 로드
-    print("\nOHLCV 로드 중...")
+    # 전체 테마 종목 OHLCV 로드 (EODHD 직접 수집 - 최신 데이터)
+    import requests as _req, time as _time
+    token = os.environ.get("EODHD_TOKEN", "")
+    market_map_all = {r["ticker"]: r["market"] for _, r in kr_df.iterrows()}
+
     all_tickers = list(set(
         t for t in theme_df["ticker"].tolist()
         if cap_map.get(t, 0) >= MIN_CAP
-        and os.path.exists(os.path.join(KR_DIR, f"{t}.csv"))
     ))
-    print(f"전체 분석 종목: {len(all_tickers)}개")
+    print(f"\n전체 분석 종목: {len(all_tickers)}개 (EODHD 직접 수집)")
 
     ohlcv = {}
-    for ticker in all_tickers:
+    for i, ticker in enumerate(all_tickers):
+        if i % 50 == 0:
+            print(f"[{i}/{len(all_tickers)}] 수집 중...")
         try:
-            df = pd.read_csv(
-                os.path.join(KR_DIR, f"{ticker}.csv"),
-                index_col="date", parse_dates=True
-            )
-            df = df[["Close","Volume"]].astype(float).dropna()
+            exchange = "KQ" if market_map_all.get(ticker, "KOSPI") == "KOSDAQ" else "KO"
+            url    = f"https://eodhd.com/api/eod/{ticker}.{exchange}"
+            params = {"api_token": token, "fmt": "json", "from": "2024-01-01"}
+            resp   = _req.get(url, params=params, timeout=15)
+            if resp.status_code != 200: continue
+            data   = resp.json()
+            if not data: continue
+            df = pd.DataFrame(data)
+            df["date"] = pd.to_datetime(df["date"])
+            df = df.set_index("date")[["close","volume"]].rename(
+                columns={"close":"Close","volume":"Volume"}).astype(float)
             ohlcv[ticker] = df
         except: pass
+        _time.sleep(0.05)
 
-    print(f"로드 완료: {len(ohlcv)}개")
+    print(f"수집 완료: {len(ohlcv)}개")
 
     # 날짜 범위 설정 (최근 1.5년)
     all_dates = sorted(kospi_df.index)
