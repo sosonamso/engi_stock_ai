@@ -8,7 +8,9 @@
 import os, time, warnings, requests
 import numpy as np
 import pandas as pd
+from io import StringIO
 from datetime import datetime, timedelta
+from bs4 import BeautifulSoup
 from eodhd_utils import get_ohlcv, EODHD
 
 warnings.filterwarnings("ignore")
@@ -32,6 +34,31 @@ def send(text):
                          data={"chat_id": CID, "text": text, "parse_mode": "HTML"},
                          timeout=10)
         except: pass
+
+
+def get_popular_stocks():
+    """네이버 인기검색 종목 수집"""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        resp = requests.get(
+            "https://finance.naver.com/sise/lastsearch2.naver",
+            headers=headers, timeout=10)
+        soup = BeautifulSoup(resp.text, "html.parser")
+        popular = {}
+        rank = 1
+        for a in soup.select("a[href*='code=']"):
+            href = a["href"]
+            if "code=" in href:
+                code = href.split("code=")[-1].split("&")[0].strip()
+                if len(code) == 6 and code.isdigit():
+                    if code not in popular:
+                        popular[code] = rank
+                        rank += 1
+        print(f"인기종목: {len(popular)}개")
+        return popular
+    except Exception as e:
+        print(f"인기종목 수집 실패: {e}")
+        return {}
 
 
 def calc_rs(stock_close, idx_close, n=10):
@@ -125,6 +152,7 @@ if __name__ == "__main__":
     # 분석 대상: 테마에 속하고 시총 5000억 이상
     target_tickers = list(set(theme_df["ticker"].tolist()) & large_tickers)
     print(f"분석 대상: {len(target_tickers)}개")
+    popular_map = get_popular_stocks()
     send(f"🔄 테마 로테이션 스캐너 v2\n시총5000억↑ {len(target_tickers)}개 종목 분석 중...")
 
     # 종목별 지표 계산
@@ -224,7 +252,11 @@ if __name__ == "__main__":
         # RS 높은 순 Top 5
         top5 = sorted(stats, key=lambda x: x["rs_2w"], reverse=True)[:MAX_STOCKS]
         for s in top5:
-            candidates.append({**s, "theme": theme_name})
+            candidates.append({
+                **s,
+                "theme":    theme_name,
+                "pop_rank": popular_map.get(s["ticker"])
+            })
 
     print(f"후보 종목: {len(candidates)}개")
 
@@ -333,8 +365,10 @@ if __name__ == "__main__":
             cap_e = cap_emoji.get(r["cap_label"], "")
             vr    = f"{r['vr']:.2f}x" if r["vr"] else "-"
             accel_str = f" 가속:{r['accel']:+.1f}%" if r.get("accel") is not None else ""
+            pop_rank  = popular_map.get(r["ticker"])
+            pop_str   = f" 🔥인기{pop_rank}위" if pop_rank else ""
             blk   = (
-                f"{cap_e} <b>{r['name']}</b>({r['ticker']}) {mkt}\n"
+                f"{cap_e} <b>{r['name']}</b>({r['ticker']}) {mkt}{pop_str}\n"
                 f"  현재가: {r['cur']:,.0f}원\n"
                 f"  52주고점: {r['pct52']:+.1f}% | 거래량: {vr}\n"
                 f"  RS 2주: {r['rs_2w']:+.1f}%{accel_str}\n"
