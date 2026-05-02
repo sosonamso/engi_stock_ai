@@ -42,7 +42,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add theme_rank_kr.csv theme_rotation_kr.csv 2>/dev/null || true
+          git add theme_rank_kr.csv theme_rank_kr_prev.csv theme_rotation_kr.csv 2>/dev/null || true
           git diff --staged --quiet || git commit -m "테마 로테이션 스캔 $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
