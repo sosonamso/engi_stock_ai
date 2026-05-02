@@ -35,6 +35,7 @@ def send(text):
 
 
 def calc_rs(stock_close, idx_close, n=10):
+    """직전 n거래일 RS"""
     try:
         si = idx_close.reindex(stock_close.index).ffill()
         if len(si.dropna()) < n+1 or len(stock_close) < n+1: return None
@@ -44,10 +45,25 @@ def calc_rs(stock_close, idx_close, n=10):
     except: return None
 
 
-def calc_volume_ratio(volume, short=5, long=20):
+def calc_rs_prev(stock_close, idx_close, start=10, end=40):
+    """이전 구간 RS (start거래일 전 ~ end거래일 전)"""
     try:
-        if len(volume) < long: return None
-        return round(float(volume.iloc[-short:].mean() / volume.iloc[-long:].mean()), 2)
+        si = idx_close.reindex(stock_close.index).ffill()
+        if len(stock_close) < end+1 or len(si.dropna()) < end+1: return None
+        sr = float(stock_close.iloc[-start] / stock_close.iloc[-end] - 1) * 100
+        mr = float(si.iloc[-start]          / si.iloc[-end]          - 1) * 100
+        return round(sr - mr, 2)
+    except: return None
+
+
+def calc_volume_ratio(volume, recent=10, prev_start=10, prev_end=40):
+    """최근 2주 vs 이전 6주 거래량 비율"""
+    try:
+        if len(volume) < prev_end: return None
+        recent_avg = volume.iloc[-recent:].mean()
+        prev_avg   = volume.iloc[-prev_end:-prev_start].mean()
+        if prev_avg == 0: return None
+        return round(float(recent_avg / prev_avg), 2)
     except: return None
 
 
@@ -128,6 +144,8 @@ if __name__ == "__main__":
         volume = df["Volume"]
 
         rs_2w  = calc_rs(close, idx_close, RS_PERIOD)
+        rs_6w  = calc_rs_prev(close, idx_close, start=RS_PERIOD, end=RS_PERIOD+30)
+        accel  = round(rs_2w - rs_6w, 2) if rs_2w is not None and rs_6w is not None else None
         vr     = calc_volume_ratio(volume)
         pct52  = pct_from_52w_high(close)
         above200 = is_above_ma200(close)
@@ -145,6 +163,8 @@ if __name__ == "__main__":
             "cap_label": caplab_map.get(ticker, ""),
             "cur":       round(float(close.iloc[-1]), 0),
             "rs_2w":     rs_2w,
+            "rs_6w":     rs_6w,
+            "accel":     accel,
             "ret_2w":    ret_2w,
             "vr":        vr,
             "pct52":     pct52,
@@ -165,16 +185,24 @@ if __name__ == "__main__":
         up_count = sum(1 for v in ret_vals if v > 0)
         up_ratio = up_count / len(ret_vals) if ret_vals else 0
 
+        accel_vals = [stock_stats[t]["accel"] for t in tickers
+                      if stock_stats[t]["accel"] is not None]
+        rs_6w_vals  = [stock_stats[t]["rs_6w"]  for t in tickers
+                      if stock_stats[t]["rs_6w"]  is not None]
+
         theme_stats.append({
-            "theme":      theme_name,
-            "n_large":    len(tickers),
-            "rs_2w_avg":  round(np.mean(rs_vals), 2),
-            "up_ratio":   round(up_ratio * 100, 1),
-            "up_count":   up_count,
-            "total":      len(ret_vals),
+            "theme":       theme_name,
+            "n_large":     len(tickers),
+            "rs_2w_avg":   round(np.mean(rs_vals), 2),
+            "rs_6w_avg":   round(np.mean(rs_6w_vals), 2) if rs_6w_vals else 0,
+            "accel_avg":   round(np.mean(accel_vals), 2) if accel_vals else 0,
+            "up_ratio":    round(up_ratio * 100, 1),
+            "up_count":    up_count,
+            "total":       len(ret_vals),
         })
 
-    theme_rank = pd.DataFrame(theme_stats).sort_values("rs_2w_avg", ascending=False).reset_index(drop=True)
+    # 가속도(2주RS - 6주RS) 기준 정렬
+    theme_rank = pd.DataFrame(theme_stats).sort_values("accel_avg", ascending=False).reset_index(drop=True)
     n_theme    = len(theme_rank)
     top_n      = max(1, int(n_theme * LEADER_RS_PCT))
 
@@ -221,8 +249,9 @@ if __name__ == "__main__":
         emoji = "🥇" if i==0 else "🥈" if i==1 else "🥉" if i==2 else f"{i+1}."
         leader = " ⭐" if row["theme"] in leader_themes else ""
         msg   += (f"{emoji} {row['theme']}{leader}\n"
-                  f"   2주RS:{row['rs_2w_avg']:+.1f}% | "
-                  f"상승{row['up_count']}/{row['total']}({row['up_ratio']:.0f}%)\n")
+                  f"   2주:{row['rs_2w_avg']:+.1f}% 6주:{row.get('rs_6w_avg',0):+.1f}%"
+                  f" 가속:{row.get('accel_avg',0):+.1f}%\n"
+                  f"   상승{row['up_count']}/{row['total']}({row['up_ratio']:.0f}%)\n")
 
     send(msg)
 
@@ -242,18 +271,19 @@ if __name__ == "__main__":
                 tr = theme_rank[theme_rank["theme"] == r["theme"]].iloc[0]
                 rank_idx = theme_rank[theme_rank["theme"] == r["theme"]].index[0] + 1
                 stock_msg += (f"⭐ <b>{r['theme']}</b> ({rank_idx}위)\n"
-                              f"   2주RS:{tr['rs_2w_avg']:+.1f}% | "
-                              f"상승{tr['up_count']}/{tr['total']}({tr['up_ratio']:.0f}%)\n\n")
+                              f"   2주:{tr['rs_2w_avg']:+.1f}% 6주:{tr.get('rs_6w_avg',0):+.1f}%"
+                              f" 가속:{tr.get('accel_avg',0):+.1f}%\n\n")
                 cur_theme = r["theme"]
 
             mkt   = "🔵코스피" if r["market"] == "KOSPI" else "🟢코스닥"
             cap_e = cap_emoji.get(r["cap_label"], "")
             vr    = f"{r['vr']:.2f}x" if r["vr"] else "-"
+            accel_str = f" 가속:{r['accel']:+.1f}%" if r.get("accel") is not None else ""
             blk   = (
                 f"{cap_e} <b>{r['name']}</b>({r['ticker']}) {mkt}\n"
                 f"  현재가: {r['cur']:,.0f}원\n"
                 f"  52주고점: {r['pct52']:+.1f}% | 거래량: {vr}\n"
-                f"  RS 2주: {r['rs_2w']:+.1f}%\n"
+                f"  RS 2주: {r['rs_2w']:+.1f}%{accel_str}\n"
                 f"  📊 {tv_url(r['ticker'])}\n\n"
             )
             if len(stock_msg) + len(blk) > 3800:
