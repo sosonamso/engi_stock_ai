@@ -228,7 +228,61 @@ if __name__ == "__main__":
 
     print(f"후보 종목: {len(candidates)}개")
 
-    # CSV 저장
+    # ── 신규 진입 알림 ────────────────────────────
+    NEW_ENTRY_RANK = 5  # 상위 N위 이내
+
+    prev_rank_map = {}
+    if os.path.exists("theme_rank_kr.csv"):
+        try:
+            prev_df = pd.read_csv("theme_rank_kr.csv", encoding="utf-8-sig")
+            for i, row in prev_df.iterrows():
+                prev_rank_map[row["theme"]] = i + 1
+        except: pass
+
+    new_entries = []
+    for i, row in theme_rank.iterrows():
+        today_rank = i + 1
+        prev_rank  = prev_rank_map.get(row["theme"], 9999)
+        if today_rank <= NEW_ENTRY_RANK and prev_rank > NEW_ENTRY_RANK:
+            new_entries.append({
+                "theme":      row["theme"],
+                "today_rank": today_rank,
+                "prev_rank":  prev_rank,
+                "accel":      row.get("accel_avg", 0),
+                "rs_2w":      row["rs_2w_avg"],
+                "up_ratio":   row["up_ratio"],
+                "up_count":   row["up_count"],
+                "total":      row["total"],
+            })
+
+    if new_entries:
+        alert_msg = "🚨 <b>테마 신규 진입 알림</b>\n"
+        alert_msg += f"상위 {NEW_ENTRY_RANK}위 신규 진입 {len(new_entries)}개\n"
+        alert_msg += "─" * 22 + "\n\n"
+        for e in new_entries:
+            # 해당 테마 Top3 종목
+            grp     = theme_df[theme_df["theme"] == e["theme"]]
+            tickers = [t for t in grp["ticker"].tolist() if t in stock_stats]
+            top3    = sorted(tickers, key=lambda t: stock_stats[t]["rs_2w"], reverse=True)[:3]
+            stocks_str = " / ".join([
+                f"{stock_stats[t]['name']}({t})" for t in top3
+            ])
+            alert_msg += (
+                f"⭐ <b>{e['theme']}</b>\n"
+                f"  순위: {e['prev_rank']}위 → {e['today_rank']}위\n"
+                f"  가속도: {e['accel']:+.1f}% | 2주RS: {e['rs_2w']:+.1f}%\n"
+                f"  상승 {e['up_count']}/{e['total']}({e['up_ratio']:.0f}%)\n"
+                f"  종목: {stocks_str}\n\n"
+            )
+        send(alert_msg)
+        print(f"신규 진입 알림: {len(new_entries)}개")
+    else:
+        print("신규 진입 테마 없음")
+
+    # CSV 저장 (오늘 결과를 prev로 백업 후 저장)
+    if os.path.exists("theme_rank_kr.csv"):
+        import shutil
+        shutil.copy("theme_rank_kr.csv", "theme_rank_kr_prev.csv")
     theme_rank.to_csv("theme_rank_kr.csv", index=False, encoding="utf-8-sig")
     if candidates:
         pd.DataFrame(candidates).to_csv("theme_rotation_kr.csv", index=False, encoding="utf-8-sig")
