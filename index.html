@@ -671,17 +671,21 @@ function renderTheme(data, rankData) {
       </div>
       <div id="${themeId}" style="display:none;padding:4px 0 8px">
         ${stocks.map(r => {
-          const mkt  = r.market==='KOSPI'?'🔵코스피':'🟢코스닥';
-          const cap  = capEmoji[r.cap_label] || capEmoji[r.cap] || '';
-          const rs2  = parseFloat(r.rs_2w||0);
-          const vr   = parseFloat(r.vr||0);
-          const p52  = parseFloat(r.pct52||0);
+          const mkt     = r.market==='KOSPI'?'🔵코스피':'🟢코스닥';
+          const cap     = capEmoji[r.cap_label] || capEmoji[r.cap] || '';
+          const rs2     = parseFloat(r.rs_2w||0);
+          const vr      = parseFloat(r.vr||0);
+          const p52     = parseFloat(r.pct52||0);
+          const popRank = r.pop_rank && r.pop_rank !== '' && r.pop_rank !== 'None'
+                          ? `<span style="background:rgba(251,191,36,0.15);color:#fbbf24;
+                              padding:1px 5px;border-radius:3px;font-size:10px">🔥인기${r.pop_rank}위</span>`
+                          : '';
           return `
           <div class="card" style="margin:4px 0;border-radius:8px">
             <div style="padding:12px 14px 4px;display:flex;align-items:flex-start;justify-content:space-between">
               <div>
                 <div style="font-size:14px;font-weight:700;margin-bottom:4px">
-                  ${cap} ${r.name||r.ticker}
+                  ${cap} ${r.name||r.ticker} ${popRank}
                 </div>
                 <div style="font-size:11px;color:var(--text3);font-family:'JetBrains Mono',monospace;
                   display:flex;gap:6px;flex-wrap:wrap">
