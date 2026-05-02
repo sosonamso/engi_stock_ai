@@ -1,6 +1,8 @@
 name: 네이버 테마 종목 매핑 수집
 
 on:
+  schedule:
+    - cron: '0 10 1 * *'
   workflow_dispatch:
 
 jobs:
