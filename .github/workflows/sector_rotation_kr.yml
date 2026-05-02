@@ -22,7 +22,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install requests pandas numpy
+        run: pip install requests pandas numpy beautifulsoup4 lxml
 
       - name: 캐시 로드
         uses: actions/cache@v4
