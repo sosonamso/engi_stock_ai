@@ -1,0 +1,29 @@
+name: 테마 백테스트
+
+on:
+  workflow_dispatch:
+
+jobs:
+  theme_backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 패키지 설치
+        run: pip install pandas numpy
+
+      - name: 캐시 로드
+        uses: actions/cache@v4
+        with:
+          path: raw_data/
+          key: ohlcv-${{ hashFiles('tickers_us.csv', 'tickers_kr.csv') }}
+          restore-keys: ohlcv-
+
+      - name: 백테스트 실행
+        run: python theme_backtest.py
