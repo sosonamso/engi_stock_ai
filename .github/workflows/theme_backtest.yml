@@ -16,7 +16,7 @@ jobs:
           python-version: "3.11"
 
       - name: 패키지 설치
-        run: pip install pandas numpy
+        run: pip install pandas numpy requests
 
       - name: 캐시 로드
         uses: actions/cache@v4
@@ -26,4 +26,6 @@ jobs:
           restore-keys: ohlcv-
 
       - name: 백테스트 실행
+        env:
+          EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
         run: python theme_backtest.py
