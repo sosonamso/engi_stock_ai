@@ -59,13 +59,28 @@ if __name__ == "__main__":
     # 전체 테마 목록 (비교용)
     all_themes = theme_df["theme"].unique().tolist()
 
-    # KOSPI 지수 로드
+    # KOSPI 지수 로드 (없으면 EODHD에서 수집)
     kospi_path = os.path.join(KR_DIR, "069500.csv")
-    if not os.path.exists(kospi_path):
-        print("KOSPI 지수 없음!"); exit(1)
-    kospi_df = pd.read_csv(kospi_path, index_col="date", parse_dates=True)
+    if os.path.exists(kospi_path):
+        kospi_df = pd.read_csv(kospi_path, index_col="date", parse_dates=True)
+        print(f"KOSPI 지수 캐시: {len(kospi_df)}일치")
+    else:
+        import requests, os as _os
+        token = _os.environ.get("EODHD_TOKEN", "")
+        if not token:
+            print("EODHD_TOKEN 없음!"); exit(1)
+        print("KOSPI 지수 수집 중...")
+        url    = f"https://eodhd.com/api/eod/069500.KO"
+        params = {"api_token": token, "fmt": "json", "from": "2000-01-01"}
+        resp   = requests.get(url, params=params, timeout=30)
+        data   = resp.json()
+        kospi_df = pd.DataFrame(data).rename(columns={"date":"date","close":"Close"})
+        kospi_df["date"] = pd.to_datetime(kospi_df["date"])
+        kospi_df = kospi_df.set_index("date")[["Close"]].astype(float)
+        os.makedirs(KR_DIR, exist_ok=True)
+        kospi_df.to_csv(kospi_path)
+        print(f"KOSPI 지수 수집 완료: {len(kospi_df)}일치")
     idx_close = kospi_df["Close"]
-    print(f"KOSPI 지수: {len(kospi_df)}일치")
 
     # 전체 테마 종목 OHLCV 로드
     print("\nOHLCV 로드 중...")
