@@ -551,6 +551,14 @@ function renderPanel(data, containerId, market, noDataMsg) {
   }
 
   el.innerHTML = html;
+  } catch(e) {
+    console.error('renderTheme error:', e);
+    el.innerHTML = `<div class="empty-state">
+      <div class="empty-icon">⚠️</div>
+      <div class="empty-title">테마 렌더링 오류</div>
+      <div class="empty-desc">${e.message}</div>
+    </div>`;
+  }
 }
 
 // 검색
@@ -581,6 +589,7 @@ function showTab(tab) {
     const idx = {'us':0,'kr':1,'theme':2,'search':3}[tab] ?? 0;
     if (tabs[idx]) tabs[idx].classList.add('active');
   }
+  if (tab === 'search') loadAllData();
 }
 
 // 시장 상태
@@ -595,6 +604,7 @@ function updateMarketBadge(spyData) {
 // 테마 렌더
 function renderTheme(data, rankData) {
   const el = document.getElementById('theme-content');
+  try {
   if (!data || data.length === 0) {
     el.innerHTML = `<div class="empty-state">
       <div class="empty-icon">📭</div>
@@ -741,18 +751,14 @@ function toggleTheme(id) {
 // 초기화
 async function init() {
   try {
-    const [us, kr, usA, krA, theme, themeRank] = await Promise.all([
+    const [us, kr, theme, themeRank] = await Promise.all([
       fetchCSV('scanner_us_raw.csv'),
       fetchCSV('scanner_kr_raw.csv'),
-      fetchCSV('scanner_us_all.csv'),
-      fetchCSV('scanner_kr_all.csv'),
       fetchCSV('theme_rotation_kr.csv'),
       fetchCSV('theme_rank_kr.csv'),
     ]);
 
     usData = us; krData = kr;
-    usAll  = usA.filter(r => r.ticker);
-    krAll  = krA.filter(r => r.ticker);
 
     renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
     renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
@@ -767,6 +773,19 @@ async function init() {
       '<div class="empty-state"><div class="empty-icon">⚠️</div><div class="empty-title">로딩 오류</div><div class="empty-desc">'+e.message+'</div></div>';
     document.getElementById('marketBadge').textContent = '오류';
   }
+}
+
+// 검색 탭 클릭 시 전종목 지연 로드
+let allLoaded = false;
+async function loadAllData() {
+  if (allLoaded) return;
+  const [usA, krA] = await Promise.all([
+    fetchCSV('scanner_us_all.csv'),
+    fetchCSV('scanner_kr_all.csv'),
+  ]);
+  usAll = usA.filter(r => r.ticker);
+  krAll = krA.filter(r => r.ticker);
+  allLoaded = true;
 }
 
 init();
