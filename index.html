@@ -255,7 +255,7 @@ function renderTheme(data, rankData) {
       const vr = parseFloat(r.vr||0);
       const p52 = parseFloat(r.pct52||0);
       const popRank = r.pop_rank&&r.pop_rank!==''&&r.pop_rank!=='None'?r.pop_rank:null;
-      const popStr = popRank?'<span style="background:rgba(251,191,36,0.15);color:#fbbf24;padding:1px 5px;border-radius:3px;font-size:10px;margin-left:4px">🔥인기'+popRank+'위</span>':'';
+      const popStr = popRank?'<span style="background:rgba(251,191,36,0.15);color:#fbbf24;padding:1px 5px;border-radius:3px;font-size:10px;margin-left:4px">🔥인기'+parseInt(popRank)+'위</span>':'';
       const rs2Color = rs2>=0?'var(--accent)':'var(--danger)';
       const p52Color = p52>=-10?'var(--accent)':'var(--danger)';
       html += '<div class="card" style="margin:4px 0;border-radius:8px">';
@@ -267,7 +267,8 @@ function renderTheme(data, rankData) {
       html += '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:8px 14px 12px">';
       html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">현재가</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px">'+parseFloat(r.cur||0).toLocaleString()+'원</div></div>';
       html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">RS 2주</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:'+rs2Color+'">'+(rs2>=0?'+':'')+rs2.toFixed(1)+'%</div></div>';
-      html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">52주고점</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:'+p52Color+'">'+(p52>=0?'+':'')+p52.toFixed(1)+'%</div></div>';
+      const highDate = r.high52_date||'';
+      html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">52주고점</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:'+p52Color+'">'+(p52>=0?'+':'')+p52.toFixed(1)+'%</div>'+(highDate?'<div style="font-size:9px;color:var(--text3)">'+highDate+'</div>':'')+'</div>';
       html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">거래량</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px">'+(vr>0?vr.toFixed(2)+'x':'-')+'</div></div>';
       html += '</div></div>';
     });
