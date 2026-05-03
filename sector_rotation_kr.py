@@ -94,17 +94,29 @@ def calc_volume_ratio(volume, recent=10, prev_start=10, prev_end=40):
     except: return None
 
 
+def clean_ohlcv(df):
+    """이상값 제거 (close/high 전후날 대비 40% 초과 제거)"""
+    close = df["Close"].astype(float)
+    high  = df["High"].astype(float) if "High" in df.columns else close
+    mask  = pd.Series([True] * len(close), index=close.index)
+    for i in range(1, len(close) - 1):
+        for s in [close, high]:
+            prev = s.iloc[i-1]; curr = s.iloc[i]; nxt = s.iloc[i+1]
+            if prev > 0 and nxt > 0:
+                if abs(curr / prev - 1) > 0.4 and abs(curr / nxt - 1) > 0.4:
+                    mask.iloc[i] = False
+                    break
+    return df[mask]
+
+
 def clean_close(close):
-    """이상값 제거 (전날/다음날 대비 ±60% 초과 제거 - 국장 상하한 30% 기준)"""
+    """이상값 제거 (전날/다음날 대비 ±40% 초과 제거)"""
     s = close.copy().astype(float)
     mask = pd.Series([True] * len(s), index=s.index)
     for i in range(1, len(s) - 1):
-        prev = s.iloc[i-1]
-        curr = s.iloc[i]
-        nxt  = s.iloc[i+1]
+        prev = s.iloc[i-1]; curr = s.iloc[i]; nxt = s.iloc[i+1]
         if prev > 0 and nxt > 0:
-            # 전날 대비 60% 초과 AND 다음날 대비 60% 초과 → 이상값
-            if abs(curr / prev - 1) > 0.6 and abs(curr / nxt - 1) > 0.6:
+            if abs(curr / prev - 1) > 0.4 and abs(curr / nxt - 1) > 0.4:
                 mask.iloc[i] = False
     return s[mask]
 
@@ -191,6 +203,9 @@ if __name__ == "__main__":
 
         if df is None or len(df) < 30: continue
         if float(df["Close"].iloc[-1]) < 1000: continue
+
+        df    = clean_ohlcv(df)
+        if len(df) < 30: continue
 
         close  = df["Close"]
         volume = df["Volume"]
