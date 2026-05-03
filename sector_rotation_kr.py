@@ -94,16 +94,24 @@ def calc_volume_ratio(volume, recent=10, prev_start=10, prev_end=40):
     except: return None
 
 
+def clean_close(close):
+    """이상값 제거 (중앙값 대비 5배 초과 제거)"""
+    median = close.median()
+    return close[close <= median * 5]
+
+
 def pct_from_52w_high(close):
     try:
-        w = close.iloc[-252:] if len(close) >= 252 else close
+        w = clean_close(close.iloc[-252:] if len(close) >= 252 else close)
+        if len(w) == 0: return None
         return round((float(close.iloc[-1]) / float(w.max()) - 1) * 100, 1)
     except: return None
 
 
 def date_of_52w_high(close):
     try:
-        w = close.iloc[-252:] if len(close) >= 252 else close
+        w = clean_close(close.iloc[-252:] if len(close) >= 252 else close)
+        if len(w) == 0: return ''
         return w.idxmax().strftime('%y.%m.%d')
     except: return ''
 
