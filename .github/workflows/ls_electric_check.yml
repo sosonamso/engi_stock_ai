@@ -1,0 +1,33 @@
+name: LS ELECTRIC 데이터 확인
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pandas
+      - name: 확인
+        env:
+          EODHD_TOKEN: ${{ secrets.EODHD_TOKEN }}
+        run: |
+          python << 'PYEOF'
+          import requests, os, pandas as pd
+          token = os.environ.get("EODHD_TOKEN")
+          url = "https://eodhd.com/api/eod/010120.KO"
+          params = {"api_token": token, "fmt": "json", "from": "2024-01-01"}
+          resp = requests.get(url, params=params, timeout=30)
+          data = resp.json()
+          df = pd.DataFrame(data)
+          df["date"] = pd.to_datetime(df["date"])
+          df = df.set_index("date")
+          print(f"기간: {df.index[0].date()} ~ {df.index[-1].date()}")
+          print(f"최고가 날짜: {df['high'].idxmax().date()} = {df['high'].max()}")
+          print(f"최근가: {df['close'].iloc[-1]}")
+          print(df[["close","high"]].tail(10))
+          PYEOF
