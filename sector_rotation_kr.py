@@ -101,6 +101,13 @@ def pct_from_52w_high(close):
     except: return None
 
 
+def date_of_52w_high(close):
+    try:
+        w = close.iloc[-252:] if len(close) >= 252 else close
+        return w.idxmax().strftime('%y.%m.%d')
+    except: return ''
+
+
 def is_above_ma200(close):
     if len(close) < 200: return False
     return float(close.iloc[-1]) > float(close.rolling(200).mean().iloc[-1])
@@ -195,8 +202,9 @@ if __name__ == "__main__":
             "accel":     accel,
             "ret_2w":    ret_2w,
             "vr":        vr,
-            "pct52":     pct52,
-            "above200":  above200,
+            "pct52":       pct52,
+            "high52_date": date_of_52w_high(close),
+            "above200":    above200,
         }
 
     print(f"지표 계산 완료: {len(stock_stats)}개")
