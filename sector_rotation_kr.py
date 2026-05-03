@@ -18,7 +18,7 @@ warnings.filterwarnings("ignore")
 TOK              = os.environ.get("TELEGRAM_TOKEN", "")
 CID              = os.environ.get("TELEGRAM_CHAT_ID", "")
 KR_DIR           = "raw_data/kr"
-HISTORY_DAYS     = 100
+HISTORY_DAYS     = 280
 MIN_CAP          = 500_000_000_000   # 시총 5000억
 LEADER_RS_PCT    = 0.20              # 상위 20%
 LEADER_UP_RATIO  = 0.70              # 상승 비율 70%
