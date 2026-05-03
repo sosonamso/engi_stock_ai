@@ -212,7 +212,7 @@ function renderTheme(data, rankData) {
   const rankMap = {};
   if (rankData) {
     rankData.forEach(function(r,i) {
-      rankMap[r.theme] = {rank:i+1, rs2w:parseFloat(r.rs_2w_avg||0), accel:parseFloat(r.accel_avg||0), up_ratio:parseFloat(r.up_ratio||0), up_count:parseInt(r.up_count||0), total:parseInt(r.total||0)};
+      rankMap[r.theme] = {rank:i+1, rs2w:parseFloat(r.rs_2w_avg||0), rs6w:parseFloat(r.rs_6w_avg||0), accel:parseFloat(r.accel_avg||0), up_ratio:parseFloat(r.up_ratio||0), up_count:parseInt(r.up_count||0), total:parseInt(r.total||0)};
     });
   }
   const themes = {};
@@ -242,7 +242,10 @@ function renderTheme(data, rankData) {
     html += '<div onclick="toggleTheme(\''+themeId+'\')" class="theme-header">';
     html += '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:var(--text3);min-width:28px">'+rank+'위</span>';
     html += '<span style="font-weight:700;font-size:14px;flex:1">'+theme+'</span>';
+    const rs6w = rk?parseFloat(rk.rs6w||0):0;
+    const rs6wColor = rs6w>=0?'var(--accent)':'var(--danger)';
     html += '<span style="font-family:\'JetBrains Mono\',monospace;font-size:11px;color:'+rs2wColor+';white-space:nowrap">'+(rs2w>=0?'+':'')+rs2w.toFixed(1)+'%</span>';
+    html += '<span style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:'+rs6wColor+';white-space:nowrap;margin-left:2px">/6주'+(rs6w>=0?'+':'')+rs6w.toFixed(1)+'%</span>';
     html += '<span style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:'+accelColor+';white-space:nowrap;margin-left:4px">가속'+(accel>=0?'+':'')+accel.toFixed(1)+'%</span>';
     html += '<span style="font-size:11px;color:var(--text3);white-space:nowrap;margin-left:4px">'+upC+'('+upR.toFixed(0)+'%)</span>';
     html += '<span style="color:var(--text3);font-size:12px;margin-left:4px" id="'+themeId+'-arrow">▼</span>';
@@ -266,7 +269,9 @@ function renderTheme(data, rankData) {
       html += '</div>';
       html += '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:4px;padding:8px 14px 12px">';
       html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">현재가</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px">'+parseFloat(r.cur||0).toLocaleString()+'원</div></div>';
-      html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">RS 2주</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:'+rs2Color+'">'+(rs2>=0?'+':'')+rs2.toFixed(1)+'%</div></div>';
+      const rs6 = parseFloat(r.rs_6w||0);
+      const rs6Color = rs6>=0?'var(--accent)':'var(--danger)';
+      html += '<div><div style="font-size:9px;color:var(--text3);margin-bottom:2px">RS 2주/6주</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:12px;color:'+rs2Color+'">'+(rs2>=0?'+':'')+rs2.toFixed(1)+'%</div><div style="font-family:\'JetBrains Mono\',monospace;font-size:10px;color:'+rs6Color+'">'+(rs6>=0?'+':'')+rs6.toFixed(1)+'%</div></div>';
       const highDate = r.high52_date||'';
       // 2주 이내 고점이면 초록, 이전이면 회색
       let highDateColor = 'var(--text3)';
