@@ -740,26 +740,33 @@ function toggleTheme(id) {
 
 // 초기화
 async function init() {
-  const [us, kr, usA, krA, theme, themeRank] = await Promise.all([
-    fetchCSV('scanner_us_raw.csv'),
-    fetchCSV('scanner_kr_raw.csv'),
-    fetchCSV('scanner_us_all.csv'),
-    fetchCSV('scanner_kr_all.csv'),
-    fetchCSV('theme_rotation_kr.csv'),
-    fetchCSV('theme_rank_kr.csv'),
-  ]);
+  try {
+    const [us, kr, usA, krA, theme, themeRank] = await Promise.all([
+      fetchCSV('scanner_us_raw.csv'),
+      fetchCSV('scanner_kr_raw.csv'),
+      fetchCSV('scanner_us_all.csv'),
+      fetchCSV('scanner_kr_all.csv'),
+      fetchCSV('theme_rotation_kr.csv'),
+      fetchCSV('theme_rank_kr.csv'),
+    ]);
 
-  usData = us; krData = kr;
-  usAll  = usA.filter(r => r.ticker);
-  krAll  = krA.filter(r => r.ticker);
+    usData = us; krData = kr;
+    usAll  = usA.filter(r => r.ticker);
+    krAll  = krA.filter(r => r.ticker);
 
-  renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
-  renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
-  renderTheme(theme, themeRank);
+    renderPanel(usData, 'us-content', 'us', '미장 시그널 없음');
+    renderPanel(krData, 'kr-content', 'kr', '국장 시그널 없음');
+    renderTheme(theme, themeRank);
 
-  document.getElementById('marketBadge').textContent =
-    new Date().toLocaleDateString('ko', {month:'short', day:'numeric'});
-  document.getElementById('marketBadge').className = 'market-badge ok';
+    document.getElementById('marketBadge').textContent =
+      new Date().toLocaleDateString('ko', {month:'short', day:'numeric'});
+    document.getElementById('marketBadge').className = 'market-badge ok';
+  } catch(e) {
+    console.error('init error:', e);
+    document.getElementById('us-content').innerHTML =
+      '<div class="empty-state"><div class="empty-icon">⚠️</div><div class="empty-title">로딩 오류</div><div class="empty-desc">'+e.message+'</div></div>';
+    document.getElementById('marketBadge').textContent = '오류';
+  }
 }
 
 init();
