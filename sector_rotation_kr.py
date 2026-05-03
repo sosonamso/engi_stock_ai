@@ -95,9 +95,18 @@ def calc_volume_ratio(volume, recent=10, prev_start=10, prev_end=40):
 
 
 def clean_close(close):
-    """이상값 제거 (중앙값 대비 5배 초과 제거)"""
-    median = close.median()
-    return close[close <= median * 5]
+    """이상값 제거 (전날/다음날 대비 ±60% 초과 제거 - 국장 상하한 30% 기준)"""
+    s = close.copy().astype(float)
+    mask = pd.Series([True] * len(s), index=s.index)
+    for i in range(1, len(s) - 1):
+        prev = s.iloc[i-1]
+        curr = s.iloc[i]
+        nxt  = s.iloc[i+1]
+        if prev > 0 and nxt > 0:
+            # 전날 대비 60% 초과 AND 다음날 대비 60% 초과 → 이상값
+            if abs(curr / prev - 1) > 0.6 and abs(curr / nxt - 1) > 0.6:
+                mask.iloc[i] = False
+    return s[mask]
 
 
 def pct_from_52w_high(close):
