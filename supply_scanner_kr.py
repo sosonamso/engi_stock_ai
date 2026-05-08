@@ -141,6 +141,10 @@ if __name__ == "__main__":
         hist   = get_supply_history(ticker, DAYS)
         time.sleep(0.2)
 
+        print(f"  시총: {mktcap} | 수급행수: {len(hist) if hist is not None else 0}")
+        if hist is not None and len(hist) > 0:
+            print(f"  수급샘플: inst={hist['inst'].iloc[0]} frgn={hist['frgn'].iloc[0]}")
+
         if mktcap is None or hist is None or len(hist) == 0:
             continue
 
