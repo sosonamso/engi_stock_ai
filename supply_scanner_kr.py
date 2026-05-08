@@ -149,7 +149,7 @@ if __name__ == "__main__":
             continue
 
         # 맥점 날짜 찾기
-        hist["total"] = hist["inst"] + hist["frgn"]
+        hist["total"] = (hist["inst"] + hist["frgn"]) * hist["close"]
         hist["ratio"] = hist["total"] / mktcap * 100
         pivots = hist[hist["ratio"].abs() >= THRESHOLD * 100]
 
@@ -160,8 +160,8 @@ if __name__ == "__main__":
                     "ticker": ticker,
                     "name":   name,
                     "date":   row["date"].strftime("%m/%d"),
-                    "inst":   row["inst"],
-                    "frgn":   row["frgn"],
+                    "inst":   row["inst"] * row["close"],
+                    "frgn":   row["frgn"] * row["close"],
                     "total":  row["total"],
                     "ratio":  round(row["ratio"], 3),
                     "close":  row["close"],
