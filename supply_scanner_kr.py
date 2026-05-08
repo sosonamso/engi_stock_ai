@@ -60,22 +60,23 @@ def get_mktcap(ticker):
         resp = requests.get(url, headers=headers, timeout=10)
         tables = pd.read_html(StringIO(resp.text))
         for t in tables:
-            vals = str(t.values.tolist())
-            if '시가총액' in vals:
-                for _, row in t.iterrows():
-                    row_str = str(row.tolist())
-                    if '시가총액' in row_str:
-                        for v in row.tolist():
-                            v_str = str(v)
-                            if '조' in v_str:
-                                try:
-                                    jo = float(v_str.split('조')[0].replace(',','').strip())
-                                    ok = 0
-                                    if '억' in v_str:
-                                        ok = float(v_str.split('조')[1].split('억')[0].replace(',','').strip())
-                                    return (jo * 1_000_000_000_000) + (ok * 100_000_000)
-                                except: pass
-    except: pass
+            vals_flat = ' '.join([str(v) for v in t.values.flatten()])
+            if '시가총액' in vals_flat and '조' in vals_flat:
+                for v in t.values.flatten():
+                    v_str = str(v)
+                    if '조' in v_str and '억' in v_str:
+                        try:
+                            jo = float(v_str.split('조')[0].replace(',','').strip())
+                            ok = float(v_str.split('조')[1].split('억')[0].replace(',','').strip())
+                            return (jo * 1_000_000_000_000) + (ok * 100_000_000)
+                        except: pass
+                    elif '조' in v_str and 'nan' not in v_str.lower():
+                        try:
+                            jo = float(v_str.split('조')[0].replace(',','').strip())
+                            return jo * 1_000_000_000_000
+                        except: pass
+    except Exception as e:
+        print(f"  [{ticker}] 시총 수집 실패: {e}")
     return None
 
 
@@ -88,31 +89,30 @@ def get_supply_history(ticker, days=15):
 
         for t in tables:
             cols_flat = ' '.join([str(c) for c in t.columns.tolist()])
-            if '기관' in cols_flat and '외국인' in cols_flat and '날짜' in cols_flat:
-                # 컬럼 정리
-                new_cols = []
-                for c in t.columns:
-                    c_str = str(c)
-                    if '날짜' in c_str:     new_cols.append('date')
-                    elif '종가' in c_str:   new_cols.append('close')
-                    elif '등락률' in c_str: new_cols.append('chg_pct')
-                    elif '거래량' in c_str: new_cols.append('volume')
-                    elif '기관' in c_str and '순매매' in c_str: new_cols.append('inst')
-                    elif '외국인' in c_str and '순매매' in c_str: new_cols.append('frgn')
-                    elif '보유주수' in c_str: new_cols.append('frgn_shares')
-                    elif '보유율' in c_str:   new_cols.append('frgn_ratio')
-                    elif '전일비' in c_str:   new_cols.append('chg')
-                    else: new_cols.append(c_str)
+            if '기관' not in cols_flat or '외국인' not in cols_flat: continue
 
-                t.columns = new_cols
-                t = t.dropna(subset=['date'])
-                t = t[t['date'].astype(str).str.match(r'\d{4}\.\d{2}\.\d{2}')]
-                t['date'] = pd.to_datetime(t['date'], format='%Y.%m.%d')
-                t['inst'] = pd.to_numeric(t['inst'], errors='coerce')
-                t['frgn'] = pd.to_numeric(t['frgn'], errors='coerce')
-                t['close'] = pd.to_numeric(t['close'], errors='coerce')
-                t = t.dropna(subset=['inst','frgn']).head(days)
-                return t[['date','close','inst','frgn']].reset_index(drop=True)
+            # 멀티인덱스 컬럼 → 단순화
+            new_cols = []
+            inst_idx = frgn_idx = date_idx = close_idx = None
+            for i, c in enumerate(t.columns):
+                c_str = str(c)
+                if '날짜' in c_str:                               new_cols.append('date');  date_idx  = i
+                elif '종가' in c_str:                             new_cols.append('close'); close_idx = i
+                elif '기관' in c_str and '순매매' in c_str:       new_cols.append('inst');  inst_idx  = i
+                elif '외국인' in c_str and '순매매' in c_str:     new_cols.append('frgn');  frgn_idx  = i
+                else: new_cols.append(f'col_{i}')
+
+            t.columns = new_cols
+            if inst_idx is None or frgn_idx is None or date_idx is None: continue
+
+            t = t.dropna(subset=['date'])
+            t = t[t['date'].astype(str).str.match(r'\d{4}\.\d{2}\.\d{2}')]
+            t['date']  = pd.to_datetime(t['date'], format='%Y.%m.%d')
+            t['inst']  = pd.to_numeric(t['inst'],  errors='coerce')
+            t['frgn']  = pd.to_numeric(t['frgn'],  errors='coerce')
+            t['close'] = pd.to_numeric(t['close'], errors='coerce')
+            t = t.dropna(subset=['inst','frgn']).head(days)
+            return t[['date','close','inst','frgn']].reset_index(drop=True)
 
     except Exception as e:
         print(f"  [{ticker}] 수급 수집 실패: {e}")
