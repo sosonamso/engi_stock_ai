@@ -1,15 +1,16 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-05-11,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,29.02,31.39,49.3,8.1,368,16,2024-10-28,2026-04-20,0.67,35.2,72,,-7.6,caution
-2026-05-11,GKOS,Glaukos Corp,NYSE,Healthcare,MidCap,135.37,143.67,48.2,7.1,360,8,2024-11-19,2026-04-30,0.94,27.2,72,,-5.8,safe
-2026-05-11,TFII,TFI International Inc,NYSE,Industrials,LargeCap,137.43,144.82,47.6,7.1,382,10,2024-10-16,2026-04-28,0.64,27.4,72,,-5.1,safe
-2026-05-11,NSA,National Storage Affiliates Trust,NYSE,Real Estate,MidCap,43.65,43.86,39.0,5.4,376,16,2024-10-16,2026-04-20,0.5,20.1,67,,-0.5,safe
-2026-05-11,ARKO,Arko Corp,NASDAQ,Consumer Cyclical,SmallCap,6.79,6.98,49.6,9.9,395,16,2024-09-19,2026-04-20,1.03,15.7,64,,-2.7,safe
-2026-05-11,IAC,IAC Inc.,NASDAQ,Communication Services,MidCap,41.59,45.2,27.7,8.5,321,16,2025-01-06,2026-04-20,2.08,3.3,58,,-8.0,caution
-2026-05-11,SPB,Spectrum Brands Holdings Inc,NYSE,Consumer Defensive,SmallCap,79.08,85.41,45.4,7.9,376,16,2024-10-16,2026-04-20,1.6,11.3,56,,-7.4,caution
-2026-05-11,DCOM,Dime Community Bancshares Inc,NASDAQ,Financial Services,SmallCap,36.67,37.34,33.8,5.5,351,13,2024-11-25,2026-04-23,1.26,8.0,55,,-1.8,safe
-2026-05-11,ARCO,Arcos Dorados Holdings Inc,NYSE,Consumer Cyclical,SmallCap,8.64,9.5,34.5,9.1,387,16,2024-10-01,2026-04-20,1.05,-2.4,47,,-9.1,caution
-2026-05-11,HOPE,Hope Bancorp Inc,NASDAQ,Financial Services,SmallCap,12.14,12.91,31.0,6.0,401,10,2024-09-19,2026-04-28,0.79,-3.2,47,,-6.0,safe
-2026-05-11,VNOM,Viper Energy Ut,NASDAQ,Energy,LargeCap,47.51,50.95,31.2,8.2,389,6,2024-10-11,2026-05-04,0.78,4.0,47,,-6.8,safe
-2026-05-11,SNDR,Schneider National Inc,NYSE,Industrials,MidCap,29.84,31.47,36.4,5.2,367,7,2024-11-11,2026-05-01,0.78,3.3,43,,-5.2,safe
-2026-05-11,QUAD,Quad Graphics Inc,NYSE,Industrials,SmallCap,7.39,8.43,46.0,12.9,350,7,2024-12-05,2026-05-01,0.93,8.2,42,,-12.3,danger
-2026-05-11,VFS,VinFast Auto Ltd. Ordinary Shares,NASDAQ,Consumer Cyclical,MidCap,4.11,4.76,41.1,14.7,323,15,2025-01-03,2026-04-21,0.52,4.7,34,,-13.7,danger
+2026-05-12,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,28.97,31.39,49.3,8.1,368,17,2024-10-28,2026-04-20,0.7,35.3,72,,-7.7,caution
+2026-05-12,GKOS,Glaukos Corp,NYSE,Healthcare,MidCap,136.36,143.67,48.2,7.1,360,9,2024-11-19,2026-04-30,0.87,27.6,72,,-5.1,safe
+2026-05-12,NSA,National Storage Affiliates Trust,NYSE,Real Estate,MidCap,43.58,43.86,39.0,5.4,376,17,2024-10-16,2026-04-20,0.66,22.1,67,,-0.6,safe
+2026-05-12,BVS,Bioventus Inc,NASDAQ,Healthcare,SmallCap,10.14,10.92,48.2,7.1,406,5,2024-09-20,2026-05-06,1.38,22.5,64,,-7.1,caution
+2026-05-12,TFII,TFI International Inc,NYSE,Industrials,LargeCap,135.16,144.82,47.6,7.1,382,11,2024-10-16,2026-04-28,0.59,22.7,64,,-6.7,safe
+2026-05-12,CRGY,Crescent Energy Co,NYSE,Energy,MidCap,12.72,13.92,45.8,10.9,390,6,2024-10-11,2026-05-05,1.18,19.2,61,,-8.6,caution
+2026-05-12,ARKO,Arko Corp,NASDAQ,Consumer Cyclical,SmallCap,6.78,6.98,49.6,9.9,395,17,2024-09-19,2026-04-20,0.98,14.5,56,,-2.9,safe
+2026-05-12,LQDT,Liquidity Services Inc,NASDAQ,Consumer Cyclical,SmallCap,33.58,37.22,41.1,9.8,319,5,2025-01-28,2026-05-06,1.29,13.7,56,,-9.8,caution
+2026-05-12,SPB,Spectrum Brands Holdings Inc,NYSE,Consumer Defensive,SmallCap,80.64,85.41,45.4,7.9,376,17,2024-10-16,2026-04-20,1.62,12.9,56,,-5.6,safe
+2026-05-12,DCOM,Dime Community Bancshares Inc,NASDAQ,Financial Services,SmallCap,36.6,37.34,33.8,5.5,351,14,2024-11-25,2026-04-23,1.41,8.0,55,,-2.0,safe
+2026-05-12,QUAD,Quad Graphics Inc,NYSE,Industrials,SmallCap,7.42,8.43,46.0,12.9,350,8,2024-12-05,2026-05-01,0.81,10.3,50,,-12.0,danger
+2026-05-12,ARCO,Arcos Dorados Holdings Inc,NYSE,Consumer Cyclical,SmallCap,8.64,9.5,34.5,9.1,387,17,2024-10-01,2026-04-20,1.09,-0.6,47,,-9.1,caution
+2026-05-12,VNOM,Viper Energy Ut,NASDAQ,Energy,LargeCap,48.08,50.95,31.2,8.2,389,7,2024-10-11,2026-05-04,0.69,4.7,47,,-5.6,safe
+2026-05-12,SNDR,Schneider National Inc,NYSE,Industrials,MidCap,28.94,31.47,36.4,8.0,367,8,2024-11-11,2026-05-01,0.77,-0.6,43,,-8.0,caution
+2026-05-12,VFS,VinFast Auto Ltd. Ordinary Shares,NASDAQ,Consumer Cyclical,MidCap,4.08,4.76,41.1,14.7,323,16,2025-01-03,2026-04-21,0.53,4.5,34,,-14.3,danger
