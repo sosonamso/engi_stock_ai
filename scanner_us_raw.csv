@@ -1,19 +1,16 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-05-27,AAON,AAON Inc,NASDAQ,Industrials,MidCap,139.54,141.7,49.0,8.1,373,12,2024-11-11,2026-05-11,0.86,32.4,72,,-1.5,safe
-2026-05-27,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.81,28.34,47.6,6.3,374,14,2024-11-06,2026-05-07,0.81,32.2,72,,-1.9,safe
-2026-05-27,IRM,Iron Mountain Incorporated,NYSE,Real Estate,LargeCap,127.01,132.06,40.0,6.5,380,15,2024-10-28,2026-05-06,0.66,15.7,67,,-3.8,safe
-2026-05-27,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,9.74,10.39,48.8,6.5,335,7,2025-01-15,2026-05-18,0.61,17.5,64,,-6.3,safe
-2026-05-27,TGTX,TG Therapeutics Inc,NASDAQ,Healthcare,MidCap,39.2,43.14,42.0,9.9,258,12,2025-04-30,2026-05-11,0.65,10.5,56,,-9.1,caution
-2026-05-27,WST,West Pharmaceutical Services Inc,NYSE,Healthcare,LargeCap,312.71,325.92,42.4,7.9,384,13,2024-10-24,2026-05-08,0.64,13.6,56,,-4.1,safe
-2026-05-27,LTH,Life Time Group Holdings Inc,NYSE,Consumer Cyclical,MidCap,33.09,33.79,26.0,5.1,309,10,2025-02-19,2026-05-13,1.14,5.0,55,,-2.1,safe
-2026-05-27,LQDT,Liquidity Services Inc,NASDAQ,Consumer Cyclical,SmallCap,36.06,37.22,41.1,11.4,319,15,2025-01-28,2026-05-06,0.89,14.1,53,,-3.1,safe
-2026-05-27,MTX,Minerals Technologies Inc,NYSE,Basic Materials,MidCap,78.51,82.84,36.8,9.4,392,10,2024-10-17,2026-05-13,0.75,7.6,51,,-5.2,safe
-2026-05-27,PNTG,Pennant Group Inc,NASDAQ,Healthcare,SmallCap,34.0,36.9,38.2,8.1,394,9,2024-10-16,2026-05-14,0.72,7.3,51,,-7.9,caution
-2026-05-27,CGNT,Cognyte Software Ltd,NASDAQ,Technology,SmallCap,10.23,11.11,41.9,13.1,314,13,2025-02-06,2026-05-08,0.65,11.8,50,,-7.9,caution
-2026-05-27,NVCR,Novocure Ltd,NASDAQ,Healthcare,SmallCap,16.99,18.31,43.9,7.2,392,11,2024-10-16,2026-05-12,0.83,8.3,48,,-7.2,caution
-2026-05-27,BOH,Bank of Hawaii Corporation,NYSE,Financial Services,MidCap,77.86,80.69,25.2,6.2,370,15,2024-11-11,2026-05-06,0.67,-5.5,47,,-3.5,safe
-2026-05-27,IEX,IDEX Corporation,NYSE,Industrials,LargeCap,211.75,218.19,26.1,6.0,390,15,2024-10-14,2026-05-06,0.95,-0.7,47,,-3.0,safe
-2026-05-27,PM,Philip Morris International Inc,NYSE,Consumer Defensive,MegaCap,182.04,191.86,21.0,5.4,239,9,2025-06-02,2026-05-14,0.89,-9.6,47,,-5.1,safe
-2026-05-27,SBUX,Starbucks Corporation,NASDAQ,Consumer Cyclical,LargeCap,102.1,106.82,23.5,5.1,368,8,2024-11-22,2026-05-15,1.15,-1.5,47,,-4.4,safe
-2026-05-27,CDLR,Cadeler A/S,NYSE,Industrials,MidCap,26.25,29.57,43.5,11.2,398,13,2024-10-04,2026-05-08,1.49,8.7,45,,-11.2,danger
-2026-05-27,QUAD,Quad Graphics Inc,NYSE,Industrials,SmallCap,7.4,8.43,46.0,14.7,350,18,2024-12-05,2026-05-01,0.76,1.0,34,,-12.2,danger
+2026-05-28,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.75,28.34,47.6,6.3,374,15,2024-11-06,2026-05-07,0.77,32.0,72,,-2.1,safe
+2026-05-28,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,9.84,10.39,48.8,6.5,335,8,2025-01-15,2026-05-18,0.59,18.5,64,,-5.3,safe
+2026-05-28,IRM,Iron Mountain Incorporated,NYSE,Real Estate,LargeCap,126.83,132.06,40.0,6.5,380,16,2024-10-28,2026-05-06,0.67,14.8,59,,-4.0,safe
+2026-05-28,WST,West Pharmaceutical Services Inc,NYSE,Healthcare,LargeCap,321.8,325.92,42.4,7.9,384,14,2024-10-24,2026-05-08,0.68,14.8,56,,-1.3,safe
+2026-05-28,LTH,Life Time Group Holdings Inc,NYSE,Consumer Cyclical,MidCap,33.42,33.79,26.0,5.1,309,11,2025-02-19,2026-05-13,1.13,5.7,55,,-1.1,safe
+2026-05-28,LQDT,Liquidity Services Inc,NASDAQ,Consumer Cyclical,SmallCap,36.33,37.22,41.1,11.4,319,16,2025-01-28,2026-05-06,0.93,13.6,53,,-2.4,safe
+2026-05-28,MTX,Minerals Technologies Inc,NYSE,Basic Materials,MidCap,77.94,82.84,36.8,9.4,392,11,2024-10-17,2026-05-13,0.66,5.8,51,,-5.9,safe
+2026-05-28,CGNT,Cognyte Software Ltd,NASDAQ,Technology,SmallCap,10.53,11.11,41.9,13.1,314,14,2025-02-06,2026-05-08,0.66,13.3,50,,-5.2,safe
+2026-05-28,NVCR,Novocure Ltd,NASDAQ,Healthcare,SmallCap,17.25,18.31,43.9,7.2,392,12,2024-10-16,2026-05-12,0.82,9.2,48,,-5.8,safe
+2026-05-28,BOH,Bank of Hawaii Corporation,NYSE,Financial Services,MidCap,77.29,80.69,25.2,6.2,370,16,2024-11-11,2026-05-06,0.68,-5.8,47,,-4.2,safe
+2026-05-28,IEX,IDEX Corporation,NYSE,Industrials,LargeCap,210.03,218.19,26.1,6.0,390,16,2024-10-14,2026-05-06,1.07,-2.5,47,,-3.7,safe
+2026-05-28,SBUX,Starbucks Corporation,NASDAQ,Consumer Cyclical,LargeCap,100.75,106.82,23.5,5.7,368,9,2024-11-22,2026-05-15,1.16,-4.4,47,,-5.7,safe
+2026-05-28,USAC,USA Compression Partners LP,NYSE,Energy,MidCap,28.72,30.3,24.8,5.2,319,7,2025-02-10,2026-05-19,1.18,-3.7,47,,-5.2,safe
+2026-05-28,PNTG,Pennant Group Inc,NASDAQ,Healthcare,SmallCap,34.36,36.9,38.2,8.1,394,10,2024-10-16,2026-05-14,0.69,2.6,43,,-6.9,safe
+2026-05-28,QUAD,Quad Graphics Inc,NYSE,Industrials,SmallCap,7.48,8.43,46.0,14.7,350,19,2024-12-05,2026-05-01,0.59,2.9,34,,-11.3,danger
