@@ -1,14 +1,12 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-06-03,LNTH,Lantheus Holdings Inc,NASDAQ,Healthcare,MidCap,100.25,103.0,49.0,6.5,332,8,2025-01-27,2026-05-22,1.08,33.8,72,,-2.7,safe
-2026-06-03,MSBI,Midland States Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.49,28.34,47.6,6.3,374,19,2024-11-06,2026-05-07,0.75,28.7,72,,-3.0,safe
-2026-06-03,IRM,Iron Mountain Incorporated,NYSE,Real Estate,LargeCap,127.95,132.06,40.0,6.5,380,20,2024-10-28,2026-05-06,0.97,17.6,67,,-3.1,safe
-2026-06-03,WST,West Pharmaceutical Services Inc,NYSE,Healthcare,LargeCap,316.31,325.92,42.4,7.9,384,18,2024-10-24,2026-05-08,0.91,15.2,64,,-2.9,safe
-2026-06-03,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,28.08,29.87,32.7,6.0,366,5,2024-12-09,2026-05-28,0.73,11.3,63,,-6.0,safe
-2026-06-03,WHD,Cactus Inc,NYSE,Energy,MidCap,58.8,62.74,47.2,7.5,401,7,2024-10-16,2026-05-26,0.82,13.5,56,,-6.3,safe
-2026-06-03,LQDT,Liquidity Services Inc,NASDAQ,Consumer Cyclical,SmallCap,36.14,37.22,41.1,11.4,319,20,2025-01-28,2026-05-06,1.02,12.3,53,,-2.9,safe
-2026-06-03,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,28.15,28.8,29.6,6.7,292,11,2025-03-20,2026-05-19,0.61,-4.6,47,,-2.3,safe
-2026-06-03,IEX,IDEX Corporation,NYSE,Industrials,LargeCap,215.34,218.19,26.1,6.0,390,20,2024-10-14,2026-05-06,1.01,2.2,47,,-1.3,safe
-2026-06-03,LTH,Life Time Group Holdings Inc,NYSE,Consumer Cyclical,MidCap,31.77,33.79,26.0,7.3,309,15,2025-02-19,2026-05-13,0.68,1.8,47,,-6.0,safe
-2026-06-03,MTX,Minerals Technologies Inc,NYSE,Basic Materials,MidCap,75.04,82.84,36.8,9.4,392,15,2024-10-17,2026-05-13,0.7,2.8,43,,-9.4,caution
-2026-06-03,NVCR,Novocure Ltd,NASDAQ,Healthcare,SmallCap,16.15,18.31,43.9,13.6,392,16,2024-10-16,2026-05-12,0.88,5.5,42,,-11.8,danger
-2026-06-03,LB,LandBridge Company LLC,NYSE,Energy,MidCap,75.92,78.63,45.8,10.7,293,8,2025-03-24,2026-05-22,1.17,2.6,37,,-3.4,safe
+2026-06-04,LNTH,Lantheus Holdings Inc,NASDAQ,Healthcare,MidCap,102.82,103.0,49.0,6.5,332,9,2025-01-27,2026-05-22,1.07,39.2,72,,-0.2,safe
+2026-06-04,NVCR,Novocure Ltd,NASDAQ,Healthcare,SmallCap,17.99,18.31,43.9,13.6,392,17,2024-10-16,2026-05-12,1.01,21.3,58,,-1.7,safe
+2026-06-04,WHD,Cactus Inc,NYSE,Energy,MidCap,58.88,62.74,47.2,7.5,401,8,2024-10-16,2026-05-26,0.87,10.5,56,,-6.2,safe
+2026-06-04,WST,West Pharmaceutical Services Inc,NYSE,Healthcare,LargeCap,317.32,325.92,42.4,7.9,384,19,2024-10-24,2026-05-08,0.86,13.7,56,,-2.6,safe
+2026-06-04,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,27.79,29.87,32.7,7.0,366,6,2024-12-09,2026-05-28,0.76,9.2,55,,-7.0,safe
+2026-06-04,MTX,Minerals Technologies Inc,NYSE,Basic Materials,MidCap,76.7,82.84,36.8,9.4,392,16,2024-10-17,2026-05-13,0.78,6.5,51,,-7.4,caution
+2026-06-04,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,28.12,28.8,29.6,6.7,292,12,2025-03-20,2026-05-19,0.62,-6.0,47,,-2.4,safe
+2026-06-04,LTH,Life Time Group Holdings Inc,NYSE,Consumer Cyclical,MidCap,32.55,33.79,26.0,7.3,309,16,2025-02-19,2026-05-13,0.67,4.1,47,,-3.7,safe
+2026-06-04,USAC,USA Compression Partners LP,NYSE,Energy,MidCap,28.62,30.3,24.8,9.1,319,12,2025-02-10,2026-05-19,1.01,-5.6,47,,-5.5,safe
+2026-06-04,BJRI,BJs Restaurants Inc,NASDAQ,Consumer Cyclical,SmallCap,42.9,47.05,36.0,8.8,259,5,2025-05-16,2026-05-29,0.95,-0.0,43,,-8.8,caution
+2026-06-04,LB,LandBridge Company LLC,NYSE,Energy,MidCap,74.27,78.63,41.5,10.7,383,9,2024-11-08,2026-05-22,1.06,-2.4,37,,-5.5,safe
