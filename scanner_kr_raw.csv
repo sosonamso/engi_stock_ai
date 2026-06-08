@@ -1,2 +1,1 @@
-﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-06-05,001800,오리온홀딩스,KOSPI,nan,25950.0,28300.0,27.0,13.4,206,14,2025-07-10,2026-05-15,0.88,-119.1,42,,-8.3,caution
+﻿
