@@ -1,3 +1,2 @@
 ﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-06-15,001800,오리온홀딩스,KOSPI,nan,26700.0,28300.0,27.0,14.1,206,20,2025-07-10,2026-05-15,1.47,-127.6,42,,-5.7,safe
-2026-06-15,214320,이노션,KOSPI,nan,21050.0,21750.0,18.0,10.8,220,18,2025-06-24,2026-05-19,0.71,-141.0,41,,-3.2,safe
+2026-06-16,007390,네이처셀,KOSDAQ,nan,30550.0,34550.0,44.3,14.8,284,9,2025-04-02,2026-06-04,1.07,-108.2,34,,-11.6,danger
