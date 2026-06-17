@@ -1,2 +1,2 @@
 ﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-06-16,007390,네이처셀,KOSDAQ,nan,30550.0,34550.0,44.3,14.8,284,9,2025-04-02,2026-06-04,1.07,-108.2,34,,-11.6,danger
+2026-06-17,007390,네이처셀,KOSDAQ,nan,32200.0,34550.0,44.3,14.8,284,10,2025-04-02,2026-06-04,0.99,-102.4,34,,-6.8,safe
