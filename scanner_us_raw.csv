@@ -1,15 +1,15 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-06-15,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,27.46,29.87,32.7,9.6,366,13,2024-12-09,2026-05-28,2.11,7.7,66,,-8.1,caution
-2026-06-15,ATKR,Atkore International Group Inc,NYSE,Industrials,MidCap,79.25,85.41,38.0,10.9,352,15,2024-12-26,2026-05-26,0.72,15.2,65,,-7.2,caution
-2026-06-15,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,30.3,33.09,49.3,8.7,400,8,2024-10-28,2026-06-04,0.76,18.0,64,,-8.4,caution
-2026-06-15,HZO,MarineMax Inc,NYSE,Consumer Cyclical,SmallCap,34.29,35.16,48.5,7.3,372,13,2024-11-29,2026-05-28,0.63,19.4,64,,-2.5,safe
-2026-06-15,NOVT,Novanta Inc,NASDAQ,Technology,MidCap,156.63,168.59,44.0,8.3,397,10,2024-10-29,2026-06-02,1.27,16.0,64,,-7.1,caution
-2026-06-15,PUBM,Pubmatic Inc,NASDAQ,Technology,SmallCap,11.47,12.22,48.4,8.5,248,11,2025-06-04,2026-06-01,0.66,15.8,64,,-6.1,safe
-2026-06-15,WHD,Cactus Inc,NYSE,Energy,MidCap,58.07,62.74,47.6,9.8,339,15,2025-01-16,2026-05-26,0.61,14.2,56,,-7.4,caution
-2026-06-15,HGV,Hilton Grand Vacations Inc,NYSE,Consumer Cyclical,MidCap,51.17,53.1,28.5,8.5,212,11,2025-07-28,2026-06-01,1.25,6.0,55,,-3.6,safe
-2026-06-15,AMCX,AMC Networks Inc,NASDAQ,Communication Services,SmallCap,9.67,10.54,46.7,10.4,337,10,2025-01-28,2026-06-02,0.89,13.7,53,,-8.3,caution
-2026-06-15,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,401.89,424.43,35.4,5.9,404,5,2024-10-25,2026-06-09,1.01,8.5,51,,-5.3,safe
-2026-06-15,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,10.19,11.78,48.8,13.5,345,10,2025-01-15,2026-06-02,1.0,14.1,50,,-13.5,danger
-2026-06-15,COLM,Columbia Sportswear Company,NASDAQ,Consumer Cyclical,MidCap,66.87,67.79,25.8,5.3,274,13,2025-04-24,2026-05-28,0.73,3.7,47,,-1.4,safe
-2026-06-15,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.59,7.39,47.0,13.5,388,11,2024-11-08,2026-06-01,0.84,6.5,42,,-10.8,danger
+2026-06-16,ATKR,Atkore International Group Inc,NYSE,Industrials,MidCap,78.86,85.41,38.0,10.9,352,16,2024-12-26,2026-05-26,0.66,15.7,65,,-7.7,caution
+2026-06-16,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,30.33,33.09,49.3,8.7,400,9,2024-10-28,2026-06-04,0.81,21.0,64,,-8.3,caution
+2026-06-16,HZO,MarineMax Inc,NYSE,Consumer Cyclical,SmallCap,34.07,35.16,48.5,7.3,372,14,2024-11-29,2026-05-28,0.59,18.2,64,,-3.1,safe
+2026-06-16,NOVT,Novanta Inc,NASDAQ,Technology,MidCap,155.13,168.59,44.0,8.3,397,11,2024-10-29,2026-06-02,1.08,15.0,64,,-8.0,caution
+2026-06-16,PUBM,Pubmatic Inc,NASDAQ,Technology,SmallCap,11.58,12.22,48.4,8.5,248,12,2025-06-04,2026-06-01,0.69,16.8,64,,-5.2,safe
+2026-06-16,AMCX,AMC Networks Inc,NASDAQ,Communication Services,SmallCap,9.57,10.54,46.7,10.4,337,11,2025-01-28,2026-06-02,0.87,15.2,61,,-9.2,caution
+2026-06-16,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,27.86,29.87,32.7,9.6,366,14,2024-12-09,2026-05-28,1.84,9.8,60,,-6.7,safe
+2026-06-16,WHD,Cactus Inc,NYSE,Energy,MidCap,57.54,62.74,47.6,9.8,339,16,2025-01-16,2026-05-26,0.59,13.4,56,,-8.3,caution
+2026-06-16,HGV,Hilton Grand Vacations Inc,NYSE,Consumer Cyclical,MidCap,51.33,53.1,28.5,8.5,212,12,2025-07-28,2026-06-01,1.24,6.9,55,,-3.3,safe
+2026-06-16,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,397.8,424.43,35.4,6.3,404,6,2024-10-25,2026-06-09,0.94,7.7,51,,-6.3,safe
+2026-06-16,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,10.39,11.78,48.8,13.5,345,11,2025-01-15,2026-06-02,1.07,14.6,50,,-11.8,danger
+2026-06-16,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.86,7.39,47.0,13.5,388,12,2024-11-08,2026-06-01,0.83,10.9,50,,-7.2,caution
+2026-06-16,COLM,Columbia Sportswear Company,NASDAQ,Consumer Cyclical,MidCap,65.39,67.79,25.8,5.3,274,14,2025-04-24,2026-05-28,0.76,0.9,47,,-3.5,safe
 2026-06-12,IAC,IAC Inc.,NASDAQ,Communication Services,MidCap,42.61,45.38,27.7,8.1,350,10,2025-01-06,2026-06-01,0.6,1.4,47,,-6.1,safe
