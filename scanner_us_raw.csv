@@ -1,15 +1,16 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-06-16,ATKR,Atkore International Group Inc,NYSE,Industrials,MidCap,78.86,85.41,38.0,10.9,352,16,2024-12-26,2026-05-26,0.66,15.7,65,,-7.7,caution
-2026-06-16,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,30.33,33.09,49.3,8.7,400,9,2024-10-28,2026-06-04,0.81,21.0,64,,-8.3,caution
-2026-06-16,HZO,MarineMax Inc,NYSE,Consumer Cyclical,SmallCap,34.07,35.16,48.5,7.3,372,14,2024-11-29,2026-05-28,0.59,18.2,64,,-3.1,safe
-2026-06-16,NOVT,Novanta Inc,NASDAQ,Technology,MidCap,155.13,168.59,44.0,8.3,397,11,2024-10-29,2026-06-02,1.08,15.0,64,,-8.0,caution
-2026-06-16,PUBM,Pubmatic Inc,NASDAQ,Technology,SmallCap,11.58,12.22,48.4,8.5,248,12,2025-06-04,2026-06-01,0.69,16.8,64,,-5.2,safe
-2026-06-16,AMCX,AMC Networks Inc,NASDAQ,Communication Services,SmallCap,9.57,10.54,46.7,10.4,337,11,2025-01-28,2026-06-02,0.87,15.2,61,,-9.2,caution
-2026-06-16,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,27.86,29.87,32.7,9.6,366,14,2024-12-09,2026-05-28,1.84,9.8,60,,-6.7,safe
-2026-06-16,WHD,Cactus Inc,NYSE,Energy,MidCap,57.54,62.74,47.6,9.8,339,16,2025-01-16,2026-05-26,0.59,13.4,56,,-8.3,caution
-2026-06-16,HGV,Hilton Grand Vacations Inc,NYSE,Consumer Cyclical,MidCap,51.33,53.1,28.5,8.5,212,12,2025-07-28,2026-06-01,1.24,6.9,55,,-3.3,safe
-2026-06-16,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,397.8,424.43,35.4,6.3,404,6,2024-10-25,2026-06-09,0.94,7.7,51,,-6.3,safe
-2026-06-16,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,10.39,11.78,48.8,13.5,345,11,2025-01-15,2026-06-02,1.07,14.6,50,,-11.8,danger
-2026-06-16,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.86,7.39,47.0,13.5,388,12,2024-11-08,2026-06-01,0.83,10.9,50,,-7.2,caution
-2026-06-16,COLM,Columbia Sportswear Company,NASDAQ,Consumer Cyclical,MidCap,65.39,67.79,25.8,5.3,274,14,2025-04-24,2026-05-28,0.76,0.9,47,,-3.5,safe
+2026-06-17,AVBP,"ArriVent BioPharma, Inc. Common Stock",NASDAQ,Healthcare,SmallCap,31.36,33.09,49.3,8.7,400,10,2024-10-28,2026-06-04,0.88,28.9,72,,-5.2,safe
+2026-06-17,HZO,MarineMax Inc,NYSE,Consumer Cyclical,SmallCap,33.1,35.16,48.5,7.3,372,15,2024-11-29,2026-05-28,0.59,17.6,64,,-5.9,safe
+2026-06-17,MRTN,Marten Transport Ltd,NASDAQ,Industrials,SmallCap,16.59,18.28,48.5,9.2,395,5,2024-11-11,2026-06-11,0.75,24.5,64,,-9.2,caution
+2026-06-17,SIRI,Sirius XM Holding Inc,NASDAQ,Communication Services,MidCap,27.93,29.87,32.7,9.6,366,15,2024-12-09,2026-05-28,0.72,12.0,63,,-6.5,safe
+2026-06-17,ATKR,Atkore International Group Inc,NYSE,Industrials,MidCap,76.84,85.41,38.0,10.9,352,17,2024-12-26,2026-05-26,0.57,12.9,57,,-10.0,danger
+2026-06-17,PUBM,Pubmatic Inc,NASDAQ,Technology,SmallCap,11.3,12.22,48.4,8.5,248,13,2025-06-04,2026-06-01,0.71,13.7,56,,-7.5,caution
+2026-06-17,HGV,Hilton Grand Vacations Inc,NYSE,Consumer Cyclical,MidCap,52.05,53.1,28.5,8.5,212,13,2025-07-28,2026-06-01,1.15,8.9,55,,-2.0,safe
+2026-06-17,AMCX,AMC Networks Inc,NASDAQ,Communication Services,SmallCap,9.3,10.54,46.7,11.8,337,12,2025-01-28,2026-06-02,0.89,14.0,53,,-11.8,danger
+2026-06-17,NOVT,Novanta Inc,NASDAQ,Technology,MidCap,151.43,168.59,44.0,10.2,397,12,2024-10-29,2026-06-02,1.05,13.6,53,,-10.2,danger
+2026-06-17,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,391.27,424.43,35.4,7.8,404,7,2024-10-25,2026-06-09,0.8,8.2,51,,-7.8,caution
+2026-06-17,GPRK,GeoPark Ltd,NYSE,Energy,SmallCap,10.33,11.78,48.8,13.5,345,12,2025-01-15,2026-06-02,1.06,13.9,50,,-12.3,danger
+2026-06-17,COLM,Columbia Sportswear Company,NASDAQ,Consumer Cyclical,MidCap,63.98,67.79,25.8,5.6,274,15,2025-04-24,2026-05-28,0.82,0.2,47,,-5.6,safe
+2026-06-17,BNED,Barnes & Noble Education Inc,NYSE,Consumer Cyclical,SmallCap,10.61,11.67,46.5,9.1,354,5,2025-01-13,2026-06-11,1.89,0.0,45,,-9.1,caution
+2026-06-17,STGW,Stagwell Inc,NASDAQ,Communication Services,SmallCap,6.66,7.39,47.0,13.5,388,13,2024-11-08,2026-06-01,0.89,9.0,42,,-9.9,caution
 2026-06-12,IAC,IAC Inc.,NASDAQ,Communication Services,MidCap,42.61,45.38,27.7,8.1,350,10,2025-01-06,2026-06-01,0.6,1.4,47,,-6.1,safe
