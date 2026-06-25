@@ -1,2 +1,2 @@
 ﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-06-24,003490,대한항공,KOSPI,nan,27350.0,30000.0,20.0,13.7,223,8,2025-07-14,2026-06-15,1.11,-129.8,42,,-8.8,caution
+2026-06-25,003490,대한항공,KOSPI,nan,29100.0,30000.0,20.0,13.7,223,9,2025-07-14,2026-06-15,1.29,-132.7,42,,-3.0,safe
