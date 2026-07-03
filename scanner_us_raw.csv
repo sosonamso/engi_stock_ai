@@ -1,17 +1,17 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
 2026-07-02,MRTN,Marten Transport Ltd,NASDAQ,Industrials,SmallCap,17.46,18.28,48.5,9.2,395,15,2024-11-11,2026-06-11,1.04,26.8,72,,-4.5,safe
-2026-07-02,SHO,Sunstone Hotel Investors Inc,NYSE,Real Estate,SmallCap,11.38,11.92,37.6,6.3,380,5,2024-12-17,2026-06-26,2.15,12.3,70,,-4.5,safe
-2026-07-02,ASH,Ashland Global Holdings Inc,NYSE,Basic Materials,MidCap,67.01,67.92,36.4,6.6,354,10,2025-01-21,2026-06-18,1.88,11.4,64,,-1.3,safe
-2026-07-02,WSC,Willscot Mobile Mini Holdings Corp A,NASDAQ,Industrials,MidCap,26.66,29.07,47.4,8.3,261,6,2025-06-10,2026-06-25,0.96,19.8,64,,-8.3,caution
+2026-07-02,SHO,Sunstone Hotel Investors Inc,NYSE,Real Estate,SmallCap,11.38,11.92,37.6,6.3,380,5,2024-12-17,2026-06-26,2.19,12.3,70,,-4.5,safe
+2026-07-02,ASH,Ashland Global Holdings Inc,NYSE,Basic Materials,MidCap,67.01,67.92,36.4,6.6,354,10,2025-01-21,2026-06-18,1.92,11.4,64,,-1.3,safe
+2026-07-02,WSC,Willscot Mobile Mini Holdings Corp A,NASDAQ,Industrials,MidCap,26.66,29.07,47.4,8.3,261,6,2025-06-10,2026-06-25,0.97,19.8,64,,-8.3,caution
 2026-07-02,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,417.89,424.43,35.4,9.5,393,17,2024-11-11,2026-06-09,1.12,14.8,59,,-1.5,safe
-2026-07-02,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.59,29.13,46.9,5.3,405,5,2024-11-11,2026-06-26,2.13,9.5,58,,-5.3,safe
-2026-07-02,GIII,G-III Apparel Group Ltd,NASDAQ,Consumer Cyclical,SmallCap,33.5,35.67,43.1,7.7,372,15,2024-12-13,2026-06-11,1.22,11.1,56,,-6.1,safe
+2026-07-02,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.59,29.13,46.9,5.3,405,5,2024-11-11,2026-06-26,2.15,9.5,58,,-5.3,safe
+2026-07-02,GIII,G-III Apparel Group Ltd,NASDAQ,Consumer Cyclical,SmallCap,33.5,35.67,43.1,7.7,372,15,2024-12-13,2026-06-11,1.23,11.1,56,,-6.1,safe
 2026-07-02,TGT,Target Corporation,NYSE,Consumer Defensive,LargeCap,130.21,141.2,46.6,7.8,398,7,2024-11-18,2026-06-24,0.94,10.2,56,,-7.8,caution
-2026-07-02,CARR,Carrier Global Corp,NYSE,Industrials,LargeCap,70.07,76.0,34.1,7.8,402,6,2024-11-13,2026-06-25,0.88,5.5,55,,-7.8,caution
-2026-07-02,CNXN,PC Connection Inc,NASDAQ,Technology,SmallCap,72.43,74.11,23.5,6.5,394,16,2024-11-11,2026-06-10,1.6,5.2,55,,-2.3,safe
+2026-07-02,CARR,Carrier Global Corp,NYSE,Industrials,LargeCap,70.07,76.0,34.1,7.8,402,6,2024-11-13,2026-06-25,0.89,5.5,55,,-7.8,caution
+2026-07-02,CNXN,PC Connection Inc,NASDAQ,Technology,SmallCap,72.43,74.11,23.5,6.5,394,16,2024-11-11,2026-06-10,1.61,5.2,55,,-2.3,safe
 2026-07-02,TRNS,Transcat Inc,NASDAQ,Industrials,SmallCap,89.03,93.24,44.8,5.9,261,20,2025-05-20,2026-06-04,1.15,9.4,48,,-4.5,safe
-2026-07-02,ACEL,Accel Entertainment Inc,NYSE,Consumer Cyclical,SmallCap,12.77,13.41,26.0,6.0,218,15,2025-07-30,2026-06-11,1.49,-0.3,47,,-4.8,safe
+2026-07-02,ACEL,Accel Entertainment Inc,NYSE,Consumer Cyclical,SmallCap,12.77,13.41,26.0,6.0,218,15,2025-07-30,2026-06-11,1.53,-0.3,47,,-4.8,safe
 2026-07-02,KIM,Kimco Realty Corporation,NYSE,Real Estate,LargeCap,25.32,25.91,27.5,5.9,384,14,2024-11-27,2026-06-12,0.92,3.4,47,,-2.3,safe
-2026-07-02,WMK,Weis Markets Inc,NYSE,Consumer Defensive,SmallCap,80.1,82.63,25.4,7.5,317,14,2025-03-10,2026-06-12,1.27,0.4,47,,-3.1,safe
-2026-07-02,CBT,Cabot Corporation,NYSE,Basic Materials,MidCap,86.35,93.4,36.5,7.5,359,5,2025-01-21,2026-06-26,1.66,2.8,43,,-7.5,caution
+2026-07-02,WMK,Weis Markets Inc,NYSE,Consumer Defensive,SmallCap,80.1,82.63,25.4,7.5,317,14,2025-03-10,2026-06-12,1.33,0.4,47,,-3.1,safe
+2026-07-02,CBT,Cabot Corporation,NYSE,Basic Materials,MidCap,86.35,93.4,36.5,7.5,359,5,2025-01-21,2026-06-26,1.69,2.8,43,,-7.5,caution
 2026-06-26,IAC,IAC Inc.,NASDAQ,Communication Services,MidCap,44.77,45.38,27.7,8.5,350,19,2025-01-06,2026-06-01,0.71,5.8,55,,-1.3,safe
