@@ -1,42 +1,43 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-07-16,APLE,Apple Hospitality REIT Inc,NYSE,Real Estate,MidCap,16.86,17.04,34.7,5.7,395,14,2024-11-25,2026-06-26,0.81,26.0,79,,-1.1,safe
-2026-07-16,WDFC,WD-40 Company,NASDAQ,Basic Materials,MidCap,256.36,264.91,34.5,6.0,404,5,2024-11-25,2026-07-10,2.27,13.8,74,,-3.2,safe
-2026-07-16,CENT,Central Garden & Pet Company,NASDAQ,Consumer Defensive,MidCap,44.5,45.15,32.8,6.2,378,16,2024-12-17,2026-06-24,1.27,15.2,71,,-1.4,safe
-2026-07-16,SWK,Stanley Black & Decker Inc,NYSE,Industrials,LargeCap,91.31,94.12,39.6,8.5,397,12,2024-11-25,2026-06-30,0.73,17.4,67,,-3.0,safe
-2026-07-16,TGT,Target Corporation,NYSE,Consumer Defensive,LargeCap,140.21,141.2,38.5,10.7,382,16,2024-12-11,2026-06-24,0.71,18.7,65,,-0.7,safe
-2026-07-16,AIN,Albany International Corporation,NYSE,Consumer Cyclical,SmallCap,74.45,76.29,49.2,6.5,366,14,2025-01-08,2026-06-26,0.59,16.2,64,,-2.4,safe
-2026-07-16,LB,LandBridge Company LLC,NYSE,Energy,MidCap,77.03,79.24,44.1,8.8,395,12,2024-11-27,2026-06-30,0.43,17.0,64,,-2.8,safe
-2026-07-16,PENN,Penn National Gaming Inc,NASDAQ,Consumer Cyclical,MidCap,21.27,22.06,47.4,8.8,392,13,2024-12-02,2026-06-29,0.67,21.2,64,,-3.6,safe
-2026-07-16,PK,Park Hotels & Resorts Inc,NYSE,Real Estate,MidCap,14.6,14.78,44.1,6.9,389,14,2024-12-04,2026-06-26,0.7,20.3,64,,-1.2,safe
-2026-07-16,WLY,John Wiley & Sons,NYSE,Communication Services,MidCap,50.94,52.76,45.8,6.6,399,10,2024-11-25,2026-07-02,0.9,24.8,64,,-3.4,safe
-2026-07-16,MAS,Masco Corporation,NYSE,Industrials,LargeCap,80.14,82.77,28.7,8.5,399,10,2024-11-25,2026-07-02,0.8,10.1,63,,-3.2,safe
-2026-07-16,FOR,Forestar Group Inc,NYSE,Real Estate,SmallCap,30.92,31.98,40.0,6.6,396,13,2024-11-25,2026-06-29,0.7,11.0,59,,-3.3,safe
-2026-07-16,SHO,Sunstone Hotel Investors Inc,NYSE,Real Estate,SmallCap,11.52,11.92,37.6,7.3,380,14,2024-12-17,2026-06-26,0.7,14.0,59,,-3.4,safe
-2026-07-16,SKWD,"Skyward Specialty Insurance Group, Inc. Common Stock",NASDAQ,Financial Services,MidCap,58.47,62.41,35.1,8.9,284,8,2025-05-16,2026-07-07,1.07,10.0,59,,-6.3,safe
-2026-07-16,LGIH,LGI Homes,NASDAQ,Consumer Cyclical,SmallCap,61.04,65.84,48.8,13.3,218,14,2025-08-13,2026-06-26,0.54,23.8,58,,-7.3,caution
-2026-07-16,CBT,Cabot Corporation,NYSE,Basic Materials,MidCap,91.38,93.4,36.5,11.2,359,14,2025-01-21,2026-06-26,0.55,14.6,57,,-2.2,safe
-2026-07-16,MHO,M/I Homes Inc,NYSE,Consumer Cyclical,MidCap,152.92,163.0,38.6,10.4,395,14,2024-11-25,2026-06-26,0.88,11.4,57,,-6.2,safe
-2026-07-16,OPRA,Opera Ltd,NASDAQ,Communication Services,SmallCap,19.88,20.54,41.7,8.5,396,9,2024-12-02,2026-07-06,1.13,10.5,56,,-3.2,safe
-2026-07-16,JBSS,John B Sanfilippo & Son Inc,NASDAQ,Consumer Defensive,SmallCap,85.68,90.6,35.0,8.1,389,10,2024-12-10,2026-07-02,0.92,8.0,55,,-5.4,safe
-2026-07-16,RDWR,Radware Ltd,NASDAQ,Technology,SmallCap,30.07,32.13,29.4,6.4,252,6,2025-07-08,2026-07-09,1.06,5.5,55,,-6.4,safe
-2026-07-16,HRI,Herc Holdings Inc,NYSE,Industrials,MidCap,153.14,155.12,38.9,14.5,237,19,2025-07-10,2026-06-18,0.75,13.9,54,,-1.3,safe
-2026-07-16,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,23.15,25.42,33.6,11.4,265,10,2025-06-11,2026-07-02,1.26,5.8,52,,-8.9,caution
-2026-07-16,AAL,American Airlines Group,NASDAQ,Industrials,MidCap,15.6,18.15,48.4,14.0,387,11,2024-12-11,2026-07-01,1.18,11.2,50,,-14.0,danger
-2026-07-16,BROS,Dutch Bros Inc,NYSE,Consumer Cyclical,MidCap,65.35,73.31,33.7,12.9,319,11,2025-03-24,2026-07-01,0.68,6.8,50,,-10.9,danger
-2026-07-16,WSC,Willscot Mobile Mini Holdings Corp A,NASDAQ,Industrials,MidCap,26.95,29.07,47.4,13.6,261,15,2025-06-10,2026-06-25,0.82,12.6,50,,-7.3,caution
-2026-07-16,APD,Air Products and Chemicals Inc,NYSE,Basic Materials,LargeCap,297.29,314.19,31.2,6.5,395,10,2024-12-02,2026-07-02,0.71,-5.7,47,,-5.4,safe
-2026-07-16,AXTA,Axalta Coating Systems Ltd,NYSE,Basic Materials,MidCap,32.88,35.11,27.4,8.7,325,10,2025-03-17,2026-07-02,0.58,0.5,47,,-6.4,safe
-2026-07-16,EIG,Employers Holdings Inc,NYSE,Financial Services,SmallCap,49.81,51.93,32.6,6.3,397,10,2024-11-27,2026-07-02,0.71,3.7,47,,-4.1,safe
-2026-07-16,KVUE,Kenvue Inc.,NYSE,Consumer Defensive,LargeCap,19.02,19.83,33.4,5.7,365,10,2025-01-16,2026-07-02,0.96,-4.5,47,,-4.1,safe
-2026-07-16,LII,Lennox International Inc,NYSE,Industrials,LargeCap,558.57,572.95,26.0,6.2,321,12,2025-03-19,2026-06-30,0.92,-3.6,47,,-2.5,safe
-2026-07-16,LZB,La-Z-Boy Incorporated,NYSE,Consumer Cyclical,SmallCap,40.56,41.85,33.4,8.2,372,16,2024-12-26,2026-06-24,0.57,4.1,47,,-3.1,safe
-2026-07-16,NWFL,Norwood Financial Corp,NASDAQ,Financial Services,SmallCap,31.86,32.6,30.7,5.2,398,11,2024-11-25,2026-07-01,0.65,3.8,47,,-2.3,safe
-2026-07-16,SFBS,ServisFirst Bancshares Inc,NYSE,Financial Services,MidCap,88.39,88.84,22.6,5.5,377,11,2024-12-26,2026-07-01,0.68,2.0,47,,-0.5,safe
-2026-07-16,SIGI,Selective Insurance Group Inc,NASDAQ,Financial Services,MidCap,95.23,100.15,27.8,6.5,396,10,2024-11-29,2026-07-02,0.75,3.5,47,,-4.9,safe
-2026-07-16,TNC,Tennant Company,NYSE,Industrials,SmallCap,88.33,91.15,33.2,6.6,395,14,2024-11-25,2026-06-26,0.87,0.8,47,,-3.1,safe
-2026-07-16,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.78,29.13,47.3,10.1,395,14,2024-11-25,2026-06-26,0.85,7.3,45,,-4.6,safe
-2026-07-16,EVR,Evercore Partners Inc,NYSE,Financial Services,LargeCap,349.71,374.04,26.4,11.5,189,18,2025-09-18,2026-06-22,1.07,-7.4,44,,-6.5,safe
-2026-07-16,IFF,International Flavors & Fragrances Inc,NYSE,Basic Materials,LargeCap,77.6,83.83,27.8,10.9,331,10,2025-03-07,2026-07-02,0.71,-0.0,44,,-7.4,caution
-2026-07-16,VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Healthcare,LargeCap,486.03,529.59,28.7,10.1,326,9,2025-03-17,2026-07-06,0.71,-0.7,44,,-8.2,caution
-2026-07-16,CARR,Carrier Global Corp,NYSE,Industrials,LargeCap,69.34,76.0,33.6,12.2,276,15,2025-05-19,2026-06-25,0.8,2.6,42,,-8.8,caution
-2026-07-16,MTH,Meritage Corporation,NYSE,Consumer Cyclical,MidCap,77.44,85.18,29.1,13.5,355,14,2025-01-27,2026-06-26,0.87,1.3,42,,-9.1,caution
+2026-07-17,APLE,Apple Hospitality REIT Inc,NYSE,Real Estate,MidCap,16.84,17.04,34.7,5.7,395,15,2024-11-25,2026-06-26,0.75,26.1,79,,-1.2,safe
+2026-07-17,WLY,John Wiley & Sons,NYSE,Communication Services,MidCap,50.97,52.76,45.8,6.6,399,11,2024-11-25,2026-07-02,0.74,25.4,72,,-3.4,safe
+2026-07-17,SHO,Sunstone Hotel Investors Inc,NYSE,Real Estate,SmallCap,11.73,11.92,37.6,7.3,380,15,2024-12-17,2026-06-26,0.72,16.6,67,,-1.6,safe
+2026-07-17,TGT,Target Corporation,NYSE,Consumer Defensive,LargeCap,139.6,141.2,38.5,10.7,382,17,2024-12-11,2026-06-24,0.76,17.1,65,,-1.1,safe
+2026-07-17,AIN,Albany International Corporation,NYSE,Consumer Cyclical,SmallCap,74.54,76.29,49.2,6.5,366,15,2025-01-08,2026-06-26,0.74,15.0,64,,-2.3,safe
+2026-07-17,LB,LandBridge Company LLC,NYSE,Energy,MidCap,77.67,79.24,44.1,8.8,395,13,2024-11-27,2026-06-30,0.48,19.9,64,,-2.0,safe
+2026-07-17,PENN,Penn National Gaming Inc,NASDAQ,Consumer Cyclical,MidCap,20.57,22.06,47.4,8.8,392,14,2024-12-02,2026-06-29,0.69,17.3,64,,-6.8,safe
+2026-07-17,CENT,Central Garden & Pet Company,NASDAQ,Consumer Defensive,MidCap,43.61,45.15,32.8,6.2,378,17,2024-12-17,2026-06-24,1.29,12.5,63,,-3.4,safe
+2026-07-17,PSO,Pearson PLC ADR,NYSE,Communication Services,MidCap,16.92,17.61,29.2,6.2,358,5,2025-02-05,2026-07-13,1.56,10.0,63,,-3.9,safe
+2026-07-17,SKWD,"Skyward Specialty Insurance Group, Inc. Common Stock",NASDAQ,Financial Services,MidCap,59.21,62.41,35.1,8.9,284,9,2025-05-16,2026-07-07,1.08,12.4,59,,-5.1,safe
+2026-07-17,SWK,Stanley Black & Decker Inc,NYSE,Industrials,LargeCap,90.17,94.12,39.6,8.5,397,13,2024-11-25,2026-06-30,0.72,14.7,59,,-4.2,safe
+2026-07-17,BROS,Dutch Bros Inc,NYSE,Consumer Cyclical,MidCap,68.36,73.31,33.7,12.9,319,12,2025-03-24,2026-07-01,0.75,10.6,58,,-6.8,safe
+2026-07-17,CBT,Cabot Corporation,NYSE,Basic Materials,MidCap,90.39,93.4,36.5,11.2,359,15,2025-01-21,2026-06-26,0.53,13.9,57,,-3.2,safe
+2026-07-17,EIG,Employers Holdings Inc,NYSE,Financial Services,SmallCap,50.32,51.93,32.6,6.3,397,11,2024-11-27,2026-07-02,0.72,5.4,55,,-3.1,safe
+2026-07-17,HALO,Halozyme Therapeutics Inc,NASDAQ,Healthcare,MidCap,77.81,81.57,21.3,8.0,197,9,2025-09-22,2026-07-07,0.9,7.6,55,,-4.6,safe
+2026-07-17,MAS,Masco Corporation,NYSE,Industrials,LargeCap,78.65,82.77,28.7,8.5,399,11,2024-11-25,2026-07-02,0.85,7.2,55,,-5.0,safe
+2026-07-17,RDWR,Radware Ltd,NASDAQ,Technology,SmallCap,30.29,32.13,29.4,6.4,252,7,2025-07-08,2026-07-09,1.58,7.2,55,,-5.7,safe
+2026-07-17,SIGI,Selective Insurance Group Inc,NASDAQ,Financial Services,MidCap,96.46,100.15,27.8,6.5,396,11,2024-11-29,2026-07-02,0.78,5.6,55,,-3.7,safe
+2026-07-17,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,22.79,25.42,33.6,11.4,265,11,2025-06-11,2026-07-02,0.98,5.4,52,,-10.3,danger
+2026-07-17,FOR,Forestar Group Inc,NYSE,Real Estate,SmallCap,29.9,31.98,40.0,6.6,396,14,2024-11-25,2026-06-29,0.61,7.1,51,,-6.5,safe
+2026-07-17,LGIH,LGI Homes,NASDAQ,Consumer Cyclical,SmallCap,58.48,65.84,48.8,13.3,218,15,2025-08-13,2026-06-26,0.61,13.6,50,,-11.2,danger
+2026-07-17,WSC,Willscot Mobile Mini Holdings Corp A,NASDAQ,Industrials,MidCap,27.23,29.07,47.4,13.6,261,16,2025-06-10,2026-06-25,0.79,11.3,50,,-6.3,safe
+2026-07-17,MHO,M/I Homes Inc,NYSE,Consumer Cyclical,MidCap,149.53,163.0,38.6,10.4,395,15,2024-11-25,2026-06-26,0.81,7.5,49,,-8.3,caution
+2026-07-17,DCTH,Delcath Systems Inc,NASDAQ,Healthcare,SmallCap,12.81,13.52,42.6,5.3,323,7,2025-03-25,2026-07-09,0.64,8.2,48,,-5.3,safe
+2026-07-17,OPRA,Opera Ltd,NASDAQ,Communication Services,SmallCap,19.36,20.54,41.7,8.5,396,10,2024-12-02,2026-07-06,1.16,8.2,48,,-5.7,safe
+2026-07-17,SLDE,"Slide Insurance Holdings, Inc. Common Stock",NASDAQ,Financial Services,MidCap,20.5,21.38,45.3,7.7,265,5,2025-06-20,2026-07-13,0.91,6.7,48,,-4.1,safe
+2026-07-17,APD,Air Products and Chemicals Inc,NYSE,Basic Materials,LargeCap,295.62,314.19,31.2,6.5,395,11,2024-12-02,2026-07-02,0.68,-3.5,47,,-5.9,safe
+2026-07-17,AXTA,Axalta Coating Systems Ltd,NYSE,Basic Materials,MidCap,32.34,35.11,27.4,8.7,325,11,2025-03-17,2026-07-02,0.6,-2.1,47,,-7.9,caution
+2026-07-17,CART,Maplebear Inc.,NASDAQ,Consumer Cyclical,LargeCap,45.82,48.39,29.3,5.3,370,6,2025-01-16,2026-07-10,1.02,0.1,47,,-5.3,safe
+2026-07-17,HRL,Hormel Foods Corporation,NYSE,Consumer Defensive,LargeCap,25.39,26.51,23.1,8.4,202,15,2025-09-05,2026-06-26,0.64,-2.3,47,,-4.2,safe
+2026-07-17,IGIC,International General Insurance Holdings Ltd,NASDAQ,Financial Services,SmallCap,27.89,28.53,22.2,5.6,350,5,2025-02-18,2026-07-13,1.13,2.8,47,,-2.2,safe
+2026-07-17,KVUE,Kenvue Inc.,NYSE,Consumer Defensive,LargeCap,18.98,19.83,33.4,5.7,365,11,2025-01-16,2026-07-02,1.21,-3.5,47,,-4.3,safe
+2026-07-17,LZB,La-Z-Boy Incorporated,NYSE,Consumer Cyclical,SmallCap,39.87,41.85,33.4,8.2,372,17,2024-12-26,2026-06-24,0.55,1.1,47,,-4.7,safe
+2026-07-17,NWFL,Norwood Financial Corp,NASDAQ,Financial Services,SmallCap,31.33,32.6,30.7,5.2,398,12,2024-11-25,2026-07-01,0.67,3.5,47,,-3.9,safe
+2026-07-17,SFBS,ServisFirst Bancshares Inc,NYSE,Financial Services,MidCap,86.94,88.84,22.6,5.5,377,12,2024-12-26,2026-07-01,0.68,0.2,47,,-2.1,safe
+2026-07-17,TNC,Tennant Company,NYSE,Industrials,SmallCap,86.11,91.15,33.2,6.6,395,15,2024-11-25,2026-06-26,0.85,-1.2,47,,-5.5,safe
+2026-07-17,HRI,Herc Holdings Inc,NYSE,Industrials,MidCap,149.47,155.12,38.9,14.5,237,20,2025-07-10,2026-06-18,0.67,9.1,46,,-3.6,safe
+2026-07-17,EGBN,Eagle Bancorp Inc,NASDAQ,Financial Services,SmallCap,27.39,29.13,47.3,10.1,395,15,2024-11-25,2026-06-26,0.97,6.5,45,,-6.0,safe
+2026-07-17,IFF,International Flavors & Fragrances Inc,NYSE,Basic Materials,LargeCap,78.2,83.83,27.8,10.9,331,11,2025-03-07,2026-07-02,0.74,0.0,44,,-6.7,safe
+2026-07-17,VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Healthcare,LargeCap,485.65,529.59,28.7,10.1,326,10,2025-03-17,2026-07-06,0.72,1.6,44,,-8.3,caution
+2026-07-17,CARR,Carrier Global Corp,NYSE,Industrials,LargeCap,68.69,76.0,33.6,12.2,276,16,2025-05-19,2026-06-25,0.79,2.0,42,,-9.6,caution
+2026-07-17,MTH,Meritage Corporation,NYSE,Consumer Cyclical,MidCap,74.17,85.18,29.1,13.5,355,15,2025-01-27,2026-06-26,1.08,-4.6,42,,-12.9,danger
