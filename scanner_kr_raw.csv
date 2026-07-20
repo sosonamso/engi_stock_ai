@@ -1,3 +1,1 @@
-﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-07-16,053160,프리엠스,KOSDAQ,nan,9130.0,9600.0,30.0,11.0,252,20,2025-06-09,2026-06-19,0.64,-63.8,44,,-4.9,safe
-2026-07-16,161890,한국콜마,KOSPI,nan,107600.0,117800.0,44.0,12.7,239,10,2025-07-10,2026-07-03,1.27,-38.8,34,,-8.7,caution
+﻿
