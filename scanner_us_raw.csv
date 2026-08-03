@@ -1,18 +1,14 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-07-31,EPC,Edgewell Personal Care Co,NYSE,Consumer Defensive,SmallCap,27.19,29.66,49.8,10.0,323,11,2025-04-02,2026-07-17,0.45,18.0,64,,-8.3,caution
-2026-07-31,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,82.27,84.65,34.3,5.5,368,11,2025-01-28,2026-07-17,0.71,10.7,63,,-2.8,safe
-2026-07-31,KIDS,Orthopediatrics Corp,NASDAQ,Healthcare,SmallCap,20.19,20.72,27.1,9.7,228,15,2025-08-13,2026-07-13,0.92,10.4,63,,-2.6,safe
-2026-07-31,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,26.29,26.96,35.7,8.1,294,12,2025-05-13,2026-07-16,0.94,10.1,59,,-2.5,safe
-2026-07-31,LOB,"Live Oak Bancshares, Inc.",NYSE,Financial Services,SmallCap,42.8,43.69,48.9,6.0,399,12,2024-12-09,2026-07-16,0.7,13.0,56,,-2.0,safe
-2026-07-31,LWAY,Lifeway Foods Inc,NASDAQ,Consumer Defensive,SmallCap,29.78,32.33,43.9,7.9,222,14,2025-08-22,2026-07-14,0.31,10.8,56,,-7.9,caution
-2026-07-31,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,75.93,81.08,40.6,8.9,364,8,2025-02-06,2026-07-22,0.69,14.6,56,,-6.4,safe
-2026-07-31,BSVN,Bank7 Corp,NASDAQ,Financial Services,SmallCap,50.28,51.8,23.2,6.9,220,13,2025-08-27,2026-07-15,1.42,7.7,55,,-2.9,safe
-2026-07-31,COFS,ChoiceOne Financial Services Inc,NASDAQ,Financial Services,SmallCap,34.03,34.62,32.9,5.5,397,12,2024-12-11,2026-07-16,0.82,6.4,55,,-1.7,safe
-2026-07-31,MTCH,Match Group Inc,NASDAQ,Communication Services,MidCap,39.41,40.29,25.4,7.2,231,12,2025-08-13,2026-07-16,0.63,5.2,55,,-2.2,safe
-2026-07-31,OPRA,Opera Ltd,NASDAQ,Communication Services,SmallCap,18.9,20.54,41.1,12.0,386,20,2024-12-16,2026-07-06,0.93,10.8,53,,-8.0,caution
-2026-07-31,KNTK,Kinetik Holdings Inc,NYSE,Energy,MidCap,50.57,51.71,41.7,5.6,337,7,2025-03-19,2026-07-23,0.93,7.4,48,,-2.2,safe
-2026-07-31,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.28,23.65,26.5,5.8,296,5,2025-05-20,2026-07-27,0.89,-5.0,47,,-5.8,safe
-2026-07-31,SAFE,Safehold Inc,NYSE,Real Estate,SmallCap,16.18,17.17,25.3,7.7,374,12,2025-01-16,2026-07-16,0.75,3.4,47,,-5.8,safe
-2026-07-31,VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Healthcare,LargeCap,477.1,529.59,28.7,10.8,326,20,2025-03-17,2026-07-06,0.82,0.7,44,,-9.9,caution
-2026-07-31,CART,Maplebear Inc.,NASDAQ,Consumer Cyclical,LargeCap,44.6,48.39,29.3,12.8,370,16,2025-01-16,2026-07-10,0.63,0.1,42,,-7.8,caution
-2026-07-31,SMG,Scotts Miracle-Gro Company,NYSE,Basic Materials,MidCap,65.68,73.47,35.9,10.6,395,12,2024-12-13,2026-07-16,1.4,-0.1,41,,-10.6,danger
+2026-08-03,EPC,Edgewell Personal Care Co,NYSE,Consumer Defensive,SmallCap,27.59,29.66,49.8,10.0,323,12,2025-04-02,2026-07-17,0.54,19.2,64,,-7.0,safe
+2026-08-03,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,76.63,81.08,40.6,8.9,364,9,2025-02-06,2026-07-22,0.69,16.0,64,,-5.5,safe
+2026-08-03,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,23.9,25.59,33.6,6.8,282,5,2025-06-11,2026-07-28,0.88,14.1,63,,-6.6,safe
+2026-08-03,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,84.63,84.65,34.3,5.5,368,12,2025-01-28,2026-07-17,0.7,13.3,63,,-0.0,safe
+2026-08-03,BSVN,Bank7 Corp,NASDAQ,Financial Services,SmallCap,50.31,51.8,23.2,6.9,220,14,2025-08-27,2026-07-15,1.07,6.3,55,,-2.9,safe
+2026-08-03,COFS,ChoiceOne Financial Services Inc,NASDAQ,Financial Services,SmallCap,34.21,34.62,32.9,5.5,397,13,2024-12-11,2026-07-16,0.7,5.2,55,,-1.2,safe
+2026-08-03,LWAY,Lifeway Foods Inc,NASDAQ,Consumer Defensive,SmallCap,29.56,32.33,43.9,8.6,222,15,2025-08-22,2026-07-14,0.29,6.3,48,,-8.6,caution
+2026-08-03,CBU,Community Bank System Inc,NYSE,Financial Services,MidCap,66.54,70.99,25.8,9.2,397,13,2024-12-11,2026-07-16,0.87,2.1,47,,-6.3,safe
+2026-08-03,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.91,23.65,26.5,5.8,296,6,2025-05-20,2026-07-27,1.22,-0.2,47,,-3.2,safe
+2026-08-03,SAFE,Safehold Inc,NYSE,Real Estate,SmallCap,16.45,17.17,25.3,7.7,374,13,2025-01-16,2026-07-16,0.85,4.4,47,,-4.2,safe
+2026-08-03,GBCI,Glacier Bancorp Inc,NYSE,Financial Services,MidCap,50.49,54.51,32.5,10.5,397,13,2024-12-11,2026-07-16,0.84,-0.5,44,,-7.4,caution
+2026-08-03,SMG,Scotts Miracle-Gro Company,NYSE,Basic Materials,MidCap,68.16,73.47,35.9,10.6,395,13,2024-12-13,2026-07-16,1.52,4.8,41,,-7.2,caution
+2026-08-03,KNTK,Kinetik Holdings Inc,NYSE,Energy,MidCap,49.39,51.71,41.7,5.6,337,8,2025-03-19,2026-07-23,0.96,2.8,40,,-4.5,safe
