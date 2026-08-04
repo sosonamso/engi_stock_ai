@@ -1,3 +1,2 @@
 ﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-08-03,089860,롯데렌탈,KOSPI,nan,38950.0,40000.0,22.1,7.5,254,7,2025-07-09,2026-07-24,1.69,-24.3,47,,-2.6,safe
-2026-08-03,339950,아이비김영,KOSDAQ,nan,2880.0,2910.0,41.5,6.7,316,7,2025-04-07,2026-07-24,1.12,-18.5,40,,-1.0,safe
+2026-08-04,089860,롯데렌탈,KOSPI,nan,39400.0,40000.0,22.1,7.5,254,8,2025-07-09,2026-07-24,1.71,-21.3,52,,-1.5,safe
