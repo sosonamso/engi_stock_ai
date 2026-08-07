@@ -1,17 +1,15 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-08-05,EPC,Edgewell Personal Care Co,NYSE,Consumer Defensive,SmallCap,29.2,29.66,49.8,10.0,323,14,2025-04-02,2026-07-17,0.75,28.5,72,,-1.6,safe
-2026-08-05,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,24.59,25.59,33.6,6.8,282,7,2025-06-11,2026-07-28,0.87,16.8,71,,-3.9,safe
-2026-08-05,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,84.22,84.65,34.3,5.5,368,14,2025-01-28,2026-07-17,0.67,10.4,63,,-0.5,safe
-2026-08-05,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,78.11,81.08,40.6,8.9,364,11,2025-02-06,2026-07-22,0.73,14.8,56,,-3.7,safe
-2026-08-05,PSO,Pearson PLC ADR,NYSE,Communication Services,MidCap,16.68,17.64,29.2,6.2,370,6,2025-02-05,2026-07-29,1.14,6.2,55,,-5.4,safe
-2026-08-05,HNST,Honest Company Inc,NASDAQ,Consumer Defensive,SmallCap,3.85,4.01,48.8,9.0,220,19,2025-08-22,2026-07-10,0.87,6.3,48,,-4.0,safe
-2026-08-05,LWAY,Lifeway Foods Inc,NASDAQ,Consumer Defensive,SmallCap,29.38,32.33,43.9,9.2,222,17,2025-08-22,2026-07-14,0.34,5.9,48,,-9.1,caution
-2026-08-05,PRMB,Primo Brands Corporation,NYSE,Consumer Defensive,MidCap,25.32,25.39,43.2,12.1,221,15,2025-08-27,2026-07-16,1.7,7.7,48,,-0.3,safe
-2026-08-05,SLDE,"Slide Insurance Holdings, Inc. Common Stock",NASDAQ,Financial Services,MidCap,20.74,22.14,45.3,9.8,277,6,2025-06-20,2026-07-29,0.77,5.5,48,,-6.3,safe
-2026-08-05,BSVN,Bank7 Corp,NASDAQ,Financial Services,SmallCap,50.1,51.8,23.2,6.9,220,16,2025-08-27,2026-07-15,1.25,3.5,47,,-3.3,safe
-2026-08-05,CBU,Community Bank System Inc,NYSE,Financial Services,MidCap,66.1,70.99,25.2,9.2,360,15,2025-02-06,2026-07-16,0.75,-1.2,47,,-6.9,safe
-2026-08-05,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.83,23.65,26.5,5.8,296,8,2025-05-20,2026-07-27,1.12,-3.2,47,,-3.5,safe
-2026-08-05,COFS,ChoiceOne Financial Services Inc,NASDAQ,Financial Services,SmallCap,34.16,34.62,31.2,5.5,394,15,2024-12-16,2026-07-16,0.54,2.3,47,,-1.3,safe
-2026-08-05,SAFE,Safehold Inc,NYSE,Real Estate,SmallCap,16.19,17.17,25.3,7.7,374,15,2025-01-16,2026-07-16,0.95,-1.2,47,,-5.7,safe
-2026-08-05,SMG,Scotts Miracle-Gro Company,NYSE,Basic Materials,MidCap,66.13,73.47,35.9,10.6,395,15,2024-12-13,2026-07-16,1.16,-2.9,41,,-10.0,caution
-2026-08-05,KNTK,Kinetik Holdings Inc,NYSE,Energy,MidCap,48.35,51.71,41.7,6.5,337,10,2025-03-19,2026-07-23,0.9,0.5,40,,-6.5,safe
+2026-08-06,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,25.38,25.59,33.6,6.8,282,8,2025-06-11,2026-07-28,0.74,20.7,71,,-0.8,safe
+2026-08-06,EPC,Edgewell Personal Care Co,NYSE,Consumer Defensive,SmallCap,28.12,29.66,49.8,10.0,323,15,2025-04-02,2026-07-17,0.85,22.9,64,,-5.2,safe
+2026-08-06,PK,Park Hotels & Resorts Inc,NYSE,Real Estate,MidCap,14.35,15.32,42.9,6.3,402,7,2024-12-17,2026-07-29,1.04,21.7,64,,-6.3,safe
+2026-08-06,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,84.48,84.65,34.3,5.5,368,15,2025-01-28,2026-07-17,0.7,10.8,63,,-0.2,safe
+2026-08-06,LWAY,Lifeway Foods Inc,NASDAQ,Consumer Defensive,SmallCap,31.06,32.33,43.9,9.2,222,18,2025-08-22,2026-07-14,0.37,13.7,56,,-3.9,safe
+2026-08-06,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,75.78,81.08,40.6,8.9,364,12,2025-02-06,2026-07-22,0.7,12.2,56,,-6.5,safe
+2026-08-06,PSO,Pearson PLC ADR,NYSE,Communication Services,MidCap,16.57,17.64,29.2,6.2,370,7,2025-02-05,2026-07-29,1.08,6.8,55,,-6.1,safe
+2026-08-06,KNTK,Kinetik Holdings Inc,NYSE,Energy,MidCap,50.17,51.71,41.7,6.5,337,11,2025-03-19,2026-07-23,1.13,5.2,48,,-3.0,safe
+2026-08-06,SLDE,"Slide Insurance Holdings, Inc. Common Stock",NASDAQ,Financial Services,MidCap,21.33,22.14,45.3,9.8,277,7,2025-06-20,2026-07-29,0.69,7.4,48,,-3.7,safe
+2026-08-06,BSVN,Bank7 Corp,NASDAQ,Financial Services,SmallCap,50.35,51.8,23.2,6.9,220,17,2025-08-27,2026-07-15,1.05,3.6,47,,-2.8,safe
+2026-08-06,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.75,23.65,26.5,5.8,296,9,2025-05-20,2026-07-27,1.2,-3.3,47,,-3.8,safe
+2026-08-06,COFS,ChoiceOne Financial Services Inc,NASDAQ,Financial Services,SmallCap,34.36,34.62,31.2,5.5,394,16,2024-12-16,2026-07-16,0.61,2.4,47,,-0.8,safe
+2026-08-06,CUZ,Cousins Properties Incorporated,NYSE,Real Estate,MidCap,29.83,32.3,31.8,7.6,402,7,2024-12-17,2026-07-29,1.17,2.2,47,,-7.6,caution
+2026-08-06,SAFE,Safehold Inc,NYSE,Real Estate,SmallCap,15.99,17.17,25.3,7.7,374,16,2025-01-16,2026-07-16,0.96,-3.8,47,,-6.9,safe
