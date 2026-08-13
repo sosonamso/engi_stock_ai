@@ -1,1 +1,3 @@
-﻿
+﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
+2026-08-13,051160,지어소프트,KOSDAQ,nan,10030.0,11220.0,34.1,10.6,337,5,2025-03-21,2026-08-07,2.56,-18.4,60,,-10.6,danger
+2026-08-13,339950,아이비김영,KOSDAQ,nan,2860.0,3120.0,41.5,8.3,326,5,2025-04-07,2026-08-07,1.57,-15.6,40,,-8.3,caution
