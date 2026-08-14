@@ -1,17 +1,14 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-08-13,EPC,Edgewell Personal Care Co,NYSE,Consumer Defensive,SmallCap,28.47,29.66,49.8,10.0,323,20,2025-04-02,2026-07-17,0.55,38.5,72,,-4.0,safe
-2026-08-13,NWL,Newell Rubbermaid Inc.,NASDAQ,Consumer Defensive,SmallCap,6.17,6.36,48.7,7.2,306,9,2025-05-13,2026-08-03,0.57,40.0,72,,-3.0,safe
-2026-08-13,PK,Park Hotels & Resorts Inc,NYSE,Real Estate,MidCap,15.03,15.32,41.3,6.4,397,12,2024-12-24,2026-07-29,0.83,25.4,72,,-1.9,safe
-2026-08-13,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,25.07,25.59,33.6,6.8,282,13,2025-06-11,2026-07-28,0.57,21.2,71,,-2.0,safe
-2026-08-13,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,38.18,38.42,48.4,6.7,271,5,2025-07-10,2026-08-07,1.47,24.2,64,,-0.6,safe
-2026-08-13,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,78.43,81.08,40.6,8.9,364,17,2025-02-06,2026-07-22,0.47,19.9,64,,-3.3,safe
-2026-08-13,XYZ,"Block, Inc",NYSE,Technology,LargeCap,83.09,84.64,49.5,7.5,395,8,2025-01-03,2026-08-04,0.84,15.8,64,,-1.8,safe
-2026-08-13,SKWD,"Skyward Specialty Insurance Group, Inc. Common Stock",NASDAQ,Financial Services,MidCap,58.98,65.63,35.1,10.1,306,6,2025-05-16,2026-08-06,1.01,14.7,57,,-10.1,danger
-2026-08-13,SLDE,"Slide Insurance Holdings, Inc. Common Stock",NASDAQ,Financial Services,MidCap,21.59,22.14,45.3,9.8,277,12,2025-06-20,2026-07-29,0.49,14.6,56,,-2.5,safe
-2026-08-13,PSO,Pearson PLC ADR,NYSE,Communication Services,MidCap,16.25,17.64,29.2,8.6,370,12,2025-02-05,2026-07-29,1.05,6.0,55,,-7.9,caution
-2026-08-13,IPAR,Inter Parfums Inc,NASDAQ,Consumer Defensive,MidCap,115.48,128.55,40.1,10.2,400,8,2024-12-26,2026-08-04,0.79,10.2,53,,-10.2,danger
-2026-08-13,FLR,Fluor Corporation,NYSE,Industrials,MidCap,52.33,57.0,44.2,8.7,386,5,2025-01-23,2026-08-07,1.64,5.2,48,,-8.2,caution
-2026-08-13,KNTK,Kinetik Holdings Inc,NYSE,Energy,MidCap,51.66,51.71,41.7,6.5,337,16,2025-03-19,2026-07-23,1.05,8.9,48,,-0.1,safe
-2026-08-13,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.48,23.65,26.5,6.2,296,14,2025-05-20,2026-07-27,0.6,-5.4,47,,-4.9,safe
-2026-08-13,TFX,Teleflex Incorporated,NYSE,Healthcare,MidCap,137.37,140.12,28.3,5.1,353,8,2025-03-07,2026-08-04,1.39,4.0,47,,-2.0,safe
-2026-08-13,ADSE,Ads Tec Energy PLC,NASDAQ,Industrials,SmallCap,11.91,12.88,35.4,10.2,295,10,2025-05-28,2026-07-31,0.91,-4.2,41,,-7.5,caution
+2026-08-14,BAX,Baxter International Inc,NYSE,Healthcare,MidCap,26.73,28.35,49.3,5.7,316,9,2025-04-30,2026-08-04,0.94,27.7,72,,-5.7,safe
+2026-08-14,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,13.01,14.09,42.5,11.4,334,5,2025-04-09,2026-08-10,2.25,16.2,72,,-7.7,caution
+2026-08-14,NWL,Newell Rubbermaid Inc.,NASDAQ,Consumer Defensive,SmallCap,6.24,6.36,48.7,7.2,306,10,2025-05-13,2026-08-03,0.56,40.3,72,,-1.9,safe
+2026-08-14,PK,Park Hotels & Resorts Inc,NYSE,Real Estate,MidCap,15.13,15.32,41.3,6.4,397,13,2024-12-24,2026-07-29,0.63,27.2,72,,-1.2,safe
+2026-08-14,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,24.7,25.59,33.6,6.8,282,14,2025-06-11,2026-07-28,0.69,16.4,71,,-3.5,safe
+2026-08-14,SKWD,"Skyward Specialty Insurance Group, Inc. Common Stock",NASDAQ,Financial Services,MidCap,59.8,65.63,35.1,10.1,306,7,2025-05-16,2026-08-06,0.99,15.7,65,,-8.9,caution
+2026-08-14,SLDE,"Slide Insurance Holdings, Inc. Common Stock",NASDAQ,Financial Services,MidCap,21.93,22.14,45.3,9.8,277,13,2025-06-20,2026-07-29,0.51,16.2,64,,-0.9,safe
+2026-08-14,TFIN,"Triumph Financial, Inc.",NYSE,Financial Services,SmallCap,78.22,81.08,40.6,8.9,364,18,2025-02-06,2026-07-22,0.42,21.7,64,,-3.5,safe
+2026-08-14,XYZ,"Block, Inc",NYSE,Technology,LargeCap,82.88,84.64,49.5,7.5,395,9,2025-01-03,2026-08-04,0.78,15.8,64,,-2.1,safe
+2026-08-14,FLR,Fluor Corporation,NYSE,Industrials,MidCap,52.37,57.0,44.2,8.7,386,6,2025-01-23,2026-08-07,1.06,6.8,48,,-8.1,caution
+2026-08-14,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.61,23.65,26.5,6.2,296,15,2025-05-20,2026-07-27,0.72,-5.1,47,,-4.4,safe
+2026-08-14,TFX,Teleflex Incorporated,NYSE,Healthcare,MidCap,137.17,140.12,28.3,5.1,353,9,2025-03-07,2026-08-04,1.21,4.3,47,,-2.1,safe
+2026-08-14,IPAR,Inter Parfums Inc,NASDAQ,Consumer Defensive,MidCap,114.63,128.55,40.1,10.8,400,9,2024-12-26,2026-08-04,0.69,9.9,45,,-10.8,danger
