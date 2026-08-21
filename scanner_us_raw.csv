@@ -1,25 +1,30 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-08-20,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,30.03,31.08,48.3,5.8,360,8,2025-03-05,2026-08-11,0.72,37.4,72,,-3.4,safe
-2026-08-20,NWL,Newell Rubbermaid Inc.,NASDAQ,Consumer Defensive,SmallCap,5.79,6.36,48.7,9.0,306,14,2025-05-13,2026-08-03,0.44,33.9,72,,-9.0,caution
-2026-08-20,ASIC,Ategrity Specialty Insurance Company Holdings,NYSE,Financial Services,SmallCap,25.29,25.59,33.6,6.8,282,18,2025-06-11,2026-07-28,1.75,12.0,68,,-1.2,safe
-2026-08-20,ASH,Ashland Global Holdings Inc,NYSE,Basic Materials,MidCap,72.82,76.45,36.4,5.2,388,10,2025-01-21,2026-08-07,0.47,20.1,67,,-4.7,safe
-2026-08-20,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,43.73,46.34,37.8,6.2,374,5,2025-02-18,2026-08-14,0.75,17.2,67,,-5.6,safe
-2026-08-20,BAX,Baxter International Inc,NYSE,Healthcare,MidCap,26.41,28.35,49.3,8.6,316,13,2025-04-30,2026-08-04,0.73,20.7,64,,-6.8,safe
-2026-08-20,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,36.48,38.84,48.4,7.5,276,5,2025-07-10,2026-08-14,0.83,24.1,64,,-6.1,safe
-2026-08-20,TRNS,Transcat Inc,NASDAQ,Industrials,SmallCap,91.51,97.76,44.8,6.9,308,7,2025-05-20,2026-08-12,0.68,21.0,64,,-6.4,safe
-2026-08-20,XYZ,"Block, Inc",NYSE,Technology,LargeCap,80.08,84.64,49.5,7.5,395,13,2025-01-03,2026-08-04,0.65,15.9,64,,-5.4,safe
-2026-08-20,CSW,"CSW Industrials, Inc.",NYSE,Industrials,MidCap,322.62,351.29,31.1,8.2,311,8,2025-05-14,2026-08-11,0.56,11.1,63,,-8.2,caution
-2026-08-20,MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,MidCap,133.47,140.1,32.5,5.2,232,5,2025-09-11,2026-08-14,0.96,10.2,63,,-4.7,safe
-2026-08-20,NEXN,Nexxen International Ltd,NASDAQ,Communication Services,SmallCap,9.74,10.95,46.9,11.1,396,11,2025-01-06,2026-08-06,0.9,19.4,61,,-11.1,danger
-2026-08-20,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,15.59,16.92,39.3,7.9,360,6,2025-03-07,2026-08-13,0.85,14.4,59,,-7.9,caution
-2026-08-20,S,SentinelOne Inc,NYSE,Technology,MidCap,20.94,23.84,47.7,12.2,401,6,2025-01-06,2026-08-13,1.09,19.3,58,,-12.2,danger
-2026-08-20,AXTA,Axalta Coating Systems Ltd,NYSE,Basic Materials,MidCap,35.5,38.19,31.6,7.3,384,10,2025-01-27,2026-08-07,1.11,7.6,55,,-7.0,caution
-2026-08-20,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,67.68,70.24,27.4,5.1,398,7,2025-01-08,2026-08-12,0.87,9.3,55,,-3.6,safe
-2026-08-20,CHE,Chemed Corp,NYSE,Healthcare,MidCap,534.88,552.72,31.1,5.0,398,10,2025-01-03,2026-08-07,0.8,8.8,55,,-3.2,safe
-2026-08-20,IFF,International Flavors & Fragrances Inc,NYSE,Basic Materials,LargeCap,83.39,88.07,29.6,8.0,398,12,2024-12-31,2026-08-05,0.58,5.1,55,,-5.3,safe
-2026-08-20,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,12.41,14.09,42.5,11.9,334,9,2025-04-09,2026-08-10,0.84,13.6,53,,-11.9,danger
-2026-08-20,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,80.79,85.65,36.0,5.7,402,6,2025-01-03,2026-08-13,0.79,8.0,51,,-5.7,safe
-2026-08-20,FLR,Fluor Corporation,NYSE,Industrials,MidCap,52.16,57.0,44.2,8.7,386,10,2025-01-23,2026-08-07,0.98,6.9,48,,-8.5,caution
-2026-08-20,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.65,23.65,26.5,6.2,296,19,2025-05-20,2026-07-27,0.55,-6.0,47,,-4.2,safe
-2026-08-20,FCNCA,First Citizens BancShares Inc,NASDAQ,Financial Services,LargeCap,2151.23,2291.33,30.0,6.1,393,5,2025-01-21,2026-08-14,0.62,0.6,47,,-6.1,safe
-2026-08-20,TFX,Teleflex Incorporated,NYSE,Healthcare,MidCap,134.96,140.12,28.3,5.9,353,13,2025-03-07,2026-08-04,1.11,0.7,47,,-3.7,safe
+2026-08-21,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,37.71,38.84,48.4,7.5,276,6,2025-07-10,2026-08-14,0.68,31.1,72,,-2.9,safe
+2026-08-21,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,30.43,31.08,48.3,5.8,360,9,2025-03-05,2026-08-11,0.71,37.7,72,,-2.1,safe
+2026-08-21,NWL,Newell Rubbermaid Inc.,NASDAQ,Consumer Defensive,SmallCap,6.09,6.36,48.7,9.0,306,15,2025-05-13,2026-08-03,0.43,41.5,72,,-4.2,safe
+2026-08-21,UHAL,U-Haul Holding Company,NYSE,Industrials,MidCap,71.41,75.27,42.8,5.1,381,11,2025-01-30,2026-08-07,0.69,27.1,72,,-5.1,safe
+2026-08-21,NEXN,Nexxen International Ltd,NASDAQ,Communication Services,SmallCap,10.28,10.95,46.9,11.1,396,12,2025-01-06,2026-08-06,1.11,27.8,69,,-6.1,safe
+2026-08-21,ASH,Ashland Global Holdings Inc,NYSE,Basic Materials,MidCap,72.66,76.45,36.4,5.2,388,11,2025-01-21,2026-08-07,0.47,19.7,67,,-5.0,safe
+2026-08-21,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,44.66,46.34,37.8,6.2,374,6,2025-02-18,2026-08-14,0.76,19.5,67,,-3.6,safe
+2026-08-21,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,15.73,16.92,39.3,7.9,360,7,2025-03-07,2026-08-13,0.89,15.0,67,,-7.0,caution
+2026-08-21,BAX,Baxter International Inc,NYSE,Healthcare,MidCap,26.34,28.35,49.3,8.6,316,14,2025-04-30,2026-08-04,0.68,20.9,64,,-7.1,caution
+2026-08-21,TRNS,Transcat Inc,NASDAQ,Industrials,SmallCap,92.5,97.76,44.8,6.9,308,8,2025-05-20,2026-08-12,0.64,20.1,64,,-5.4,safe
+2026-08-21,XYZ,"Block, Inc",NYSE,Technology,LargeCap,82.16,84.64,49.5,7.5,395,14,2025-01-03,2026-08-04,0.74,18.6,64,,-2.9,safe
+2026-08-21,CHE,Chemed Corp,NYSE,Healthcare,MidCap,540.57,552.72,31.1,5.0,398,11,2025-01-03,2026-08-07,0.72,10.0,63,,-2.2,safe
+2026-08-21,CSW,"CSW Industrials, Inc.",NYSE,Industrials,MidCap,330.09,351.29,31.1,8.2,311,9,2025-05-14,2026-08-11,0.55,11.5,63,,-6.0,safe
+2026-08-21,MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,MidCap,136.22,140.1,32.5,5.2,232,6,2025-09-11,2026-08-14,1.03,12.4,63,,-2.8,safe
+2026-08-21,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,12.45,14.09,42.5,11.9,334,10,2025-04-09,2026-08-10,0.76,15.0,61,,-11.6,danger
+2026-08-21,S,SentinelOne Inc,NYSE,Technology,MidCap,21.19,23.84,47.7,12.2,401,7,2025-01-06,2026-08-13,1.01,20.6,58,,-11.1,danger
+2026-08-21,AXTA,Axalta Coating Systems Ltd,NYSE,Basic Materials,MidCap,36.2,38.19,31.6,7.3,384,11,2025-01-27,2026-08-07,1.1,9.7,55,,-5.2,safe
+2026-08-21,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,66.7,70.24,27.4,5.1,398,8,2025-01-08,2026-08-12,0.89,8.2,55,,-5.0,safe
+2026-08-21,IFF,International Flavors & Fragrances Inc,NYSE,Basic Materials,LargeCap,84.28,88.07,29.6,8.0,398,13,2024-12-31,2026-08-05,0.58,5.9,55,,-4.3,safe
+2026-08-21,PSO,Pearson PLC ADR,NYSE,Communication Services,MidCap,16.28,17.64,29.2,9.5,370,18,2025-02-05,2026-07-29,0.68,5.3,55,,-7.7,caution
+2026-08-21,CNS,Cohen & Steers Inc,NYSE,Financial Services,MidCap,81.42,85.65,36.0,5.7,402,7,2025-01-03,2026-08-13,0.78,9.4,51,,-4.9,safe
+2026-08-21,FLR,Fluor Corporation,NYSE,Industrials,MidCap,52.42,57.0,44.2,8.7,386,11,2025-01-23,2026-08-07,1.0,7.0,48,,-8.0,caution
+2026-08-21,BCC,Boise Cascad Llc,NYSE,Basic Materials,MidCap,82.47,86.6,26.4,7.4,283,11,2025-06-23,2026-08-07,0.61,2.9,47,,-4.8,safe
+2026-08-21,CCEC,Capital Clean Energy Carriers Corp.,NASDAQ,Industrials,SmallCap,22.61,23.65,26.5,6.2,296,20,2025-05-20,2026-07-27,0.52,-6.3,47,,-4.4,safe
+2026-08-21,FCNCA,First Citizens BancShares Inc,NASDAQ,Financial Services,LargeCap,2183.54,2291.33,30.0,6.1,393,6,2025-01-21,2026-08-14,0.65,1.7,47,,-4.7,safe
+2026-08-21,MDLZ,Mondelez International Inc,NASDAQ,Consumer Defensive,LargeCap,64.45,64.99,21.8,5.3,357,18,2025-02-25,2026-07-29,0.69,-4.2,47,,-0.8,safe
+2026-08-21,SSB,SouthState Corporation,NYSE,Financial Services,MidCap,106.86,111.59,25.6,5.2,388,6,2025-01-28,2026-08-14,0.6,2.4,47,,-4.2,safe
+2026-08-21,TFX,Teleflex Incorporated,NYSE,Healthcare,MidCap,138.83,140.12,28.3,5.9,353,14,2025-03-07,2026-08-04,1.11,4.2,47,,-0.9,safe
+2026-08-21,SKYH,Sky Harbour Group Corporation,NYSE,Real Estate,SmallCap,10.45,11.49,27.1,11.1,392,8,2025-01-17,2026-08-12,0.84,4.1,44,,-9.1,caution
