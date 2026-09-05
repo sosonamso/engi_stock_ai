@@ -1,27 +1,23 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-03,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,37.34,38.84,48.4,7.5,276,15,2025-07-10,2026-08-14,0.6,25.2,72,,-3.9,safe
-2026-09-03,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,29.63,31.08,48.3,8.4,360,18,2025-03-05,2026-08-11,1.26,29.3,72,,-4.7,safe
-2026-09-03,ASH,Ashland Global Holdings Inc,NYSE,Basic Materials,MidCap,73.2,76.45,36.4,5.2,388,20,2025-01-21,2026-08-07,0.92,19.3,67,,-4.3,safe
-2026-09-03,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.75,16.92,39.3,9.2,360,16,2025-03-07,2026-08-13,0.89,15.9,67,,-1.0,safe
-2026-09-03,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,62.64,64.22,49.7,5.0,242,8,2025-09-08,2026-08-25,0.58,24.1,64,,-2.5,safe
-2026-09-03,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,27.89,29.33,34.0,5.7,376,15,2025-02-13,2026-08-14,0.52,11.1,63,,-4.9,safe
-2026-09-03,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,42.91,46.34,37.8,8.0,374,15,2025-02-18,2026-08-14,0.87,13.1,59,,-7.4,caution
-2026-09-03,ORIC,Oric Pharmaceuticals Inc,NASDAQ,Healthcare,SmallCap,12.74,14.65,48.1,13.0,218,12,2025-10-06,2026-08-19,0.68,22.0,58,,-13.0,danger
-2026-09-03,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.74,12.42,48.9,12.6,247,11,2025-08-26,2026-08-20,1.27,20.5,58,,-5.5,safe
-2026-09-03,FRPT,Freshpet Inc,NASDAQ,Consumer Defensive,MidCap,69.68,76.55,42.0,9.0,306,9,2025-06-04,2026-08-24,0.87,10.1,56,,-9.0,caution
-2026-09-03,XYZ,"Block, Inc",NYSE,Technology,LargeCap,83.37,84.85,48.0,8.2,402,6,2025-01-21,2026-08-27,1.0,12.0,56,,-1.7,safe
-2026-09-03,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,66.43,70.24,25.9,7.9,396,17,2025-01-13,2026-08-12,0.92,5.1,55,,-5.4,safe
-2026-09-03,GCMG,GCM Grosvenor Inc,NASDAQ,Financial Services,SmallCap,13.35,14.05,34.4,6.9,372,16,2025-02-19,2026-08-13,1.05,7.4,55,,-5.0,safe
-2026-09-03,MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,MidCap,131.7,140.1,32.5,10.7,232,15,2025-09-11,2026-08-14,1.09,6.7,52,,-6.0,safe
-2026-09-03,CHE,Chemed Corp,NYSE,Healthcare,MidCap,524.45,552.72,35.9,6.8,384,20,2025-01-27,2026-08-07,0.78,9.0,51,,-5.1,safe
-2026-09-03,OKE,ONEOK Inc,NYSE,Energy,LargeCap,95.75,97.07,35.2,5.5,375,13,2025-02-19,2026-08-18,1.01,5.4,51,,-1.4,safe
-2026-09-03,KIDS,Orthopediatrics Corp,NASDAQ,Healthcare,SmallCap,22.59,26.5,46.3,14.8,396,12,2025-01-21,2026-08-19,1.01,10.0,50,,-14.8,danger
-2026-09-03,SLG,SL Green Realty Corp,NYSE,Real Estate,MidCap,54.91,59.83,46.3,8.8,381,8,2025-02-18,2026-08-25,0.74,5.4,48,,-8.2,caution
-2026-09-03,AXTA,Axalta Coating Systems Ltd,NYSE,Basic Materials,MidCap,35.97,38.19,31.6,8.1,384,20,2025-01-27,2026-08-07,0.87,4.7,47,,-5.8,safe
-2026-09-03,DRI,Darden Restaurants Inc,NYSE,Consumer Cyclical,LargeCap,218.04,227.68,25.1,7.3,287,17,2025-06-20,2026-08-12,0.87,-0.5,47,,-4.2,safe
-2026-09-03,FAST,Fastenal Company,NASDAQ,Industrials,LargeCap,49.23,52.38,22.3,8.5,242,18,2025-08-22,2026-08-11,0.82,-4.6,47,,-6.0,safe
-2026-09-03,MMI,Marcus & Millichap Inc,NYSE,Real Estate,SmallCap,32.11,32.75,22.8,5.0,283,12,2025-07-03,2026-08-19,1.0,-3.3,47,,-2.0,safe
-2026-09-03,OMC,Omnicom Group Inc,NYSE,Communication Services,LargeCap,84.73,88.94,23.9,8.1,395,9,2025-01-27,2026-08-24,0.93,-1.0,47,,-4.7,safe
-2026-09-03,SSB,SouthState Corporation,NYSE,Financial Services,MidCap,107.11,111.59,25.6,6.8,388,15,2025-01-28,2026-08-14,0.99,0.3,47,,-4.0,safe
-2026-09-03,SKYH,Sky Harbour Group Corporation,NYSE,Real Estate,SmallCap,10.39,11.49,27.1,11.1,392,17,2025-01-17,2026-08-12,0.88,-0.9,44,,-9.6,caution
-2026-09-03,FOXF,Fox Factory Holding Corp,NASDAQ,Consumer Cyclical,SmallCap,20.76,21.85,37.7,8.3,333,10,2025-04-24,2026-08-21,0.72,1.8,43,,-5.0,safe
+2026-09-04,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,30.39,31.08,48.3,8.4,360,19,2025-03-05,2026-08-11,1.41,32.5,72,0.3982,-2.2,safe
+2026-09-04,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,38.39,38.84,48.4,7.5,276,16,2025-07-10,2026-08-14,0.7,30.0,72,,-1.2,safe
+2026-09-04,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,63.29,64.22,49.7,5.0,242,9,2025-09-08,2026-08-25,0.61,25.8,72,,-1.4,safe
+2026-09-04,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.7,16.92,39.3,9.2,360,17,2025-03-07,2026-08-13,0.77,16.3,67,,-1.3,safe
+2026-09-04,ORIC,Oric Pharmaceuticals Inc,NASDAQ,Healthcare,SmallCap,12.86,14.65,48.1,13.0,218,13,2025-10-06,2026-08-19,0.72,25.9,66,,-12.2,danger
+2026-09-04,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.41,29.33,34.0,5.7,376,16,2025-02-13,2026-08-14,0.49,13.9,63,,-3.1,safe
+2026-09-04,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,43.4,46.34,37.8,8.0,374,16,2025-02-18,2026-08-14,0.8,14.4,59,,-6.3,safe
+2026-09-04,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.94,12.42,48.9,12.6,247,12,2025-08-26,2026-08-20,1.39,23.8,58,,-3.9,safe
+2026-09-04,XYZ,"Block, Inc",NYSE,Technology,LargeCap,82.76,84.85,48.0,8.2,402,7,2025-01-21,2026-08-27,0.96,10.6,56,,-2.5,safe
+2026-09-04,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,66.53,70.24,25.9,7.9,396,18,2025-01-13,2026-08-12,1.05,6.0,55,,-5.3,safe
+2026-09-04,GCMG,GCM Grosvenor Inc,NASDAQ,Financial Services,SmallCap,13.27,14.05,34.4,6.9,372,17,2025-02-19,2026-08-13,0.81,6.4,55,,-5.6,safe
+2026-09-04,MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,MidCap,133.63,140.1,32.5,10.7,232,16,2025-09-11,2026-08-14,1.15,9.9,52,,-4.6,safe
+2026-09-04,FOXF,Fox Factory Holding Corp,NASDAQ,Consumer Cyclical,SmallCap,21.52,21.85,37.7,8.3,333,11,2025-04-24,2026-08-21,0.66,5.2,51,,-1.5,safe
+2026-09-04,OKE,ONEOK Inc,NYSE,Energy,LargeCap,95.43,97.07,35.2,5.5,375,14,2025-02-19,2026-08-18,1.05,6.1,51,,-1.7,safe
+2026-09-04,FRPT,Freshpet Inc,NASDAQ,Consumer Defensive,MidCap,70.24,76.55,42.0,9.0,306,10,2025-06-04,2026-08-24,0.81,9.0,48,,-8.2,caution
+2026-09-04,SLG,SL Green Realty Corp,NYSE,Real Estate,MidCap,55.56,59.83,46.3,8.8,381,9,2025-02-18,2026-08-25,0.76,6.4,48,,-7.1,caution
+2026-09-04,DRI,Darden Restaurants Inc,NYSE,Consumer Cyclical,LargeCap,216.88,227.68,25.1,7.3,287,18,2025-06-20,2026-08-12,0.86,0.3,47,,-4.7,safe
+2026-09-04,FAST,Fastenal Company,NASDAQ,Industrials,LargeCap,49.6,52.38,22.3,8.5,242,19,2025-08-22,2026-08-11,0.83,-1.9,47,,-5.3,safe
+2026-09-04,MMI,Marcus & Millichap Inc,NYSE,Real Estate,SmallCap,31.89,32.75,22.8,5.0,283,13,2025-07-03,2026-08-19,0.9,-3.3,47,,-2.6,safe
+2026-09-04,SSB,SouthState Corporation,NYSE,Financial Services,MidCap,107.98,111.59,25.6,6.8,388,16,2025-01-28,2026-08-14,0.88,2.3,47,,-3.2,safe
+2026-09-04,SKYH,Sky Harbour Group Corporation,NYSE,Real Estate,SmallCap,10.48,11.49,27.1,11.1,392,18,2025-01-17,2026-08-12,0.91,0.1,44,,-8.8,caution
+2026-09-04,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,164.54,175.01,38.8,6.6,321,5,2025-05-20,2026-08-31,0.89,4.0,43,,-6.0,safe
