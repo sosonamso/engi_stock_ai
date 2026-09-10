@@ -1,18 +1,13 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-08,IBTA,"Ibotta, Inc.",NYSE,Technology,SmallCap,38.38,38.84,48.4,7.5,276,17,2025-07-10,2026-08-14,0.79,30.1,72,,-1.2,safe
-2026-09-08,JHX,James Hardie Industries PLC ADR,NYSE,Basic Materials,LargeCap,29.86,31.08,48.3,8.4,360,20,2025-03-05,2026-08-11,1.17,29.4,72,,-3.9,safe
-2026-09-08,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,60.57,64.22,49.7,5.7,242,10,2025-09-08,2026-08-25,0.7,20.0,64,,-5.7,safe
-2026-09-08,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.98,12.42,48.9,12.6,247,13,2025-08-26,2026-08-20,1.75,21.9,64,,-3.5,safe
-2026-09-08,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,42.61,46.34,37.8,8.0,374,17,2025-02-18,2026-08-14,0.77,11.9,59,,-8.0,caution
-2026-09-08,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.1,16.92,39.3,9.2,360,18,2025-03-07,2026-08-13,0.79,12.6,59,,-4.8,safe
-2026-09-08,ORIC,Oric Pharmaceuticals Inc,NASDAQ,Healthcare,SmallCap,12.62,14.65,48.1,13.9,218,14,2025-10-06,2026-08-19,0.68,20.0,58,,-13.9,danger
-2026-09-08,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,27.57,29.33,34.0,6.0,376,17,2025-02-13,2026-08-14,0.42,9.3,55,,-6.0,safe
-2026-09-08,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,84.53,92.34,38.2,8.5,395,12,2025-01-24,2026-08-21,0.65,5.5,51,,-8.5,caution
-2026-09-08,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,64.63,70.24,30.2,8.0,367,19,2025-02-25,2026-08-12,0.95,2.9,47,,-8.0,caution
-2026-09-08,DRI,Darden Restaurants Inc,NYSE,Consumer Cyclical,LargeCap,212.92,227.68,25.1,7.3,287,19,2025-06-20,2026-08-12,0.82,-2.7,47,,-6.5,safe
-2026-09-08,FAST,Fastenal Company,NASDAQ,Industrials,LargeCap,49.38,52.38,22.3,8.5,242,20,2025-08-22,2026-08-11,0.8,-2.1,47,,-5.7,safe
-2026-09-08,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,462.98,491.24,24.1,5.8,402,5,2025-01-24,2026-09-01,1.07,-1.4,47,,-5.8,safe
-2026-09-08,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,33.34,35.32,26.7,5.6,383,8,2025-02-18,2026-08-27,1.11,-0.5,47,,-5.6,safe
-2026-09-08,MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,MidCap,129.72,140.1,32.5,10.7,232,17,2025-09-11,2026-08-14,1.21,4.4,44,,-7.4,caution
-2026-09-08,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,162.02,175.01,38.8,7.4,321,6,2025-05-20,2026-08-31,0.63,4.5,43,,-7.4,caution
-2026-09-08,FRPT,Freshpet Inc,NASDAQ,Consumer Defensive,MidCap,67.28,76.55,36.4,12.1,273,11,2025-07-23,2026-08-24,0.74,4.8,38,,-12.1,danger
+2026-09-09,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,12.34,12.42,48.9,12.6,247,14,2025-08-26,2026-08-20,2.31,26.0,77,,-0.6,safe
+2026-09-09,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,100.0,108.75,37.2,8.0,381,11,2025-02-18,2026-08-25,1.17,17.7,67,,-8.0,caution
+2026-09-09,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,60.29,64.22,49.7,6.1,242,11,2025-09-08,2026-08-25,0.69,18.1,64,,-6.1,safe
+2026-09-09,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,41.9,46.34,37.8,9.6,374,18,2025-02-18,2026-08-14,0.75,11.8,59,,-9.6,caution
+2026-09-09,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.1,16.92,39.3,9.2,360,19,2025-03-07,2026-08-13,0.79,11.8,59,,-4.8,safe
+2026-09-09,ORIC,Oric Pharmaceuticals Inc,NASDAQ,Healthcare,SmallCap,12.5,14.65,48.1,14.7,218,15,2025-10-06,2026-08-19,0.83,22.5,58,,-14.7,danger
+2026-09-09,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,83.88,92.34,38.2,9.2,395,13,2025-01-24,2026-08-21,0.74,6.8,51,,-9.2,caution
+2026-09-09,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,64.41,70.24,30.2,8.3,367,20,2025-02-25,2026-08-12,0.96,4.2,47,,-8.3,caution
+2026-09-09,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,459.89,491.24,24.1,6.4,402,6,2025-01-24,2026-09-01,1.04,-1.8,47,,-6.4,safe
+2026-09-09,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,33.08,35.32,26.7,6.3,383,9,2025-02-18,2026-08-27,1.04,-0.4,47,,-6.3,safe
+2026-09-09,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.61,31.19,26.5,5.1,382,9,2025-02-19,2026-08-27,1.04,1.2,47,,-5.1,safe
+2026-09-09,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,162.43,175.01,38.8,7.4,321,7,2025-05-20,2026-08-31,0.48,4.1,43,,-7.2,caution
