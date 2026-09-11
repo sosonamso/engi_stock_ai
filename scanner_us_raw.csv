@@ -1,13 +1,14 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-09,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,12.34,12.42,48.9,12.6,247,14,2025-08-26,2026-08-20,2.31,26.0,77,,-0.6,safe
-2026-09-09,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,100.0,108.75,37.2,8.0,381,11,2025-02-18,2026-08-25,1.17,17.7,67,,-8.0,caution
-2026-09-09,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,60.29,64.22,49.7,6.1,242,11,2025-09-08,2026-08-25,0.69,18.1,64,,-6.1,safe
-2026-09-09,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,41.9,46.34,37.8,9.6,374,18,2025-02-18,2026-08-14,0.75,11.8,59,,-9.6,caution
-2026-09-09,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.1,16.92,39.3,9.2,360,19,2025-03-07,2026-08-13,0.79,11.8,59,,-4.8,safe
-2026-09-09,ORIC,Oric Pharmaceuticals Inc,NASDAQ,Healthcare,SmallCap,12.5,14.65,48.1,14.7,218,15,2025-10-06,2026-08-19,0.83,22.5,58,,-14.7,danger
-2026-09-09,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,83.88,92.34,38.2,9.2,395,13,2025-01-24,2026-08-21,0.74,6.8,51,,-9.2,caution
-2026-09-09,BMRN,Biomarin Pharmaceutical Inc,NASDAQ,Healthcare,LargeCap,64.41,70.24,30.2,8.3,367,20,2025-02-25,2026-08-12,0.96,4.2,47,,-8.3,caution
-2026-09-09,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,459.89,491.24,24.1,6.4,402,6,2025-01-24,2026-09-01,1.04,-1.8,47,,-6.4,safe
-2026-09-09,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,33.08,35.32,26.7,6.3,383,9,2025-02-18,2026-08-27,1.04,-0.4,47,,-6.3,safe
-2026-09-09,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.61,31.19,26.5,5.1,382,9,2025-02-19,2026-08-27,1.04,1.2,47,,-5.1,safe
-2026-09-09,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,162.43,175.01,38.8,7.4,321,7,2025-05-20,2026-08-31,0.48,4.1,43,,-7.2,caution
+2026-09-10,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.9,12.42,48.9,12.6,247,15,2025-08-26,2026-08-20,2.37,20.6,69,,-4.2,safe
+2026-09-10,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.49,16.92,39.3,9.2,360,20,2025-03-07,2026-08-13,0.81,15.3,67,,-2.5,safe
+2026-09-10,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,60.52,64.22,49.7,6.1,242,12,2025-09-08,2026-08-25,0.74,18.7,64,,-5.8,safe
+2026-09-10,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,27.49,29.33,34.0,7.1,376,19,2025-02-13,2026-08-14,0.51,10.9,63,,-6.3,safe
+2026-09-10,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,41.72,46.34,37.8,10.0,374,19,2025-02-18,2026-08-14,0.71,11.0,59,,-10.0,caution
+2026-09-10,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,97.15,108.75,37.2,10.7,381,12,2025-02-18,2026-08-25,1.62,14.5,57,,-10.7,danger
+2026-09-10,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,24.17,27.0,41.5,10.5,400,5,2025-01-30,2026-09-03,0.82,14.0,53,,-10.5,danger
+2026-09-10,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,84.51,92.34,38.2,9.2,395,14,2025-01-24,2026-08-21,0.82,9.3,51,,-8.5,caution
+2026-09-10,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,162.73,175.01,38.8,7.4,321,8,2025-05-20,2026-08-31,0.47,5.6,51,,-7.0,caution
+2026-09-10,FLR,Fluor Corporation,NYSE,Industrials,MidCap,53.55,57.5,44.2,6.9,405,5,2025-01-23,2026-09-03,0.81,8.6,48,,-6.9,safe
+2026-09-10,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,463.88,491.24,24.1,6.4,402,7,2025-01-24,2026-09-01,0.91,0.2,47,,-5.6,safe
+2026-09-10,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,32.78,35.32,26.7,7.2,383,10,2025-02-18,2026-08-27,0.96,1.9,47,,-7.2,caution
+2026-09-10,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.38,31.19,26.5,5.8,382,10,2025-02-19,2026-08-27,1.01,3.4,47,,-5.8,safe
