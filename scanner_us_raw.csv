@@ -1,14 +1,18 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-10,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.9,12.42,48.9,12.6,247,15,2025-08-26,2026-08-20,2.37,20.6,69,,-4.2,safe
-2026-09-10,OSPN,OneSpan Inc,NASDAQ,Technology,SmallCap,16.49,16.92,39.3,9.2,360,20,2025-03-07,2026-08-13,0.81,15.3,67,,-2.5,safe
-2026-09-10,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,60.52,64.22,49.7,6.1,242,12,2025-09-08,2026-08-25,0.74,18.7,64,,-5.8,safe
-2026-09-10,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,27.49,29.33,34.0,7.1,376,19,2025-02-13,2026-08-14,0.51,10.9,63,,-6.3,safe
-2026-09-10,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,41.72,46.34,37.8,10.0,374,19,2025-02-18,2026-08-14,0.71,11.0,59,,-10.0,caution
-2026-09-10,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,97.15,108.75,37.2,10.7,381,12,2025-02-18,2026-08-25,1.62,14.5,57,,-10.7,danger
-2026-09-10,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,24.17,27.0,41.5,10.5,400,5,2025-01-30,2026-09-03,0.82,14.0,53,,-10.5,danger
-2026-09-10,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,84.51,92.34,38.2,9.2,395,14,2025-01-24,2026-08-21,0.82,9.3,51,,-8.5,caution
-2026-09-10,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,162.73,175.01,38.8,7.4,321,8,2025-05-20,2026-08-31,0.47,5.6,51,,-7.0,caution
-2026-09-10,FLR,Fluor Corporation,NYSE,Industrials,MidCap,53.55,57.5,44.2,6.9,405,5,2025-01-23,2026-09-03,0.81,8.6,48,,-6.9,safe
-2026-09-10,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,463.88,491.24,24.1,6.4,402,7,2025-01-24,2026-09-01,0.91,0.2,47,,-5.6,safe
-2026-09-10,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,32.78,35.32,26.7,7.2,383,10,2025-02-18,2026-08-27,0.96,1.9,47,,-7.2,caution
-2026-09-10,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.38,31.19,26.5,5.8,382,10,2025-02-19,2026-08-27,1.01,3.4,47,,-5.8,safe
+2026-09-11,NX,Quanex Building Products,NYSE,Industrials,SmallCap,21.57,22.93,49.1,8.0,267,5,2025-08-13,2026-09-04,3.05,24.7,84,,-5.9,safe
+2026-09-11,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.58,14.4,33.2,6.3,291,5,2025-07-10,2026-09-04,1.01,18.8,71,,-5.7,safe
+2026-09-11,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,99.89,108.75,37.2,10.7,381,13,2025-02-18,2026-08-25,1.82,18.9,70,,-8.1,caution
+2026-09-11,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.29,12.42,48.9,12.6,247,16,2025-08-26,2026-08-20,2.76,13.2,66,,-9.1,caution
+2026-09-11,KMX,CarMax Inc,NYSE,Consumer Cyclical,MidCap,61.32,64.22,49.7,6.1,242,13,2025-09-08,2026-08-25,0.73,17.2,64,,-4.5,safe
+2026-09-11,SXC,SunCoke Energy Inc,NYSE,Basic Materials,SmallCap,10.02,10.57,45.4,5.2,406,7,2025-01-21,2026-09-02,0.47,19.4,64,,-5.2,safe
+2026-09-11,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,27.67,29.33,34.0,7.1,376,20,2025-02-13,2026-08-14,0.58,11.1,63,,-5.7,safe
+2026-09-11,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,24.14,27.0,41.5,10.6,400,6,2025-01-30,2026-09-03,0.84,14.4,53,,-10.6,danger
+2026-09-11,CART,Maplebear Inc.,NASDAQ,Consumer Cyclical,LargeCap,48.73,51.78,38.0,9.9,379,14,2025-02-19,2026-08-24,0.99,6.6,51,,-5.9,safe
+2026-09-11,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,165.5,175.01,38.8,7.4,321,9,2025-05-20,2026-08-31,0.49,8.3,51,,-5.4,safe
+2026-09-11,AVNT,Avient Corp,NYSE,Basic Materials,MidCap,41.41,46.34,37.8,10.6,374,20,2025-02-18,2026-08-14,0.75,6.9,49,,-10.6,danger
+2026-09-11,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,83.03,92.34,38.2,10.1,395,15,2025-01-24,2026-08-21,0.89,6.6,49,,-10.1,danger
+2026-09-11,FLR,Fluor Corporation,NYSE,Industrials,MidCap,54.2,57.5,44.2,6.9,405,6,2025-01-23,2026-09-03,0.7,9.4,48,,-5.7,safe
+2026-09-11,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,466.16,491.24,24.1,6.4,402,8,2025-01-24,2026-09-01,0.84,-0.7,47,,-5.1,safe
+2026-09-11,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,32.71,35.32,26.7,7.4,383,11,2025-02-18,2026-08-27,0.99,1.8,47,,-7.4,caution
+2026-09-11,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.44,31.19,26.5,5.8,382,11,2025-02-19,2026-08-27,0.99,3.4,47,,-5.6,safe
+2026-09-11,RACE,Ferrari NV,NYSE,Consumer Cyclical,LargeCap,413.78,436.54,28.5,7.8,398,15,2025-01-21,2026-08-21,0.69,1.8,47,,-5.2,safe
