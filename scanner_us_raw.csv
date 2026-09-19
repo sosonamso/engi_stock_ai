@@ -1,17 +1,15 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-17,HPQ,HP Inc,NYSE,Technology,LargeCap,34.66,35.48,47.6,7.8,391,5,2025-02-20,2026-09-11,1.15,39.7,72,,-2.3,safe
-2026-09-17,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.55,14.4,33.2,6.3,291,9,2025-07-10,2026-09-04,0.73,22.2,71,,-5.9,safe
-2026-09-17,NX,Quanex Building Products,NYSE,Industrials,SmallCap,20.54,22.93,49.1,10.4,267,9,2025-08-13,2026-09-04,1.24,17.1,61,,-10.4,danger
-2026-09-17,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,25.81,27.0,41.5,10.6,400,10,2025-01-30,2026-09-03,0.87,21.2,61,,-4.4,safe
-2026-09-17,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,87.93,92.34,37.9,10.1,393,19,2025-01-28,2026-08-21,0.74,14.6,57,,-4.8,safe
-2026-09-17,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,97.43,108.75,37.2,10.7,381,17,2025-02-18,2026-08-25,1.01,11.4,57,,-10.4,danger
-2026-09-17,VHI,Valhi Inc,NYSE,Basic Materials,SmallCap,16.67,18.69,37.9,11.8,364,13,2025-03-19,2026-08-31,0.88,11.3,57,,-10.8,danger
-2026-09-17,CQP,Cheniere Energy Partners LP,NYSE,Energy,LargeCap,66.75,71.22,25.8,7.9,357,11,2025-04-01,2026-09-02,0.79,6.6,55,,-6.3,safe
-2026-09-17,FLR,Fluor Corporation,NYSE,Industrials,MidCap,54.96,57.5,30.2,7.8,275,10,2025-07-31,2026-09-03,0.76,7.3,55,,-4.4,safe
-2026-09-17,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,30.18,31.19,26.5,5.8,382,15,2025-02-19,2026-08-27,0.82,6.7,55,,-3.2,safe
-2026-09-17,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.64,15.44,40.3,5.2,345,5,2025-04-28,2026-09-11,0.84,8.3,48,,-5.2,safe
-2026-09-17,GLP,Global Partners LP,NYSE,Energy,SmallCap,50.45,54.07,28.2,6.7,371,6,2025-03-19,2026-09-10,0.75,2.2,47,,-6.7,safe
-2026-09-17,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,459.68,491.24,24.5,6.4,393,12,2025-02-06,2026-09-01,0.94,1.5,47,,-6.4,safe
-2026-09-17,NWS,News Corp B,NASDAQ,Communication Services,LargeCap,33.37,35.32,26.7,7.4,383,15,2025-02-18,2026-08-27,0.84,4.1,47,,-5.5,safe
-2026-09-17,RACE,Ferrari NV,NYSE,Consumer Cyclical,LargeCap,414.0,436.54,27.2,7.8,394,19,2025-01-27,2026-08-21,0.69,1.9,47,,-5.2,safe
-2026-09-17,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,164.71,175.01,38.8,7.5,321,13,2025-05-20,2026-08-31,0.54,4.5,43,,-5.9,safe
+2026-09-18,HPQ,HP Inc,NYSE,Technology,LargeCap,34.4,35.48,47.6,7.8,391,6,2025-02-20,2026-09-11,1.23,38.5,72,,-3.0,safe
+2026-09-18,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.45,14.4,33.2,6.6,291,10,2025-07-10,2026-09-04,0.83,21.1,71,,-6.6,safe
+2026-09-18,DXCM,DexCom Inc,NASDAQ,Healthcare,LargeCap,89.35,92.34,37.9,10.1,393,20,2025-01-28,2026-08-21,1.24,19.1,65,,-3.2,safe
+2026-09-18,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,25.7,27.0,41.5,10.6,400,11,2025-01-30,2026-09-03,0.91,19.4,61,,-4.8,safe
+2026-09-18,NX,Quanex Building Products,NYSE,Industrials,SmallCap,20.09,22.93,49.1,12.4,267,10,2025-08-13,2026-09-04,1.38,15.1,58,,-12.4,danger
+2026-09-18,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.67,1.69,36.0,11.8,387,12,2025-02-18,2026-09-02,0.63,14.0,57,,-1.2,safe
+2026-09-18,VHI,Valhi Inc,NYSE,Basic Materials,SmallCap,16.56,18.69,37.9,11.8,364,14,2025-03-19,2026-08-31,1.19,11.6,57,,-11.4,danger
+2026-09-18,FLR,Fluor Corporation,NYSE,Industrials,MidCap,54.9,57.5,30.2,7.8,275,11,2025-07-31,2026-09-03,0.96,7.4,55,,-4.5,safe
+2026-09-18,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.78,31.19,26.5,5.8,382,16,2025-02-19,2026-08-27,1.45,5.5,55,,-4.5,safe
+2026-09-18,KSPI,Joint Stock Company Kaspi.kz,NASDAQ,Technology,LargeCap,97.53,108.75,37.2,10.7,381,18,2025-02-18,2026-08-25,0.85,9.3,49,,-10.3,danger
+2026-09-18,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.58,15.44,40.3,5.6,345,6,2025-04-28,2026-09-11,0.9,6.0,48,,-5.6,safe
+2026-09-18,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,458.67,491.24,24.5,6.6,393,13,2025-02-06,2026-09-01,1.16,0.8,47,,-6.6,safe
+2026-09-18,RACE,Ferrari NV,NYSE,Consumer Cyclical,LargeCap,406.69,436.54,27.2,7.8,394,20,2025-01-27,2026-08-21,0.84,1.5,47,,-6.8,safe
+2026-09-18,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,164.48,175.01,38.8,7.5,321,14,2025-05-20,2026-08-31,0.62,4.3,43,,-6.0,safe
