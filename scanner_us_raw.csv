@@ -1,12 +1,11 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-22,HPQ,HP Inc,NYSE,Technology,LargeCap,32.04,35.48,47.6,9.7,391,8,2025-02-20,2026-09-11,1.18,27.4,72,,-9.7,caution
-2026-09-22,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.67,14.4,33.2,6.6,291,12,2025-07-10,2026-09-04,0.8,20.0,71,,-5.1,safe
-2026-09-22,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.95,12.83,48.9,11.8,264,6,2025-08-26,2026-09-15,2.71,13.7,69,,-6.9,safe
-2026-09-22,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,26.41,27.0,39.1,10.6,209,13,2025-11-03,2026-09-03,0.9,21.2,65,,-2.2,safe
-2026-09-22,VHI,Valhi Inc,NYSE,Basic Materials,SmallCap,16.79,18.69,37.9,11.8,364,16,2025-03-19,2026-08-31,0.93,10.6,57,,-10.2,danger
-2026-09-22,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,171.16,175.01,38.8,7.5,321,16,2025-05-20,2026-08-31,0.87,8.3,51,,-2.2,safe
-2026-09-22,NX,Quanex Building Products,NYSE,Industrials,SmallCap,20.66,22.93,49.1,12.4,267,12,2025-08-13,2026-09-04,1.25,14.4,50,,-9.9,caution
-2026-09-22,FLR,Fluor Corporation,NYSE,Industrials,MidCap,54.03,57.5,30.2,7.8,275,13,2025-07-31,2026-09-03,0.97,2.2,47,,-6.0,safe
-2026-09-22,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,456.7,491.24,24.5,7.0,393,15,2025-02-06,2026-09-01,0.96,-2.0,47,,-7.0,caution
-2026-09-22,NWSA,News Corp A,NASDAQ,Communication Services,LargeCap,29.25,31.19,26.5,6.2,382,18,2025-02-19,2026-08-27,1.49,0.4,47,,-6.2,safe
-2026-09-22,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.25,15.44,33.7,7.7,326,8,2025-05-23,2026-09-11,1.06,3.6,47,,-7.7,caution
+2026-09-23,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,24.97,26.77,37.5,6.7,212,5,2025-11-11,2026-09-17,1.85,18.2,72,,-6.7,safe
+2026-09-23,HPQ,HP Inc,NYSE,Technology,LargeCap,32.16,35.48,47.6,9.7,391,9,2025-02-20,2026-09-11,1.25,28.7,72,,-9.4,caution
+2026-09-23,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.75,14.4,33.2,6.6,291,13,2025-07-10,2026-09-04,0.83,18.5,71,,-4.5,safe
+2026-09-23,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,26.44,27.0,39.1,10.6,209,14,2025-11-03,2026-09-03,0.84,21.6,65,,-2.1,safe
+2026-09-23,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,172.73,175.01,38.8,7.5,321,17,2025-05-20,2026-08-31,0.86,12.2,59,,-1.3,safe
+2026-09-23,FLR,Fluor Corporation,NYSE,Industrials,MidCap,53.06,57.5,30.2,7.8,275,14,2025-07-31,2026-09-03,0.93,1.1,47,,-7.7,caution
+2026-09-23,MSI,Motorola Solutions Inc,NYSE,Technology,LargeCap,460.44,491.24,24.5,7.0,393,16,2025-02-06,2026-09-01,0.92,0.3,47,,-6.3,safe
+2026-09-23,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.2,15.44,33.7,8.0,326,9,2025-05-23,2026-09-11,0.9,3.6,47,,-8.0,caution
+2026-09-23,VHI,Valhi Inc,NYSE,Basic Materials,SmallCap,16.33,18.69,37.9,12.6,364,17,2025-03-19,2026-08-31,0.8,9.8,46,,-12.6,danger
+2026-09-23,IOT,Samsara Inc,NYSE,Technology,LargeCap,39.08,42.91,43.1,11.3,369,8,2025-03-25,2026-09-14,0.79,8.4,45,,-8.9,caution
