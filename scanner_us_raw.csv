@@ -1,8 +1,8 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-24,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.33,26.77,37.5,6.7,212,6,2025-11-11,2026-09-17,1.53,17.4,67,,-5.4,safe
-2026-09-24,HPQ,HP Inc,NYSE,Technology,LargeCap,31.14,35.48,47.6,12.2,391,10,2025-02-20,2026-09-11,1.22,25.1,66,,-12.2,danger
-2026-09-24,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,25.28,27.0,39.1,10.6,209,15,2025-11-03,2026-09-03,0.82,18.1,65,,-6.4,safe
-2026-09-24,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.28,14.4,33.2,7.8,291,14,2025-07-10,2026-09-04,0.83,13.8,63,,-7.8,caution
-2026-09-24,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.31,12.83,48.9,12.2,264,8,2025-08-26,2026-09-15,2.61,6.4,58,,-11.8,danger
-2026-09-24,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.28,15.44,33.7,8.0,326,10,2025-05-23,2026-09-11,0.86,3.2,47,,-7.5,caution
-2026-09-24,IOT,Samsara Inc,NYSE,Technology,LargeCap,39.32,42.91,43.1,11.3,369,9,2025-03-25,2026-09-14,0.84,6.2,45,,-8.4,caution
+2026-09-25,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.19,26.77,37.5,6.7,212,7,2025-11-11,2026-09-17,0.97,15.9,67,,-5.9,safe
+2026-09-25,HPQ,HP Inc,NYSE,Technology,LargeCap,31.3,35.48,47.6,12.2,391,11,2025-02-20,2026-09-11,0.89,26.1,66,,-11.8,danger
+2026-09-25,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.09,14.4,33.2,9.1,291,15,2025-07-10,2026-09-04,0.71,10.8,63,,-9.1,caution
+2026-09-25,IDT,IDT Corporation,NYSE,Communication Services,SmallCap,67.46,71.02,32.0,5.0,318,10,2025-06-06,2026-09-14,1.53,11.4,63,,-5.0,safe
+2026-09-25,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,24.98,27.0,39.1,10.6,209,16,2025-11-03,2026-09-03,0.7,13.0,57,,-7.5,caution
+2026-09-25,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.45,12.83,48.9,12.2,264,9,2025-08-26,2026-09-15,2.75,4.6,50,,-10.8,danger
+2026-09-25,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.33,15.44,33.7,8.0,326,11,2025-05-23,2026-09-11,0.69,3.6,47,,-7.2,caution
