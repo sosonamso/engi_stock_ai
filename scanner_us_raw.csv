@@ -1,8 +1,11 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-25,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.19,26.77,37.5,6.7,212,7,2025-11-11,2026-09-17,0.97,15.9,67,,-5.9,safe
-2026-09-25,HPQ,HP Inc,NYSE,Technology,LargeCap,31.3,35.48,47.6,12.2,391,11,2025-02-20,2026-09-11,0.89,26.1,66,,-11.8,danger
-2026-09-25,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.09,14.4,33.2,9.1,291,15,2025-07-10,2026-09-04,0.71,10.8,63,,-9.1,caution
-2026-09-25,IDT,IDT Corporation,NYSE,Communication Services,SmallCap,67.46,71.02,32.0,5.0,318,10,2025-06-06,2026-09-14,1.53,11.4,63,,-5.0,safe
-2026-09-25,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,24.98,27.0,39.1,10.6,209,16,2025-11-03,2026-09-03,0.7,13.0,57,,-7.5,caution
-2026-09-25,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.45,12.83,48.9,12.2,264,9,2025-08-26,2026-09-15,2.75,4.6,50,,-10.8,danger
-2026-09-25,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.33,15.44,33.7,8.0,326,11,2025-05-23,2026-09-11,0.69,3.6,47,,-7.2,caution
+2026-09-28,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,24.98,26.77,37.5,6.7,212,8,2025-11-11,2026-09-17,0.89,15.5,67,,-6.7,safe
+2026-09-28,HPQ,HP Inc,NYSE,Technology,LargeCap,31.32,35.48,47.6,12.2,391,12,2025-02-20,2026-09-11,0.86,29.8,66,,-11.7,danger
+2026-09-28,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,25.69,27.0,39.1,10.6,209,17,2025-11-03,2026-09-03,0.63,16.6,65,,-4.9,safe
+2026-09-28,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.26,14.4,33.2,9.1,291,16,2025-07-10,2026-09-04,0.67,14.6,63,,-7.9,caution
+2026-09-28,IDT,IDT Corporation,NYSE,Communication Services,SmallCap,69.56,71.02,32.0,5.0,318,11,2025-06-06,2026-09-14,1.55,14.7,63,,-2.1,safe
+2026-09-28,BBY,Best Buy Co. Inc,NYSE,Consumer Cyclical,LargeCap,89.91,94.83,39.1,5.2,395,11,2025-02-14,2026-09-14,0.81,14.4,59,,-5.2,safe
+2026-09-28,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.63,1.73,36.0,5.8,400,5,2025-02-18,2026-09-22,0.77,10.3,59,,-5.8,safe
+2026-09-28,TLX,Telix Pharmaceuticals Limited,NASDAQ,Healthcare,MidCap,11.62,12.83,48.9,12.2,264,10,2025-08-26,2026-09-15,2.5,7.9,58,,-9.4,caution
+2026-09-28,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,28.33,30.41,34.4,6.8,394,10,2025-02-19,2026-09-15,0.61,1.9,47,,-6.8,safe
+2026-09-28,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.27,15.44,33.7,8.0,326,12,2025-05-23,2026-09-11,0.48,4.2,47,,-7.6,caution
