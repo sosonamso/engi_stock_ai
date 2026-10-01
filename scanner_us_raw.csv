@@ -1,8 +1,9 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-09-29,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.26,26.77,37.5,6.7,212,9,2025-11-11,2026-09-17,0.53,16.9,67,,-5.6,safe
-2026-09-29,HPQ,HP Inc,NYSE,Technology,LargeCap,30.73,35.48,47.6,13.4,391,13,2025-02-20,2026-09-11,0.81,28.0,66,,-13.4,danger
-2026-09-29,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,25.93,27.0,39.1,10.6,209,18,2025-11-03,2026-09-03,0.54,16.8,65,,-4.0,safe
-2026-09-29,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,13.06,14.4,33.2,9.3,291,17,2025-07-10,2026-09-04,0.66,13.6,63,,-9.3,caution
-2026-09-29,BBY,Best Buy Co. Inc,NYSE,Consumer Cyclical,LargeCap,88.75,94.83,39.1,6.4,395,12,2025-02-14,2026-09-14,0.82,13.5,59,,-6.4,safe
-2026-09-29,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.62,1.73,36.0,6.4,400,6,2025-02-18,2026-09-22,0.66,8.2,51,,-6.4,safe
-2026-09-29,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,28.55,30.41,34.4,6.8,394,11,2025-02-19,2026-09-15,0.66,4.3,47,,-6.1,safe
+2026-09-30,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,24.99,26.77,37.5,6.7,212,10,2025-11-11,2026-09-17,0.5,15.6,67,,-6.6,safe
+2026-09-30,HPQ,HP Inc,NYSE,Technology,LargeCap,31.28,35.48,47.6,13.4,391,14,2025-02-20,2026-09-11,0.77,31.0,66,,-11.8,danger
+2026-09-30,ZLAB,Zai Lab Ltd,NASDAQ,Healthcare,MidCap,26.34,27.0,39.1,10.6,209,19,2025-11-03,2026-09-03,0.54,17.1,65,,-2.4,safe
+2026-09-30,CNH,CNH Industrial N.V.,NYSE,Industrials,LargeCap,12.85,14.4,33.2,10.8,291,18,2025-07-10,2026-09-04,0.61,13.1,60,,-10.8,danger
+2026-09-30,BBY,Best Buy Co. Inc,NYSE,Consumer Cyclical,LargeCap,88.24,94.83,39.1,6.9,395,13,2025-02-14,2026-09-14,0.7,12.7,59,,-6.9,safe
+2026-09-30,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.61,1.73,36.0,6.9,400,7,2025-02-18,2026-09-22,0.71,7.1,51,,-6.9,safe
+2026-09-30,BOX,Box Inc,NYSE,Technology,MidCap,33.48,35.96,39.6,12.8,390,19,2025-02-13,2026-09-03,0.92,9.7,46,,-6.9,safe
+2026-09-30,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,167.3,176.37,38.8,5.1,338,5,2025-05-20,2026-09-24,0.84,0.6,43,,-5.1,safe
