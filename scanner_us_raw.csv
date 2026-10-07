@@ -1,7 +1,6 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-05,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.49,26.77,37.5,6.7,212,13,2025-11-11,2026-09-17,0.5,18.0,67,,-4.8,safe
-2026-10-05,HPQ,HP Inc,NYSE,Technology,LargeCap,31.47,35.48,47.6,13.4,391,17,2025-02-20,2026-09-11,0.75,28.7,66,,-11.3,danger
-2026-10-05,IOT,Samsara Inc,NYSE,Technology,LargeCap,42.39,42.91,43.1,11.6,369,16,2025-03-25,2026-09-14,0.86,10.0,53,,-1.2,safe
-2026-10-05,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.57,1.73,36.0,9.8,400,10,2025-02-18,2026-09-22,0.71,5.3,51,,-9.2,caution
-2026-10-05,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,28.99,30.41,34.4,7.8,394,15,2025-02-19,2026-09-15,0.91,2.0,47,,-4.7,safe
-2026-10-05,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,173.49,176.37,38.8,5.1,338,8,2025-05-20,2026-09-24,1.26,2.5,43,,-1.6,safe
+2026-10-06,AII,"American Integrity Insurance Group, Inc.",NYSE,Financial Services,SmallCap,25.77,26.77,37.5,6.7,212,14,2025-11-11,2026-09-17,0.48,18.9,67,,-3.7,safe
+2026-10-06,HPQ,HP Inc,NYSE,Technology,LargeCap,31.73,35.48,47.6,13.4,391,18,2025-02-20,2026-09-11,0.73,28.5,66,,-10.6,danger
+2026-10-06,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,29.11,30.41,34.4,7.8,394,16,2025-02-19,2026-09-15,0.84,3.2,47,,-4.3,safe
+2026-10-06,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.74,42.91,43.1,11.6,369,17,2025-03-25,2026-09-14,0.84,8.1,45,,-2.7,safe
+2026-10-06,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,173.86,176.37,38.8,5.1,338,9,2025-05-20,2026-09-24,1.28,1.9,43,,-1.4,safe
