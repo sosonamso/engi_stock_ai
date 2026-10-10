@@ -1,6 +1,4 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-08,HPQ,HP Inc,NYSE,Technology,LargeCap,32.44,35.48,47.6,13.4,391,20,2025-02-20,2026-09-11,0.64,32.7,66,,-8.6,caution
-2026-10-08,TXO,"MorningStar Partners, L.P.",NYSE,Energy,SmallCap,14.34,15.44,33.7,11.5,326,20,2025-05-23,2026-09-11,0.57,5.5,52,,-7.1,caution
-2026-10-08,BBY,Best Buy Co. Inc,NYSE,Consumer Cyclical,LargeCap,88.4,94.83,39.1,10.8,393,19,2025-02-19,2026-09-14,0.85,9.7,49,,-6.8,safe
-2026-10-08,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,29.45,30.41,34.4,7.8,394,18,2025-02-19,2026-09-15,0.63,4.6,47,,-3.2,safe
-2026-10-08,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,166.7,176.37,38.8,5.5,338,11,2025-05-20,2026-09-24,1.33,-1.8,43,,-5.5,safe
+2026-10-09,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.55,42.91,43.1,11.6,369,20,2025-03-25,2026-09-14,0.77,12.0,53,,-3.2,safe
+2026-10-09,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,29.75,30.41,34.4,7.8,394,19,2025-02-19,2026-09-15,0.68,4.8,47,,-2.2,safe
+2026-10-09,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,169.65,176.37,38.8,5.5,338,12,2025-05-20,2026-09-24,0.82,4.1,43,,-3.8,safe
