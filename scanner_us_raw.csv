@@ -1,4 +1,3 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-09,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.55,42.91,43.1,11.6,369,20,2025-03-25,2026-09-14,0.77,12.0,53,,-3.2,safe
-2026-10-09,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,29.75,30.41,34.4,7.8,394,19,2025-02-19,2026-09-15,0.68,4.8,47,,-2.2,safe
-2026-10-09,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,169.65,176.37,38.8,5.5,338,12,2025-05-20,2026-09-24,0.82,4.1,43,,-3.8,safe
+2026-10-12,DMLP,Dorchester Minerals LP,NASDAQ,Energy,SmallCap,29.71,30.41,33.7,7.8,393,20,2025-02-20,2026-09-15,0.59,5.6,55,,-2.3,safe
+2026-10-12,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,168.01,176.37,38.8,5.5,338,13,2025-05-20,2026-09-24,0.64,0.2,43,,-4.7,safe
