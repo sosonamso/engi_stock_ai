@@ -1,4 +1,7 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-21,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.33,6.7,43.8,5.5,338,5,2025-06-11,2026-10-15,1.12,29.3,72,,-5.5,safe
-2026-10-21,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,201.72,209.05,48.2,11.0,234,9,2025-11-03,2026-10-09,0.94,31.5,69,,-3.5,safe
-2026-10-21,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,17.74,18.31,36.3,7.4,374,8,2025-04-15,2026-10-12,1.05,9.5,51,,-3.1,safe
+2026-10-22,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.41,6.7,43.8,5.5,338,6,2025-06-11,2026-10-15,1.02,32.6,72,,-4.3,safe
+2026-10-22,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.31,29.35,33.4,9.4,271,15,2025-09-04,2026-10-02,0.98,11.2,63,,-3.5,safe
+2026-10-22,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,196.19,209.05,48.2,11.0,234,10,2025-11-03,2026-10-09,0.93,24.8,61,,-6.2,safe
+2026-10-22,EHC,Encompass Health Corp,NYSE,Healthcare,LargeCap,126.01,127.87,23.5,5.8,327,5,2025-06-30,2026-10-16,1.68,6.7,55,,-1.5,safe
+2026-10-22,VALU,Value Line Inc,NASDAQ,Financial Services,SmallCap,42.37,44.44,25.9,7.4,396,12,2025-03-11,2026-10-07,0.45,5.0,55,,-4.7,safe
+2026-10-22,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,17.27,18.31,36.3,7.4,374,9,2025-04-15,2026-10-12,0.78,8.6,51,,-5.7,safe
