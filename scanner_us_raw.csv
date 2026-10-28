@@ -1,8 +1,8 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-26,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.34,6.7,43.8,6.7,338,8,2025-06-11,2026-10-15,1.01,26.8,72,,-5.4,safe
-2026-10-26,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,198.84,209.05,48.2,11.0,234,12,2025-11-03,2026-10-09,0.75,30.3,69,,-4.9,safe
-2026-10-26,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,17.87,18.31,36.3,7.4,374,11,2025-04-15,2026-10-12,0.64,16.8,67,,-2.4,safe
-2026-10-26,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.26,29.35,33.4,9.4,271,17,2025-09-04,2026-10-02,0.95,10.9,63,,-3.7,safe
-2026-10-26,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,174.04,181.57,38.8,7.8,354,7,2025-05-20,2026-10-16,0.79,11.6,59,,-4.1,safe
-2026-10-26,EHC,Encompass Health Corp,NYSE,Healthcare,LargeCap,124.1,127.87,23.5,5.8,327,7,2025-06-30,2026-10-16,1.17,5.8,55,,-2.9,safe
-2026-10-26,VALU,Value Line Inc,NASDAQ,Financial Services,SmallCap,42.63,44.44,25.9,7.4,396,14,2025-03-11,2026-10-07,0.41,9.0,55,,-4.1,safe
+2026-10-27,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,198.73,209.05,48.2,11.0,234,13,2025-11-03,2026-10-09,0.8,32.4,69,,-4.9,safe
+2026-10-27,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,18.2,18.31,36.3,7.4,374,12,2025-04-15,2026-10-12,0.78,16.8,67,,-0.6,safe
+2026-10-27,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.15,6.7,43.8,8.2,338,9,2025-06-11,2026-10-15,1.08,24.8,64,,-8.2,caution
+2026-10-27,SHOP,Shopify Inc,NASDAQ,Technology,LargeCap,165.81,179.22,46.7,7.5,238,12,2025-10-29,2026-10-12,0.67,16.6,64,,-7.5,caution
+2026-10-27,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.54,29.35,33.4,9.4,271,18,2025-09-04,2026-10-02,0.99,14.3,63,,-2.8,safe
+2026-10-27,VALU,Value Line Inc,NASDAQ,Financial Services,SmallCap,42.5,44.44,25.9,7.4,396,15,2025-03-11,2026-10-07,0.53,11.3,63,,-4.4,safe
+2026-10-27,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,176.25,181.57,38.8,7.8,354,8,2025-05-20,2026-10-16,0.93,11.7,59,,-2.9,safe
