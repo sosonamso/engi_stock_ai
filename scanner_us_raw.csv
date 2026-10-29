@@ -1,8 +1,13 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-10-27,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,198.73,209.05,48.2,11.0,234,13,2025-11-03,2026-10-09,0.8,32.4,69,,-4.9,safe
-2026-10-27,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,18.2,18.31,36.3,7.4,374,12,2025-04-15,2026-10-12,0.78,16.8,67,,-0.6,safe
-2026-10-27,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.15,6.7,43.8,8.2,338,9,2025-06-11,2026-10-15,1.08,24.8,64,,-8.2,caution
-2026-10-27,SHOP,Shopify Inc,NASDAQ,Technology,LargeCap,165.81,179.22,46.7,7.5,238,12,2025-10-29,2026-10-12,0.67,16.6,64,,-7.5,caution
-2026-10-27,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.54,29.35,33.4,9.4,271,18,2025-09-04,2026-10-02,0.99,14.3,63,,-2.8,safe
-2026-10-27,VALU,Value Line Inc,NASDAQ,Financial Services,SmallCap,42.5,44.44,25.9,7.4,396,15,2025-03-11,2026-10-07,0.53,11.3,63,,-4.4,safe
-2026-10-27,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,176.25,181.57,38.8,7.8,354,8,2025-05-20,2026-10-16,0.93,11.7,59,,-2.9,safe
+2026-10-28,PLTR,Palantir Technologies Inc.,NASDAQ,Technology,MegaCap,196.81,209.05,48.2,11.0,234,14,2025-11-03,2026-10-09,0.8,31.4,69,,-5.9,safe
+2026-10-28,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,18.15,18.31,36.3,7.4,374,13,2025-04-15,2026-10-12,0.97,16.3,67,,-0.9,safe
+2026-10-28,CRCT,Cricut Inc,NASDAQ,Technology,SmallCap,6.07,6.7,43.8,9.4,338,10,2025-06-11,2026-10-15,1.05,23.0,64,,-9.4,caution
+2026-10-28,PCTY,Paylocity Holdng,NASDAQ,Technology,MidCap,168.5,177.67,47.9,5.2,335,5,2025-06-24,2026-10-22,0.98,21.3,64,,-5.2,safe
+2026-10-28,SHOP,Shopify Inc,NASDAQ,Technology,LargeCap,168.22,179.22,46.7,7.5,238,13,2025-10-29,2026-10-12,0.66,19.9,64,,-6.1,safe
+2026-10-28,LEGH,Legacy Housing Corp,NASDAQ,Consumer Cyclical,SmallCap,28.4,29.35,33.4,9.4,271,19,2025-09-04,2026-10-02,1.02,13.2,63,,-3.2,safe
+2026-10-28,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,175.55,181.57,38.8,7.8,354,9,2025-05-20,2026-10-16,0.99,12.3,59,,-3.3,safe
+2026-10-28,HCI,HCI Group Inc,NYSE,Financial Services,MidCap,195.24,206.68,26.2,5.5,256,5,2025-10-15,2026-10-22,0.98,6.2,55,,-5.5,safe
+2026-10-28,VALU,Value Line Inc,NASDAQ,Financial Services,SmallCap,41.64,44.44,25.9,7.4,396,16,2025-03-11,2026-10-07,0.54,8.4,55,,-6.3,safe
+2026-10-28,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,285.37,307.94,37.7,7.3,408,5,2025-03-10,2026-10-22,1.23,5.8,51,,-7.3,caution
+2026-10-28,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,414.41,445.28,37.0,6.9,402,5,2025-03-18,2026-10-22,1.04,6.8,51,,-6.9,safe
+2026-10-28,EVTC,Evertec Inc,NYSE,Technology,SmallCap,31.2,33.33,38.2,7.8,309,5,2025-07-31,2026-10-22,0.99,-3.7,43,,-6.4,safe
