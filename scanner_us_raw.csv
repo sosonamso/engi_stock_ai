@@ -1,15 +1,14 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-11-03,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,80.36,85.27,49.6,5.8,376,8,2025-04-25,2026-10-23,0.81,43.5,72,,-5.8,safe
-2026-11-03,PCTY,Paylocity Holdng,NASDAQ,Technology,MidCap,171.12,177.67,47.9,5.2,335,9,2025-06-24,2026-10-22,1.06,26.0,72,,-3.7,safe
-2026-11-03,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,296.01,307.94,38.6,7.3,391,9,2025-04-02,2026-10-22,1.33,16.2,67,,-3.9,safe
-2026-11-03,HSTM,HealthStream Inc,NASDAQ,Healthcare,SmallCap,31.67,35.16,41.6,9.9,371,8,2025-05-02,2026-10-23,1.64,24.6,64,,-9.9,caution
-2026-11-03,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.11,44.92,49.2,8.5,363,8,2025-05-14,2026-10-23,0.81,20.6,64,,-8.5,caution
-2026-11-03,HCI,HCI Group Inc,NYSE,Financial Services,MidCap,201.68,206.68,26.2,5.5,256,9,2025-10-15,2026-10-22,0.88,12.7,63,,-2.4,safe
-2026-11-03,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,413.75,445.28,37.0,7.1,402,9,2025-03-18,2026-10-22,0.99,11.2,59,,-7.1,caution
-2026-11-03,MSFT,Microsoft Corporation,NASDAQ,Technology,MegaCap,520.99,543.45,34.1,6.7,300,16,2025-08-04,2026-10-13,1.53,8.3,55,,-4.1,safe
-2026-11-03,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,12.96,14.3,42.5,11.0,390,5,2025-04-09,2026-10-28,0.71,14.0,53,,-9.4,caution
-2026-11-03,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,35.03,38.58,35.8,9.2,278,9,2025-09-15,2026-10-22,1.4,6.3,51,,-9.2,caution
-2026-11-03,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,16.88,18.31,36.3,7.8,374,17,2025-04-15,2026-10-12,1.12,5.3,51,,-7.8,caution
-2026-11-03,ARDT,"Ardent Health Partners, Inc.",NYSE,Healthcare,SmallCap,11.71,12.36,39.9,5.3,295,9,2025-08-20,2026-10-22,0.9,4.9,43,,-5.3,safe
-2026-11-03,EVTC,Evertec Inc,NYSE,Technology,SmallCap,31.26,33.33,38.2,7.8,309,9,2025-07-31,2026-10-22,0.87,3.0,43,,-6.2,safe
-2026-11-03,LILA,Liberty Latin America Ltd,NASDAQ,Communication Services,SmallCap,8.73,8.91,44.2,12.9,238,20,2025-10-24,2026-10-07,1.14,2.6,34,,-2.0,safe
+2026-11-04,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,16.9,17.35,45.9,5.2,287,5,2025-09-09,2026-10-29,3.74,37.4,92,0.444,-2.6,safe
+2026-11-04,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,80.5,85.27,49.6,5.8,376,9,2025-04-25,2026-10-23,0.9,39.0,72,,-5.6,safe
+2026-11-04,HSTM,HealthStream Inc,NASDAQ,Healthcare,SmallCap,32.48,35.16,41.6,9.9,371,9,2025-05-02,2026-10-23,1.8,23.8,69,,-7.6,caution
+2026-11-04,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,303.54,307.94,38.6,7.3,391,10,2025-04-02,2026-10-22,1.37,16.5,67,,-1.4,safe
+2026-11-04,IOT,Samsara Inc,NYSE,Technology,LargeCap,42.81,44.92,49.2,8.5,363,9,2025-05-14,2026-10-23,0.82,21.8,64,,-4.7,safe
+2026-11-04,PCTY,Paylocity Holdng,NASDAQ,Technology,MidCap,170.96,177.67,47.9,5.2,335,10,2025-06-24,2026-10-22,1.19,22.3,64,,-3.8,safe
+2026-11-04,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,434.18,445.28,37.0,7.1,402,10,2025-03-18,2026-10-22,1.07,14.9,59,,-2.5,safe
+2026-11-04,MMSI,Merit Medical Systems Inc,NASDAQ,Healthcare,MidCap,90.63,94.2,39.0,10.7,362,8,2025-05-16,2026-10-26,2.04,7.1,59,,-3.8,safe
+2026-11-04,HCI,HCI Group Inc,NYSE,Financial Services,MidCap,202.53,206.68,26.2,5.5,256,10,2025-10-15,2026-10-22,0.86,8.4,55,,-2.0,safe
+2026-11-04,ONC,"BeiGene, Ltd.",NASDAQ,Healthcare,LargeCap,377.78,386.46,31.0,8.1,235,11,2025-11-12,2026-10-21,1.01,7.5,55,,-2.2,safe
+2026-11-04,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,13.14,14.3,42.5,11.0,390,6,2025-04-09,2026-10-28,0.66,12.8,53,,-8.1,caution
+2026-11-04,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,35.88,38.58,35.8,9.2,278,10,2025-09-15,2026-10-22,1.52,9.0,51,,-7.0,safe
+2026-11-04,KRNT,Kornit Digital Ltd,NASDAQ,Industrials,SmallCap,16.98,18.31,36.3,7.8,374,18,2025-04-15,2026-10-12,0.95,4.8,43,,-7.3,caution
