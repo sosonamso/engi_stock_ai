@@ -1,14 +1,21 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-11-09,MGRC,McGrath RentCorp,NASDAQ,Industrials,MidCap,129.33,132.92,25.2,5.9,319,5,2025-07-29,2026-11-03,6.91,9.2,76,,-2.7,safe
-2026-11-09,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,16.81,17.35,45.9,5.4,287,8,2025-09-09,2026-10-29,0.98,40.1,72,,-3.1,safe
-2026-11-09,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,77.75,85.27,49.6,9.0,376,12,2025-04-25,2026-10-23,0.89,39.4,72,,-8.8,caution
-2026-11-09,DSP,Viant Technology Inc,NASDAQ,Technology,SmallCap,14.04,14.3,42.5,11.5,390,9,2025-04-09,2026-10-28,0.55,27.1,69,,-1.8,safe
-2026-11-09,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,302.06,307.94,38.6,7.3,391,13,2025-04-02,2026-10-22,1.27,20.1,67,,-1.9,safe
-2026-11-09,FRHC,Freedom Holding Corp,NASDAQ,Financial Services,MidCap,174.6,187.3,38.8,6.8,365,6,2025-05-20,2026-11-02,1.17,20.1,67,,-6.8,safe
-2026-11-09,IOT,Samsara Inc,NYSE,Technology,LargeCap,42.23,44.92,49.2,8.8,363,12,2025-05-14,2026-10-23,0.83,21.5,64,,-6.0,safe
-2026-11-09,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,418.25,445.28,36.8,7.1,400,13,2025-03-20,2026-10-22,1.14,11.6,59,,-6.1,safe
-2026-11-09,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,36.07,38.58,35.8,9.8,278,13,2025-09-15,2026-10-22,1.24,13.9,59,,-6.5,safe
-2026-11-09,PRGS,Progress Software Corporation,NASDAQ,Technology,SmallCap,44.41,46.45,45.6,6.4,301,12,2025-08-13,2026-10-23,0.83,11.0,56,,-4.4,safe
-2026-11-09,WOR,Worthington Industries Inc,NYSE,Industrials,MidCap,62.67,65.1,28.5,7.1,328,14,2025-07-02,2026-10-21,0.65,8.2,55,,-3.7,safe
-2026-11-09,MMSI,Merit Medical Systems Inc,NASDAQ,Healthcare,MidCap,88.42,94.2,39.0,10.7,362,11,2025-05-16,2026-10-26,1.18,5.9,49,,-6.1,safe
-2026-11-06,SHMXY,Shimadzu Corp,NYSE,Technology,MidCap,13.26,14.38,28.0,7.8,396,5,2025-04-07,2026-11-02,0.57,4.2,47,,-7.8,caution
+2026-11-10,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,16.89,17.35,45.9,5.4,287,9,2025-09-09,2026-10-29,0.92,40.6,72,,-2.7,safe
+2026-11-10,CRVL,CorVel Corp,NASDAQ,Financial Services,MidCap,83.64,87.38,49.2,5.9,309,5,2025-08-13,2026-11-04,1.01,36.3,72,,-4.3,safe
+2026-11-10,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,77.66,85.27,49.6,9.0,376,13,2025-04-25,2026-10-23,0.88,37.8,72,,-8.9,caution
+2026-11-10,FDS,FactSet Research Systems Inc,NYSE,Financial Services,MidCap,325.98,343.74,49.4,5.2,290,7,2025-09-08,2026-11-02,1.28,33.5,72,,-5.2,safe
+2026-11-10,EQH,Axa Equitable Holdings Inc,NYSE,Financial Services,LargeCap,55.53,56.12,34.9,6.2,406,5,2025-03-25,2026-11-04,0.69,16.4,71,,-1.1,safe
+2026-11-10,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,305.44,307.94,38.6,7.3,391,14,2025-04-02,2026-10-22,1.18,23.2,67,,-0.8,safe
+2026-11-10,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,429.65,445.28,39.3,7.1,390,14,2025-04-03,2026-10-22,1.15,16.5,67,,-3.5,safe
+2026-11-10,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,36.29,38.58,35.8,9.8,278,14,2025-09-15,2026-10-22,1.1,16.9,67,,-5.9,safe
+2026-11-10,WWW,Wolverine World Wide Inc,NYSE,Consumer Cyclical,SmallCap,21.69,23.5,38.5,9.2,321,5,2025-07-28,2026-11-04,1.1,20.0,67,,-7.7,caution
+2026-11-10,HRB,H&R Block Inc,NYSE,Consumer Cyclical,MidCap,50.99,55.47,50.0,8.1,324,5,2025-07-23,2026-11-04,1.09,19.7,64,,-8.1,caution
+2026-11-10,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.45,44.92,49.2,8.8,363,13,2025-05-14,2026-10-23,0.85,18.7,64,,-7.7,caution
+2026-11-10,J,Jacobs Solutions Inc.,NYSE,Industrials,LargeCap,157.11,160.24,34.8,7.9,259,7,2025-10-21,2026-11-02,1.38,12.9,63,,-2.0,safe
+2026-11-10,CRBG,Corebridge Financial Inc.,NYSE,Financial Services,LargeCap,35.91,36.24,37.8,5.9,341,5,2025-06-27,2026-11-04,0.94,13.5,59,,-0.9,safe
+2026-11-10,CXT,Crane NXT Co,NYSE,Industrials,MidCap,58.52,61.62,39.1,6.6,333,5,2025-07-10,2026-11-04,1.58,12.7,59,,-5.0,safe
+2026-11-10,CNNE,Cannae Holdings Inc,NYSE,Consumer Cyclical,SmallCap,17.04,18.27,45.1,6.7,406,5,2025-03-25,2026-11-04,1.17,11.4,56,,-6.7,safe
+2026-11-10,ENR,Energizer Holdings Inc,NYSE,Industrials,SmallCap,24.86,25.19,40.4,5.4,387,5,2025-04-22,2026-11-04,1.25,13.0,56,,-1.3,safe
+2026-11-10,PRGS,Progress Software Corporation,NASDAQ,Technology,SmallCap,43.8,46.45,45.6,6.4,301,13,2025-08-13,2026-10-23,0.82,12.0,56,,-5.7,safe
+2026-11-10,MGRC,McGrath RentCorp,NASDAQ,Industrials,MidCap,128.57,132.92,25.2,5.9,319,6,2025-07-29,2026-11-03,1.41,9.7,55,,-3.3,safe
+2026-11-10,HQY,HealthEquity Inc,NASDAQ,Healthcare,MidCap,103.54,108.84,35.2,6.2,357,5,2025-06-04,2026-11-04,1.21,9.6,51,,-4.9,safe
+2026-11-09,SHMXY,Shimadzu Corp,NYSE,Technology,MidCap,13.26,14.38,28.0,7.8,396,6,2025-04-07,2026-11-02,0.56,2.6,47,,-7.8,caution
