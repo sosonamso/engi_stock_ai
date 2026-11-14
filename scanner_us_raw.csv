@@ -1,29 +1,31 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-11-12,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.67,1.77,39.2,5.6,407,7,2025-03-24,2026-11-04,0.78,27.9,75,,-5.6,safe
-2026-11-12,WWW,Wolverine World Wide Inc,NYSE,Consumer Cyclical,SmallCap,22.87,23.5,38.5,9.2,321,7,2025-07-28,2026-11-04,1.05,26.4,75,,-2.7,safe
-2026-11-12,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,16.38,17.35,45.9,5.6,287,11,2025-09-09,2026-10-29,0.75,34.2,72,,-5.6,safe
-2026-11-12,CRVL,CorVel Corp,NASDAQ,Financial Services,MidCap,86.5,87.38,49.2,5.9,309,7,2025-08-13,2026-11-04,0.92,35.5,72,,-1.0,safe
-2026-11-12,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,80.15,85.27,49.6,9.0,376,15,2025-04-25,2026-10-23,0.7,42.0,72,,-6.0,safe
-2026-11-12,FDS,FactSet Research Systems Inc,NYSE,Financial Services,MidCap,331.71,343.74,49.4,5.2,290,9,2025-09-08,2026-11-02,0.8,31.7,72,,-3.5,safe
-2026-11-12,EQH,Axa Equitable Holdings Inc,NYSE,Financial Services,LargeCap,55.63,56.12,34.9,6.2,406,7,2025-03-25,2026-11-04,0.61,15.1,71,,-0.9,safe
-2026-11-12,ADP,Automatic Data Processing Inc,NASDAQ,Technology,LargeCap,307.92,307.94,38.6,7.3,391,16,2025-04-02,2026-10-22,0.83,24.2,67,,-0.0,safe
-2026-11-12,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,36.96,38.58,35.8,9.8,278,16,2025-09-15,2026-10-22,0.67,17.8,67,,-4.2,safe
-2026-11-12,DLTR,Dollar Tree Inc,NASDAQ,Consumer Defensive,LargeCap,141.27,147.0,38.5,10.8,202,7,2026-01-15,2026-11-04,0.94,20.1,65,,-3.9,safe
-2026-11-12,HRB,H&R Block Inc,NYSE,Consumer Cyclical,MidCap,50.73,55.47,50.0,8.5,324,7,2025-07-23,2026-11-04,0.97,18.4,64,,-8.5,caution
-2026-11-12,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.32,44.92,49.2,8.8,363,15,2025-05-14,2026-10-23,0.69,17.5,64,,-8.0,caution
-2026-11-12,J,Jacobs Solutions Inc.,NYSE,Industrials,LargeCap,158.69,160.24,34.8,7.9,259,9,2025-10-21,2026-11-02,0.78,13.3,63,,-1.0,safe
-2026-11-12,MSFT,Microsoft Corporation,NASDAQ,Technology,MegaCap,523.0,555.8,34.1,6.2,316,7,2025-08-04,2026-11-04,1.04,10.8,63,,-5.9,safe
-2026-11-12,CRBG,Corebridge Financial Inc.,NYSE,Financial Services,LargeCap,35.97,36.24,37.8,5.9,341,7,2025-06-27,2026-11-04,0.73,12.3,59,,-0.7,safe
-2026-11-12,CXT,Crane NXT Co,NYSE,Industrials,MidCap,56.99,61.62,39.1,7.5,333,7,2025-07-10,2026-11-04,1.01,11.1,59,,-7.5,caution
-2026-11-12,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,429.9,445.28,39.3,7.1,390,16,2025-04-03,2026-10-22,0.79,12.9,59,,-3.5,safe
-2026-11-12,CNMD,CONMED Corporation,NYSE,Healthcare,SmallCap,50.48,53.66,45.9,5.9,353,7,2025-06-10,2026-11-04,0.64,12.7,56,,-5.9,safe
-2026-11-12,CNNE,Cannae Holdings Inc,NYSE,Consumer Cyclical,SmallCap,17.03,18.27,45.1,7.7,406,7,2025-03-25,2026-11-04,1.23,14.6,56,,-6.8,safe
-2026-11-12,EVTC,Evertec Inc,NYSE,Technology,SmallCap,32.12,34.73,40.5,7.5,407,7,2025-03-24,2026-11-04,0.77,11.8,56,,-7.5,caution
-2026-11-12,GDDY,Godaddy Inc,NYSE,Technology,LargeCap,112.33,120.12,43.5,7.0,262,6,2025-10-21,2026-11-05,0.54,12.5,56,,-6.5,safe
-2026-11-12,PRGS,Progress Software Corporation,NASDAQ,Technology,SmallCap,43.44,46.45,45.6,6.5,301,15,2025-08-13,2026-10-23,0.62,11.8,56,,-6.5,safe
-2026-11-12,HCI,HCI Group Inc,NYSE,Financial Services,MidCap,190.83,206.68,26.2,10.0,256,16,2025-10-15,2026-10-22,1.07,6.5,55,,-7.7,caution
-2026-11-12,HMC,Honda Motor Co Ltd ADR,NYSE,Consumer Cyclical,LargeCap,33.53,36.26,32.1,8.0,303,6,2025-08-22,2026-11-05,1.14,7.0,55,,-7.5,caution
-2026-11-12,MGRC,McGrath RentCorp,NASDAQ,Industrials,MidCap,129.98,132.92,25.2,5.9,319,8,2025-07-29,2026-11-03,0.76,9.4,55,,-2.2,safe
-2026-11-12,HQY,HealthEquity Inc,NASDAQ,Healthcare,MidCap,103.05,108.84,35.2,6.2,357,7,2025-06-04,2026-11-04,0.73,9.7,51,,-5.3,safe
-2026-11-12,ENR,Energizer Holdings Inc,NYSE,Industrials,SmallCap,24.17,25.19,40.4,5.4,387,7,2025-04-22,2026-11-04,1.0,9.0,48,,-4.0,safe
-2026-11-12,MTN,Vail Resorts Inc,NYSE,Consumer Cyclical,MidCap,151.17,161.08,27.5,6.2,405,7,2025-03-26,2026-11-04,0.56,4.6,47,,-6.2,safe
+2026-11-13,OPK,Opko Health Inc,NASDAQ,Healthcare,SmallCap,1.68,1.77,39.2,5.6,407,8,2025-03-24,2026-11-04,0.57,28.6,75,,-5.1,safe
+2026-11-13,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,16.55,17.35,45.9,5.6,287,12,2025-09-09,2026-10-29,0.59,35.3,72,,-4.6,safe
+2026-11-13,CRVL,CorVel Corp,NASDAQ,Financial Services,MidCap,85.69,87.38,49.2,5.9,309,8,2025-08-13,2026-11-04,0.91,33.5,72,,-1.9,safe
+2026-11-13,DOCU,DocuSign Inc,NASDAQ,Technology,MidCap,80.76,85.27,49.6,9.0,376,16,2025-04-25,2026-10-23,0.69,42.3,72,,-5.3,safe
+2026-11-13,FDS,FactSet Research Systems Inc,NYSE,Financial Services,MidCap,332.69,343.74,49.4,5.2,290,10,2025-09-08,2026-11-02,0.75,30.9,72,,-3.2,safe
+2026-11-13,EQH,Axa Equitable Holdings Inc,NYSE,Financial Services,LargeCap,56.1,56.12,34.9,6.2,406,8,2025-03-25,2026-11-04,0.64,15.7,71,,-0.0,safe
+2026-11-13,TREX,Trex Company Inc,NYSE,Industrials,MidCap,52.76,58.74,49.0,10.2,388,5,2025-04-24,2026-11-09,1.2,25.1,69,,-10.2,danger
+2026-11-13,HIPO,Hippo Holdings Inc,NYSE,Financial Services,SmallCap,37.21,38.58,35.8,9.8,278,17,2025-09-15,2026-10-22,0.64,17.5,67,,-3.6,safe
+2026-11-13,DLTR,Dollar Tree Inc,NASDAQ,Consumer Defensive,LargeCap,138.08,147.0,38.5,10.8,202,8,2026-01-15,2026-11-04,0.91,16.6,65,,-6.1,safe
+2026-11-13,ASTL,Algoma Steel Group Inc,NASDAQ,Basic Materials,SmallCap,5.45,5.81,48.7,6.2,410,5,2025-03-24,2026-11-09,1.01,22.5,64,,-6.2,safe
+2026-11-13,CNNE,Cannae Holdings Inc,NYSE,Consumer Cyclical,SmallCap,17.29,18.27,45.1,7.7,406,8,2025-03-25,2026-11-04,1.36,16.2,64,,-5.4,safe
+2026-11-13,HRB,H&R Block Inc,NYSE,Consumer Cyclical,MidCap,50.01,55.47,50.0,9.8,324,8,2025-07-23,2026-11-04,0.96,15.9,64,,-9.8,caution
+2026-11-13,IOT,Samsara Inc,NYSE,Technology,LargeCap,41.36,44.92,49.2,8.8,363,16,2025-05-14,2026-10-23,0.63,17.5,64,,-7.9,caution
+2026-11-13,HMC,Honda Motor Co Ltd ADR,NYSE,Consumer Cyclical,LargeCap,34.3,36.26,32.1,8.0,303,7,2025-08-22,2026-11-05,0.97,11.0,63,,-5.4,safe
+2026-11-13,J,Jacobs Solutions Inc.,NYSE,Industrials,LargeCap,158.23,160.24,34.8,7.9,259,10,2025-10-21,2026-11-02,0.68,11.7,63,,-1.3,safe
+2026-11-13,MSFT,Microsoft Corporation,NASDAQ,Technology,MegaCap,523.88,555.8,34.1,6.2,316,8,2025-08-04,2026-11-04,1.05,11.2,63,,-5.7,safe
+2026-11-13,CXT,Crane NXT Co,NYSE,Industrials,MidCap,56.92,61.62,39.1,7.6,333,8,2025-07-10,2026-11-04,0.86,13.2,59,,-7.6,caution
+2026-11-13,ELV,Elevance Health Inc,NYSE,Healthcare,LargeCap,429.69,445.28,39.3,7.1,390,17,2025-04-03,2026-10-22,0.7,11.8,59,,-3.5,safe
+2026-11-13,CNMD,CONMED Corporation,NYSE,Healthcare,SmallCap,50.59,53.66,45.9,5.9,353,8,2025-06-10,2026-11-04,0.6,11.6,56,,-5.7,safe
+2026-11-13,EVTC,Evertec Inc,NYSE,Technology,SmallCap,32.54,34.73,40.5,7.5,407,8,2025-03-24,2026-11-04,0.71,13.2,56,,-6.3,safe
+2026-11-13,GDDY,Godaddy Inc,NYSE,Technology,LargeCap,114.12,120.12,43.5,7.0,262,7,2025-10-21,2026-11-05,0.48,10.8,56,,-5.0,safe
+2026-11-13,PRGS,Progress Software Corporation,NASDAQ,Technology,SmallCap,43.78,46.45,45.6,6.5,301,16,2025-08-13,2026-10-23,0.59,11.9,56,,-5.7,safe
+2026-11-13,WDAY,Workday Inc,NASDAQ,Technology,LargeCap,196.45,209.99,49.9,10.0,215,17,2025-12-12,2026-10-22,0.69,12.4,56,,-6.4,safe
+2026-11-13,HCI,HCI Group Inc,NYSE,Financial Services,MidCap,191.37,206.68,26.2,10.0,256,17,2025-10-15,2026-10-22,1.09,6.0,55,,-7.4,caution
+2026-11-13,MGRC,McGrath RentCorp,NASDAQ,Industrials,MidCap,128.68,132.92,25.2,5.9,319,9,2025-07-29,2026-11-03,0.67,9.1,55,,-3.2,safe
+2026-11-13,RDNT,RadNet Inc,NASDAQ,Healthcare,MidCap,76.42,80.26,32.8,5.3,281,8,2025-09-23,2026-11-04,1.08,7.6,55,,-4.8,safe
+2026-11-13,HQY,HealthEquity Inc,NASDAQ,Healthcare,MidCap,103.46,108.84,35.2,6.2,357,8,2025-06-04,2026-11-04,0.71,9.5,51,,-4.9,safe
+2026-11-13,ENR,Energizer Holdings Inc,NYSE,Industrials,SmallCap,24.13,25.19,40.4,5.4,387,8,2025-04-22,2026-11-04,1.0,9.0,48,,-4.2,safe
+2026-11-13,BEKE,Ke Holdings Inc,NYSE,Real Estate,LargeCap,17.86,18.85,26.0,6.4,355,6,2025-06-10,2026-11-06,0.98,0.2,47,,-5.3,safe
+2026-11-13,MTN,Vail Resorts Inc,NYSE,Consumer Cyclical,MidCap,152.61,161.08,27.5,6.2,405,8,2025-03-26,2026-11-04,0.61,4.0,47,,-5.3,safe
