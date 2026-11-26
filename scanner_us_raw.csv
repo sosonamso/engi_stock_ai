@@ -1,35 +1,35 @@
 ﻿date,ticker,name,exchange,sector,cap,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,rf_score,pct_from_pivot,safety
-2026-11-24,GNE,Genie Energy Ltd,NYSE,Utilities,SmallCap,18.27,19.25,37.0,6.2,319,12,2025-08-04,2026-11-09,1.07,26.6,75,,-5.1,safe
-2026-11-24,AMPH,Amphastar P,NASDAQ,Healthcare,SmallCap,29.63,29.71,42.6,5.4,215,5,2026-01-12,2026-11-18,1.17,30.7,72,,-0.3,safe
-2026-11-24,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,17.07,17.35,45.9,9.0,287,19,2025-09-09,2026-10-29,0.7,42.3,72,,-1.6,safe
-2026-11-24,EXLS,ExlService Holdings Inc,NASDAQ,Technology,MidCap,43.84,44.3,45.0,7.1,395,11,2025-04-15,2026-11-10,0.68,28.2,72,,-1.0,safe
-2026-11-24,PCTY,Paylocity Holdng,NASDAQ,Technology,MidCap,175.31,184.46,49.3,6.2,403,7,2025-04-09,2026-11-16,0.72,32.5,72,,-5.0,safe
-2026-11-24,SWIM,Latham Group Inc,NASDAQ,Industrials,SmallCap,8.2,8.41,41.2,6.3,314,10,2025-08-13,2026-11-11,0.96,25.7,72,,-2.5,safe
-2026-11-24,CHH,Choice Hotels International Inc,NYSE,Consumer Cyclical,MidCap,120.3,124.46,34.5,5.9,405,5,2025-04-09,2026-11-18,1.01,16.1,71,,-3.3,safe
-2026-11-24,CNNE,Cannae Holdings Inc,NYSE,Consumer Cyclical,SmallCap,17.29,18.27,39.3,7.7,392,15,2025-04-14,2026-11-04,1.02,18.6,67,,-5.4,safe
-2026-11-24,DSGX,Descartes Systems Group Inc,NASDAQ,Technology,MidCap,91.4,95.99,39.4,7.1,396,10,2025-04-15,2026-11-11,0.69,21.7,67,,-4.8,safe
-2026-11-24,CARS,Cars.com Inc,NYSE,Communication Services,SmallCap,12.33,13.56,43.8,9.2,325,14,2025-07-23,2026-11-05,1.21,16.1,64,,-9.1,caution
-2026-11-24,CDW,CDW Corp,NASDAQ,Technology,LargeCap,164.16,173.08,47.9,6.5,377,10,2025-05-13,2026-11-11,0.82,23.4,64,,-5.2,safe
-2026-11-24,MORN,Morningstar Inc,NASDAQ,Financial Services,MidCap,236.85,248.65,46.5,6.6,304,10,2025-08-27,2026-11-11,0.9,19.4,64,,-4.7,safe
-2026-11-24,ROP,Roper Technologies Inc,NASDAQ,Technology,LargeCap,476.48,492.22,41.6,6.9,304,15,2025-08-20,2026-11-04,0.94,24.9,64,,-3.2,safe
-2026-11-24,ADUS,Addus HomeCare Corporation,NASDAQ,Healthcare,SmallCap,123.05,127.94,27.9,5.5,255,15,2025-10-29,2026-11-04,0.99,14.2,63,,-3.8,safe
-2026-11-24,BF-A,Brown-Forman Corporation,NYSE,Consumer Defensive,LargeCap,30.62,31.8,25.1,6.9,325,14,2025-07-23,2026-11-05,1.11,11.3,63,,-3.7,safe
-2026-11-24,BF-B,Brown-Forman Corporation,NYSE,Consumer Defensive,LargeCap,29.89,30.96,26.8,6.9,324,14,2025-07-24,2026-11-05,0.94,10.1,63,,-3.5,safe
-2026-11-24,DHR,Danaher Corporation,NYSE,Healthcare,LargeCap,229.09,236.98,29.8,7.0,232,19,2025-11-25,2026-10-29,0.9,11.2,63,,-3.3,safe
-2026-11-24,FTV,Fortive Corp,NYSE,Technology,LargeCap,65.77,68.34,31.3,6.1,395,15,2025-04-09,2026-11-04,0.85,14.5,63,,-3.8,safe
-2026-11-24,FWONK,Liberty Media Corporation Series C Liberty Formula One Common Stock,NASDAQ,Communication Services,LargeCap,105.23,111.17,24.8,6.8,277,10,2025-10-06,2026-11-11,0.94,12.6,63,,-5.3,safe
-2026-11-24,J,Jacobs Solutions Inc.,NYSE,Industrials,LargeCap,151.98,160.24,34.8,7.9,259,17,2025-10-21,2026-11-02,1.09,11.8,63,,-5.2,safe
-2026-11-24,PLUS,ePlus inc,NASDAQ,Technology,MidCap,94.76,97.19,20.9,5.2,230,10,2025-12-11,2026-11-11,0.73,10.6,63,,-2.5,safe
-2026-11-24,RELX,Relx PLC ADR,NYSE,Industrials,LargeCap,39.54,41.45,31.6,7.3,231,14,2025-12-04,2026-11-05,0.97,11.6,63,,-4.6,safe
-2026-11-24,SKY,Skyline Corporation,NYSE,Consumer Cyclical,MidCap,96.04,96.39,33.1,6.9,205,12,2026-01-15,2026-11-09,1.14,14.5,63,,-0.4,safe
-2026-11-24,EVTC,Evertec Inc,NYSE,Technology,SmallCap,31.58,34.73,35.5,14.2,395,15,2025-04-09,2026-11-04,0.87,16.4,62,,-9.1,caution
-2026-11-24,AGYS,Agilysys Inc,NASDAQ,Technology,SmallCap,113.59,124.15,47.9,11.0,332,11,2025-07-17,2026-11-10,0.91,16.3,61,,-8.5,caution
-2026-11-24,FDS,FactSet Research Systems Inc,NYSE,Financial Services,MidCap,320.72,343.74,49.4,10.4,290,17,2025-09-08,2026-11-02,0.59,23.8,61,,-6.7,safe
-2026-11-24,WPP,WPP PLC ADR,NYSE,Communication Services,MidCap,26.32,28.4,48.6,10.7,324,15,2025-07-23,2026-11-04,0.63,24.3,61,,-7.3,caution
-2026-11-24,SONO,Sonos Inc,NASDAQ,Technology,SmallCap,17.81,19.06,33.7,10.7,232,10,2025-12-09,2026-11-11,0.94,13.8,60,,-6.6,safe
-2026-11-24,SPOT,Spotify Technology SA,NYSE,Communication Services,LargeCap,599.74,627.66,37.2,8.1,376,15,2025-05-07,2026-11-04,0.88,14.7,59,,-4.4,safe
-2026-11-24,QTWO,Q2 Holdings,NYSE,Technology,MidCap,67.77,75.62,44.9,12.1,310,14,2025-08-13,2026-11-05,0.69,19.8,58,,-10.4,danger
-2026-11-24,LW,Lamb Weston Holdings Inc,NYSE,Consumer Defensive,MidCap,52.18,57.16,34.8,9.6,401,12,2025-04-04,2026-11-09,0.87,3.8,47,,-8.7,caution
-2026-11-24,APPF,Appfolio Inc,NASDAQ,Technology,MidCap,212.04,236.85,37.3,14.1,395,15,2025-04-09,2026-11-04,0.72,7.3,46,,-10.5,danger
-2026-11-24,CXM,Sprinklr Inc,NYSE,Technology,SmallCap,6.74,6.91,36.2,5.6,241,20,2025-11-11,2026-10-28,0.97,2.7,43,,-2.5,safe
-2026-11-24,CNMD,CONMED Corporation,NYSE,Healthcare,SmallCap,47.59,53.66,40.9,13.6,337,15,2025-07-03,2026-11-04,0.99,8.7,42,,-11.3,danger
+2026-11-25,GNE,Genie Energy Ltd,NYSE,Utilities,SmallCap,18.02,19.25,37.0,6.4,319,13,2025-08-04,2026-11-09,1.0,26.1,75,,-6.4,safe
+2026-11-25,AMPH,Amphastar P,NASDAQ,Healthcare,SmallCap,29.12,29.71,42.6,5.4,215,6,2026-01-12,2026-11-18,1.18,35.3,72,,-2.0,safe
+2026-11-25,AVPT,Avepoint Inc,NASDAQ,Technology,MidCap,17.3,17.35,45.9,9.0,287,20,2025-09-09,2026-10-29,0.77,41.6,72,,-0.3,safe
+2026-11-25,PCTY,Paylocity Holdng,NASDAQ,Technology,MidCap,179.33,184.46,49.3,6.2,403,8,2025-04-09,2026-11-16,0.65,36.1,72,,-2.8,safe
+2026-11-25,ROP,Roper Technologies Inc,NASDAQ,Technology,LargeCap,483.09,492.22,41.6,6.9,304,16,2025-08-20,2026-11-04,1.05,25.9,72,,-1.9,safe
+2026-11-25,SWIM,Latham Group Inc,NASDAQ,Industrials,SmallCap,8.33,8.41,41.2,6.3,314,11,2025-08-13,2026-11-11,0.94,28.6,72,,-1.0,safe
+2026-11-25,TRUP,Trupanion Inc,NASDAQ,Financial Services,SmallCap,36.47,36.75,43.1,6.8,397,14,2025-04-09,2026-11-06,1.03,32.4,72,,-0.8,safe
+2026-11-25,CHH,Choice Hotels International Inc,NYSE,Consumer Cyclical,MidCap,121.86,124.46,34.5,5.9,405,6,2025-04-09,2026-11-18,0.92,18.4,71,,-2.1,safe
+2026-11-25,FTV,Fortive Corp,NYSE,Technology,LargeCap,66.11,68.34,31.3,6.1,395,16,2025-04-09,2026-11-04,0.86,15.8,71,,-3.3,safe
+2026-11-25,WPP,WPP PLC ADR,NYSE,Communication Services,MidCap,26.69,28.4,48.6,10.7,324,16,2025-07-23,2026-11-04,0.64,27.5,69,,-6.0,safe
+2026-11-25,CNNE,Cannae Holdings Inc,NYSE,Consumer Cyclical,SmallCap,17.04,18.27,39.3,7.7,392,16,2025-04-14,2026-11-04,1.06,17.8,67,,-6.7,safe
+2026-11-25,DIN,Dine Brands Global Inc,NYSE,Consumer Cyclical,SmallCap,36.5,38.86,35.1,7.5,213,6,2026-01-14,2026-11-18,0.63,16.1,67,,-6.1,safe
+2026-11-25,DSGX,Descartes Systems Group Inc,NASDAQ,Technology,MidCap,91.86,95.99,39.4,7.1,396,11,2025-04-15,2026-11-11,0.76,21.5,67,,-4.3,safe
+2026-11-25,SPOT,Spotify Technology SA,NYSE,Communication Services,LargeCap,616.46,627.66,37.2,8.1,376,16,2025-05-07,2026-11-04,1.0,16.5,67,,-1.8,safe
+2026-11-25,CARS,Cars.com Inc,NYSE,Communication Services,SmallCap,12.7,13.56,43.8,9.2,325,15,2025-07-23,2026-11-05,1.08,20.3,64,,-6.3,safe
+2026-11-25,MORN,Morningstar Inc,NASDAQ,Financial Services,MidCap,239.24,248.65,46.5,6.6,304,11,2025-08-27,2026-11-11,0.9,20.4,64,,-3.8,safe
+2026-11-25,ADUS,Addus HomeCare Corporation,NASDAQ,Healthcare,SmallCap,122.53,127.94,27.9,5.5,255,16,2025-10-29,2026-11-04,0.92,14.8,63,,-4.2,safe
+2026-11-25,BF-A,Brown-Forman Corporation,NYSE,Consumer Defensive,LargeCap,30.4,31.8,25.1,6.9,325,15,2025-07-23,2026-11-05,1.09,10.4,63,,-4.4,safe
+2026-11-25,FWONK,Liberty Media Corporation Series C Liberty Formula One Common Stock,NASDAQ,Communication Services,LargeCap,107.16,111.17,24.8,6.8,277,11,2025-10-06,2026-11-11,0.91,13.5,63,,-3.6,safe
+2026-11-25,RELX,Relx PLC ADR,NYSE,Industrials,LargeCap,40.15,41.45,31.6,7.3,231,15,2025-12-04,2026-11-05,0.95,13.1,63,,-3.1,safe
+2026-11-25,WCN,Waste Connections Inc,NYSE,Industrials,LargeCap,187.27,197.3,24.7,9.0,395,8,2025-04-22,2026-11-16,0.75,14.9,63,,-5.1,safe
+2026-11-25,AGYS,Agilysys Inc,NASDAQ,Technology,SmallCap,117.81,124.15,47.9,11.0,332,12,2025-07-17,2026-11-10,0.91,20.2,61,,-5.1,safe
+2026-11-25,FDS,FactSet Research Systems Inc,NYSE,Financial Services,MidCap,324.55,343.74,49.4,10.4,290,18,2025-09-08,2026-11-02,0.59,23.3,61,,-5.6,safe
+2026-11-25,HMC,Honda Motor Co Ltd ADR,NYSE,Consumer Cyclical,LargeCap,33.66,36.26,32.1,10.1,303,15,2025-08-22,2026-11-05,0.74,13.7,60,,-7.2,caution
+2026-11-25,SONO,Sonos Inc,NASDAQ,Technology,SmallCap,17.49,19.06,33.7,10.7,232,11,2025-12-09,2026-11-11,0.94,11.2,60,,-8.2,caution
+2026-11-25,QTWO,Q2 Holdings,NYSE,Technology,MidCap,69.64,75.62,44.9,12.1,310,15,2025-08-13,2026-11-05,0.74,21.9,58,,-7.9,caution
+2026-11-25,RCL,Royal Caribbean Cruises Ltd,NYSE,Consumer Cyclical,LargeCap,314.11,339.85,30.3,12.8,285,12,2025-09-23,2026-11-10,0.92,12.5,58,,-7.6,caution
+2026-11-25,BF-B,Brown-Forman Corporation,NYSE,Consumer Defensive,LargeCap,29.62,30.96,26.8,6.9,324,15,2025-07-24,2026-11-05,0.97,9.3,55,,-4.3,safe
+2026-11-25,DHR,Danaher Corporation,NYSE,Healthcare,LargeCap,227.35,236.98,29.8,7.0,232,20,2025-11-25,2026-10-29,0.89,9.9,55,,-4.1,safe
+2026-11-25,EVTC,Evertec Inc,NYSE,Technology,SmallCap,31.98,34.73,35.5,14.2,395,16,2025-04-09,2026-11-04,0.77,14.5,54,,-7.9,caution
+2026-11-25,CNMD,CONMED Corporation,NYSE,Healthcare,SmallCap,48.35,53.66,40.9,13.6,337,16,2025-07-03,2026-11-04,1.08,10.8,50,,-9.9,caution
+2026-11-25,HQY,HealthEquity Inc,NASDAQ,Healthcare,MidCap,97.88,108.84,30.2,13.6,341,16,2025-06-27,2026-11-04,0.96,8.7,50,,-10.1,danger
+2026-11-25,LW,Lamb Weston Holdings Inc,NYSE,Consumer Defensive,MidCap,52.36,57.16,31.9,9.6,400,13,2025-04-07,2026-11-09,0.8,3.5,47,,-8.4,caution
+2026-11-25,APPF,Appfolio Inc,NASDAQ,Technology,MidCap,212.5,236.85,37.3,14.1,395,16,2025-04-09,2026-11-04,0.7,6.7,46,,-10.3,danger
