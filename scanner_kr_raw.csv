@@ -1,2 +1,2 @@
 ﻿date,ticker,name,market,sector,entry,pivot,cup_depth,handle_depth,cup_days,handle_days,cup_start,cup_end,vol_ratio,rs,score,lgbm_score,pct_from_pivot,safety
-2026-11-26,348030,모비릭스,KOSDAQ,nan,4380.0,4745.0,47.8,10.4,298,10,2025-08-22,2026-11-13,0.92,65.6,69,,-7.7,caution
+2026-11-27,348030,모비릭스,KOSDAQ,nan,4385.0,4745.0,47.8,10.4,298,11,2025-08-22,2026-11-13,0.81,63.1,69,,-7.6,caution
